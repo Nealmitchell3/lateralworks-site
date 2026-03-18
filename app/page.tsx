@@ -51,7 +51,7 @@ export default function HomePage() {
       {/* ── STATS — light gray band ──────────────────────────── */}
       <section style={{ backgroundColor: "var(--gray-50)", borderTop: "1px solid var(--border)", borderBottom: "1px solid var(--border)" }}>
         <div className="max-w-8xl mx-auto px-6 lg:px-10">
-          <div className="grid grid-cols-2 lg:grid-cols-4" style={{ divide: "x" }}>
+          <div className="grid grid-cols-2 lg:grid-cols-4">
             {home.stats.map((stat, i) => (
               <div
                 key={stat.label}
