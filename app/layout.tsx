@@ -1,22 +1,15 @@
 import type { Metadata } from "next";
-import { Cormorant_Garamond, IBM_Plex_Sans } from "next/font/google";
+import { DM_Sans } from "next/font/google";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import { siteConfig } from "@/content/site-data";
 
-const cormorant = Cormorant_Garamond({
+const dmSans = DM_Sans({
   subsets: ["latin"],
-  weight: ["300", "400", "500", "600"],
+  weight: ["300", "400", "500", "600", "700"],
   style: ["normal", "italic"],
-  variable: "--font-cormorant",
-  display: "swap",
-});
-
-const ibmPlex = IBM_Plex_Sans({
-  subsets: ["latin"],
-  weight: ["300", "400", "500", "600"],
-  variable: "--font-ibm-plex",
+  variable: "--font-dm-sans",
   display: "swap",
 });
 
@@ -43,7 +36,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${cormorant.variable} ${ibmPlex.variable}`}>
+    <html lang="en" className={dmSans.variable}>
       <body>
         <Nav />
         <main>{children}</main>

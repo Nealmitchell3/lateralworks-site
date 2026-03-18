@@ -29,14 +29,11 @@ const config: Config = {
         },
       },
       fontFamily: {
-        display: ["var(--font-cormorant)", "Georgia", "serif"],
-        sans: ["var(--font-ibm-plex)", "system-ui", "sans-serif"],
+        sans: ["var(--font-dm-sans)", "Helvetica Neue", "Helvetica", "Arial", "sans-serif"],
+        display: ["var(--font-dm-sans)", "Helvetica Neue", "Helvetica", "Arial", "sans-serif"],
       },
       maxWidth: {
         "8xl": "88rem",
-      },
-      letterSpacing: {
-        widest2: "0.25em",
       },
     },
   },
