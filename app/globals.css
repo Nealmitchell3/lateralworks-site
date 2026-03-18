@@ -15,7 +15,7 @@
   --ink-muted: #7A7A7A;
   --border: #DDD8CF;
   --border-dark: #2A3F5C;
-  --font: var(--font-dm-sans), "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font: var(--font-nunito), "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 html {

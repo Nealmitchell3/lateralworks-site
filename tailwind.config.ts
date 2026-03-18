@@ -29,8 +29,8 @@ const config: Config = {
         },
       },
       fontFamily: {
-        sans: ["var(--font-dm-sans)", "Helvetica Neue", "Helvetica", "Arial", "sans-serif"],
-        display: ["var(--font-dm-sans)", "Helvetica Neue", "Helvetica", "Arial", "sans-serif"],
+        sans: ["var(--font-nunito)", "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "sans-serif"],
+        display: ["var(--font-nunito)", "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "sans-serif"],
       },
       maxWidth: {
         "8xl": "88rem",
