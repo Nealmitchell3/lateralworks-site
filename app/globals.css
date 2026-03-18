@@ -1,0 +1,142 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: #0C1B33;
+  --navy-light: #1A3057;
+  --navy-faint: #0F2244;
+  --cream: #F8F6F1;
+  --cream-dark: #EDE9E1;
+  --gold: #B8922A;
+  --gold-light: #D4A93A;
+  --ink: #1C1C1C;
+  --ink-secondary: #4B4B4B;
+  --ink-muted: #7A7A7A;
+  --border: #DDD8CF;
+  --border-dark: #2A3F5C;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--cream);
+  color: var(--ink);
+  font-family: var(--font-ibm-plex), system-ui, sans-serif;
+}
+
+/* Typography utilities */
+.display-heading {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 500;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+}
+
+.section-label {
+  font-family: var(--font-ibm-plex), system-ui, sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+/* Hairline divider */
+.hairline {
+  border-top: 1px solid var(--border);
+}
+
+.hairline-dark {
+  border-top: 1px solid var(--border-dark);
+}
+
+/* Smooth link transitions */
+a {
+  transition: color 0.15s ease, opacity 0.15s ease;
+}
+
+/* Selection color */
+::selection {
+  background-color: var(--navy);
+  color: white;
+}
+
+/* Focus ring */
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+
+/* Number / stat styling */
+.stat-number {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+/* Pill / tag */
+.tag {
+  display: inline-block;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.625rem;
+  border: 1px solid var(--border);
+  color: var(--ink-secondary);
+}
+
+/* Card hover lift */
+.card-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(12, 27, 51, 0.08);
+}
+
+/* Navigation active underline */
+.nav-link {
+  position: relative;
+  padding-bottom: 2px;
+}
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background-color: var(--gold);
+  transition: width 0.2s ease;
+}
+.nav-link:hover::after {
+  width: 100%;
+}
+
+/* Page fade in */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeup {
+  animation: fadeUp 0.5s ease both;
+}
+
+.animate-fadeup-delay-1 { animation-delay: 0.1s; }
+.animate-fadeup-delay-2 { animation-delay: 0.2s; }
+.animate-fadeup-delay-3 { animation-delay: 0.3s; }
+.animate-fadeup-delay-4 { animation-delay: 0.4s; }
