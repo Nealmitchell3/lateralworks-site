@@ -10,30 +10,22 @@ const config: Config = {
     extend: {
       colors: {
         navy: {
-          DEFAULT: "#1B2B4B",
-          light: "#253d6e",
-          dark: "#111e33",
+          DEFAULT: "#0C1B33",
+          light: "#1A3057",
+          faint: "#0F2244",
         },
-        gray: {
-          50:  "#FAFAFA",
-          100: "#F4F4F5",
-          200: "#E8E8EA",
-          300: "#D4D4D8",
-          400: "#A0A0AB",
-          500: "#6B6B78",
-          600: "#4B4B57",
-          700: "#333340",
-          800: "#1F1F2A",
-          900: "#111118",
+        cream: {
+          DEFAULT: "#F8F6F1",
+          dark: "#EDE9E1",
+        },
+        gold: {
+          DEFAULT: "#B8922A",
+          light: "#D4A93A",
         },
         ink: {
-          DEFAULT: "#111118",
-          secondary: "#3D3D4A",
-          muted: "#6B6B78",
-        },
-        accent: {
-          DEFAULT: "#1B2B4B",
-          hover: "#253d6e",
+          DEFAULT: "#1C1C1C",
+          secondary: "#4B4B4B",
+          muted: "#7A7A7A",
         },
       },
       fontFamily: {

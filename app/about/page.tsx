@@ -7,28 +7,28 @@ export const metadata: Metadata = { title: "About", description: about.hero.body
 export default function AboutPage() {
   return (
     <>
-      <section className="bg-white pt-36 pb-20 lg:pt-44 lg:pb-24">
+      <section className="bg-navy pt-32 pb-20 lg:pt-40 lg:pb-24">
         <div className="max-w-8xl mx-auto px-6 lg:px-10">
           <p className="section-label mb-6">{about.hero.label}</p>
-          <h1 style={{ fontFamily: "var(--font-cormorant), Georgia, serif", fontWeight: 400, fontSize: "clamp(2.5rem, 5vw, 4.5rem)", lineHeight: 1.06, letterSpacing: "-0.02em", color: "var(--ink)" }} className="mb-3">{about.hero.headline}</h1>
-          <p className="font-sans font-300 text-lg italic mb-5" style={{ color: "var(--navy)", fontFamily: "var(--font-cormorant), Georgia, serif" }}>{about.hero.subhead}</p>
-          <p className="text-base font-sans font-300 leading-relaxed max-w-2xl" style={{ color: "var(--ink-secondary)" }}>{about.hero.body}</p>
+          <h1 className="display-heading text-white text-5xl lg:text-6xl xl:text-7xl mb-4">{about.hero.headline}</h1>
+          <p className="font-display text-2xl font-300 text-gold italic mb-6">{about.hero.subhead}</p>
+          <p className="text-base font-sans font-300 text-white/60 max-w-2xl leading-relaxed">{about.hero.body}</p>
         </div>
       </section>
 
-      <section className="py-20 lg:py-28" style={{ backgroundColor: "var(--gray-50)", borderTop: "1px solid var(--border)" }}>
+      <section className="bg-cream py-20 lg:py-28">
         <div className="max-w-8xl mx-auto px-6 lg:px-10">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20">
-            <div>
+            <div className="hairline pb-6 pt-0">
               <p className="section-label mb-3">Our Story</p>
-              <h2 className="mb-6" style={{ fontFamily: "var(--font-cormorant), Georgia, serif", fontWeight: 400, fontSize: "clamp(1.6rem, 3vw, 2.25rem)", letterSpacing: "-0.02em", color: "var(--ink)" }}>{about.story.headline}</h2>
-              <p className="text-base font-sans font-300 leading-relaxed" style={{ color: "var(--ink-secondary)" }}>{about.story.body}</p>
+              <h2 className="display-heading text-navy text-3xl lg:text-4xl mb-6">{about.story.headline}</h2>
+              <p className="text-base font-sans font-300 text-ink-secondary leading-relaxed">{about.story.body}</p>
             </div>
-            <div className="grid grid-cols-2 gap-px self-start" style={{ backgroundColor: "var(--border)" }}>
+            <div className="grid grid-cols-2 gap-px bg-border self-start">
               {[{number:"1988",label:"Founded"},{number:"200+",label:"FTTM Projects"},{number:"36yr",label:"Research"},{number:"$7B+",label:"Accelerated"}].map(item => (
-                <div key={item.label} className="bg-white p-6">
-                  <div className="stat-number mb-1" style={{ fontSize: "2.5rem", color: "var(--navy)" }}>{item.number}</div>
-                  <div className="text-[10px] font-sans font-500 uppercase tracking-widest" style={{ color: "var(--ink-muted)" }}>{item.label}</div>
+                <div key={item.label} className="bg-cream p-6">
+                  <div className="stat-number text-4xl text-navy mb-1">{item.number}</div>
+                  <div className="text-[11px] font-sans font-500 uppercase tracking-widest text-ink-muted">{item.label}</div>
                 </div>
               ))}
             </div>
@@ -36,34 +36,34 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <section className="bg-white py-20 lg:py-28" style={{ borderTop: "1px solid var(--border)" }}>
+      <section className="bg-cream-dark py-20 lg:py-28">
         <div className="max-w-8xl mx-auto px-6 lg:px-10">
-          <div className="pb-8 mb-12 hairline">
+          <div className="hairline pb-6 mb-12">
             <p className="section-label mb-3">{team.sectionLabel}</p>
-            <h2 style={{ fontFamily: "var(--font-cormorant), Georgia, serif", fontWeight: 400, fontSize: "clamp(1.6rem, 3vw, 2.25rem)", letterSpacing: "-0.02em", color: "var(--ink)" }}>{team.headline}</h2>
+            <h2 className="display-heading text-navy text-3xl lg:text-4xl">{team.headline}</h2>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-px" style={{ backgroundColor: "var(--border)" }}>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-px bg-border">
             {team.members.map(member => (
-              <div key={member.name} className="bg-white p-8 card-hover">
-                <div className="w-10 h-10 flex items-center justify-center mb-5" style={{ backgroundColor: "var(--navy)" }}>
-                  <span style={{ fontFamily: "var(--font-cormorant), Georgia, serif", fontSize: "1.1rem", color: "white" }}>{member.name.charAt(0)}</span>
+              <div key={member.name} className="bg-cream-dark p-8 card-hover">
+                <div className="w-12 h-12 bg-navy flex items-center justify-center mb-5">
+                  <span className="font-display text-xl font-500 text-white">{member.name.charAt(0)}</span>
                 </div>
-                <h3 className="font-sans font-500 text-sm mb-1" style={{ color: "var(--ink)" }}>{member.name}</h3>
-                <p className="section-label mb-3">{member.role}</p>
-                <p className="text-[12px] font-sans font-300 leading-relaxed" style={{ color: "var(--ink-muted)" }}>{member.bio}</p>
+                <h3 className="font-sans font-600 text-base text-navy mb-1">{member.name}</h3>
+                <p className="text-[11px] font-sans font-500 uppercase tracking-wider text-gold mb-3">{member.role}</p>
+                <p className="text-[13px] font-sans font-300 text-ink-secondary leading-relaxed">{member.bio}</p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="py-16 lg:py-20" style={{ backgroundColor: "var(--navy)" }}>
+      <section className="bg-navy py-16 lg:py-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
           <div>
-            <h3 style={{ fontFamily: "var(--font-cormorant), Georgia, serif", fontWeight: 400, fontSize: "1.75rem", color: "white" }} className="mb-1">Let's work together.</h3>
-            <p className="text-sm font-sans font-300 opacity-50 text-white">Tell us about your program.</p>
+            <h3 className="display-heading text-white text-2xl lg:text-3xl mb-2">Let&apos;s work together.</h3>
+            <p className="text-sm font-sans font-300 text-white/50">Tell us about your program.</p>
           </div>
-          <Link href="/contact" className="shrink-0 inline-block text-[11px] font-sans font-600 tracking-wider uppercase px-7 py-4 bg-white hover:opacity-90 transition-opacity" style={{ color: "var(--navy)" }}>Start a Conversation</Link>
+          <Link href="/contact" className="shrink-0 text-[12px] font-sans font-600 tracking-wider uppercase px-7 py-4 bg-gold text-white hover:bg-gold-light transition-colors">Start a Conversation</Link>
         </div>
       </section>
     </>
