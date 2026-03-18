@@ -1,15 +1,15 @@
 import type { Metadata } from "next";
-import { Nunito_Sans } from "next/font/google";
+import { DM_Sans } from "next/font/google";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import { siteConfig } from "@/content/site-data";
 
-const nunitoSans = Nunito_Sans({
+const dmSans = DM_Sans({
   subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700", "800"],
+  weight: ["300", "400", "500", "600", "700"],
   style: ["normal", "italic"],
-  variable: "--font-nunito",
+  variable: "--font-dm-sans",
   display: "swap",
 });
 
@@ -36,7 +36,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={nunitoSans.variable}>
+    <html lang="en" className={dmSans.variable}>
       <body>
         <Nav />
         <main>{children}</main>
