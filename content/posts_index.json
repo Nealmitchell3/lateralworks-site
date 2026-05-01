@@ -433,6 +433,33 @@
     "imageCount": 1
   },
   {
+    "slug": "i-am-not-trying-to-evaluate-your-performance-i-am-just-trying-to-locate-it",
+    "title": "\"I am not trying to evaluate your performance, I am just trying to locate it!\"",
+    "date": "June 22, 2019",
+    "dateISO": "2019-06-23",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Portfolio",
+      "Critical Thinking",
+      "Decisions",
+      "Host",
+      "Innovation",
+      "Planning",
+      "Strategy",
+      "Systems",
+      "Team",
+      "VOC"
+    ],
+    "tags": [
+      "Critical Path Analysis",
+      "FTTM Mindset",
+      "Featured",
+      "Learning Cycles"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
     "slug": "investment-fund-prioritization-deciding-where-to-invest",
     "title": "Investment fund prioritization: deciding where to invest",
     "date": "June 22, 2019",
@@ -595,6 +622,33 @@
     "imageCount": 1
   },
   {
+    "slug": "why-is-schedule-not-king",
+    "title": "Why is schedule not \"king?\"",
+    "date": "June 22, 2019",
+    "dateISO": "2019-06-23",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning",
+      "Critical Thinking",
+      "Decisions",
+      "Host",
+      "Innovation",
+      "Portfolio",
+      "Strategy",
+      "Systems",
+      "Team",
+      "VOC"
+    ],
+    "tags": [
+      "Critical Path Analysis",
+      "FTTM Mindset",
+      "Featured",
+      "Learning Cycles"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
     "slug": "willing-to-lose-in-order-to-win",
     "title": "Willing to lose in order to win",
     "date": "June 22, 2019",
@@ -728,6 +782,33 @@
     ],
     "excerpt": "",
     "imageCount": 1
+  },
+  {
+    "slug": "ibms-provisioning-steering-committee",
+    "title": "IBM's \"Provisioning Steering Committee\"",
+    "date": "June 21, 2019",
+    "dateISO": "2019-06-22",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Host",
+      "Critical Thinking",
+      "Decisions",
+      "Innovation",
+      "Planning",
+      "Portfolio",
+      "Strategy",
+      "Systems",
+      "Team",
+      "VOC"
+    ],
+    "tags": [
+      "Critical Path Analysis",
+      "FTTM Mindset",
+      "Featured",
+      "Learning Cycles"
+    ],
+    "excerpt": "",
+    "imageCount": 3
   },
   {
     "slug": "reconcile-mktg-and-eng-what-we-want-vs-what-we-can-do",
@@ -1243,6 +1324,60 @@
     "imageCount": 1
   },
   {
+    "slug": "using-a-mission-statement-to-provide-checks-and-balance",
+    "title": "Using a mission statement to provide \"checks and balance\"",
+    "date": "June 20, 2019",
+    "dateISO": "2019-06-21",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning",
+      "Critical Thinking",
+      "Decisions",
+      "Host",
+      "Innovation",
+      "Portfolio",
+      "Strategy",
+      "Systems",
+      "Team",
+      "VOC"
+    ],
+    "tags": [
+      "Critical Path Analysis",
+      "FTTM Mindset",
+      "Featured",
+      "Learning Cycles"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "voc-differentiate-wants-from-hows",
+    "title": "VOC: Differentiate \"wants\" from \"hows\"",
+    "date": "June 20, 2019",
+    "dateISO": "2019-06-21",
+    "author": "Neal Mitchell",
+    "categories": [
+      "VOC",
+      "Critical Thinking",
+      "Decisions",
+      "Host",
+      "Innovation",
+      "Planning",
+      "Portfolio",
+      "Strategy",
+      "Systems",
+      "Team"
+    ],
+    "tags": [
+      "Critical Path Analysis",
+      "FTTM Mindset",
+      "Featured",
+      "Learning Cycles"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
     "slug": "what-is-the-roi-of-fast-decision-making",
     "title": "What is the R.O.I. of fast decision-making?",
     "date": "June 20, 2019",
@@ -1646,6 +1781,33 @@
     ],
     "excerpt": "",
     "imageCount": 0
+  },
+  {
+    "slug": "achieve-the-best-result-in-the-shortest-amount-of-time",
+    "title": "\"Achieve the best result in the shortest amount of time\"",
+    "date": "May 20, 2019",
+    "dateISO": "2019-05-21",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Critical Thinking",
+      "Decisions",
+      "Host",
+      "Innovation",
+      "Planning",
+      "Portfolio",
+      "Strategy",
+      "Systems",
+      "Team",
+      "VOC"
+    ],
+    "tags": [
+      "Critical Path Analysis",
+      "FTTM Mindset",
+      "Featured",
+      "Learning Cycles"
+    ],
+    "excerpt": "",
+    "imageCount": 1
   },
   {
     "slug": "from-target-market-to-product-definition-using-voc",
@@ -3376,6 +3538,33 @@
     "imageCount": 1
   },
   {
+    "slug": "does-reality-distortion-work",
+    "title": "Does \"Reality Distortion\" Work?",
+    "date": "January 16, 2019",
+    "dateISO": "2019-01-17",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning",
+      "Critical Thinking",
+      "Decisions",
+      "Host",
+      "Innovation",
+      "Portfolio",
+      "Strategy",
+      "Systems",
+      "Team",
+      "VOC"
+    ],
+    "tags": [
+      "Critical Path Analysis",
+      "FTTM Mindset",
+      "Featured",
+      "Learning Cycles"
+    ],
+    "excerpt": "",
+    "imageCount": 4
+  },
+  {
     "slug": "einsteins-quotes",
     "title": "Einstein's Quotes",
     "date": "January 16, 2019",
@@ -4616,6 +4805,33 @@
     ],
     "excerpt": "",
     "imageCount": 0
+  },
+  {
+    "slug": "reality-distortion-is-misunderstood",
+    "title": "\"Reality Distortion\" is Misunderstood",
+    "date": "January 14, 2019",
+    "dateISO": "2019-01-15",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Critical Thinking",
+      "Decisions",
+      "Host",
+      "Innovation",
+      "Planning",
+      "Portfolio",
+      "Strategy",
+      "Systems",
+      "Team",
+      "VOC"
+    ],
+    "tags": [
+      "Critical Path Analysis",
+      "FTTM Mindset",
+      "Featured",
+      "Learning Cycles"
+    ],
+    "excerpt": "",
+    "imageCount": 1
   },
   {
     "slug": "accelerate-before-you-slip",

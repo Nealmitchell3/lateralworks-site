@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 /**
- * lateralworks corpus → Next.js site migration
+ * lateralworks corpus → Next.js site migration  (v2)
  *
- * Reads markdown files from ~/Downloads/lateralworks_corpus/ideas/
- * Converts each to JSON matching the existing site's posts schema
- * Copies all images to public/images/ideas/
+ * v2 changes:
+ * - Adds fallback YAML parser for files where gray-matter chokes on
+ *   unescaped quotes inside titles (e.g. "Reality Distortion" is Misunderstood)
+ * - Copies ALL images from corpus/images/ to public/images/ideas/ unconditionally
  *
  * Run:  node scripts/migrate_corpus.js
  */
@@ -16,12 +17,12 @@ const matter = require('gray-matter');
 const { marked } = require('marked');
 
 // ── Paths ──────────────────────────────────────────────────
-const HOME    = os.homedir();
-const CORPUS  = path.join(HOME, 'Downloads', 'lateralworks_corpus');
+const HOME       = os.homedir();
+const CORPUS     = path.join(HOME, 'Downloads', 'lateralworks_corpus');
 const IDEAS_SRC  = path.join(CORPUS, 'ideas');
 const IMAGES_SRC = path.join(CORPUS, 'images');
 
-const SITE    = path.join(HOME, 'Downloads', 'lateralworks-site');
+const SITE       = path.join(HOME, 'Downloads', 'lateralworks-site');
 const POSTS_DST  = path.join(SITE, 'content', 'posts');
 const IMAGES_DST = path.join(SITE, 'public', 'images', 'ideas');
 const INDEX_FILE = path.join(SITE, 'content', 'posts_index.json');
@@ -29,7 +30,6 @@ const INDEX_FILE = path.join(SITE, 'content', 'posts_index.json');
 // ── Pre-flight checks ──────────────────────────────────────
 if (!fs.existsSync(IDEAS_SRC)) {
   console.error(`✗ Cannot find corpus at: ${IDEAS_SRC}`);
-  console.error(`  Make sure the tarball is extracted in ~/Downloads/`);
   process.exit(1);
 }
 if (!fs.existsSync(SITE)) {
@@ -37,18 +37,70 @@ if (!fs.existsSync(SITE)) {
   process.exit(1);
 }
 
-// Make sure output dirs exist
 fs.mkdirSync(POSTS_DST,  { recursive: true });
 fs.mkdirSync(IMAGES_DST, { recursive: true });
 
-// ── Clear old posts (so re-runs are clean) ─────────────────
-const oldPosts = fs.readdirSync(POSTS_DST).filter(f => f.endsWith('.json'));
-for (const f of oldPosts) fs.unlinkSync(path.join(POSTS_DST, f));
-console.log(`✓ Cleared ${oldPosts.length} existing post files`);
+// ── Fallback YAML parser ───────────────────────────────────
+// Used when gray-matter can't parse a frontmatter block.
+// Handles: quoted strings (with escaped inner quotes), numbers, and bracketed arrays.
+function parseFrontmatterFallback(raw) {
+  const fmMatch = raw.match(/^---\r?\n([\s\S]+?)\r?\n---\r?\n([\s\S]*)$/);
+  if (!fmMatch) throw new Error('No frontmatter delimiters found');
+
+  const fmRaw = fmMatch[1];
+  const body  = fmMatch[2];
+  const data  = {};
+
+  for (const line of fmRaw.split(/\r?\n/)) {
+    const m = line.match(/^([a-zA-Z_][\w-]*):\s*(.*)$/);
+    if (!m) continue;
+    const key = m[1];
+    let val   = m[2].trim();
+
+    // Array: [item1, item2, ...]
+    if (val.startsWith('[') && val.endsWith(']')) {
+      const inner = val.slice(1, -1).trim();
+      if (!inner) { data[key] = []; continue; }
+      // Split on commas that are NOT inside quotes
+      const items = [];
+      let cur = '', inQuote = false;
+      for (const ch of inner) {
+        if (ch === '"' && cur[cur.length - 1] !== '\\') inQuote = !inQuote;
+        if (ch === ',' && !inQuote) { items.push(cur.trim()); cur = ''; }
+        else cur += ch;
+      }
+      if (cur.trim()) items.push(cur.trim());
+      data[key] = items.map(s => s.replace(/^"(.+)"$/, '$1'));
+    }
+    // Quoted string — take everything between first quote and last quote
+    else if (val.startsWith('"')) {
+      const last = val.lastIndexOf('"');
+      data[key] = last > 0 ? val.slice(1, last) : val.slice(1);
+    }
+    // Number
+    else if (/^-?\d+(\.\d+)?$/.test(val)) {
+      data[key] = Number(val);
+    }
+    // Plain string
+    else {
+      data[key] = val;
+    }
+  }
+
+  return { data, content: body };
+}
+
+function parseFrontmatter(raw) {
+  try {
+    return matter(raw);
+  } catch (err) {
+    // gray-matter failed — try our forgiving fallback
+    return parseFrontmatterFallback(raw);
+  }
+}
 
 // ── Helpers ────────────────────────────────────────────────
 function slugFromFilename(f) {
-  // "2024-12-14_its-the-second-or-third-critical-path.md" → "its-the-second-or-third-critical-path"
   const base = f.replace(/\.md$/, '');
   const parts = base.split('_');
   return parts.slice(1).join('_') || base;
@@ -63,53 +115,77 @@ function formatDate(iso) {
   } catch { return iso; }
 }
 
-// Track images we copy
-const copiedImages = new Set();
+// ── STEP 1: Copy all images ─────────────────────────────────
+console.log('\n[1/3] Copying images...');
+let imagesCopied = 0;
+let imagesSkipped = 0;
 
-function copyImageIfExists(srcPath) {
-  if (!fs.existsSync(srcPath)) return null;
-  const filename = path.basename(srcPath);
-  const dest = path.join(IMAGES_DST, filename);
-  if (!copiedImages.has(filename)) {
-    fs.copyFileSync(srcPath, dest);
-    copiedImages.add(filename);
+if (fs.existsSync(IMAGES_SRC)) {
+  const imageFiles = fs.readdirSync(IMAGES_SRC);
+  for (const img of imageFiles) {
+    const src = path.join(IMAGES_SRC, img);
+    const dst = path.join(IMAGES_DST, img);
+    if (fs.statSync(src).isFile()) {
+      if (fs.existsSync(dst)) {
+        imagesSkipped++;
+      } else {
+        fs.copyFileSync(src, dst);
+        imagesCopied++;
+      }
+    }
   }
-  return `/images/ideas/${filename}`;
+  console.log(`  ✓ ${imagesCopied} new, ${imagesSkipped} already existed (${imageFiles.length} total)`);
+} else {
+  console.log(`  ⚠ No images folder at ${IMAGES_SRC}`);
 }
 
-// ── Process each markdown file ─────────────────────────────
+// ── STEP 2: Clear old posts ────────────────────────────────
+console.log('\n[2/3] Clearing old post JSON files...');
+const oldPosts = fs.readdirSync(POSTS_DST).filter(f => f.endsWith('.json'));
+for (const f of oldPosts) fs.unlinkSync(path.join(POSTS_DST, f));
+console.log(`  ✓ Cleared ${oldPosts.length} old posts`);
+
+// ── STEP 3: Process markdown files ─────────────────────────
+console.log('\n[3/3] Processing markdown files...');
 const files = fs.readdirSync(IDEAS_SRC).filter(f => f.endsWith('.md'));
-console.log(`✓ Found ${files.length} ideas markdown files`);
+console.log(`  Found ${files.length} markdown files\n`);
 
 const indexEntries = [];
 const seenSlugs = new Set();
 let postsWritten = 0;
+let postsRecovered = 0;
+let postsFailed = 0;
 let duplicatesSkipped = 0;
 
 for (const file of files) {
   const fullPath = path.join(IDEAS_SRC, file);
   const raw = fs.readFileSync(fullPath, 'utf-8');
 
-  let parsed;
+  let parsed, recovered = false;
   try {
     parsed = matter(raw);
-  } catch (err) {
-    console.warn(`  ⚠ Skipping ${file} — frontmatter parse error: ${err.message}`);
-    continue;
+  } catch {
+    try {
+      parsed = parseFrontmatterFallback(raw);
+      recovered = true;
+      postsRecovered++;
+    } catch (err2) {
+      console.warn(`  ✗ FAILED: ${file} — ${err2.message}`);
+      postsFailed++;
+      continue;
+    }
   }
 
   const fm = parsed.data;
-  let body  = parsed.content;
+  let body = parsed.content;
 
-  // Strip the redundant header block in the body
-  // Format is: # Title \n *By Author* \n *Published: date* \n ---
-  // We strip from start up through the second --- divider
+  // Strip redundant header block (# Title \n *By Author* \n *Published: date* \n ---)
   const headerEnd = body.indexOf('\n---\n');
   if (headerEnd !== -1) {
     body = body.slice(headerEnd + 5).trim();
   }
 
-  // Extract Summary line as excerpt
+  // Extract Summary as excerpt
   let excerpt = '';
   const summaryMatch = body.match(/^Summary:\s*([\s\S]+?)(?:\n\n|\n#|\n!|$)/);
   if (summaryMatch) {
@@ -117,32 +193,15 @@ for (const file of files) {
     body = body.slice(summaryMatch[0].length).trim();
   }
 
-  // Process inline images: ![alt](path) — copy and rewrite to /images/ideas/
-  body = body.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (full, alt, url) => {
-    if (url.startsWith('http')) return full;  // external URL — leave alone
-    // Try multiple lookup paths
-    const candidates = [
-      path.join(CORPUS, url),
-      path.join(IMAGES_SRC, path.basename(url)),
-      path.join(CORPUS, 'images', url),
-    ];
-    for (const c of candidates) {
-      const newUrl = copyImageIfExists(c);
-      if (newUrl) return `![${alt}](${newUrl})`;
-    }
-    return full;  // not found, keep as-is
-  });
-
-  // Convert markdown body to HTML
+  // Markdown → HTML
   let html;
   try {
     html = marked.parse(body, { breaks: false, gfm: true });
   } catch (err) {
-    console.warn(`  ⚠ Markdown render error for ${file}: ${err.message}`);
     html = `<p>${body.replace(/\n/g, '<br>')}</p>`;
   }
 
-  // Build slug — handle duplicates by appending date
+  // Slug + dedupe
   let slug = slugFromFilename(file);
   if (seenSlugs.has(slug)) {
     duplicatesSkipped++;
@@ -150,11 +209,13 @@ for (const file of files) {
   }
   seenSlugs.add(slug);
 
-  // Build categories — dedupe and trim
-  const categories = Array.isArray(fm.categories) ? [...new Set(fm.categories.map(c => String(c).trim()))] : [];
-  const tags       = Array.isArray(fm.tags)       ? [...new Set(fm.tags.map(t => String(t).trim()))] : [];
+  const categories = Array.isArray(fm.categories)
+    ? [...new Set(fm.categories.map(c => String(c).trim()).filter(Boolean))]
+    : [];
+  const tags = Array.isArray(fm.tags)
+    ? [...new Set(fm.tags.map(t => String(t).trim()).filter(Boolean))]
+    : [];
 
-  // Build post
   const post = {
     slug,
     url:        fm.url || '',
@@ -171,38 +232,40 @@ for (const file of files) {
     imageCount: fm.image_count || 0,
   };
 
-  // Save individual post JSON
   fs.writeFileSync(
     path.join(POSTS_DST, `${slug}.json`),
     JSON.stringify(post, null, 2)
   );
   postsWritten++;
 
-  // Add to index (without full content for fast loading)
   indexEntries.push({
-    slug:        post.slug,
-    title:       post.title,
-    date:        post.date,
-    dateISO:     post.dateISO,
-    author:      post.author,
-    categories:  post.categories,
-    tags:        post.tags,
-    excerpt:     post.excerpt,
-    imageCount:  post.imageCount,
+    slug:       post.slug,
+    title:      post.title,
+    date:       post.date,
+    dateISO:    post.dateISO,
+    author:     post.author,
+    categories: post.categories,
+    tags:       post.tags,
+    excerpt:    post.excerpt,
+    imageCount: post.imageCount,
   });
+
+  if (recovered) console.log(`  ✓ ${file}  (recovered with fallback parser)`);
 }
 
-// Sort index by date descending (most recent first)
+// Sort index by date desc
 indexEntries.sort((a, b) => (b.dateISO || '').localeCompare(a.dateISO || ''));
 
-// Save the index
 fs.writeFileSync(INDEX_FILE, JSON.stringify(indexEntries, null, 2));
 
-// ── Done ───────────────────────────────────────────────────
+// ── Summary ─────────────────────────────────────────────────
 console.log('\n══════════════════════════════════════════');
-console.log(`✓ Posts written:       ${postsWritten}`);
-console.log(`✓ Duplicates skipped:  ${duplicatesSkipped}`);
-console.log(`✓ Images copied:       ${copiedImages.size}`);
-console.log(`✓ Index saved:         ${INDEX_FILE}`);
+console.log(`✓ Posts written:        ${postsWritten}`);
+console.log(`  (of which recovered:  ${postsRecovered})`);
+console.log(`  Duplicates skipped:   ${duplicatesSkipped}`);
+console.log(`  Failed:               ${postsFailed}`);
+console.log(`✓ Images copied (new):  ${imagesCopied}`);
+console.log(`  Images already there: ${imagesSkipped}`);
+console.log(`✓ Index file:           ${INDEX_FILE}`);
 console.log('══════════════════════════════════════════');
-console.log('\nNext: cd ~/Downloads/lateralworks-site && git add . && git commit -m "Migrate corpus" && git push');
+console.log('\nNext: git add . && git commit -m "..." && git push');
