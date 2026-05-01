@@ -25,7 +25,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<p>This screencast provides a basic overview of the decision-modeling framework used by decisionAccelerator.</p>\n",
+  "content": "<div>\n  <p class=\"\">This screencast provides a basic overview of the decision-modeling framework used by decisionAccelerator.</p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0

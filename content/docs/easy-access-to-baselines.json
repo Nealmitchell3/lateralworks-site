@@ -25,7 +25,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<p>A new feature introduced in fastProject 4.7.3 are baselines are now easily accessible within the Inspector. Just click on the baseline you want to see and it will pop-up on the Gantt Chart. Each baseline includes the total pull-in/slip days. You can select the baseline just before the last update, just after the last Wigglechart was run (after an update and pull-in session) or after a previous Wigglechart was run.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547339896263-7F2TRGTT2IL82W28G16H/image.png\" alt=\"Image\"></p>\n",
+  "content": "<figure><img src=\"/images/docs/15473398_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>A new feature introduced in fastProject 4.7.3 are baselines are now easily accessible within the Inspector. Just click on the baseline you want to see and it will pop-up on the Gantt Chart. Each baseline includes the total pull-in/slip days. You can select the baseline just before the last update, just after the last Wigglechart was run (after an update and pull-in session) or after a previous Wigglechart was run.</p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 1

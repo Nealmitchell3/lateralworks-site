@@ -25,7 +25,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<h2>Overview of the Problem</h2>\n<p>In a few of instances, we’ve found after installing fastProject, fastProject crashes every time you click on any of the fastProject tabs in the ribbon. The problem is due to an update in Microsoft Project that was released in the June 2020.</p>\n<h2>Solution</h2>\n<p>The solution is to update your Microsoft Project. At a minimum, it should be later than the above update.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1601330562476-E403OSYCQ1W9XMRVQKUN/image001.jpg\" alt=\"Image\"></p>\n",
+  "content": "<div>\n  <h2>Overview of the Problem</h2><p class=\"\">In a few of instances, we’ve found after installing fastProject, fastProject crashes every time you click on any of the fastProject tabs in the ribbon. The problem is due to an update in Microsoft Project that was released in the June 2020.</p>\n</div>\n\n<figure><img src=\"/images/docs/16013305_image001.jpg\" alt=\"image001.jpg\" /></figure>\n\n<div>\n  <h2>Solution</h2><p class=\"\">The solution is to update your Microsoft Project. At a minimum, it should be later than the above update.<br></p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 1

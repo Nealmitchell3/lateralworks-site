@@ -25,7 +25,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<p>Introduction to decision analysis; is a basic discussion of the decision modeling framework we use to engage decision stakeholders and accelerate many different types of group decisions. There are three types of decisions we model with this process, these include Yes/No decisions, choosing among alternatives, and prioritizing multiple alternatives.</p>\n",
+  "content": "<div>\n  <p class=\"\">Introduction to decision analysis; is a basic discussion of the decision modeling framework we use to engage decision stakeholders and accelerate many different types of group decisions. There are three types of decisions we model with this process, these include Yes/No decisions, choosing among alternatives, and prioritizing multiple alternatives.</p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0

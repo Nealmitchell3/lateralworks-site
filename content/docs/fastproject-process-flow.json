@@ -25,7 +25,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<p>Download slides</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547342185492-J6NXK2WJF0OY9KFPAW7K/image.png\" alt=\"Image\"></p>\n",
+  "content": "<figure><img src=\"/images/docs/15473421_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p><a href=\"/s/fastProject-flow.pdf\" target=\"_blank\">Download slides</a></p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 1

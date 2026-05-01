@@ -25,7 +25,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<p>In this screencast I&#39;ll focus on using a mind map to structure a decision. We often use a mind map to structure complex problems and/or decisions with groups.</p>\n",
+  "content": "<div>\n  <p class=\"\">In this screencast I'll focus on using a mind map to structure a decision. We often use a mind map to structure complex problems and/or decisions with groups.</p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0

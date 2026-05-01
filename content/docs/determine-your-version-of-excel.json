@@ -25,7 +25,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<p>To determine your version of Excel, and whether it&#39;s 32-bit or 64-bit:</p>\n<ul>\n<li>Open Excel</li>\n</ul>\n<p>Open Excel</p>\n<ul>\n<li>File &gt; Account &gt; About Excel</li>\n</ul>\n<p>File &gt; Account &gt; About Excel</p>\n<ul>\n<li>The version will be displayed at the top of the open dialog box</li>\n</ul>\n<p>The version will be displayed at the top of the open dialog box</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547596073538-LAN3UCO8KNO0JSJ0KK32/image.png\" alt=\"Image\"></p>\n",
+  "content": "<div>\n  <p>To determine your version of Excel, and whether it's 32-bit or 64-bit:</p><ol><li><p>Open Excel</p></li><li><p>File &gt; Account &gt; About Excel</p></li><li><p>The version will be displayed at the top of the open dialog box</p></li></ol>\n</div>\n\n<figure><img src=\"/images/docs/15475960_image.png\" alt=\"image.png\" /></figure>",
   "images": [],
   "externalLinks": [],
   "imageCount": 1

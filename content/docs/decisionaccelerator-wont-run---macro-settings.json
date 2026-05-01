@@ -25,7 +25,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<p>Very occasionally, we find a situation where the macro settings with Excel are all disabled and cannot be changed by the user, causing decisionAccelerator not to work.</p>\n<p>The problem is the Group Policy settings which are controlled by the domain admins. To make decisionAccelerator work, the user needs the ability to allow macros to run, so the Group Policy settings need to be updated by the IT department.</p>\n<p>More can be found here .</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547259806169-5NB8QMJW0TAA3WIJ6GNA/Screen+Shot+2019-01-11+at+6.21.42+PM.png\" alt=\"Image\"></p>\n",
+  "content": "<div>\n  <p>Very occasionally, we find a situation where the macro settings with Excel are all disabled and cannot be changed by the user, causing decisionAccelerator not to work.</p><p>The problem is the Group Policy settings which are controlled by the domain admins. To make decisionAccelerator work, the user needs the ability to allow macros to run, so the Group Policy settings need to be updated by the IT department.</p>\n</div>\n\n<figure><img src=\"/images/docs/15472598_Screen+Shot+2019-01-11+at+6.21.42+PM.png\" alt=\"Screen Shot 2019-01-11 at 6.21.42 PM.png\" /></figure>\n\n<div>\n  <p>More can be found <a href=\"https://social.technet.microsoft.com/Forums/lync/en-US/7c3d637d-453d-4a84-ac44-c1500bed95f4/macro-settings-greyed-out?forum=excel\" target=\"_blank\">here</a>.</p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 1

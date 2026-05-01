@@ -25,7 +25,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<p>General</p>\n<ul>\n<li>Minor formatting changes on the pair-wise window</li>\n</ul>\n<p>Minor formatting changes on the pair-wise window</p>\n",
+  "content": "<div>\n  <p><strong>General</strong></p><ul><li><p>Minor formatting changes on the pair-wise window</p></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0
