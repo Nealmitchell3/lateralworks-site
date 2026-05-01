@@ -1,0 +1,32 @@
+{
+  "slug": "target-challenge-and-windows",
+  "url": "https://lateralworks.com/tools/2019/1/12/target-challenge-and-windows",
+  "title": "Target, Challenge, and Windows",
+  "date": "January 11, 2019",
+  "dateISO": "2019-01-12",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastProject Function",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>There are three types of targets; a standard target date, a challenge date, and a target window (a range of dates with an early and late bounding of the window).</p>\n<p>The challenge date and the target window work essentially the same way, with the challenge date being the early edge of the target window.</p>\n<p>We like to use target windows when the project includes a high degree of innovation/invention, because it is difficult to predict to a specific date well into the future with projects that have a high degree of uncertainty and risk. These cases we use a target window range of a quarter to specify the time frame within which something is expected.</p>\n<p>We also use a combination of target dates and target windows, with the target dates used in the near term milestones (i.e. &lt;6 months) and the target windows being used for milestones &gt;6 months in the future. Target windows can be changed to target dates as you get closer to the them in time.</p>\n<p>Challenge dates are used to indicate a more aggressive need to have something completed sooner. Sometimes the challenge date is used to express a customer requirement for delivery sooner than a team is prepared to commit. There are problems with this approach also, because challenge dates tend to be ignored by teams if they are too aggressive. It is better to use a target window or a target date that the team and the customer mutually agree upon. The process of alignment is critical to making it a real goal that both groups seriously work towards.</p>\n<p>Following screen shots show the differences.</p>\n<p>TARGET DATE</p>\n<p>The target date is 2/15 and the projected finish is 4/1, which is a 46 day gap.</p>\n<p>This is the Wigglechart before the update, showing the 46 day gap to the target date.</p>\n<p>After the update, the projected finish is 4/22, which is a 15 day slip from the target of 2/15. The target never changes. The project finish date can change after each refresh cycle.</p>\n<p>The Wigglechart reflects the 15 day slip from the previous update. We also see the 67 day gap expressed in the Wigglechart.</p>\n<p>CHALLENGE DATE</p>\n<p>The challenge date is indicated in green. The team has been challenged to deliver on 12/15/15. The gap is still the same, 67 days because the gap is based on the 2/15 target date.</p>\n<p>This is what the challenge date looks like after the update. Basically the same as the target date example.</p>\n<p>The challenge date is reflected as a green line below the target date. The 15 day slip is also refected above.</p>\n<p>TARGET WINDOW</p>\n<p>The target window is displayed using facing arrow heads. The early part of the window is facing right and the late edge of the window is facing left. The goal is to hit in time somewhere between these facing arrows. The low end of the bound was the challenge date and now becomes the early edge of the window.</p>\n<p>And of course, this is what it looks like after the same schedule update as in the previous two examples. No difference in the numbers, since they are being derived from the target date (i.e. late side of the window).</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547343092819-W216O21RKDJWQV58V222/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547343134573-BG94WYXW10REM5FU1V5L/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547343170382-9YUAYHINMCJ7M99CV5DL/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547343201773-LWD6I5AD3Y3MNEELZJ4T/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547343257289-8VQBZYNKSA2KRIKWDEG1/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547343281668-0H7NNDRHU49JKC1MAQ1E/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547343355502-S68MJ72Z5ZIZPPIRHFGA/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547343396177-O8TO121UJQDV0KVPZWKK/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547343425265-V2L6S6W3H635OHA162SH/image.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 9
+}

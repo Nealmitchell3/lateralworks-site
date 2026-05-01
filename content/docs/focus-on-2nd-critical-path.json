@@ -1,0 +1,32 @@
+{
+  "slug": "focus-on-2nd-critical-path",
+  "url": "https://lateralworks.com/tools/2019/1/17/focus-on-2nd-critical-path",
+  "title": "Focus on 2nd Critical Path",
+  "date": "January 16, 2019",
+  "dateISO": "2019-01-17",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastProject Concept",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<h2>Focus on 2nd critical path - what is important, but not yet urgent.</h2>\n<p>The critical path is red (example) and the second critical path is blue (i.e. float less than ten days).Sometimes when you focus exclusively on the critical path you can miss the path of activities right behind the critical path. The critical path is the longest contiguous path that drives the end date for the project (i.e. the long pole in the tent).</p>\n<p>We call the second critical path the path of activities that have less than 10 days of float. This second critical path, if it slipped 10 days would become the real critical path and slip the project.</p>\n<p>We learned this the hard way on a project where we became fixated on the critical path, drove it to finish on time, yet we experienced a major slip on the project. What went wrong?</p>\n<p>After some analysis, we realized it was the path behind the critical path that pushed out the schedule at the end of the day. The second critical path is important, but not yet urgent, while the first critical path is important and urgent. As schedules are accelerated, a higher percentage of activities become critical as float is eaten up. The second path is the next group of activities that, once the schedule is pulled-in, will drive the new critical path.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547750975441-MENFM7CKAWRJBUK0TTZU/image.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 1
+}

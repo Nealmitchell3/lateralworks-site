@@ -1,0 +1,32 @@
+{
+  "slug": "baselines-in-fastproject",
+  "url": "https://lateralworks.com/tools/2019/1/12/baselines-in-fastproject",
+  "title": "Baselines in fastProject",
+  "date": "January 11, 2019",
+  "dateISO": "2019-01-12",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastProject Concept",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>Question :</p>\n<p>When I am in the interview panel and I click &quot;snap first baseline for today,&quot; does that impact Baseline 0?</p>\n<p>Answer :</p>\n<p>There are 11 baselines in MS Project.</p>\n<p>Main Baseline: Baseline 0</p>\n<p>Interim Baselines: Baseline 1-9 Baseline 10</p>\n<p>We reserve Baseline 10 for internal use, so what you have available is Baseline 0-9.</p>\n<p>When you invoke the Update, then click Next, that is the time the baseline is snapped. If this is the first time you are running an update and no baselines have been snapped, we snap both Baseline 0 and Baseline 1. Thereafter, Baselines 1-9 are used and Baseline 0 is not snapped again unless you intentionally want to re-baseline it.</p>\n<p>This is done quite simply by invoking the wigglet, moving the scroll bar over the the first date (greyed out - this is Baseline 0) then click “Snap.”</p>\n<p>If you run multiple updates on a day, the baseline for that date is not re-snapped (the check mark is unchecked). If you check it, then you are given the option to either overwrite the existing baseline or create a new one.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547341821880-M3SO2TQ7LUU52XX91ONN/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547341857966-EB6SCZ4P60PDJUCUFJ0S/image.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 2
+}

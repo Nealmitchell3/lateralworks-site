@@ -1,0 +1,32 @@
+{
+  "slug": "fastproject-41010-released",
+  "url": "https://lateralworks.com/tools/2021/5/24/fastproject-4106-released-xwtt6-ehzlh-nzx95-xjhw8",
+  "title": "fastProject 4.10.10 Released",
+  "date": "May 23, 2021",
+  "dateISO": "2021-05-24",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Release Note",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<h2>General</h2>\n<ul>\n<li>Added ability to add any of the custom Text fields to the Gantt bars (currently restricted to the Left of the bar)</li>\n</ul>\n<p>Added ability to add any of the custom Text fields to the Gantt bars (currently restricted to the Left of the bar)</p>\n<ul>\n<li>Fixed bug where after an update, a task name would be changed to a “2”</li>\n</ul>\n<p>Fixed bug where after an update, a task name would be changed to a “2”</p>\n<ul>\n<li>Fixed S-Phone Good.mpt baseline in Documentation &gt; Training</li>\n</ul>\n<p>Fixed S-Phone Good.mpt baseline in Documentation &gt; Training</p>\n<h2>Update</h2>\n<ul>\n<li>PreFresh Report renamed to Update Report</li>\n</ul>\n<p>PreFresh Report renamed to Update Report</p>\n<ul>\n<li>Added “Clear All Baselines” to option under the Update Progress dropdown</li>\n</ul>\n<p>Added “Clear All Baselines” to option under the Update Progress dropdown</p>\n<h2>Roll-up</h2>\n<ul>\n<li>TBD</li>\n</ul>\n<p>TBD</p>\n<h2>Analyzer</h2>\n<ul>\n<li>TBD</li>\n</ul>\n<p>TBD</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

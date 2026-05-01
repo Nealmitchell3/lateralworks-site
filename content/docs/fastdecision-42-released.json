@@ -1,0 +1,32 @@
+{
+  "slug": "fastdecision-42-released",
+  "url": "https://lateralworks.com/tools/2020/5/19/fastdecision-42-released",
+  "title": "fastDecision 4.2 Released",
+  "date": "May 18, 2020",
+  "dateISO": "2020-05-19",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastDecision Release Note",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastDecision",
+    "FastProject Concept",
+    "fastProject",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<h2>Objectives</h2>\n<ul>\n<li>Improved performance in calculation of the objectives and inconsistencies</li>\n</ul>\n<p>Improved performance in calculation of the objectives and inconsistencies</p>\n<ul>\n<li>Improved calculation of the inconsistencies - gap between current judgement and best fit now measured, and when below a threshold, the inconsistency highlight is removed</li>\n</ul>\n<p>Improved calculation of the inconsistencies - gap between current judgement and best fit now measured, and when below a threshold, the inconsistency highlight is removed</p>\n<ul>\n<li>Consistency threshold changed to 90%</li>\n</ul>\n<p>Consistency threshold changed to 90%</p>\n<ul>\n<li>Fixed bug where light-grey numbers could appear below the pair-wise</li>\n</ul>\n<p>Fixed bug where light-grey numbers could appear below the pair-wise</p>\n<h2>Ratings</h2>\n<ul>\n<li>Bug fixed where changing a rating could cause fD to crash if the alternatives had not yet been ranked</li>\n</ul>\n<p>Bug fixed where changing a rating could cause fD to crash if the alternatives had not yet been ranked</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

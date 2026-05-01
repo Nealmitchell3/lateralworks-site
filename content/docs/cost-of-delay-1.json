@@ -1,0 +1,32 @@
+{
+  "slug": "cost-of-delay-1",
+  "url": "https://lateralworks.com/tools/2019/1/25/cost-of-delay-1",
+  "title": "Cost-of-Delay (1)",
+  "date": "January 24, 2019",
+  "dateISO": "2019-01-25",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastROI Concept",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution"
+  ],
+  "tags": [
+    "fastROI",
+    "FastProject Concept",
+    "fastDecision",
+    "fastProject"
+  ],
+  "excerpt": "",
+  "content": "<p><em>fastROI trade-off model</em></p>\n<p>fastROI trade-off model</p>\n<p>This is an example of a cost-of-delay calculation for a development project. They have a 6.3x ROI, if they delay by 3 months they take a 10% sales hit or $56k/day. Also note how sensitive schedule is to change.</p>\n<p>Most development teams don&#39;t quantify time in terms of money (lost or gained). Most organizations don&#39;t know the impact of being late. Microsoft&#39;s late introduction of Vista is said to have cost them over a billion dollars.</p>\n<p>Most development teams are &quot;engineering driven&quot; and don&#39;t have a business mindset. They say &quot;this is marketing or finance&#39;s responsibility to know this information.&quot; Yet those fast teams we studied and have worked with know their cost-of-delay (if late) and use this information to create urgency (early) and make trade-offs during development.</p>\n<h2>The Economics of Delay</h2>\n<p>I learned about Don Reinertsen&#39;s work at DEC in 1980 while working on the MicroVAX program. Don was at McKinsey then and DEC was using his paper on The Economics of Delayto make trade-offs about what features to keep and which to delay. It had a great impact on accelerating decision making. Don later went on to publish this research (see link below).</p>\n<h2>Best-Practice teams connected time with money</h2>\n<p>We observed fast teams using this thinking in the 1990s and developed a tool to implement the idea. We have been using it extensively to quantify schedule delay in terms of money and then use this information to speed up decision-making trade-offs during development.</p>\n<p>Until technology development teams connect time and money they will never behave like a business. Most engineering teams function like university research departments rather than commercial businesses. Knowing the cost-of-delay can help change this mindset so everyone on the team understands the impact of late or early market entry.</p>\n<p><em>fastROI decision simulation</em></p>\n<p>fastROI decision simulation</p>\n<p>Midway through the project, our customer has requested some additional functionality. Engineering have reviewed the change and determined that it will add approximately 10% to the COGS with an impact of 6 weeks on the schedule. The budget will also need to be increased by $1M or 20%. However, marketing have determined that they can increase the selling price by 15% by targeting other markets.</p>\n<p>Would you advise Big Tech&#39;s development team to add the functionality or press on with the product as is? Note how the change could impact their ROI. It all depends on what their business drivers are; revenue, profit, growth, etc.? What are yours?</p>\n<p>Also see:</p>\n<p>Developing Products in Half the Time, by Smith and Reinertsen -- specifically Chapter 2: Putting a Price Tag on Time</p>\n<p>Cost-of-Delay (2)</p>\n<p>fastROI (the tool we developed to model the cost of delay) is a module  in FTTM Tools</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548433152031-XPIBNMQDM7VFL5EV4EHF/image-asset.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548433200315-8CT6SBXALN4WACKBWG2S/image.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 2
+}

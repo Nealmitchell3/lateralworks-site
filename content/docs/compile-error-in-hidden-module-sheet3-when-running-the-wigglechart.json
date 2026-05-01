@@ -1,0 +1,32 @@
+{
+  "slug": "compile-error-in-hidden-module-sheet3-when-running-the-wigglechart",
+  "url": "https://lateralworks.com/tools/2025/6/10/compile-error-in-hidden-module-sheet3-when-running-the-wigglechart",
+  "title": "Compile error in hidden module: Sheet3 when running the Wigglechart",
+  "date": "June 9, 2025",
+  "dateISO": "2025-06-10",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Solution",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>Microsoft’s recent update to Excel disables all ActiveX controls with notification. As the Wigglechart relies on ActiveX controls, when running the Wigglechart, you will get this error message.</p>\n<p>To fix this, follow these steps:</p>\n<ul>\n<li>Kill the Wigglechart background Excel process by: Bring up the Windows Task Manager Under Background processes, kill all “Microsoft Excel” processes (don’t worry, this will not affect any open Excel files)</li>\n</ul>\n<p>Kill the Wigglechart background Excel process by:</p>\n<ul>\n<li>Bring up the Windows Task Manager</li>\n</ul>\n<p>Bring up the Windows Task Manager</p>\n<ul>\n<li>Under Background processes, kill all “Microsoft Excel” processes (don’t worry, this will not affect any open Excel files)</li>\n</ul>\n<p>Under Background processes, kill all “Microsoft Excel” processes (don’t worry, this will not affect any open Excel files)</p>\n<ul>\n<li>Open Excel</li>\n</ul>\n<p>Open Excel</p>\n<ul>\n<li>File &gt; Options &gt; Trust Center &gt; Trust Center Settings… Set ActiveX settings to &quot;Prompt me before enabling all controls with minimal restrictions” Set Macro Settings to “Disable VBA macros with notification”</li>\n</ul>\n<p>File &gt; Options &gt; Trust Center &gt; Trust Center Settings…</p>\n<ul>\n<li>Set ActiveX settings to &quot;Prompt me before enabling all controls with minimal restrictions”</li>\n</ul>\n<p>Set ActiveX settings to &quot;Prompt me before enabling all controls with minimal restrictions”</p>\n<ul>\n<li>Set Macro Settings to “Disable VBA macros with notification”</li>\n</ul>\n<p>Set Macro Settings to “Disable VBA macros with notification”</p>\n<ul>\n<li>Run the Wigglechart again</li>\n</ul>\n<p>Run the Wigglechart again</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/47355583-3ff6-41db-9e52-3ff027c05be1/Unknown.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 1
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "dynamic-status-changes",
+  "url": "https://lateralworks.com/tools/2019/1/12/dynamic-status-changes",
+  "title": "Dynamic Status Changes",
+  "date": "January 11, 2019",
+  "dateISO": "2019-01-12",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastProject Function",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "FastProject Concept",
+    "fastDecision",
+    "fastProject",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>A new feature introduced in fastProject 4.7.3 is a dynamic status indicator in the Inspector. As the schedule changes, this information is updated in real-time. So after an Update, you can very quickly see:</p>\n<ul>\n<li>If a target is ahead or behind schedule</li>\n</ul>\n<p>If a target is ahead or behind schedule</p>\n<ul>\n<li>By how much</li>\n</ul>\n<p>By how much</p>\n<ul>\n<li>The likelihood of hitting the target</li>\n</ul>\n<p>The likelihood of hitting the target</p>\n<ul>\n<li>The change since he later of the last update or Wigglechart</li>\n</ul>\n<p>The change since he later of the last update or Wigglechart</p>\n<p>As you pull-in the schedule, you will see this change reflected in the top left of the Inspector. So make sure to pay attention to this part of the screen.</p>\n<p>The schedule data on the left is based on what ever target/task is selected to the right (below).</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547340076645-PTCIG8VSMGGDAWHHR20P/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547340091180-CKEJLCE8KEZ8HE7FCFB8/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547340107681-30NBB4G0W6TSZ1J27U4K/image.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 3
+}

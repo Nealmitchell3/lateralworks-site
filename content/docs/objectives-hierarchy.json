@@ -1,0 +1,32 @@
+{
+  "slug": "objectives-hierarchy",
+  "url": "https://lateralworks.com/tools/2019/6/17/objectives-hierarchy",
+  "title": "Objectives Hierarchy",
+  "date": "June 16, 2019",
+  "dateISO": "2019-06-17",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastDecision Concept",
+    "fP Release Note",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastDecision",
+    "FastProject Concept",
+    "fastProject",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>Recently we have been discussing the use of hierarchy in decision-model &quot;objectives.&quot; For example, this is an Objective with a series of sub-objectives (e.g. the sub-objectives drive the top objective):</p>\n<p>Expand and accelerate business unit revenue growth --Grow product x revenue --Grow product q revenue --Grow product y revenue --Grow product z revenue</p>\n<p>We&#39;ve used these &quot;hierarchy problems&quot; to create sub-models. For example, &quot;Accelerate Revenue Growth&quot; might be the goal in this case. Products x, z, q, and y might be alternative ways to accelerate the revenue for the business unit.</p>\n<p>One might then ask the question, &quot;what Objectives are we trying to achieve with theaccelerating revenue growthgoal?&quot; This, in itself, then becomes an interesting model to study the implications of that question. The Objectives in this example could be the &quot;strategic objectives&quot; of the business that drive potential revenue growth.</p>\n<p>In the model above I have done a pairwise assessment of these objectives and determined that &quot;expanding major account teams&quot; and &quot;developing alternative channels&quot; represent the most important drivers of accelerated revenue generation. So the logic follows that doing these things should help me accelerate revenue growth (i.e. objectives to reach my goal).</p>\n<p>Then we can take our 4 (fictitious) product categories and rank them against each Objective (e.g. growing product x revenue will have a HIGH impact on expanding major account teams).</p>\n<p>Conversely, we could say thatgrowing product y revenue will have a LOW impact on meeting the major account team Objective. After ranking all of them I can see that product x and z are going to have the greatest influence on achieving my two most important objectives (i.e. account teams and alternative channels), which in turn should drive accelerating revenue growth.</p>\n<p>The lack of a hierarchy function actually opens up the discussion to a much wider and more interesting exploration. Having said that, &quot;objective hierarchy&quot; functionality is on the product roadmap assuming we can solve the technical challenges.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1560809541704-XWVU0AFT1JWZECV4YB5L/Screen+Shot+2019-06-17+at+3.11.36+PM.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1560809580843-VCIOLYKE0P6NLG5MORTK/Screen+Shot+2019-06-17+at+3.12.45+PM.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1560809643388-FR9X0T0MDVFGDXSG13D9/image-asset.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1560809686359-6FM41D8DHMC26FGEQECJ/Screen+Shot+2019-06-17+at+3.14.18+PM.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 4
+}

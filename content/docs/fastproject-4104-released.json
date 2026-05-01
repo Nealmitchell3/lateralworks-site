@@ -1,0 +1,32 @@
+{
+  "slug": "fastproject-4104-released",
+  "url": "https://lateralworks.com/tools/2021/2/19/fastproject-4104-released",
+  "title": "fastProject 4.10.4 Released",
+  "date": "February 18, 2021",
+  "dateISO": "2021-02-19",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Release Note",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<h2>General</h2>\n<ul>\n<li>Fixed problem where a date stamp for the Notes was not being recorded when an existing file was opened.</li>\n</ul>\n<p>Fixed problem where a date stamp for the Notes was not being recorded when an existing file was opened.</p>\n<h2>Tools</h2>\n<ul>\n<li>Importing a Touchpoint/Checkpoint or Deliverable now: Updates the “Last Updated” date Does not open all tasks prior to importing</li>\n</ul>\n<p>Importing a Touchpoint/Checkpoint or Deliverable now:</p>\n<ul>\n<li>Updates the “Last Updated” date</li>\n</ul>\n<p>Updates the “Last Updated” date</p>\n<ul>\n<li>Does not open all tasks prior to importing</li>\n</ul>\n<p>Does not open all tasks prior to importing</p>\n<ul>\n<li>Added a new function under Summary Years On/Off - Cross-summay Dependency Analysis that shows all dependencies between two selected summary tasks</li>\n</ul>\n<p>Added a new function under Summary Years On/Off - Cross-summay Dependency Analysis that shows all dependencies between two selected summary tasks</p>\n<ul>\n<li>Improved report for generating a task report for Marked tasks, Actions and Notes</li>\n</ul>\n<p>Improved report for generating a task report for Marked tasks, Actions and Notes</p>\n<h2>Macro-micro Roll-up</h2>\n<ul>\n<li>Improved calculation of negative lags to better align with the micro</li>\n</ul>\n<p>Improved calculation of negative lags to better align with the micro</p>\n<ul>\n<li>Fixed problem where a bogus dependency was made during a roll-up if the task was an external task. External tasks are now ignored.</li>\n</ul>\n<p>Fixed problem where a bogus dependency was made during a roll-up if the task was an external task. External tasks are now ignored.</p>\n<h2>Inspector</h2>\n<ul>\n<li>Fixed problem with finding “All Preds” when a critical path hasn’t been previously determined</li>\n</ul>\n<p>Fixed problem with finding “All Preds” when a critical path hasn’t been previously determined</p>\n<h2>Refresh</h2>\n<ul>\n<li>Improved PreFresh report with: New options to show/hide the primary columns/text fields Ability to add up to 6 custom columns selected from any of the remaining 27 custom text fields. All user columns can now be changed and imported when the  PreFresh report is imported.</li>\n</ul>\n<p>Improved PreFresh report with:</p>\n<ul>\n<li>New options to show/hide the primary columns/text fields</li>\n</ul>\n<p>New options to show/hide the primary columns/text fields</p>\n<ul>\n<li>Ability to add up to 6 custom columns selected from any of the remaining 27 custom text fields. All user columns can now be changed and imported when the  PreFresh report is imported.</li>\n</ul>\n<p>Ability to add up to 6 custom columns selected from any of the remaining 27 custom text fields. All user columns can now be changed and imported when the  PreFresh report is imported.</p>\n<ul>\n<li>Improved Tasks This Week (was the PostFresh report)</li>\n</ul>\n<p>Improved Tasks This Week (was the PostFresh report)</p>\n<ul>\n<li>Wigglechart Simpler coding scheme for weekly change: Green up arrow = pull-in, Yellow dash = no change, Red down arrow = slip Days to pull-in in the Wigglechart now to one decimal place</li>\n</ul>\n<p>Wigglechart</p>\n<ul>\n<li>Simpler coding scheme for weekly change: Green up arrow = pull-in, Yellow dash = no change, Red down arrow = slip</li>\n</ul>\n<p>Simpler coding scheme for weekly change: Green up arrow = pull-in, Yellow dash = no change, Red down arrow = slip</p>\n<ul>\n<li>Days to pull-in in the Wigglechart now to one decimal place</li>\n</ul>\n<p>Days to pull-in in the Wigglechart now to one decimal place</p>\n<h2>Report</h2>\n<ul>\n<li>Added Completion group (Text4) to the Focus This Week report</li>\n</ul>\n<p>Added Completion group (Text4) to the Focus This Week report</p>\n<ul>\n<li>Added Completion group (Text4) to the Late Simulator report</li>\n</ul>\n<p>Added Completion group (Text4) to the Late Simulator report</p>\n<ul>\n<li>Updated Tasks This Week report with option to include Wigglets (does not include by default)</li>\n</ul>\n<p>Updated Tasks This Week report with option to include Wigglets (does not include by default)</p>\n<ul>\n<li>Bug fixed in the Late Simulator where tasks were not stored by the Days to Pull-in when selected</li>\n</ul>\n<p>Bug fixed in the Late Simulator where tasks were not stored by the Days to Pull-in when selected</p>\n<ul>\n<li>Problem fixed where the WBS Analysis form could not be displayed when another form was open</li>\n</ul>\n<p>Problem fixed where the WBS Analysis form could not be displayed when another form was open</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

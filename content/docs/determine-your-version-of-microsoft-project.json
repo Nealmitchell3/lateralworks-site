@@ -1,0 +1,32 @@
+{
+  "slug": "determine-your-version-of-microsoft-project",
+  "url": "https://lateralworks.com/tools/2019/1/15/how-to-determine-your-version-of-microsoft-project",
+  "title": "Determine Your Version of Microsoft Project",
+  "date": "January 14, 2019",
+  "dateISO": "2019-01-15",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Solution",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>In order to determine your version of Microsoft Project, including Service Packs, do the following:</p>\n<h2>Microsoft Project 2013/2016</h2>\n<ul>\n<li>Open fastProject (or Microsoft Project)</li>\n</ul>\n<p>Open fastProject (or Microsoft Project)</p>\n<ul>\n<li>From the Ribbon, File &gt; Account</li>\n</ul>\n<p>From the Ribbon, File &gt; Account</p>\n<ul>\n<li>Over on the right, click &quot;About Project&quot;</li>\n</ul>\n<p>Over on the right, click &quot;About Project&quot;</p>\n<ul>\n<li>At the top you will see the relevant information (example below). Take a screenshot and send it to us.</li>\n</ul>\n<p>At the top you will see the relevant information (example below). Take a screenshot and send it to us.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547592151604-7SG0BMOI4XWJUBVPUTIK/image.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 1
+}

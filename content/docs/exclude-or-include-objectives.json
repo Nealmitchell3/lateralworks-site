@@ -1,0 +1,32 @@
+{
+  "slug": "exclude-or-include-objectives",
+  "url": "https://lateralworks.com/tools/2019/1/13/exclude-or-include-objectives",
+  "title": "Exclude or Include Objectives",
+  "date": "January 12, 2019",
+  "dateISO": "2019-01-13",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastDecision Function",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "FastProject Concept",
+    "fastDecision",
+    "fastProject",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>Include/exclude objectives. Highlight one or more objectives, right mouse click, select exclude objective.</p>\n<p>Below is an example. The grayed out objectives have been excluded. The remaining percent values are distributed proportionally between the remaining objectives. The prioritized alternatives then reflect the weighting of just two of the objectives, in this example &quot;grow revenue&quot; and improve product quality metrics.&quot; If only these objectives were used the &quot;federal market&quot; would be the winner.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547400661412-3GVGZ0UH8ORY0F1SNWY0/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547400699532-1SIYFIDZ8MVNTL46GAMB/image.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 2
+}

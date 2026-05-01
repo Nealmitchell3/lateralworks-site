@@ -1,0 +1,32 @@
+{
+  "slug": "using-agile-and-fastproject",
+  "url": "https://lateralworks.com/tools/2019/1/17/using-agile-and-fastproject",
+  "title": "Using Agile and fastProject",
+  "date": "January 16, 2019",
+  "dateISO": "2019-01-17",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Concept",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>One of the concepts around Agile is frequent builds and releases to a customer. This way you obtain early feedback, and that feedback can be integrated into future builds and releases. All this is done before the next major (more formal) release.</p>\n<p>In addition, leading up to a build and release, the project is organized in terms of Sprints.</p>\n<h2>The Problem</h2>\n<p>In Agile, builds  occur at fixed times (e.g. a build is done every Friday) and Sprints have a fixed duration. However, the FTTM methodology follows a critical path schedule, where dates can change each week (or even daily) when the schedule is updated.</p>\n<p>So following an Agile approach, how do I know what feature will be ready by which software build if the dates are continually changing?</p>\n<h2>The Solution</h2>\n<p>The Iteration Report feature in fastProject (located in the Additional Tools group) attempts to marry these two concepts together.</p>\n<p>Software features are identified and flagged. The fixed interval dates (whether builds or Sprints) are identified and added to the schedule. Once setup, the user simply clicks the &quot;Generate Iteration Report&quot;  to generate a table that lists what features will be ready for each build/Sprint and how far off that feature is to the date below). This report can be used in a daily scrum meeting.</p>\n<p>Of course this is feature is not limited to software and can be used anytime there is a need to identify what will be ready relative to a fixed group of dates.</p>\n<p>Also see:</p>\n<p>Best Practice Software Development</p>\n<p>Tracking the Rate of Completion</p>\n<p>Do-it, Try-it, Fix-it Cycles of Learning</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547769970319-CP2VRCUN3RRZMMQOHJWY/IR.JPG\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547771628466-ZYJV3QXX3ILW1Z9N79PO/Screen+Shot+2019-01-17+at+3.57.57+PM.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 2
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "a-target-date-focus-on-what-then-when",
+  "url": "https://lateralworks.com/tools/2019/6/22/a-target-date-focus-on-what-then-when",
+  "title": "A target date... Focus on WHAT then WHEN",
+  "date": "June 21, 2019",
+  "dateISO": "2019-06-22",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastProject Concept",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<blockquote>\n<p>A target date isn&#39;t when it is going to happen, it is when you want it to happen.</p>\n</blockquote>\n<h3>A target date isn&#39;t when it is going to happen, it is when you want it to happen.</h3>\n<p>Often confused, a Target Date for an important milestone is a deadline at which time one expects to achieve a result, however a Target Date may not be when the milestone is actually going to finish.</p>\n<p><em>Example of a target (inverted triangle) and its associated project milestone (blue diamond)</em></p>\n<p>Example of a target (inverted triangle) and its associated project milestone (blue diamond)</p>\n<p>&quot;We must release the product on 31 August, in order to...&quot;But just because this is when we want it, does not mean that, by default, this is when it will be done regardless of the number of times we &quot;hold hands and chant the date!&quot;</p>\n<p>The difference between the expected finish (i.e. target) and the estimated finish (i.e. the real schedule) is called the &quot;gap.&quot; Many times this gap is not known or is not acknowledged (if known) in order to avoid dealing with the reality of not finishing on time.&quot;We have an aggressive schedule and I expect we will rise to the challenge and succeed, blah, blah, blah...and so on.&quot;</p>\n<p>The project end date should be generated from the critical path to the last milestone, which is derived from durations and precedence relationships between tasks that lead to the milestone. While the target date, on the other hand, is a fixed point in time -- or deadline on which something is due. Failure to recognize the gap between deadline and reality is one reason for project failure, in that expectations are incorrectly set from day one.</p>\n<p>One root cause of this problem is mixing up the &quot;when&quot;with the &quot;what&quot;parts of planning. By this I mean confusingwork content with work timing. For example, teams deal with when they want something and then define what they want/can deliver at that time.</p>\n<p>Rather, the best practice approach is different; define whatis needed based on project objectives and doneness criteria, articulate this in a work-breakdown-structure, define how long each task should take, and then build a work flow of task dependencies. Then we deal with whenit will be delivered.</p>\n<p>When teams address the &quot;when&quot; question first, they tend to compromise the &quot;what&quot; or how they are going to achieve it. You end up with a schedule that &quot;fits&quot; the time frame and will always be late. Focus on defining WHAT and then WHEN; you will identify the gap early, when there is time to close it.</p>\n<p>Best practices work the other way around from the common view; WHAT, then WHEN, and then deal with the GAP. Conversely, we often see teams deal with WHEN, the WHAT is confused or unclear, and the GAP is never addressed...until the project slips in the future, when it is a surprise.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1561227832358-AVQ0H3IORJ8UYA07WH23/image-asset.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 1
+}

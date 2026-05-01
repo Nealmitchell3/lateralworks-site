@@ -1,0 +1,32 @@
+{
+  "slug": "error-creating-a-wigglechart-on-sharepoint",
+  "url": "https://lateralworks.com/tools/2025/5/6/error-creating-a-wigglechart-on-sharepoint",
+  "title": "Error Creating a Wigglechart on Sharepoint",
+  "date": "May 5, 2025",
+  "dateISO": "2025-05-06",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastDecision Solution",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>When you open your schedule via Sharepoint and run Wigglechart to create your first Wigglechart, fastProject will crash with an error something like “<a href=\"https://xxx.sharepoint.com/sites/%E2%80%A6/https:/xxx.sharepoint.com/sites/%E2%80%A6\">https://xxx.sharepoint.com/sites/…/https:/xxx.sharepoint.com/sites/…</a><schedule name> Wigglechart.xlsm”.</p>\n<p>fastProject does not currently support creating a Wigglechart if your schedule was opened via Sharepoint. As a workaround, you should:</p>\n<ul>\n<li>Copy the .mpp file to your local machine, e.g. Desktop</li>\n</ul>\n<p>Copy the .mpp file to your local machine, e.g. Desktop</p>\n<ul>\n<li>Run the Wigglechart which will create the Wigglechart</li>\n</ul>\n<p>Run the Wigglechart which will create the Wigglechart</p>\n<ul>\n<li>Save and exit both the Wigglechart and .mpp file</li>\n</ul>\n<p>Save and exit both the Wigglechart and .mpp file</p>\n<ul>\n<li>Copy both the .mpp file and Wigglechart back to Sharepoint</li>\n</ul>\n<p>Copy both the .mpp file and Wigglechart back to Sharepoint</p>\n<p>From then on, running the Wigglechart when the schedule is opened via Sharepoint will work.</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

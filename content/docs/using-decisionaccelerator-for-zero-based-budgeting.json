@@ -1,0 +1,32 @@
+{
+  "slug": "using-decisionaccelerator-for-zero-based-budgeting",
+  "url": "https://lateralworks.com/tools/2019/1/16/using-decisionaccelerator-for-zero-based-budgeting",
+  "title": "Using decisionAccelerator for Zero-based Budgeting",
+  "date": "January 15, 2019",
+  "dateISO": "2019-01-16",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastDecision Concept",
+    "fP Release Note",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastDecision",
+    "FastProject Concept",
+    "fastProject",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>Zero-Based Budgeting ( ZBB ) allows top-level strategic goals to be implemented into the budgeting process by tying them to specific functional areas of the organization...&quot; ( source ) It is a technique of planning and decision making where every department or function within an organization is analyzed for its needs and costs for the coming period, starting from a zero base. Budgets are then built around what is needed regardless of previous budgets. The advantages claimed are that it drives functions to be more cost-efficient (by avoiding blanket increases or decreases based on the previous period&#39;s budget) and it can eliminate waste, but it can also very time consuming.</p>\n<p>So how can one implement this?</p>\n<h2>Implementing ZBB</h2>\n<p>decisionAccelerator allows top-level strategic goals to be defined and prioritized. Projects are then aligned (prioritized) to those strategic goals. Functional groups are defined and resources from each function are allocated on a project by project basis. This results in a headcount requited by function to execute all projects, as well as providing an overall budget both by function and for the organization.</p>\n<p>Budgets can be optimized by applying budget and resource constraints (by function) to the model in order to meet an overall budget requirement. If within budget, then all projects get funded. If there are constraints (budget or resource), the model will eliminate projects in such a way that the remaining projects maximizes the overall benefit.</p>\n<p>A cost-benefit chart can be generated that provides a starts control such that those projects, so the project with the highest cost-benefit ratio get started first.</p>\n<p>By refreshing the model every period (monthly, quarterly, annual), the pain over implementing ZBB can be diminished. decisionAccelerator provides a means to implement to link top-level strategic goals to individual functions, and because it can support multiple models within a single file, each budget cycle can be kept for historical purposes.</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

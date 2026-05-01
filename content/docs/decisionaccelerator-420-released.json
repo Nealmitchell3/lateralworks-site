@@ -1,0 +1,32 @@
+{
+  "slug": "decisionaccelerator-420-released",
+  "url": "https://lateralworks.com/tools/2019/10/28/decisionaccelerator-4812-released",
+  "title": "decisionAccelerator 4.20 Released",
+  "date": "October 27, 2019",
+  "dateISO": "2019-10-28",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastDecision Release Note",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastDecision",
+    "FastProject Concept",
+    "fastProject",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<h2>General</h2>\n<ul>\n<li>Right-mouse click menu added for faster access to dA functionality: Context menu items are sensitive based on whether the cell is an Objective, Alternative or Constraint Clicking anywhere else on a model reveals a reduced set of Excel functions Reset Priorities is always visible when on a model, no matter where the user clicks Clicking on a non-model reveals the standard Excel menu</li>\n</ul>\n<p>Right-mouse click menu added for faster access to dA functionality:</p>\n<ul>\n<li>Context menu items are sensitive based on whether the cell is an Objective, Alternative or Constraint</li>\n</ul>\n<p>Context menu items are sensitive based on whether the cell is an Objective, Alternative or Constraint</p>\n<ul>\n<li>Clicking anywhere else on a model reveals a reduced set of Excel functions</li>\n</ul>\n<p>Clicking anywhere else on a model reveals a reduced set of Excel functions</p>\n<ul>\n<li>Reset Priorities is always visible when on a model, no matter where the user clicks</li>\n</ul>\n<p>Reset Priorities is always visible when on a model, no matter where the user clicks</p>\n<ul>\n<li>Clicking on a non-model reveals the standard Excel menu</li>\n</ul>\n<p>Clicking on a non-model reveals the standard Excel menu</p>\n<h2>Alternatives</h2>\n<ul>\n<li>Bug fixed where it was possible to delete the first alternative in the list when there was only two alternatives (the user should have been prompted a model must have a minimum of two alternatives).</li>\n</ul>\n<p>Bug fixed where it was possible to delete the first alternative in the list when there was only two alternatives (the user should have been prompted a model must have a minimum of two alternatives).</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

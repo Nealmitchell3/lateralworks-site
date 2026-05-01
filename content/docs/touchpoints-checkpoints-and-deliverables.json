@@ -1,0 +1,32 @@
+{
+  "slug": "touchpoints-checkpoints-and-deliverables",
+  "url": "https://lateralworks.com/tools/2019/1/12/touchpoints-checkpoints-and-deliverables",
+  "title": "Touchpoints, Checkpoints and Deliverables",
+  "date": "January 11, 2019",
+  "dateISO": "2019-01-12",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastProject Function",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>We are often asked, what the difference between a Touchpoint, a Checkpoint and a Deliverable.</p>\n<p>Touchpoint</p>\n<ul>\n<li>Touchpoints are used where two schedules “touch” each other, i.e. the result of a task in one schedule feeds into another schedule.</li>\n</ul>\n<p>Touchpoints are used where two schedules “touch” each other, i.e. the result of a task in one schedule feeds into another schedule.</p>\n<ul>\n<li>For instance, if Schedule A depends on the output from Schedule B that is separately managed (potentially by another Program Manager), then Schedule B makes the appropriate task/milestone a Touchpoint, and Schedule A creates a Touchpoint (milestone) with a date constraint, equal to the Finish date of Schedule B&#39;s task.</li>\n</ul>\n<p>For instance, if Schedule A depends on the output from Schedule B that is separately managed (potentially by another Program Manager), then Schedule B makes the appropriate task/milestone a Touchpoint, and Schedule A creates a Touchpoint (milestone) with a date constraint, equal to the Finish date of Schedule B&#39;s task.</p>\n<ul>\n<li>Touchpoints can be used to indicate a deliverable from another (separate) project, a resource is coming on board (e.g. hired or from another project), a supplier is delivering something to you on a certain date, etc.</li>\n</ul>\n<p>Touchpoints can be used to indicate a deliverable from another (separate) project, a resource is coming on board (e.g. hired or from another project), a supplier is delivering something to you on a certain date, etc.</p>\n<p>Checkpoint</p>\n<ul>\n<li>Checkpoints are typically used as internal checkpoints.</li>\n</ul>\n<p>Checkpoints are typically used as internal checkpoints.</p>\n<ul>\n<li>Examples are: the end of a phase review, a (significant) design review, a decision needs to be made, etc.</li>\n</ul>\n<p>Examples are: the end of a phase review, a (significant) design review, a decision needs to be made, etc.</p>\n<ul>\n<li>Checkpoints don&#39;t usually have date constraints, but can if needed.</li>\n</ul>\n<p>Checkpoints don&#39;t usually have date constraints, but can if needed.</p>\n<p>Deliverable</p>\n<ul>\n<li>Indicates a formal deliverable from the project.</li>\n</ul>\n<p>Indicates a formal deliverable from the project.</p>\n<ul>\n<li>Although Touchpoints and Checkpoints appear similar (apart from their different color and icon on the Gantt chart), Touchpoints are updated during a refresh (even if they are in the future), and checkpoints are not.</li>\n</ul>\n<p>Although Touchpoints and Checkpoints appear similar (apart from their different color and icon on the Gantt chart), Touchpoints are updated during a refresh (even if they are in the future), and checkpoints are not.</p>\n<ul>\n<li>You can use the Milestone Reports to filter and optionally generate a report on any combination of Touchpoints, Checkpoints and Deliverables.</li>\n</ul>\n<p>You can use the Milestone Reports to filter and optionally generate a report on any combination of Touchpoints, Checkpoints and Deliverables.</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

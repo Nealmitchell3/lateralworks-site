@@ -1,0 +1,32 @@
+{
+  "slug": "fastproject-4117-released",
+  "url": "https://lateralworks.com/tools/2024/24/fastproject-4117-released-xwtt6-ehzlh-nzx95-xjhw8-cy7jk-wn4bt-3hx8r-z7j9c-er4zy-2dl65-zrbwb-64xfs",
+  "title": "fastProject 4.11.7 Released",
+  "date": "",
+  "dateISO": "",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Release Note",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<h2>General</h2>\n<ul>\n<li>Can now select one of 5 different highlights colors (Yellow, Blue, Gray, Orange &amp; Green) and the ability to name them. You also have the option to show today’s or all Highlighted tasks by color.</li>\n</ul>\n<p>Can now select one of 5 different highlights colors (Yellow, Blue, Gray, Orange &amp; Green) and the ability to name them. You also have the option to show today’s or all Highlighted tasks by color.</p>\n<ul>\n<li>Can now expand multiple summary tasks, optionally hiding the completed tasks and a new option to only show the expanded summary tasks (while hiding everything else).</li>\n</ul>\n<p>Can now expand multiple summary tasks, optionally hiding the completed tasks and a new option to only show the expanded summary tasks (while hiding everything else).</p>\n<ul>\n<li>Add the ability to ad a Target Date when breaking down a task</li>\n</ul>\n<p>Add the ability to ad a Target Date when breaking down a task</p>\n<ul>\n<li>Estimated Durations can now be used. To use, goto Options &gt; General &gt; Allow Estimated Durations</li>\n</ul>\n<p>Estimated Durations can now be used. To use, goto Options &gt; General &gt; Allow Estimated Durations</p>\n<ul>\n<li>Prefix not added to Touchpoints, Checkpoints and Deliverables</li>\n</ul>\n<p>Prefix not added to Touchpoints, Checkpoints and Deliverables</p>\n<p>Refresh - Roll-up</p>\n<ul>\n<li>After a roll-up, if the Start and Finish dates do not match, the number of days difference is now reported.</li>\n</ul>\n<p>After a roll-up, if the Start and Finish dates do not match, the number of days difference is now reported.</p>\n<ul>\n<li>Roll-up now automatically corrects when a micro-schedule has non-working time (and the macro-schedule doesn’t). It is possible date constraints are added to the Macro to align the dates in the Micro when the start date would occur on a weekend. To overcome this, the date constant is removed and the task duration if extended so the Finish dates align.</li>\n</ul>\n<p>Roll-up now automatically corrects when a micro-schedule has non-working time (and the macro-schedule doesn’t). It is possible date constraints are added to the Macro to align the dates in the Micro when the start date would occur on a weekend. To overcome this, the date constant is removed and the task duration if extended so the Finish dates align.</p>\n<ul>\n<li>Improve circular dependency checking and reporting</li>\n</ul>\n<p>Improve circular dependency checking and reporting</p>\n<ul>\n<li>Fixed bug where dates rolled-up were not the same if negative lags were used and the micro project was on a different calendar to the macro.</li>\n</ul>\n<p>Fixed bug where dates rolled-up were not the same if negative lags were used and the micro project was on a different calendar to the macro.</p>\n<h2>Analyzer</h2>\n<ul>\n<li>Added improved auto-fix for tasks updated in the future</li>\n</ul>\n<p>Added improved auto-fix for tasks updated in the future</p>\n<h2>Wigglechart</h2>\n<ul>\n<li>Fixed inconsistency in gap between Wigglechart and Dashboard</li>\n</ul>\n<p>Fixed inconsistency in gap between Wigglechart and Dashboard</p>\n<h2>Inspector</h2>\n<ul>\n<li>Critical Path Analysis now only exports Action items with an Owner (general notes are now ignored)</li>\n</ul>\n<p>Critical Path Analysis now only exports Action items with an Owner (general notes are now ignored)</p>\n<ul>\n<li>Added ability to show All Predecessors including completed</li>\n</ul>\n<p>Added ability to show All Predecessors including completed</p>\n<ul>\n<li>Added Show Inactivated and Activate All options under the Inactivate dropdown</li>\n</ul>\n<p>Added Show Inactivated and Activate All options under the Inactivate dropdown</p>\n<h2>Report</h2>\n<ul>\n<li>Under Late Simulator, added ability to set Deadlines on selected Targets</li>\n</ul>\n<p>Under Late Simulator, added ability to set Deadlines on selected Targets</p>\n<h2>FTTM Dashboard</h2>\n<ul>\n<li>Added a check to check for duplicate Wigglecharts in the Import file</li>\n</ul>\n<p>Added a check to check for duplicate Wigglecharts in the Import file</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

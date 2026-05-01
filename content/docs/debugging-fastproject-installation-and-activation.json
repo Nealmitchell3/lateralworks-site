@@ -1,0 +1,32 @@
+{
+  "slug": "debugging-fastproject-installation-and-activation",
+  "url": "https://lateralworks.com/tools/2025/4/22/debugging-fastproject-installation",
+  "title": "Debugging fastProject Installation and Activation",
+  "date": "April 21, 2025",
+  "dateISO": "2025-04-22",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Solution",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>If you are having problems activating fastProject after installation because the fastProject items are not under File, please check the following. 95% of problems are solved with one of these steps:</p>\n<ul>\n<li>Make sure you installed 64-bit fastProject if you have 64-bit Office (the most popular), or 32-bit fastProject if you have 32-bit Office.</li>\n</ul>\n<p>Make sure you installed 64-bit fastProject if you have 64-bit Office (the most popular), or 32-bit fastProject if you have 32-bit Office.</p>\n<ul>\n<li>You will not see the fastProject items when clicking on File unless you have started a blank project (or opened an existing project).</li>\n</ul>\n<p>You will not see the fastProject items when clicking on File unless you have started a blank project (or opened an existing project).</p>\n<ul>\n<li>Make sure the Global.mpt got installed. To check, go to c:\\Users&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US . If the file size is about 1.2MB rather than 12MB, then the Global did not get installed. In this case, do the following: Exit MS Project Open a new File Explorer window and navigate to c:\\Program Files\\fastProject\\System Run the file “Copy Global.bat” (if present) and check the Global is about 12MB. If not: Select the Global.mpt file, in the fastProject system folder &gt; Right-mouse click &gt; Copy Select the window open with the location c:\\Users&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US Paste the Global.mpt file (ok to overwrite the existing version) Start fastProject - the fastProject items should now be visible</li>\n</ul>\n<p>Make sure the Global.mpt got installed. To check, go to c:\\Users&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US . If the file size is about 1.2MB rather than 12MB, then the Global did not get installed. In this case, do the following:</p>\n<ul>\n<li>Exit MS Project</li>\n</ul>\n<p>Exit MS Project</p>\n<ul>\n<li>Open a new File Explorer window and navigate to c:\\Program Files\\fastProject\\System</li>\n</ul>\n<p>Open a new File Explorer window and navigate to c:\\Program Files\\fastProject\\System</p>\n<ul>\n<li>Run the file “Copy Global.bat” (if present) and check the Global is about 12MB. If not: Select the Global.mpt file, in the fastProject system folder &gt; Right-mouse click &gt; Copy Select the window open with the location c:\\Users&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US Paste the Global.mpt file (ok to overwrite the existing version) Start fastProject - the fastProject items should now be visible</li>\n</ul>\n<p>Run the file “Copy Global.bat” (if present) and check the Global is about 12MB. If not:</p>\n<ul>\n<li>Select the Global.mpt file, in the fastProject system folder &gt; Right-mouse click &gt; Copy</li>\n</ul>\n<p>Select the Global.mpt file, in the fastProject system folder &gt; Right-mouse click &gt; Copy</p>\n<ul>\n<li>Select the window open with the location c:\\Users&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US</li>\n</ul>\n<p>Select the window open with the location c:\\Users&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US</p>\n<ul>\n<li>Paste the Global.mpt file (ok to overwrite the existing version)</li>\n</ul>\n<p>Paste the Global.mpt file (ok to overwrite the existing version)</p>\n<ul>\n<li>Start fastProject - the fastProject items should now be visible</li>\n</ul>\n<p>Start fastProject - the fastProject items should now be visible</p>\n<ul>\n<li>Make sure you only have one version of MS Project installed (in the above path name, you should not have a …MS Project\\14\\en-us location.</li>\n</ul>\n<p>Make sure you only have one version of MS Project installed (in the above path name, you should not have a …MS Project\\14\\en-us location.</p>\n<ul>\n<li>Make sure you are not logged int to Project Server. If you are, change the setting that allows you to select an account (File &gt; Info &gt; Manage Accounts &gt; Choose an account), restart MS Project, when prompted, choose Computer. The fastProject items should now be visible. If not, check one of the above. After you have activated fastProject, you can switch back to auto-login to Project Server.</li>\n</ul>\n<p>Make sure you are not logged int to Project Server. If you are, change the setting that allows you to select an account (File &gt; Info &gt; Manage Accounts &gt; Choose an account), restart MS Project, when prompted, choose Computer. The fastProject items should now be visible. If not, check one of the above. After you have activated fastProject, you can switch back to auto-login to Project Server.</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

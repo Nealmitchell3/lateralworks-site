@@ -1,0 +1,32 @@
+{
+  "slug": "fastproject-4107-released",
+  "url": "https://lateralworks.com/tools/2021/5/24/fastproject-4106-released-xwtt6",
+  "title": "fastProject 4.10.7 Released",
+  "date": "May 23, 2021",
+  "dateISO": "2021-05-24",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Release Note",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<h2>Tools</h2>\n<ul>\n<li>Fixed problem where a milestone couldn’t be set as a Checkpoint or Deliverable if it has it’s Roll-up/Down flag set</li>\n</ul>\n<p>Fixed problem where a milestone couldn’t be set as a Checkpoint or Deliverable if it has it’s Roll-up/Down flag set</p>\n<h2>Refresh</h2>\n<ul>\n<li>Added Effort to be optionally added to the PreFresh report</li>\n</ul>\n<p>Added Effort to be optionally added to the PreFresh report</p>\n<ul>\n<li>Fixed problem when importing Effort and Task status using the PreFresh report, where the task status was taken from the task and not the PreFresh report.</li>\n</ul>\n<p>Fixed problem when importing Effort and Task status using the PreFresh report, where the task status was taken from the task and not the PreFresh report.</p>\n<ul>\n<li>Fixed a problem in PreFresh options where the option to include Effort was mis-read.</li>\n</ul>\n<p>Fixed a problem in PreFresh options where the option to include Effort was mis-read.</p>\n<h2>Wigglechart</h2>\n<ul>\n<li>Improved the Dashboard formatting, added Cause of Change and eliminated the stats table and charts</li>\n</ul>\n<p>Improved the Dashboard formatting, added Cause of Change and eliminated the stats table and charts</p>\n<h2>Inspector</h2>\n<ul>\n<li>Added a new feature that allows you to generate a separate Critical Path Analysis chart for all Targets with one click (CP Analysis dropdown &gt; CP Analysis (All Targets))</li>\n</ul>\n<p>Added a new feature that allows you to generate a separate Critical Path Analysis chart for all Targets with one click (CP Analysis dropdown &gt; CP Analysis (All Targets))</p>\n<ul>\n<li>Problem fixed where the baseline just before the update was displayed rather than the baseline from the previous update (week).</li>\n</ul>\n<p>Problem fixed where the baseline just before the update was displayed rather than the baseline from the previous update (week).</p>\n<ul>\n<li>Bug fixed where the correct Critical Path wasn’t displayed if it started with a Deliverable-type milestone</li>\n</ul>\n<p>Bug fixed where the correct Critical Path wasn’t displayed if it started with a Deliverable-type milestone</p>\n<h2>Misc</h2>\n<ul>\n<li>Fixed link to the fastProject release notes</li>\n</ul>\n<p>Fixed link to the fastProject release notes</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

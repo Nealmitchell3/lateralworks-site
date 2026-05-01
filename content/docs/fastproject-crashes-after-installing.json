@@ -1,0 +1,32 @@
+{
+  "slug": "fastproject-crashes-after-installing",
+  "url": "https://lateralworks.com/tools/2019/1/14/microsoft-project-crashes",
+  "title": "fastProject Crashes After Installing",
+  "date": "January 13, 2019",
+  "dateISO": "2019-01-14",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Solution",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>What do I do if fastProject crashes after installing or crashes randomly?</p>\n<p>If you have the correct version of fastProject for your version Microsoft Project (32-bit/64-bit), and you have all the latest updates of Microsoft Project, then it&#39;s quite possible fastProject has got corrupted. This primarily happens with Microsoft Project 2013.</p>\n<p>To fix this problem:</p>\n<ul>\n<li>Navigate to c:\\Program Files\\fastProject (or for 64-bit Windows c:\\Program Files (x86)\\fastProject)</li>\n</ul>\n<p>Navigate to c:\\Program Files\\fastProject (or for 64-bit Windows c:\\Program Files (x86)\\fastProject)</p>\n<ul>\n<li>Double click on the file Global.mpt</li>\n</ul>\n<p>Double click on the file Global.mpt</p>\n<ul>\n<li>A number of messages will appear. Ignore them by simply clicking OK, etc.</li>\n</ul>\n<p>A number of messages will appear. Ignore them by simply clicking OK, etc.</p>\n<ul>\n<li>When the messages stop, exit Microsoft Project</li>\n</ul>\n<p>When the messages stop, exit Microsoft Project</p>\n<ul>\n<li>Start fastProject again</li>\n</ul>\n<p>Start fastProject again</p>\n<p>fastProject should now open and register correctly.</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

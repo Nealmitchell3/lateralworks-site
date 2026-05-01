@@ -1,0 +1,32 @@
+{
+  "slug": "fastproject-4101-released",
+  "url": "https://lateralworks.com/tools/2020/7/20/fastproject-4101-released",
+  "title": "fastProject 4.10.1 Released",
+  "date": "July 19, 2020",
+  "dateISO": "2020-07-20",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Release Note",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<h2>General</h2>\n<ul>\n<li>Fixed setting a Target Date problem when dates are in UK date format (dd/mm/yyyy), where a Target date would default to today if was an invalid US date (e.g. 31/08/2020).</li>\n</ul>\n<p>Fixed setting a Target Date problem when dates are in UK date format (dd/mm/yyyy), where a Target date would default to today if was an invalid US date (e.g. 31/08/2020).</p>\n<ul>\n<li>Baselines Color changed to a light orangey-yellow to make it more visible Baseline bar for summary tasks now appears above the Summary bar (same as task bar). Note: you will need to update your Views: Tools &gt; Restore &gt; Restore Views</li>\n</ul>\n<p>Baselines</p>\n<ul>\n<li>Color changed to a light orangey-yellow to make it more visible</li>\n</ul>\n<p>Color changed to a light orangey-yellow to make it more visible</p>\n<ul>\n<li>Baseline bar for summary tasks now appears above the Summary bar (same as task bar). Note: you will need to update your Views: Tools &gt; Restore &gt; Restore Views</li>\n</ul>\n<p>Baseline bar for summary tasks now appears above the Summary bar (same as task bar). Note: you will need to update your Views: Tools &gt; Restore &gt; Restore Views</p>\n<h2>Critical path</h2>\n<ul>\n<li>Bug fixed where a critical path was not displayed if it started with a Touchpoint task (not a milestone)</li>\n</ul>\n<p>Bug fixed where a critical path was not displayed if it started with a Touchpoint task (not a milestone)</p>\n<h2>Update</h2>\n<ul>\n<li>Can now import a duration on a non-started task which has the effect of changing the duration in the schedule</li>\n</ul>\n<p>Can now import a duration on a non-started task which has the effect of changing the duration in the schedule</p>\n<ul>\n<li>Improved the scenario when no tasks are updated. The user is now informed that all tasks are updated to the current date and there is no additional dialog box to “quit” from.</li>\n</ul>\n<p>Improved the scenario when no tasks are updated. The user is now informed that all tasks are updated to the current date and there is no additional dialog box to “quit” from.</p>\n<ul>\n<li>Fixed bug when generating the PreFresh report if the lookahead number of days was greater than a few hundred</li>\n</ul>\n<p>Fixed bug when generating the PreFresh report if the lookahead number of days was greater than a few hundred</p>\n<ul>\n<li>Fixed bug where the “Last Update” info returned no results of run on the same day as an update and there were no in-progress tasks</li>\n</ul>\n<p>Fixed bug where the “Last Update” info returned no results of run on the same day as an update and there were no in-progress tasks</p>\n<ul>\n<li>Fixed problem where the number of days to Lookahead in the PreFresh report couldn’t be changed (shortcut added so can just double-click an manually enter a number) a new value</li>\n</ul>\n<p>Fixed problem where the number of days to Lookahead in the PreFresh report couldn’t be changed (shortcut added so can just double-click an manually enter a number) a new value</p>\n<h2>Analyzer</h2>\n<ul>\n<li>Added “Remove All Deadlines” option under the Negative Float test</li>\n</ul>\n<p>Added “Remove All Deadlines” option under the Negative Float test</p>\n<h2>Macro-micro Roll-up</h2>\n<ul>\n<li>Going to a task in the linked schedule now automatically displays the critical path to that task</li>\n</ul>\n<p>Going to a task in the linked schedule now automatically displays the critical path to that task</p>\n<ul>\n<li>Fixed bug where a non-started roll-up task that was part of a different schedule got it’s date constraint removed, putting it back to the beginning of the project</li>\n</ul>\n<p>Fixed bug where a non-started roll-up task that was part of a different schedule got it’s date constraint removed, putting it back to the beginning of the project</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

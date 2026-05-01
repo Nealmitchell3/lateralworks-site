@@ -1,0 +1,32 @@
+{
+  "slug": "activating-fastworks",
+  "url": "https://lateralworks.com/tools/2020/3/23/activating-fastworks",
+  "title": "Activating fastWorks",
+  "date": "March 22, 2020",
+  "dateISO": "2020-03-23",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Release Note",
+    "fastDecision Release Note",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "fastDecision",
+    "FastProject Concept",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<h2>Request a License Key</h2>\n<ul>\n<li>As part of activating fastWorks (fastProject &amp; fastDecision), you need to request a license key</li>\n</ul>\n<p>As part of activating fastWorks (fastProject &amp; fastDecision), you need to request a license key</p>\n<ul>\n<li>When received, please save this license key, as it can be used again if you change computers</li>\n</ul>\n<p>When received, please save this license key, as it can be used again if you change computers</p>\n<ul>\n<li>Now, start fastProject</li>\n</ul>\n<p>Now, start fastProject</p>\n<ul>\n<li>If fastProject starts on the “Start screen”, double-click Blank project to start a new project</li>\n</ul>\n<p>If fastProject starts on the “Start screen”, double-click Blank project to start a new project</p>\n<ul>\n<li>Click File &gt; fastProject Info (see screen below). NOTE : if you do not see fastProject Info, it may mean the Global.mpt file was not installed correctly. In this case, do the following: Exit fastProject/MS Project (if open) Open a File Explorer window and locate c:\\Program Files\\fastProject\\System and copy the Global.mpt file Open another File Explorer window and locate c:\\Users&lt;username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US If AppData is not visible, File Explorer &gt; View &gt; Show &gt; Hidden Items Paste the Global.mpt file copied earlier to this folder (ok to replace) Start fastProject &gt; start a blank project &gt; File &gt; fastProject Info</li>\n</ul>\n<p>Click File &gt; fastProject Info (see screen below). NOTE : if you do not see fastProject Info, it may mean the Global.mpt file was not installed correctly. In this case, do the following:</p>\n<ul>\n<li>Exit fastProject/MS Project (if open)</li>\n</ul>\n<p>Exit fastProject/MS Project (if open)</p>\n<ul>\n<li>Open a File Explorer window and locate c:\\Program Files\\fastProject\\System and copy the Global.mpt file</li>\n</ul>\n<p>Open a File Explorer window and locate c:\\Program Files\\fastProject\\System and copy the Global.mpt file</p>\n<ul>\n<li>Open another File Explorer window and locate c:\\Users&lt;username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US If AppData is not visible, File Explorer &gt; View &gt; Show &gt; Hidden Items</li>\n</ul>\n<p>Open another File Explorer window and locate c:\\Users&lt;username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US</p>\n<ul>\n<li>If AppData is not visible, File Explorer &gt; View &gt; Show &gt; Hidden Items</li>\n</ul>\n<p>If AppData is not visible, File Explorer &gt; View &gt; Show &gt; Hidden Items</p>\n<ul>\n<li>Paste the Global.mpt file copied earlier to this folder (ok to replace)</li>\n</ul>\n<p>Paste the Global.mpt file copied earlier to this folder (ok to replace)</p>\n<ul>\n<li>Start fastProject &gt; start a blank project &gt; File &gt; fastProject Info</li>\n</ul>\n<p>Start fastProject &gt; start a blank project &gt; File &gt; fastProject Info</p>\n<ul>\n<li>Click License Request to generate a unique code</li>\n</ul>\n<p>Click License Request to generate a unique code</p>\n<ul>\n<li>Use the Copy Button to copy and then send the code to <a href=\"mailto:contact@lateralworks.com\">contact@lateralworks.com</a></li>\n</ul>\n<p>Use the Copy Button to copy and then send the code to <a href=\"mailto:contact@lateralworks.com\">contact@lateralworks.com</a></p>\n<h2>Activate fastProject</h2>\n<ul>\n<li>On receipt of your license key, open fastProject</li>\n</ul>\n<p>On receipt of your license key, open fastProject</p>\n<ul>\n<li>Click File &gt; fastProject Info (see screen below)</li>\n</ul>\n<p>Click File &gt; fastProject Info (see screen below)</p>\n<ul>\n<li>Click Activate</li>\n</ul>\n<p>Click Activate</p>\n<ul>\n<li>Enter (or paste) the license key</li>\n</ul>\n<p>Enter (or paste) the license key</p>\n<h2>Activate fastDecision</h2>\n<ul>\n<li>Now open fastDecision</li>\n</ul>\n<p>Now open fastDecision</p>\n<ul>\n<li>Click File &gt; fastDecision Info (see screen below)</li>\n</ul>\n<p>Click File &gt; fastDecision Info (see screen below)</p>\n<ul>\n<li>Click Activate</li>\n</ul>\n<p>Click Activate</p>\n<ul>\n<li>Enter (or paste) the same license key</li>\n</ul>\n<p>Enter (or paste) the same license key</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1584986879075-U79MWMZ9A1SYPISYHVLS/fP+Code.JPG\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1584987271429-D208226FNVH3IXQRNN4M/fP+Activate.JPG\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1585072263068-RNMKL2906S4T94FGHQP9/fD+Activate.JPG\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 3
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "goals-and-objectives-drive-good-decision-models",
+  "url": "https://lateralworks.com/tools/2019/1/29/goals-and-objectives-drive-good-decision-models",
+  "title": "Goals and Objectives Drive Good Decision Models",
+  "date": "January 28, 2019",
+  "dateISO": "2019-01-29",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastDecision Concept",
+    "fP Release Note",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastDecision",
+    "FastProject Concept",
+    "fastProject",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>Seems like a no-brainier, but this obvious statement &quot;Goals and Objectives are key to effective decision models&quot; is not always followed or understood when people build decision models. Words are just words for some, but words are important (and their meaning) when structuring a good/logical model.</p>\n<p>Take for example the following models, one &quot;bad&quot; and the other &quot;good.&quot; Somewhat exaggerated to make the point. It has been sanitized for confidentiality reasons, yet even in this anemic form it begins to illustrate the point about how important goal and objective definitions are to creating a logical structure.</p>\n<p>There are two different models in this post (the first is the &quot;bad one&quot; and the second is an improved version).</p>\n<p>It is interesting that the first model lacks a goal statement. That is like building a car and not putting on the wheels. This step is the single most important step in the decision modeling process. My question is, &quot;what are the objectivesdesigned to achieve?&quot; With no Goal, how can the Objectives be validated? The logic goes like this; the GOAL provides the end-statement and should have an &quot;in order to...&quot; part, then the OBJECTIVES outline the measurement criteria for the goal (i.e. the milestones along the way to reaching the goal), and then the ALTERNATIVES list the ways to achieve the OBJECTIVES. If the OBJECTIVES are met then the GOAL should be achieved. The question then is what are the most important Objectives and how do these drive the prioritization of the Alternatives? Change the weighting on the Objectives and the Alternatives change in priority.</p>\n<p>Second model was an attempt to clean up the structure and follow the rule concept (above) for proper model construction.</p>\n<p>What is interesting is that the first model was started with Alternatives (first) and it looks like they spent a good deal of time on the Alternatives, but spent little time on Objectives and no time on the Goal. Totally backwards.</p>\n<p>But this is similar to how people typically build schedules, from the bottom-up. They dive right into the detail without understanding the context within which they are operating (i.e. forest for the tress problem). The GOAL and OBJECTIVE statements are the context for a decision model.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548813332159-K3XW59O2ZW3GHYE7IX0Q/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548813360200-H98FYMZ7QUGVMDE9OX7Y/image-asset.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 2
+}

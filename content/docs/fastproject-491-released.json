@@ -1,0 +1,32 @@
+{
+  "slug": "fastproject-491-released",
+  "url": "https://lateralworks.com/tools/2020/3/24/fastproject-491-released",
+  "title": "fastProject 4.9.1 Released",
+  "date": "March 23, 2020",
+  "dateISO": "2020-03-24",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProject Release Note",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastProject",
+    "FastProject Concept",
+    "fastDecision",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<h2>General</h2>\n<ul>\n<li>Filter Task/Filter 2 Tasks fixed</li>\n</ul>\n<p>Filter Task/Filter 2 Tasks fixed</p>\n<ul>\n<li>New filter added to filter on all incomplete tasks within a date range and no summaries</li>\n</ul>\n<p>New filter added to filter on all incomplete tasks within a date range and no summaries</p>\n<ul>\n<li>Modified unique code generation when requisition a license to avoid hidden characters</li>\n</ul>\n<p>Modified unique code generation when requisition a license to avoid hidden characters</p>\n<h2>Update</h2>\n<ul>\n<li>New (simpler and faster) PreFresh report along with a new improved (faster) PreFresh import (both default default and advanced)</li>\n</ul>\n<p>New (simpler and faster) PreFresh report along with a new improved (faster) PreFresh import (both default default and advanced)</p>\n<ul>\n<li>Improved LAR formatting when uploaded to Google Docs</li>\n</ul>\n<p>Improved LAR formatting when uploaded to Google Docs</p>\n<ul>\n<li>Added new function/filter in sub-menu: “Show tasks updated on”</li>\n</ul>\n<p>Added new function/filter in sub-menu: “Show tasks updated on”</p>\n<ul>\n<li>Fixed bug where the Start date of tasks with their Touchpoint flag set would get moved to their Finish date</li>\n</ul>\n<p>Fixed bug where the Start date of tasks with their Touchpoint flag set would get moved to their Finish date</p>\n<h2>Macro-Micro Roll-up</h2>\n<ul>\n<li>Fixed bug where the roll-up dates of a Summary task in the micro schedule were being reported as not matching with the macro due to a Target in the Summary task (specifically, when the Target was later than the finish date of the Summary)</li>\n</ul>\n<p>Fixed bug where the roll-up dates of a Summary task in the micro schedule were being reported as not matching with the macro due to a Target in the Summary task (specifically, when the Target was later than the finish date of the Summary)</p>\n<ul>\n<li>Fixed similar bug when the Target date was earlier than the start date of any subtask, and thus reported an incorrect start date of the roll-up summary task</li>\n</ul>\n<p>Fixed similar bug when the Target date was earlier than the start date of any subtask, and thus reported an incorrect start date of the roll-up summary task</p>\n<ul>\n<li>Fixed bug where the update date wasn’t recorded in the macro under some circumstances</li>\n</ul>\n<p>Fixed bug where the update date wasn’t recorded in the macro under some circumstances</p>\n<ul>\n<li>Fixed bug where the update date wasn’t updated in the micro</li>\n</ul>\n<p>Fixed bug where the update date wasn’t updated in the micro</p>\n<h2>Wigglechart</h2>\n<ul>\n<li>Spurious Black dots on the Wigglechart fixed</li>\n</ul>\n<p>Spurious Black dots on the Wigglechart fixed</p>\n<h2>Analyzer</h2>\n<ul>\n<li>Trend Analysis now extended to all tasks and can be based on a partial part of the task name</li>\n</ul>\n<p>Trend Analysis now extended to all tasks and can be based on a partial part of the task name</p>\n<ul>\n<li>Fixed problem where tasks exceeded from analysis were reported as errors for the tests Summary No Milestone and Skips End Milestone .</li>\n</ul>\n<p>Fixed problem where tasks exceeded from analysis were reported as errors for the tests Summary No Milestone and Skips End Milestone .</p>\n<ul>\n<li>Fixed bug where Roll-down touchpoints on tasks had their date changed by the schedule clean-up function, which ended up moving the start date of the task out to the Touchpoint date</li>\n</ul>\n<p>Fixed bug where Roll-down touchpoints on tasks had their date changed by the schedule clean-up function, which ended up moving the start date of the task out to the Touchpoint date</p>\n<h2>Inspector</h2>\n<ul>\n<li>Brand new Critical Path Analysis chart</li>\n</ul>\n<p>Brand new Critical Path Analysis chart</p>\n<ul>\n<li>Added ability to do a late report for All Targets in the schedule</li>\n</ul>\n<p>Added ability to do a late report for All Targets in the schedule</p>\n<ul>\n<li>Late Report: Now includes both Late Start and Late Finish - the Split Bar now snaps so all columns are displayed Fixed bug where all tasks were not displayed if the near-term critical paths mode was set</li>\n</ul>\n<p>Late Report:</p>\n<ul>\n<li>Now includes both Late Start and Late Finish - the Split Bar now snaps so all columns are displayed</li>\n</ul>\n<p>Now includes both Late Start and Late Finish - the Split Bar now snaps so all columns are displayed</p>\n<ul>\n<li>Fixed bug where all tasks were not displayed if the near-term critical paths mode was set</li>\n</ul>\n<p>Fixed bug where all tasks were not displayed if the near-term critical paths mode was set</p>\n<ul>\n<li>Fixed problem in the Critical Path Analysis chart where an incorrect Target could be displayed if the Wiggle milestone had Subprojects as a predecessor task.</li>\n</ul>\n<p>Fixed problem in the Critical Path Analysis chart where an incorrect Target could be displayed if the Wiggle milestone had Subprojects as a predecessor task.</p>\n<ul>\n<li>Fixed problem with the “Select Target” pop up box opening up when the number of targets is more that the max number of targets (currently set at 40)</li>\n</ul>\n<p>Fixed problem with the “Select Target” pop up box opening up when the number of targets is more that the max number of targets (currently set at 40)</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

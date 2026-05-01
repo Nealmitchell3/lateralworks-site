@@ -1,0 +1,32 @@
+{
+  "slug": "third-major-release-of-fastproject-analyzer",
+  "url": "https://lateralworks.com/tools/2022/9/21/third-major-release-of-fastproject-analyzer",
+  "title": "Third major release of fastProject Analyzer",
+  "date": "September 20, 2022",
+  "dateISO": "2022-09-21",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastProject",
+    "fP Release Note",
+    "fastDecision Concept",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "FastProject Concept",
+    "fastDecision",
+    "fastProject",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>The percentage rating is gone, because it didn&#39;t really mean much. For the core tests, it now binary, you either pass them (all) or fail if you fail one of them. All of these core tests are critical to the integrity of a proper critical path, thus they all need to pass. No failures in the core tests are acceptable.</p>\n<p><em>Overview of Analyzer 3.0</em></p>\n<p>Overview of Analyzer 3.0</p>\n<p>We also separated the critical tests from the “nice to have” tests as we found 14 tests where overwhelming. We identified the “MVP” (minimum viable) tests to make it easier for users to run the tests on a regular basis. We also implemented more automation behind the scene to fix problems that should just be automatically fixed, such as future updates.</p>\n<p>Download slides that outline the new Analyzer functions</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/c62b4dcb-744d-4dd7-8e97-68cc076f92c7/Screen+Shot+2022-09-21+at+9.10.57+AM.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 1
+}

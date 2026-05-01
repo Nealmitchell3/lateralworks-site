@@ -1,0 +1,3222 @@
+[
+  {
+    "slug": "compile-error-in-hidden-module-sheet3-when-running-the-wigglechart",
+    "title": "Compile error in hidden module: Sheet3 when running the Wigglechart",
+    "date": "June 9, 2025",
+    "dateISO": "2025-06-10",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "error-creating-a-wigglechart-on-sharepoint",
+    "title": "Error Creating a Wigglechart on Sharepoint",
+    "date": "May 5, 2025",
+    "dateISO": "2025-05-06",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "debugging-fastproject-installation-and-activation",
+    "title": "Debugging fastProject Installation and Activation",
+    "date": "April 21, 2025",
+    "dateISO": "2025-04-22",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "re-instaling-the-fastproject-global",
+    "title": "Re-instaling the fastProject Global",
+    "date": "December 5, 2024",
+    "dateISO": "2024-12-06",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4112-released",
+    "title": "fastProject 4.11.2 Released",
+    "date": "May 23, 2023",
+    "dateISO": "2023-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4113-released",
+    "title": "fastProject 4.11.3 Released",
+    "date": "May 23, 2023",
+    "dateISO": "2023-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4114-released",
+    "title": "fastProject 4.11.4 Released",
+    "date": "May 23, 2023",
+    "dateISO": "2023-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4115-released",
+    "title": "fastProject 4.11.5 Released",
+    "date": "May 23, 2023",
+    "dateISO": "2023-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "doneness-generator",
+    "title": "Doneness Generator",
+    "date": "May 22, 2023",
+    "dateISO": "2023-05-23",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 4
+  },
+  {
+    "slug": "third-major-release-of-fastproject-analyzer",
+    "title": "Third major release of fastProject Analyzer",
+    "date": "September 20, 2022",
+    "dateISO": "2022-09-21",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "fastproject-41010-released",
+    "title": "fastProject 4.10.10 Released",
+    "date": "May 23, 2021",
+    "dateISO": "2021-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4106-released",
+    "title": "fastProject 4.10.6 Released",
+    "date": "May 23, 2021",
+    "dateISO": "2021-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4107-released",
+    "title": "fastProject 4.10.7 Released",
+    "date": "May 23, 2021",
+    "dateISO": "2021-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4108-released",
+    "title": "fastProject 4.10.8 Released",
+    "date": "May 23, 2021",
+    "dateISO": "2021-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4109-released",
+    "title": "fastProject 4.10.9 Released",
+    "date": "May 23, 2021",
+    "dateISO": "2021-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4110-released",
+    "title": "fastProject 4.11.0 Released",
+    "date": "May 23, 2021",
+    "dateISO": "2021-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4111-released",
+    "title": "fastProject 4.11.1 Released",
+    "date": "May 23, 2021",
+    "dateISO": "2021-05-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "updated-fastproject-reporting",
+    "title": "Updated fastProject Reporting",
+    "date": "May 16, 2021",
+    "dateISO": "2021-05-17",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4105-released",
+    "title": "fastProject 4.10.5 Released",
+    "date": "April 21, 2021",
+    "dateISO": "2021-04-22",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4104-released",
+    "title": "fastProject 4.10.4 Released",
+    "date": "February 18, 2021",
+    "dateISO": "2021-02-19",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4103-released",
+    "title": "fastProject 4.10.3 Released",
+    "date": "November 30, 2020",
+    "dateISO": "2020-12-01",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-crashes-every-time-i-click-on-a-fastproject-tab",
+    "title": "fastProject crashes every time I click on a fastProject tab",
+    "date": "September 27, 2020",
+    "dateISO": "2020-09-28",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "fastproject-4102-released",
+    "title": "fastProject 4.10.2 Released",
+    "date": "September 8, 2020",
+    "dateISO": "2020-09-09",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-fix-due-to-recent-microsoft-project-update",
+    "title": "fastProject Fix Due To Recent Microsoft Project Update",
+    "date": "July 20, 2020",
+    "dateISO": "2020-07-21",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4101-released",
+    "title": "fastProject 4.10.1 Released",
+    "date": "July 19, 2020",
+    "dateISO": "2020-07-20",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastdecision-421-released",
+    "title": "fastDecision 4.2.1 Released",
+    "date": "June 22, 2020",
+    "dateISO": "2020-06-23",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastdecision-43-released",
+    "title": "fastDecision 4.3 Released",
+    "date": "June 22, 2020",
+    "dateISO": "2020-06-23",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4100-released",
+    "title": "fastProject 4.10.0 Released",
+    "date": "June 22, 2020",
+    "dateISO": "2020-06-23",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastdecision-42-released",
+    "title": "fastDecision 4.2 Released",
+    "date": "May 18, 2020",
+    "dateISO": "2020-05-19",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-492-released",
+    "title": "fastProject 4.9.2 Released",
+    "date": "May 18, 2020",
+    "dateISO": "2020-05-19",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastdecision-40-released",
+    "title": "fastDecision 4.0 Released",
+    "date": "March 23, 2020",
+    "dateISO": "2020-03-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastdecision-41-released",
+    "title": "fastDecision 4.1 Released",
+    "date": "March 23, 2020",
+    "dateISO": "2020-03-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-491-released",
+    "title": "fastProject 4.9.1 Released",
+    "date": "March 23, 2020",
+    "dateISO": "2020-03-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "activating-fastdecision",
+    "title": "Activating fastDecision",
+    "date": "March 22, 2020",
+    "dateISO": "2020-03-23",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "activating-fastproject",
+    "title": "Activating fastProject",
+    "date": "March 22, 2020",
+    "dateISO": "2020-03-23",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "activating-fastworks",
+    "title": "Activating fastWorks",
+    "date": "March 22, 2020",
+    "dateISO": "2020-03-23",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "fastDecision",
+      "FastProject Concept",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 3
+  },
+  {
+    "slug": "lateralworks",
+    "title": "lateralworks",
+    "date": "March 22, 2020",
+    "dateISO": "2020-03-23",
+    "author": "lateralworks",
+    "categories": [
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-490-released",
+    "title": "fastProject 4.9.0 Released",
+    "date": "January 30, 2020",
+    "dateISO": "2020-01-31",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "decisionaccelerator-420-released",
+    "title": "decisionAccelerator 4.20 Released",
+    "date": "October 27, 2019",
+    "dateISO": "2019-10-28",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "crystal-ball-or-early-warning-system",
+    "title": "Crystal Ball or Early Warning System?",
+    "date": "July 28, 2019",
+    "dateISO": "2019-07-29",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "decisionaccelerator-419-released",
+    "title": "decisionAccelerator 4.19 Released",
+    "date": "July 28, 2019",
+    "dateISO": "2019-07-29",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "daily-schedule-refresh",
+    "title": "Daily schedule refresh",
+    "date": "June 22, 2019",
+    "dateISO": "2019-06-23",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "a-target-date-focus-on-what-then-when",
+    "title": "A target date... Focus on WHAT then WHEN",
+    "date": "June 21, 2019",
+    "dateISO": "2019-06-22",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "criteria-versus-objective",
+    "title": "Criteria versus Objective",
+    "date": "June 21, 2019",
+    "dateISO": "2019-06-22",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Concept",
+      "fP Release Note",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "how-decision-model-goals-objectives-translate-to-a-schedule",
+    "title": "How decision model goals & objectives translate to a schedule",
+    "date": "June 21, 2019",
+    "dateISO": "2019-06-22",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 3
+  },
+  {
+    "slug": "keeping-schedule-refreshes-focused",
+    "title": "Keeping schedule refreshes focused",
+    "date": "June 21, 2019",
+    "dateISO": "2019-06-22",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "schedule-pull-in-makes-the-refresh-planning-process-work",
+    "title": "Schedule pull-in makes the Refresh Planning process work",
+    "date": "June 20, 2019",
+    "dateISO": "2019-06-21",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "horizontal-project-scoring",
+    "title": "Horizontal project scoring",
+    "date": "June 16, 2019",
+    "dateISO": "2019-06-17",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 5
+  },
+  {
+    "slug": "objectives-hierarchy",
+    "title": "Objectives Hierarchy",
+    "date": "June 16, 2019",
+    "dateISO": "2019-06-17",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Concept",
+      "fP Release Note",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 4
+  },
+  {
+    "slug": "pairwise-ranking-of-objectives-versus-simple-weighting",
+    "title": "Pairwise ranking of objectives versus simple weighting",
+    "date": "June 16, 2019",
+    "dateISO": "2019-06-17",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 3
+  },
+  {
+    "slug": "use-real-values-for-ranking-alternatives",
+    "title": "Use real values for ranking alternatives",
+    "date": "June 16, 2019",
+    "dateISO": "2019-06-17",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "fastproject-resources",
+    "title": "fastProject Resources",
+    "date": "May 22, 2019",
+    "dateISO": "2019-05-23",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "getting-started-with-decisionaccelerator",
+    "title": "Getting started with decisionAccelerator",
+    "date": "May 22, 2019",
+    "dateISO": "2019-05-23",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "decisionaccelerator-418-released",
+    "title": "decisionAccelerator 4.18 Released",
+    "date": "May 20, 2019",
+    "dateISO": "2019-05-21",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "decisionaccelerator-417-released",
+    "title": "decisionAccelerator 4.17 Released",
+    "date": "May 15, 2019",
+    "dateISO": "2019-05-16",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "decisionaccelerator-416-released",
+    "title": "decisionAccelerator 4.16 Released",
+    "date": "April 23, 2019",
+    "dateISO": "2019-04-24",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "decisionaccelerator-415-released",
+    "title": "decisionAccelerator 4.15 Released",
+    "date": "March 28, 2019",
+    "dateISO": "2019-03-29",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "decisionaccelerator-414-released",
+    "title": "decisionAccelerator 4.14 Released",
+    "date": "February 13, 2019",
+    "dateISO": "2019-02-14",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "the-ribbon-interface-on-fastproject-has-disappeared",
+    "title": "The Ribbon Interface on fastProject Has Disappeared",
+    "date": "February 7, 2019",
+    "dateISO": "2019-02-08",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "goals-and-objectives-drive-good-decision-models",
+    "title": "Goals and Objectives Drive Good Decision Models",
+    "date": "January 28, 2019",
+    "dateISO": "2019-01-29",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Concept",
+      "fP Release Note",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "fastproject-crashes-when-i-mouse-over-any-of-the-buttons-in-the-ribbon",
+    "title": "fastProject Crashes When I Mouse-over Any of the Buttons in the Ribbon",
+    "date": "January 27, 2019",
+    "dateISO": "2019-01-28",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "annotated-wigglechart",
+    "title": "Annotated Wigglechart",
+    "date": "January 26, 2019",
+    "dateISO": "2019-01-27",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "getting-the-objectives-right",
+    "title": "Getting the Objectives Right",
+    "date": "January 26, 2019",
+    "dateISO": "2019-01-27",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Concept",
+      "fP Release Note",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "macro-mind-mapping",
+    "title": "Macro Mind-Mapping",
+    "date": "January 26, 2019",
+    "dateISO": "2019-01-27",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "macro-micro-roll-up",
+    "title": "Macro-Micro Roll-up",
+    "date": "January 25, 2019",
+    "dateISO": "2019-01-26",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "cost-of-delay-1",
+    "title": "Cost-of-Delay (1)",
+    "date": "January 24, 2019",
+    "dateISO": "2019-01-25",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastROI Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution"
+    ],
+    "tags": [
+      "fastROI",
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "focus-on-2nd-critical-path",
+    "title": "Focus on 2nd Critical Path",
+    "date": "January 16, 2019",
+    "dateISO": "2019-01-17",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "getting-teams-fast---quickly",
+    "title": "Getting Teams Fast - Quickly",
+    "date": "January 16, 2019",
+    "dateISO": "2019-01-17",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "tracking-the-rate-of-completion",
+    "title": "Tracking the Rate of Completion",
+    "date": "January 16, 2019",
+    "dateISO": "2019-01-17",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 3
+  },
+  {
+    "slug": "using-agile-and-fastproject",
+    "title": "Using Agile and fastProject",
+    "date": "January 16, 2019",
+    "dateISO": "2019-01-17",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "critical-path-method-cpm-basics",
+    "title": "Critical Path Method (CPM) Basics",
+    "date": "January 15, 2019",
+    "dateISO": "2019-01-16",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "prioritizing-a-project-portfolio",
+    "title": "Prioritizing a Project Portfolio",
+    "date": "January 15, 2019",
+    "dateISO": "2019-01-16",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Concept",
+      "fP Release Note",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "refresh-planning",
+    "title": "Refresh Planning",
+    "date": "January 15, 2019",
+    "dateISO": "2019-01-16",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "the-long-pole",
+    "title": "The Long Pole",
+    "date": "January 15, 2019",
+    "dateISO": "2019-01-16",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "use-a-mission-statement-and-doneness-criteria-to-provide-a-check-and-balance",
+    "title": "Use a Mission Statement and Doneness Criteria to Provide a Check and Balance",
+    "date": "January 15, 2019",
+    "dateISO": "2019-01-16",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "using-decisionaccelerator-for-zero-based-budgeting",
+    "title": "Using decisionAccelerator for Zero-based Budgeting",
+    "date": "January 15, 2019",
+    "dateISO": "2019-01-16",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Concept",
+      "fP Release Note",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "common-cpm-scheduling-mistakes",
+    "title": "Common CPM Scheduling Mistakes",
+    "date": "January 14, 2019",
+    "dateISO": "2019-01-15",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "determine-your-version-of-excel",
+    "title": "Determine Your Version of Excel",
+    "date": "January 14, 2019",
+    "dateISO": "2019-01-15",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "determine-your-version-of-microsoft-project",
+    "title": "Determine Your Version of Microsoft Project",
+    "date": "January 14, 2019",
+    "dateISO": "2019-01-15",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "installing-solver-for-decisionaccelerator",
+    "title": "Installing Solver for decisionAccelerator",
+    "date": "January 14, 2019",
+    "dateISO": "2019-01-15",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "killing-excel-after-a-fastproject-error",
+    "title": "Killing Excel After a fastProject Error",
+    "date": "January 14, 2019",
+    "dateISO": "2019-01-15",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "prioritizing-alternatives-in-ahp",
+    "title": "Prioritizing Alternatives in AHP",
+    "date": "January 14, 2019",
+    "dateISO": "2019-01-15",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastDecision Concept",
+      "fP Release Note",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 4
+  },
+  {
+    "slug": "the-lookahead-report",
+    "title": "The Lookahead Report",
+    "date": "January 14, 2019",
+    "dateISO": "2019-01-15",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 6
+  },
+  {
+    "slug": "customize-the-lookahead-report",
+    "title": "Customize the Lookahead Report",
+    "date": "January 13, 2019",
+    "dateISO": "2019-01-14",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "fastproject-crashes-after-installing",
+    "title": "fastProject Crashes After Installing",
+    "date": "January 13, 2019",
+    "dateISO": "2019-01-14",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "import-a-lookahead-report",
+    "title": "Import a Lookahead Report",
+    "date": "January 13, 2019",
+    "dateISO": "2019-01-14",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "options-in-fastproject",
+    "title": "Options in fastProject",
+    "date": "January 13, 2019",
+    "dateISO": "2019-01-14",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "summary-tasks-in-microsoft-project",
+    "title": "Summary Tasks in Microsoft Project",
+    "date": "January 13, 2019",
+    "dateISO": "2019-01-14",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "copying-objectives-to-other-models",
+    "title": "Copying Objectives to Other Models",
+    "date": "January 12, 2019",
+    "dateISO": "2019-01-13",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "exclude-or-include-objectives",
+    "title": "Exclude or Include Objectives",
+    "date": "January 12, 2019",
+    "dateISO": "2019-01-13",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "generating-a-cost-benefit-curve",
+    "title": "Generating a Cost-Benefit Curve",
+    "date": "January 12, 2019",
+    "dateISO": "2019-01-13",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "baselines-in-fastproject",
+    "title": "Baselines in fastProject",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Concept",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "decision-mapping",
+    "title": "Decision Mapping",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "decisionaccelerator-use-cases",
+    "title": "decisionAccelerator Use Cases",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Concept",
+      "fP Release Note",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "diagonal-vs-vertical-y-axis-wigglecharts",
+    "title": "Diagonal vs Vertical Y-Axis Wigglecharts",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "dynamic-status-changes",
+    "title": "Dynamic Status Changes",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 3
+  },
+  {
+    "slug": "easily-add-action-items",
+    "title": "Easily Add Action Items",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 4
+  },
+  {
+    "slug": "easy-access-to-baselines",
+    "title": "Easy Access to Baselines",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "fastproject-process-flow",
+    "title": "fastProject Process Flow",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "introduction-to-decision-analysis-1",
+    "title": "Introduction to Decision Analysis (1)",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Concept",
+      "fP Release Note",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "introduction-to-decision-analysis-2",
+    "title": "Introduction to Decision Analysis (2)",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Concept",
+      "fP Release Note",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "modeling-using-decisionaccelerator",
+    "title": "Modeling using decisionAccelerator",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "proper-schedule-update-questions",
+    "title": "Proper Schedule Update Questions",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "refresh-planning-assessmentchecklist",
+    "title": "Refresh Planning Assessment/Checklist",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "resource-leveling",
+    "title": "Resource Leveling",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "review-update-results",
+    "title": "Review Update Results",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 2
+  },
+  {
+    "slug": "target-challenge-and-windows",
+    "title": "Target, Challenge, and Windows",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 9
+  },
+  {
+    "slug": "the-right-objectives",
+    "title": "The Right Objectives",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "touchpoints-checkpoints-and-deliverables",
+    "title": "Touchpoints, Checkpoints and Deliverables",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastProject Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "using-decisionaccelerator-constraints",
+    "title": "Using decisionAccelerator Constraints",
+    "date": "January 11, 2019",
+    "dateISO": "2019-01-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Function",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "decisionaccelerator-version-4130-released",
+    "title": "decisionAccelerator version 4.13.0 Released",
+    "date": "January 10, 2019",
+    "dateISO": "2019-01-11",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "FastProject Concept",
+      "fastDecision",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "decisionaccelerator-wont-run---macro-settings",
+    "title": "decisionAccelerator Won't Run - Macro Settings",
+    "date": "January 10, 2019",
+    "dateISO": "2019-01-11",
+    "author": "Neal Mitchell",
+    "categories": [
+      "fastDecision Solution",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Release Note",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastDecision",
+      "FastProject Concept",
+      "fastProject",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 1
+  },
+  {
+    "slug": "fastproject-4120-released",
+    "title": "fastProject 4.12.0 Released",
+    "date": "",
+    "dateISO": "",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4117-released",
+    "title": "fastProject 4.11.7 Released",
+    "date": "",
+    "dateISO": "",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4116-released",
+    "title": "fastProject 4.11.6 Released",
+    "date": "",
+    "dateISO": "",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProject Release Note",
+      "fP Release Note",
+      "fastDecision Concept",
+      "fastDecision Function",
+      "fastDecision Release Note",
+      "fastDecision Solution",
+      "fastProject",
+      "fastProject Concept",
+      "fastProject Function",
+      "fastProject Solution",
+      "fastROI Concept"
+    ],
+    "tags": [
+      "fastProject",
+      "FastProject Concept",
+      "fastDecision",
+      "fastROI"
+    ],
+    "excerpt": "",
+    "imageCount": 0
+  }
+]

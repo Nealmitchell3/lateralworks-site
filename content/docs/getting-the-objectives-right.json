@@ -1,0 +1,32 @@
+{
+  "slug": "getting-the-objectives-right",
+  "url": "https://lateralworks.com/tools/2019/1/27/getting-the-objectives-right",
+  "title": "Getting the Objectives Right",
+  "date": "January 26, 2019",
+  "dateISO": "2019-01-27",
+  "author": "Neal Mitchell",
+  "categories": [
+    "fastDecision Concept",
+    "fP Release Note",
+    "fastDecision Function",
+    "fastDecision Release Note",
+    "fastDecision Solution",
+    "fastProject",
+    "fastProject Concept",
+    "fastProject Function",
+    "fastProject Release Note",
+    "fastProject Solution",
+    "fastROI Concept"
+  ],
+  "tags": [
+    "fastDecision",
+    "FastProject Concept",
+    "fastProject",
+    "fastROI"
+  ],
+  "excerpt": "",
+  "content": "<p>In this screencast I’ll discuss the importance of getting the “Objectives” right in a decision model. The three core elements of a model are the Goal, the Objectives, and the Alternatives or choices. The Objectives in a model define what we want to achieve in order to reach the goal. I’ll show you an example in a minute.</p>\n<p>We’ve found that the Objectives are the most important part of the model and they need to be right. Many decisions we see lack clearly articulated Objectives or Criteria, by which to evaluate the Alternatives.</p>\n<p>Simply defining the Objectives and ranking them can be a reveling experience for a group of people. If you can reach agreement on the Objectives, it is easier to reach consensus on the Alternatives. Let me explain with this simple animation.</p>\n<p>We go through a pairwise comparison between each of the Objectives, indicated by my round white slider. With respect to the goal, I ask the group, “What is more important, the orange triangle or the green square?” Well, that’s easy, the orange triangle of course! The pairwise comparisons generate a lot of discussion when you do this with a group of stakeholders.</p>\n<p>I continue through the pairwise combination(s) on my little model. My Objectives are prioritized now with respect to which Objectives most contribute to the Goal. Later when we rank the Alternatives against each Objective, this weighting will influence the priority of the Alternatives. So it is important to get them right.</p>\n<p>Lets play the Mayor of Sacramento California for a few minutes. These are the objectives that Kevin Johnson described in his 2008 campaign materials. Of course though, these were not ranked in priority order, he said they were all equally important. But this is the problem, they aren’t. Their priority is a function of what you’re trying to achieve. Also, given diminishing resources, its time to prioritize. Lets do it now.</p>\n<p>Notice his measurement criteria for each Objective. So what is more important to making the city work, the economy or schools? Given the economic situation today I’ll moderately favor the economy over schools. Notice the consistency value is 96%. This is good, it should be above 80%. Inconsistency means I have contradicted myself with the judgments I’ve made if it fall bellow 80%. When I remember my campaign promises to focus on schools I’d better strongly favor the kids. Note my consistency went down.</p>\n<p>Lets continue the pairwise comparisons. Each judgment generates a new priority for each Objective. This is really a great group process that tends to generate lots of discussion and it causes people to share their views about what is important to them and why.</p>\n<p>I’ve fallen below the 80% consistency mark. Which judgment was the most inconsistent? The dark yellow cells are the most inconsistent, followed by the lighter yellow cells.</p>\n<p>Working through this creates better group understanding of the objectives and helps to refine their priority. The bottom of the window has the suggested judgment to improve consistency. We many not agree and would move to another inconsistent cell and evaluate that one until I am able to refine the judgments to the point that I improve my overall consistency rating.</p>\n<p>Notice I’m over 90% now. Look at how the priorities of the Objectives have changed. Looks like my focus now is to have a Green and Clean City where crime is low and we have an energy efficient government. I’ll resort them now. This means that the alternatives or in this case “initiatives” that contribute to a Greener Sacramento and crack down on crime will get high ratings.</p>\n<p>I can also force rank the Objectives and then have it calculate possible pairing values for the new ranking. Then I can use the pairwise to tweak it further. This saves time in group sessions. This refinement moved crime ahead of my environmental program.</p>\n<p>So in closing, defining and getting the Objectives right is critical to making a good decision model, which will improve the quality of the decision. President Obama recently said that if we can get the parties in the middle east to agree on the objectives we’ll be closer to reaching agreement on the possible solution alternatives. One Objective all sides agree on is the need for Security! Wonder what the others are in Secretary Clinton’s decision model, and how the stakeholders would prioritize their relative importance?</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}
