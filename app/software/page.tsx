@@ -1,10 +1,13 @@
 import Link from "next/link";
 import { software } from "@/content/site-data";
+import { getAllDocMeta } from "@/content/docs-utils";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = { title: "Software", description: software.hero.body };
 
 export default function SoftwarePage() {
+  const docCount = getAllDocMeta().length;
+
   return (
     <>
       <section className="bg-navy pt-32 pb-20 lg:pt-40 lg:pb-24">
@@ -43,6 +46,23 @@ export default function SoftwarePage() {
           </div>
         </section>
       ))}
+
+      <section className="bg-cream-dark py-20 lg:py-24">
+        <div className="max-w-8xl mx-auto px-6 lg:px-10">
+          <div className="max-w-3xl">
+            <div className="hairline pb-6 mb-8">
+              <p className="section-label mb-3">Documentation</p>
+              <h2 className="font-semibold tracking-tight text-navy text-3xl lg:text-4xl">{`${docCount} docs. Built by the team that builds the software.`}</h2>
+            </div>
+            <p className="text-base font-light text-ink-secondary leading-relaxed mb-8">
+              Software support documentation for fastProject, fastDecision, and fastROI users — release notes, common troubleshooting, configuration guides, and concept explanations. Searchable, filterable by product and document type.
+            </p>
+            <Link href="/docs" className="inline-block text-[12px] font-semibold tracking-wider uppercase px-7 py-4 bg-gold text-white hover:bg-gold-light transition-colors">
+              Browse Documentation →
+            </Link>
+          </div>
+        </div>
+      </section>
 
       <section className="bg-navy py-16 lg:py-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
