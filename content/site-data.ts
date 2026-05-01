@@ -121,32 +121,6 @@ export const home = {
     sectionLabel: "Ideas Library",
     headline: "166 articles. 36 years of thinking.",
     cta: { label: "Browse All Ideas →", href: "/ideas" },
-    featured: [
-      {
-        category: "Critical Path Analysis",
-        date: "Dec 2024",
-        title: "It's the second or third critical path that can sneak up and bite you",
-        href: "/ideas",
-      },
-      {
-        category: "Planning",
-        date: "Sep 2024",
-        title: "Positive vs Negative Buffer (i.e. Margin)",
-        href: "/ideas",
-      },
-      {
-        category: "FTTM Mindset",
-        date: "Oct 2019",
-        title: "Agile and FTTM",
-        href: "/ideas",
-      },
-      {
-        category: "Strategy",
-        date: "Oct 2019",
-        title: "The Norm — Why average performance is the enemy of fast",
-        href: "/ideas",
-      },
-    ],
   },
   academyCta: {
     badge: "New",

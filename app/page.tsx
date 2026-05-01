@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { home, team, siteConfig } from "@/content/site-data";
+import { getAllPostMeta } from "@/content/posts-utils";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -8,6 +9,8 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
+  const recentPosts = getAllPostMeta().slice(0, 4);
+
   return (
     <>
       {/* HERO */}
@@ -156,14 +159,14 @@ export default function HomePage() {
             </Link>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-px bg-border">
-            {home.ideasPreview.featured.map((article) => (
-              <Link key={article.title} href={article.href} className="bg-cream p-7 group card-hover block">
+            {recentPosts.map((post) => (
+              <Link key={post.slug} href={`/ideas/${post.slug}`} className="bg-cream p-7 group card-hover block">
                 <div className="flex items-center gap-3 mb-4">
-                  <span className="tag">{article.category}</span>
-                  <span className="text-[11px] font-light text-ink-muted">{article.date}</span>
+                  <span className="tag">{post.categories[0] || ""}</span>
+                  <span className="text-[11px] font-light text-ink-muted">{post.date}</span>
                 </div>
                 <h3 className="font-medium text-navy text-lg leading-snug group-hover:text-navy/70 transition-colors">
-                  {article.title}
+                  {post.title}
                 </h3>
               </Link>
             ))}
