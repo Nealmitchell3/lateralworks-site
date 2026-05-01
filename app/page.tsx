@@ -9,7 +9,9 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
-  const recentPosts = getAllPostMeta().slice(0, 4);
+  const allPosts = getAllPostMeta();
+  const recentPosts = allPosts.slice(0, 4);
+  const totalPosts = allPosts.length;
 
   return (
     <>
@@ -152,7 +154,7 @@ export default function HomePage() {
           <div className="flex items-end justify-between mb-12 hairline pb-6">
             <div>
               <p className="section-label mb-3">{home.ideasPreview.sectionLabel}</p>
-              <h2 className="font-semibold text-navy text-3xl lg:text-4xl" style={{ letterSpacing: "-0.02em" }}>{home.ideasPreview.headline}</h2>
+              <h2 className="font-semibold text-navy text-3xl lg:text-4xl" style={{ letterSpacing: "-0.02em" }}>{`${totalPosts} articles. 36 years of thinking.`}</h2>
             </div>
             <Link href={home.ideasPreview.cta.href} className="hidden sm:inline-block text-[11px] font-semibold tracking-[0.12em] uppercase text-gold hover:text-gold-light transition-colors whitespace-nowrap">
               {home.ideasPreview.cta.label}

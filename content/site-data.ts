@@ -119,7 +119,6 @@ export const home = {
   },
   ideasPreview: {
     sectionLabel: "Ideas Library",
-    headline: "166 articles. 36 years of thinking.",
     cta: { label: "Browse All Ideas →", href: "/ideas" },
   },
   academyCta: {
@@ -131,7 +130,7 @@ export const home = {
       { product: "fastProject", count: "40+ modules", topic: "Critical Path & Scheduling" },
       { product: "fastDecision", count: "20+ modules", topic: "Decision Modeling" },
       { product: "fastROI", count: "10+ modules", topic: "Business Case Modeling" },
-      { product: "FTTM Concepts", count: "166 articles", topic: "Methodology & Strategy" },
+      { product: "FTTM Concepts", count: "191 articles", topic: "Methodology & Strategy" },
     ],
   },
   finalCta: {
@@ -304,7 +303,7 @@ export const academy = {
     },
     {
       product: "FTTM Concepts",
-      count: "166 articles",
+      count: "191 articles",
       topic: "Methodology & Strategy",
       description: "The complete ideas library. Thirty-six years of research, organized and searchable.",
     },
