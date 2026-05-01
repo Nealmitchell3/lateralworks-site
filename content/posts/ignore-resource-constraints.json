@@ -1,0 +1,31 @@
+{
+  "slug": "ignore-resource-constraints",
+  "url": "https://lateralworks.com/ideas/2019/5/31/ignore-resource-constraints",
+  "title": "Ignore Resource Constraints",
+  "date": "May 30, 2019",
+  "dateISO": "2019-05-31",
+  "author": "Mark Edmonds",
+  "categories": [
+    "Planning",
+    "Critical Thinking",
+    "Decisions",
+    "Host",
+    "Innovation",
+    "Portfolio",
+    "Strategy",
+    "Systems",
+    "Team",
+    "VOC"
+  ],
+  "tags": [
+    "Critical Path Analysis",
+    "FTTM Mindset",
+    "Featured",
+    "Learning Cycles"
+  ],
+  "excerpt": "",
+  "content": "<p>FTTM Planning is counter intuitive: when we initially build out a schedule, we ignore resource constraints. Let’s explain this further.</p>\n<p>When we build the first macro model of a project, we will always ignore resource constraints. What we initially want to understand is what is the fastest time we can deliver this product to market. Not surprisingly, even ignoring  resource constraints, most projects are late before they even start - many are really late. Adding  resource constraints just makes the project even later, which doesn’t help solve the problem.</p>\n<p>So when we build out the initial schedule (again, ignoring resources), we focus on defining the structure and how we want to manage the flow, clearly defining the outcomes of the project and each intermediate deliverable (milestone) using what we call “doneness” criteria. When completed, we typically see a large gap between the target and the predicted completion date (driven by the critical path tasks). We then  focus on the tasks on the critical path and start pulling-in to close the gap. To get big pull-ins (usually needed), we focus on the more strategic aspects of the project such as re-defining the system, changing requirements, outsourcing, buy vs make, reuse vs new, eliminate, do concurrently and assume higher risk, etc.</p>\n<p>Sometimes we can get close enough to the target that we start refresh planning (updating and pulling-in the project on a weekly basis - but these pul-ins are normally measured in days and not weeks/months) and start tracking trends. Simultaneously, we use the schedule to determine the resources needed to execute the “fast” schedule (how many of what skill set and when). However, if we cannot get the resources, at some point we have to add the resource constraints to the schedule which then further pushes out the schedule. All is not lost however, because we can then use the float on tasks to manage the resource and task priorities, i.e.  tasks on the critical path and close to the critical path should be fully resourced, delaying those tasks that have plenty of float (but keeping an eye on them).</p>\n<p>Of course, if the gap to target is too large even ignoring resource constraints, and all ideas for acceleration have been exhausted, one should seriously consider killing the project. However, the point is if we included resources constraints during the initial planning, we would never know how fast we could really get, we would never know the resources required to execute to the fast schedule and we may never have considered the initial strategic pull-ins. In the end, the project would have ended up being late, and during the post-mortem (learnings), everyone would have complained that there were never enough resources. So let’s find this out in the beginning rather than the end…</p>\n<p>This is the FTTM method. It is unique, but this kind of thinking is what separates on-time vs late projects, even if it does sound counter-intuitive.</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

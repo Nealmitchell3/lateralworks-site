@@ -1,0 +1,31 @@
+{
+  "slug": "the-duration-game",
+  "url": "https://lateralworks.com/ideas/2019/1/17/duration-game",
+  "title": "The Duration Game",
+  "date": "January 16, 2019",
+  "dateISO": "2019-01-17",
+  "author": "Neal Mitchell",
+  "categories": [
+    "Planning",
+    "Critical Thinking",
+    "Decisions",
+    "Host",
+    "Innovation",
+    "Portfolio",
+    "Strategy",
+    "Systems",
+    "Team",
+    "VOC"
+  ],
+  "tags": [
+    "Critical Path Analysis",
+    "FTTM Mindset",
+    "Featured",
+    "Learning Cycles"
+  ],
+  "excerpt": "",
+  "content": "<p>Why break-down long duration activities that fall within the near-term planning window (i.e. next 2 months)? Following, is a discussion of why this is important and how best practice teams do it.</p>\n<p>I call it “the duration game” because it is one of the most common games we see played out between those that manage and those that do. I know you’ve seen this next example on your last project.</p>\n<p>We’ll call our actors “Bill-the-doer” and “Manager Bob.” Manager Bob asks Bill-the-doer, “How long will your design task take?” Bill responds, “20 days, I am certain of that.” Bob asks, “Are you sure?” Bill replies, “Sure.” Then Bob asks, “Can you do it in 15 days?” Bill then says, “Look Bob, are we done... I need to get back to work.” 5 days pass. Manager Bob asks Bill-the-doer, “So Bill, how are things going?” Bill says , “Great Bob.” Being more specific Bob asks, “How long before you’ll finish the design Bill?” Annoyed, Bill replies, “I don’t know, ah... 15 days I guess, and I need to get back to work.” Manager Bob records Bill’s information in his schedule and feels good because he’s on schedule. This pattern goes on for three weeks. Each time, Bill-the-doer provides Manager Bob what he thinks Bob wants, simple reassurance that everything is fine and he’s on schedule. What Bob doesn’t know, is that Bill has run into some unforeseen technical problems mid-way through the design task. But Bill figures he’ll have plenty of time to find a solution, given he has 20 days to figure it out. And besides he reasons, why get Manager Bob all upset over nothing, since last time he warned of a pending problem, he got hammered and accused of “not being a team player.” Bill decided this time to keep quiet. Now we come to day 20. Oops! Guess there is a problem. When Manager Bob asks Bill-the-doer, with great excitement in his voice, “So Bill, how’s the design... is it finished... can I see it? Silence... Followed by Bill’s explanation that, “Well Bob, we ran into some technical problems... and you know we’ve not done this design before.... and the resource that was promised me to help never materialized... and the spec. changed half way through...” and so on and so forth. Bob, visibly disappointed, asks in a sheepish voice, “How long then Bill before it will be done?” Bill responds, “Not sure, maybe 10 more days from now.” Of course Bill started slipping on day 1, but there was no way to see it. There were no deliverables earlier than the final one on day 20. The 20 days are lost and can’t be recovered. The only hope is to try and pull-in the remaining 10 days and mitigate the damage downstream.</p>\n<h2>Alternative, based on best practices of fast teams....</h2>\n<p>We’ll use our same actors, Manager Bob and Bill-the-doer, but this time they’ve been trained in the fast practices of high performance teams, where the schedule is used to find opportunities to collaboratively pull-in time and drive the project, rather than to micro manage people and find fault with past performance. This time Manager Bob says to Bill-the-doer, “Bill, lets break that 20 day design task down some more and see if there is a way to accelerate it. It’s on the critical path and we need to pull-in the overall schedule.” A more friendly Bill, responds, “Sure, I think I can do that. There are four 5-day tasks that I need to do to complete the design.” Bob asks, “Can any of these tasks be done in parallel?” Bill say, “The last verification task can be done while we are finishing the back-end coding.” Further, Bill says, “2-days before I finish the code we can start verification.” Bob records this in the schedule that they are both looking at projected on the wall of the conference room. They walk out of the room confident that their design will be done in 18 days. Bill feels like it’s his schedule. 5-days go by and Bob and Bill meet for the weekly Schedule Refresh meeting. Bob asks Bill about the first design task, “Did this start Bill?”...Bill says, “Yes.” Bob asks Bill, “When, and then is it done?” Bill says, “No, not complete yet.” Bob knows not to ask why. He knows “why it is not done” is of no value now, but rather that what’s more important is how much time is remaining and together can they find the lost time later down the critical path. Looking forward for pull-ins and innovations are a characteristic of best practice teams, while looking back and finding fault for failures are typical of slow and failing projects. So Bob asks for the remaining duration to which Bill responds, “3-days.” The schedule just slipped 3-days. What was 18-days is now 21-days. Bob and Bill’s focus, since they both “own” the schedule, is to look forward to the remaining time and look for an opportunity to do it differently in order to pull-back the schedule. They figure out that the second task can be started before the first task is completed. This pulled the lost three days back out of the schedule. The key work-flow technique here is to refresh the schedule; which means breaking down long duration tasks, updating in short increments, and then engaging the “doers” in finding innovative ways to accelerate the schedule. We’ve observed this with many fast teams around the world and have applied it ourselves as consultants working with our clients to deliver new products on or before the target date. The reward is exponentially higher ASP and Margin, and most importantly today... a more efficient use of resources.</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

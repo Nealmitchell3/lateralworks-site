@@ -1,0 +1,31 @@
+{
+  "slug": "decision-modeling---the-basics-3",
+  "url": "https://lateralworks.com/ideas/2019/1/27/decision-modeling-the-basics-3",
+  "title": "Decision Modeling - The Basics (3)",
+  "date": "January 26, 2019",
+  "dateISO": "2019-01-27",
+  "author": "Neal Mitchell",
+  "categories": [
+    "Decisions",
+    "Critical Thinking",
+    "Host",
+    "Innovation",
+    "Planning",
+    "Portfolio",
+    "Strategy",
+    "Systems",
+    "Team",
+    "VOC"
+  ],
+  "tags": [
+    "Critical Path Analysis",
+    "FTTM Mindset",
+    "Featured",
+    "Learning Cycles"
+  ],
+  "excerpt": "",
+  "content": "<p>In this screencast I’ll introduce you to a way to make decisions faster and more effectively.</p>\n<p>I’ll use a simple example of selecting a new car. Here are my three choices, a Porsche, a Lamborghini, and an electric car called Tesla.</p>\n<p>If these are my decision choices, then what criteria will I use to evaluate each of the alternatives? I have four selection criteria. Total cost of ownership, performance, design, and how the car will impact the environment.</p>\n<p>I know that these are not equal, that some of them are more important than others. The most important criteria will be the “drivers” that will most influence my selection. I do a pairwise comparison between each objective to prioritize them from the most to the least important criteria influencing my decision.</p>\n<p>In this case, environment is my most important criteria closely followed by design, then cost, and finally performance. These weighted objectives will be used later to rank my alternatives.</p>\n<p>So which car best satisfies my needs? To find this out, I use my four decision criteria to evaluate each car. For example, how well does the Porsche meet my environmental criteria in terms of fuel consumption. Since “environment” is my most important criteria, it will have the biggest impact on how the three cars are ranked. However, design is very close to environment in its weighted value. I rank each car against each criteria.</p>\n<p>Based on the priority of my needs and the ranking I gave each car against the four criterion, I have a winner and it’s the Porsche. This is the alternative that best meets my prioritized needs. It is the choice that balances my need for design and the environment.</p>\n<p>What if the priority of my criteria changed? What if performance became my most important need and my interest in being environmentally conscious dropped to the 4th position? Would this impact which car would win?</p>\n<p>The decision model will calculate the new winner as I dynamically change the priority of my decision criteria. When performance is more important the Lamborghini is the winner, Porsche drops to 2nd place, and the Tesla is last.</p>\n<p>This modeling process can be used for many different types of decisions. Broadly speaking these fall into three categories, yes/no choices, choosing among many alternatives, and prioritizing multiple alternatives.</p>\n<p>For example should we purchase company X, yes or no?</p>\n<p>We have a number of different business strategies; which one best fulfills our goals?</p>\n<p>I have a number of R&amp;D projects; which projects should we fund considering our finite resources, in order to meet our development objectives... and then which combination of projects generates the greatest benefit for the lowest level of investment?</p>\n<p>These are just a few of the ways you can use our decision modeling process to make decision-making more effective.</p>\n<p>Also See:</p>\n<p>Decision Modeling - The Basics (1)</p>\n<p>Decision Modeling - The Basics (2)</p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}

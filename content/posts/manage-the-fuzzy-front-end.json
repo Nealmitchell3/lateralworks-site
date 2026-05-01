@@ -1,0 +1,31 @@
+{
+  "slug": "manage-the-fuzzy-front-end",
+  "url": "https://lateralworks.com/ideas/2019/1/17/manage-the-fuzzy-front-end",
+  "title": "Manage the Fuzzy Front End",
+  "date": "January 16, 2019",
+  "dateISO": "2019-01-17",
+  "author": "Neal Mitchell",
+  "categories": [
+    "Host",
+    "Critical Thinking",
+    "Decisions",
+    "Innovation",
+    "Planning",
+    "Portfolio",
+    "Strategy",
+    "Systems",
+    "Team",
+    "VOC"
+  ],
+  "tags": [
+    "Critical Path Analysis",
+    "FTTM Mindset",
+    "Featured",
+    "Learning Cycles"
+  ],
+  "excerpt": "",
+  "content": "<p><em>Diverge and converge concept</em></p>\n<p>Diverge and converge concept</p>\n<p>The &quot;Fuzzy-Front-End&quot; is the time at the beginning of the development cycle. It is the point in time when an idea is conceived to when a project is approved and a full team is formed. Don Reinertsen said that &quot;fuzziness consumes time.&quot;</p>\n<p>Scott McNealy (then CEO at SUN) told me that their trick to reducing development cycle time, to half their competitor&#39;s time, was that they managed the fuzzy-front-end (FFE). He realized that 50-100% of the development cycle time was lost during what he called a poorly-managed and under-resourced process.</p>\n<p>Further, they recognized that when this process was managed, with a dedicated cross-functional team, they could get to the go-no/go decision much faster. SUN &quot;turned the clock on&quot; at the point where the idea was first discussed and they treated the early gestation period as part of the project to be managed and tracked and not something that &quot;came before the development project.&quot;</p>\n<p>In most technology companies the front end of the development process is typically left to under-staffed marketing resources that lack time and technical expertise to do the proper feasibility analysis (both technical and business) to define a product effectively. This time frame is where most of the critical technology and architectural decisions are made, along with the feature-set-definition for the eventual product (also called the &quot;release content&quot;). Yet it is run on a part-time basis in most cases, which directly results in extended gestation time (i.e. lost time).</p>\n<h2>There are big payoffs in better product definition and faster cycle time</h2>\n<p>Reconciling what is wanted with what a development team can deliver is the key. Managed (i.e. accelerated) FFE efforts have the following best practice characteristics:</p>\n<ul>\n<li>Dedicated FFE Cross-Functional Core Team members (engineering, marketing, finance)</li>\n</ul>\n<p>Dedicated FFE Cross-Functional Core Team members (engineering, marketing, finance)</p>\n<ul>\n<li>Selected &amp; prioritized target markets/customers (using decision analysis tools &amp; formal process for facilitation and group involvement)</li>\n</ul>\n<p>Selected &amp; prioritized target markets/customers (using decision analysis tools &amp; formal process for facilitation and group involvement)</p>\n<ul>\n<li>Defined business case (real, not fabricated) &amp; they know the cost-of-delay</li>\n</ul>\n<p>Defined business case (real, not fabricated) &amp; they know the cost-of-delay</p>\n<ul>\n<li>Preliminary Voice-of-the-customer (VOC) converted to prioritized customer requirements (again using decision analysis)</li>\n</ul>\n<p>Preliminary Voice-of-the-customer (VOC) converted to prioritized customer requirements (again using decision analysis)</p>\n<ul>\n<li>Reconciled requirements with the ability of the development group to execute</li>\n</ul>\n<p>Reconciled requirements with the ability of the development group to execute</p>\n<ul>\n<li>Managed the process (with a weekly refreshed schedule) -- when the FFE schedule slipped they could see the impact on FCS</li>\n</ul>\n<p>Managed the process (with a weekly refreshed schedule) -- when the FFE schedule slipped they could see the impact on FCS</p>\n<ul>\n<li>Properly resourced the effort and had a fast-cycle-time target (usually in less than 8 weeks)</li>\n</ul>\n<p>Properly resourced the effort and had a fast-cycle-time target (usually in less than 8 weeks)</p>\n<p>Also see:</p>\n<p>Smith and Reinertsen have one of the best descriptions of this idea (FFE) in their book &quot;Developing Products in Half the Time.&quot;</p>\n<p>Steven C. Wheelwright (HBS) has written extensively about the management of development projects during the concept stage, here is a list of some of his publications that are online.</p>\n<p>Preston Smith&#39;s site (New Product Dynamics)</p>\n<p>Don Reinertsen&#39;s site (Reinertsen &amp; Associates)</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547758408078-BCI5L3SDQPFXHL41T4JK/image-asset.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 1
+}

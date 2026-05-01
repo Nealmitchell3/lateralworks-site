@@ -1,0 +1,31 @@
+{
+  "slug": "reconcile-mktg-and-eng-what-we-want-vs-what-we-can-do",
+  "url": "https://lateralworks.com/ideas/2019/6/22/reconcile-mktg-and-eng-what-we-want-vs-what-we-can-do",
+  "title": "Reconcile MKTG and ENG... what we want vs. what we can do",
+  "date": "June 21, 2019",
+  "dateISO": "2019-06-22",
+  "author": "Neal Mitchell",
+  "categories": [
+    "Critical Thinking",
+    "Decisions",
+    "Host",
+    "Innovation",
+    "Planning",
+    "Portfolio",
+    "Strategy",
+    "Systems",
+    "Team",
+    "VOC"
+  ],
+  "tags": [
+    "Critical Path Analysis",
+    "FTTM Mindset",
+    "Featured",
+    "Learning Cycles"
+  ],
+  "excerpt": "",
+  "content": "<p><em>Product planning example</em></p>\n<p>Product planning example</p>\n<p>Recently, we’ve been working with a client to solve the classic problem between marketing and engineering functions; reconciling customer/market needs (i.e. requirements) with the budget and resource constraints of an already stretched engineering organization.</p>\n<p>How do you reconcile what is wanted by marketing/customers with what can be done by engineering with their available resources within the expected delivery time frame?</p>\n<p>Most organizations have formal product planning processes that identify customer requirements, translate them to product requirements, which then get translated into product specifications which are implemented in a new product design by an engineering team. This is usually a formal process that generates volumes of documents called PRDs and MRDs, and so on...</p>\n<p>But why, at the end of the day does this time consuming process result in the &quot;wrong&quot; products delivered late?</p>\n<p>We think this is because a critical step is missing, called reconciliation.The ball gets dropped between marketing and engineering functions. Reconciling product requirements with the operational capabilities of an engineering group typically falls between the cross-functional hand-offs in that place people call the &quot;white space.&quot; Marketing delivers the Product Requirements Document, Engineering then decides what they can or want to do and then does it.</p>\n<p>Rarely do they engage in an analysis of what can be done based on the resource and budget constraints of the engineering function. Most people want to avoid this conflict; being forced to deal with the discrepancies and being forced to make the trade-offs needed to make the product successful before-the-fact. This &#39;head in the sand&quot; behavior is more common than you&#39;d think. Since accountability for product success is dispersed across functions, it is hard to change the status-quo.</p>\n<p>The question is what requirements provide the greatest benefit (to the customer)?and which requirements can we deliver given our resource, time, and budget limitations?We&#39;ve found many times that it is an 80-20 answer, in that 20% of the requirements fulfill 80% of the benefits. Which are they and what resources are needed to get them done by a given target market entry date? The process we designed and implemented solves this problem though decision modeling and project planning processes.</p>\n<p>The process flow above (5-steps) illustrates the application of this idea. Decision-modeling is used in step 2 and 3 to define, in this case the stakeholders (customers), their relative importance, and a set of alternatives (requirements/needs/wants). The requirements are modeled using constraints to determine the prioritized list based on limitations of people, R&amp;D budget, dependencies, and technical risks. The cross-functional core team uses the FTTM planning process to map out the schedule and resources (over time) needed to achieve the product objectives by the expected market entry target date.</p>\n<p>Marketing and engineering functions are forced to reconcile what is committed tobe developed, withwho is available to do it, by a given point in time.This occurs at two stages, first using constraints to model which requirements can be done (based on resources and costs needed to development them) and second when the program is scheduled over time where the gap between the expected target delivery date is compared with the real schedule end date based on what it takes to get the work done. These two steps are critical iterations that cause marketing and engineering teams to reconcile what is actually going to get developed. The other important factor in bridging the cross-functional divide is through the use of a heavy-weight team structure.</p>\n<p>The key in program success is always setting the correct performance expectations from day-one within the management hierarchy and with customers and markets.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1561232628661-JUFZGMT0FJBGT68KBV6H/image-asset.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 1
+}

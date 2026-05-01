@@ -1,0 +1,31 @@
+{
+  "slug": "lateralworks",
+  "url": "https://lateralworks.com/ideas/2019/6/17/ig1990v8lmtt0cvyrsddlej8fufysv",
+  "title": "lateralworks",
+  "date": "June 16, 2019",
+  "dateISO": "2019-06-17",
+  "author": "Neal Mitchell",
+  "categories": [
+    "Portfolio",
+    "Critical Thinking",
+    "Decisions",
+    "Host",
+    "Innovation",
+    "Planning",
+    "Strategy",
+    "Systems",
+    "Team",
+    "VOC"
+  ],
+  "tags": [
+    "Critical Path Analysis",
+    "FTTM Mindset",
+    "Featured",
+    "Learning Cycles"
+  ],
+  "excerpt": "",
+  "content": "<p>Traditional &quot;project scoring&quot; systems we see are a list of projects in a spreadsheet scored against some sort of measurement criteria.</p>\n<p>Most project ranking schemes stop at the ranked list of projects, at best. The problem is that you never know if the prioritized list can be completed without knowing what resources it takes to get all the project done, satisfactorily.</p>\n<p>These &quot;constraints&quot; must be applied to the project portfolio to determine &quot;what can actually be done.&quot; A ranked list of projects is just the first step. This tells you what could be done, but not what can be donegiven available (and now &quot;diminishing&quot; in some organizations) resources. In addition to cost, material/equipment, and people constraints there are RISKS that need to be considered when selecting the optimal portfolio mix. Further, there are also the MUST HAVES that tend to override the basic logic of constraints. Without factoring in the constraints--just prioritizing projects in a portfolio is only 50% of the solution.</p>\n<p>In the example above you can see a simple illustration of a budget constraint being applied to my little project portfolio. I need $10,150,000, but I only have $9.5M. The model applied the constraints and dropped the lowest ranking project. Simple to illustrate the point, but this gets more interesting when more projects are added into the mix and other factors such as RISK and MUST HAVES are factored into the model.</p>\n<p>Most development portfolios have some form of prioritization applied in order to differentiate the most important projects in the mix. However, we rarely see the real constraints of the organization applied to the portfolio to determine what is actually going to get done within a given planning window (normally a 12 month planning window).</p>\n<p>Is it that senior managers have their &quot;head-in-the-sand&quot; and do not want to consider financial, resource, or risk constraints for fear that the gap in what is expected and what can be done will be &quot;exposed?&quot; We&#39;ve seen the proverbial &quot;10 lbs of flour is crammed into a 5 lb sack and have the 5 lbs that fall on the floor be ignored,&quot; development managers are then asked to &quot;stretch&quot; to the &quot;aggressive&quot; goals. Lots of hand-holding and group-think follows, and then &quot;team-building&quot; sessions in the really good organizations! Result... the gap is still there.</p>\n<p>What happens is that either all projects are started and all are late due to insufficient resources or a few projects are started and those are also delayed as scare resources are shifted between projects and the other un-started projects slip out to the next planning window--becoming possible casualties of technology obsolescence.</p>\n<p>The best-practice organizations prioritize projects assuming NO constraints (at first), to determine the right priority of projects (assuming they had the resources to do them) and then they apply constraints to determine the optimal mix , i.e. the greatest benefit (biggest-bang-for-the-buck). The projects that fall below the line are KILLED or delayed.</p>\n<p>Following is a great example of this cost-benefit analysis at play. For about $6.5M I can get 80% benefit (towards my objectives). So in this case I can actually spend less than $9.5M and achieve most of my goals.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1560811928668-7KYRFNOFVPW1JNWDOMHH/6a00e54efe8aa588340153900585b8970b-800wi.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1560811946071-PAIXSW3IDHF50VYALHHC/6a00e54efe8aa58834014e89f8dd6e970d-800wi.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 2
+}

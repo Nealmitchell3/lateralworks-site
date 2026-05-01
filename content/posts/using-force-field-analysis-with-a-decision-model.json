@@ -1,0 +1,31 @@
+{
+  "slug": "using-force-field-analysis-with-a-decision-model",
+  "url": "https://lateralworks.com/ideas/2019/1/29/using-force-field-analysis-with-a-decision-model",
+  "title": "Using Force Field Analysis with a Decision-Model",
+  "date": "January 28, 2019",
+  "dateISO": "2019-01-29",
+  "author": "Neal Mitchell",
+  "categories": [
+    "Decisions",
+    "Critical Thinking",
+    "Host",
+    "Innovation",
+    "Planning",
+    "Portfolio",
+    "Strategy",
+    "Systems",
+    "Team",
+    "VOC"
+  ],
+  "tags": [
+    "Critical Path Analysis",
+    "FTTM Mindset",
+    "Featured",
+    "Learning Cycles"
+  ],
+  "excerpt": "",
+  "content": "<p><em>force field analysis used on a new product development cycle time problem</em></p>\n<p>force field analysis used on a new product development cycle time problem</p>\n<p>This is an example of applying Force-Field Analysis (FFA) to a cycle time reduction problem. The idea is that you remove resisting force to create change (i.e. movement), rather than working on the driving forces. Remove resistance rather than push harder. This use of FFA is an example of how we used decision-modeling to determine where to focus an intervention effort to get the maximum return on the investment.</p>\n<h2>Prioritizing Resisting Forces</h2>\n<p>In this example, the goal was to reduce the new product development cycle time. The team identified all the driving and resisting forces to change.</p>\n<p><em>decision model</em></p>\n<p>decision model</p>\n<p>We developed a decision-model (above) in order to prioritize the most important resisting forces in order to focus our attention on trying to eliminate the things that would generate the greatest impact--in this case, cutting development cycle time.</p>\n<p>The business unit also had a series of Objectives they had to meet, such as increasing quality, margin, growing revenue, and refocusing into growth segments--in addition to reducing NPD cycle time. They prioritized the Objectives using pairwise comparisons. This resulted in weighting that would influence the ranking of the resisting forces.</p>\n<p>The team ranked each resisting force against each of the weighted Objectives in terms of the level of impact they had on helping to meet each Objective (above). They used a 9-3-1 QFD scale. This process generated the prioritized list of resisting forces above. They set the bar at 70%, which gave them six resisting forces to attack and eliminate. The next problem was how much would the improvement program cost, per resisting force change?</p>\n<h2>Cost-Benefit Analysis</h2>\n<p>They estimated effort for each improvement intervention which gave them a rough costing per resisting force. The total cost would have been $10M, they only had $6M. We did a cost-benefit analysis to determine which of these would generate the greatest benefit for the lowest investment.</p>\n<p>The costing analysis told us that we could get about 60% benefit with about a $2M investment. You can see the &quot;portfolio mix&quot; of restraining forces that could be funded for the $2M budget (4th column above). This now told us where to focus the improvement program. The idea was that if we could fix (i.e. eliminate) these resisting forces we could start to accelerate cycle time across the product portfolio--having a systemic impact. The next step was to do a risk assessment (below).</p>\n<h2>Risk Analysis</h2>\n<p>We did this for each of the &quot;projects&quot; listed in the $2M portfolio. A further analysis was done (not shown here) studying the impact of this RISK constraint on the portfolio mix. This risk assessment further narrowed down the target intervention projects as they were looking for the lowest risk and lowest cost projects that generated the greatest benefit. Next was a Potential Problem Analysis (PPA), part of which is shown below.</p>\n<h2>Potential Problem Analysis</h2>\n<p>The PPA permitted the team to drill down onto the factors that could/would impact their efforts to change these important systemic problems in the organization. The Preventive/Contingent Actions list provided the basis for the detailed projects plans that were used to manage the process improvement program.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548813002344-RIV3CQZ9TTM313IJLC2K/image-asset.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548813044041-BDSC20H937UJVATQ8UV7/image-asset.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548813081657-TCNZGN50ILSIDBE3EP46/image-asset.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548813106347-59BVWINVMHQG3TRGWCP9/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548813127453-YTLNNFCZTI2ZIKIO789X/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548813147951-FDE923N8TAPDGFE0EFYQ/image.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1548813165943-283ODJ63RCFS3IND6V1D/image.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 7
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "accelerate-transfer-to-manufacturing",
+  "url": "https://lateralworks.com/ideas/2019/1/19/accelerate-transfer-to-manufacturing",
+  "title": "Accelerate Transfer to Manufacturing",
+  "date": "January 18, 2019",
+  "dateISO": "2019-01-19",
+  "author": "Neal Mitchell",
+  "categories": [
+    "Planning",
+    "Critical Thinking",
+    "Decisions",
+    "Host",
+    "Innovation",
+    "Portfolio",
+    "Strategy",
+    "Systems",
+    "Team",
+    "VOC"
+  ],
+  "tags": [
+    "Critical Path Analysis",
+    "FTTM Mindset",
+    "Featured",
+    "Learning Cycles"
+  ],
+  "excerpt": "",
+  "content": "<p>For many years we have worked with clients on “process research and development projects.” These are characterized by projects to create (in most cases) bleeding edge manufacturing capability for a complex fabrication process.</p>\n<p>These have included process development projects on semiconductor IC node development (28nm, 22nm, 20nm, 14nm), different types of solar fabrication (essentially a derivative of semiconductor applications), biomedical and life science processes, MEMS, and even a quantum computer chip fabrication process where the max yield was expected to be a whopping 1% with a total volume of 10. In this case, the prototypes were the final product!</p>\n<p>Some of these projects have been in large multi-national corporations and many have involved small venture backed start-up teams trying to do what the big guys wouldn’t or couldn’t. It usually involved the simultaneous creation of new manufacturing tools, application of new materials research, bleeding edge manufacturing process, and development of factory and tool automation/information systems.</p>\n<p>They all shared a common attribute; the transfer demarkation line separating development and operations was rarely clear and poorly defined, the hand-off roles were unclear, and upstream research folks were usually unwilling to let go of their babies and give the process to operations; instead, always wanting to conduct that final improvement experiment to get a that final 1% increase in Yield, Performance, Cost Reduction, or Reliability.</p>\n<p>The problem was that the “1%” was in the diminishing returns part of the curveand the improvement rarely out weighed the benefit, but ended up costing a lot of time. Most never had the visibility to see the bigger picture and the context for the endless improvement cycles and how these eat up critical ramp time.</p>\n<p>Here is a problem statement we saw in one start-up:</p>\n<ul>\n<li>How to characterize the process to make it repeatable, in the fastest possible time frame?</li>\n</ul>\n<p>How to characterize the process to make it repeatable, in the fastest possible time frame?</p>\n<ul>\n<li>To enable it to scale-up to prove the economics of our investment</li>\n</ul>\n<p>To enable it to scale-up to prove the economics of our investment</p>\n<p>The problem is always to find a way to rapidly transition from the “lab” to the “fab,” it is especially hard when the technology involves expensive capital equipment where you are forced to bet a lot of money with very little information, because if you wait to have more information… you could miss a critical market/technology window. Large companies like Intel have a similar problem; just at an exponentially larger scale. It is relatively “easy” to make a few things in a lab, but much harder to make millions of them in a production fab at costs where you make money.</p>\n<p>The best teams make the transfer in about ⅓ of the overall project’s duration. They use the remaining ⅔’s to converge on the target production volume, yield, performance, and reliability. Failure to converge in time causes delay in the second phase (convergence).</p>\n<p>However, what happens many times is that development slips. The early experiments don’t yield the results that are expected or the current factory can’t produce fast enough learning cycles due to a problem of balancing R&amp;D products with the current revenue generating products in the factory. Or the fault is with the development team that has trouble converging and calling “done,” actually “done.” If we assume the standard one-third, two-thirds ratio, this slipping team still needs two-thirds of the time to converge. The result is a large schedule slip to the right.</p>\n<p>Technology tends to atrophy if it is left too long in a development organization, especially process development which is “never done” since it can “always be improved,” so the cyclical logic goes.</p>\n<p>FTTM teams (fast-time-to-market) use a system called “Accelerated Transfer.” They staff their transfer group early and involve them way up stream in development activities. They create the platform on which to receive the transfer and then force the transfer to happen sooner than development people are comfortable making. They, in effect, accelerate the pain and pull the technology through development and into operations (manufacturing).</p>\n<p>When a new process is forced to survive in the light of a harsh manufacturing environment, it tends to mature faster. Also, designers tend to design for manufacturability in this environment, rather than with a single focus on technology optimization (usually at the expense of manufacturability, reliability, and cost).</p>\n<p>By pushing if forward faster, they also get more cycles of learning in the operations environment. We’ve seen faster ramps and more rapid yield and reliability step-ups when Accelerated Transfer techniques are deployed.</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547918876081-I5LWLHEUMCFO8PT94R5P/image-asset.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547918905285-290VLP9CZ8QF6SR0OQ3Z/image-asset.png\" alt=\"Image\"></p>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1547918922672-1L6XHA3TX37KXW7ZJ70E/image-asset.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 3
+}

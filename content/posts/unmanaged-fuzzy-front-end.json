@@ -1,0 +1,31 @@
+{
+  "slug": "unmanaged-fuzzy-front-end",
+  "url": "https://lateralworks.com/ideas/2019/6/22/unmanaged-fuzzy-front-end",
+  "title": "Unmanaged fuzzy-front-end",
+  "date": "June 21, 2019",
+  "dateISO": "2019-06-22",
+  "author": "Neal Mitchell",
+  "categories": [
+    "VOC",
+    "Critical Thinking",
+    "Decisions",
+    "Host",
+    "Innovation",
+    "Planning",
+    "Portfolio",
+    "Strategy",
+    "Systems",
+    "Team"
+  ],
+  "tags": [
+    "Critical Path Analysis",
+    "FTTM Mindset",
+    "Featured",
+    "Learning Cycles"
+  ],
+  "excerpt": "",
+  "content": "<p><em>Manage the fuzzy front end</em></p>\n<p>Manage the fuzzy front end</p>\n<p>What is wanted versus what can be delivered? A failure to reconcile.</p>\n<p>Rarely are engineering resources involved in the critical step of reconciling what is wanted with what can be delivered. The Marketing (or product) Requirements Document (MRD or PRD) is written and basically &quot;tossed over the wall&quot; to Engineering, who also typically ignores what they are not interested in, or don&#39;t want to do, or don&#39;t have the resources to do... and at the end of the day the resulting product is a function of what can be done versus what is really needed (by the customer).</p>\n<p>Aligning the work effort to deliver the product that has been defined with the available resources is, in most cases, a missing step. Few want to deal with the problem that this &quot;information&quot; might cause!</p>\n<p>In many cases the front end of development is identified as a problem (i.e. takes too long and produces poor results), but not fixed. Why, given the compelling business reasons that cutting 50-100% off of overall cycle time could have? First, it is a question of ownership. Who owns this front-end process, marketing or engineering? When two people own anything, no one owns it in practice.</p>\n<p>Second, and more common from our experience is the lack of dedicated resources, because the resources that are needed for the FFE Project are stuck on the previous late development project and so on, the cycle just gets worse as more projects are added to the portfolio. In some cases we have seen managers &quot;not fix&quot; the problem since it provides a great excuse for poor performance later on... &quot;we tried the best we could with what we had...&quot; I don&#39;t think this is a conscious decision on their part, but in the end this is what is happening.</p>\n<p>The biggest problem with poor FFE management is that the wrong product can be defined and the critical step of reconciling what is wanted with what can be doneis missed (i.e. in the white space between marketing and engineering teams). Yet, it is normal for the first-customer-chip (FCS) date to remain fixed even though the front end work was delayed. In the end, the engineering team has to &quot;eat it,&quot; which further compromises the product later on through trade-offs made to meet the &quot;aggressive&quot; target date.</p>\n<p>Properly managed fuzzy-front-endsyield these results (composite example from multiple clients):</p>\n<ul>\n<li>We are managing it, rather than letting it “self-manage”</li>\n</ul>\n<p>We are managing it, rather than letting it “self-manage”</p>\n<ul>\n<li>We&#39;ve put a “refreshed” schedule to it -- are driving faster cycle time</li>\n</ul>\n<p>We&#39;ve put a “refreshed” schedule to it -- are driving faster cycle time</p>\n<ul>\n<li>FFE schedule will evolve into the full program schedule to FCS, first time we&#39;ve had an integrated end-to-end schedule of the program</li>\n</ul>\n<p>FFE schedule will evolve into the full program schedule to FCS, first time we&#39;ve had an integrated end-to-end schedule of the program</p>\n<ul>\n<li>Better quality information with which to make decisions &amp; commitments</li>\n</ul>\n<p>Better quality information with which to make decisions &amp; commitments</p>\n<ul>\n<li>We have a transparent process for requirements prioritization &amp; reconciliation: with customers and between engineering &amp; marketing</li>\n</ul>\n<p>We have a transparent process for requirements prioritization &amp; reconciliation: with customers and between engineering &amp; marketing</p>\n<ul>\n<li>A way to recognize &quot;constraints,&quot; to set proper expectations of what we can actual do within the time frame given our existing resource constraints</li>\n</ul>\n<p>A way to recognize &quot;constraints,&quot; to set proper expectations of what we can actual do within the time frame given our existing resource constraints</p>\n<ul>\n<li>A link back to our portfolio prioritization system</li>\n</ul>\n<p>A link back to our portfolio prioritization system</p>\n<hr>\n<h2>Images</h2>\n<p><img src=\"https://images.squarespace-cdn.com/content/v1/5c241a87cef3721586f5829a/1561232060504-WLFKT8WJ3Q59ZFHM553I/Screen+Shot+2019-06-22+at+12.31.05+PM.png\" alt=\"Image\"></p>\n",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 1
+}
