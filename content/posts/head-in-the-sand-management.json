@@ -24,7 +24,7 @@
     "Learning Cycles"
   ],
   "excerpt": "",
-  "content": "<p>We’ve observed two types of project environments; one where people seem to have their head’s in the sand; they try to avoid looking into the future for fear they may find potential problems, and another type on fast projects where they design-in an “early warning system,” so they can quickly identify future failures while they have time to prevent or fix them.</p>\n<p>This has been our experience on hundreds of FTTM (fast-time-to-market) projects around the world. This simple screencast tells the story of two “dots;” and it’s not that exaggerated from real life situations we’ve observed.</p>\n",
+  "content": "<div>\n  <p class=\"\">We’ve observed two types of project environments; one where people seem to have their head’s in the sand; they try to avoid looking into the future for fear they may find potential problems, and another type on fast projects where they design-in an “early warning system,” so they can quickly identify future failures while they have time to prevent or fix them.</p><p class=\"\">This has been our experience on hundreds of FTTM (fast-time-to-market) projects around the world. This simple screencast tells the story of two “dots;” and it’s not that exaggerated from real life situations we’ve observed.</p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0

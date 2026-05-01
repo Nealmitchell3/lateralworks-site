@@ -212,3 +212,25 @@ a { transition: color 0.15s ease, opacity 0.15s ease; }
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* ── Post body figures ────────────────────────────────────── */
+.post-content figure {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.post-content figure img {
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--border);
+}
+
+.post-content figcaption {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--ink-muted);
+  text-align: center;
+  line-height: 1.5;
+}
