@@ -252,7 +252,7 @@ export const methodology = {
 export const software = {
   hero: {
     label: "Software",
-    headline: "fastWorks Suite",
+    headline: "fastProjectAI Suite",
     subhead: "FTTM methodology, operationalized in Microsoft Office.",
     body: "fastProject, fastDecision, and fastROI are Office add-ins that bring FTTM methodology directly into the tools your team already uses. Version 4.12, actively maintained.",
   },
