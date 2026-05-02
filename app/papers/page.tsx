@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import { getAllPapers, getAllSeries, getPapersBySeries, formatPaperDate } from "@/content/papers-utils";
 import type { Metadata } from "next";
 
@@ -90,7 +89,7 @@ export default function PapersPage({ searchParams }: Props) {
                   <div className="shrink-0 sm:w-44">
                     <a href={paper.pdf} target="_blank" rel="noopener noreferrer"
                        className="block border border-border hover:border-navy transition-colors bg-white">
-                      <Image
+                      <img
                         src={paper.thumb}
                         alt={`Cover of ${paper.title}`}
                         width={160}
