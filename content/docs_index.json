@@ -1008,34 +1008,6 @@
     "imageCount": 3
   },
   {
-    "slug": "lateralworks",
-    "title": "lateralworks",
-    "date": "March 22, 2020",
-    "dateISO": "2020-03-23",
-    "author": "lateralworks",
-    "categories": [
-      "fP Release Note",
-      "fastDecision Concept",
-      "fastDecision Function",
-      "fastDecision Release Note",
-      "fastDecision Solution",
-      "fastProject",
-      "fastProject Concept",
-      "fastProject Function",
-      "fastProject Release Note",
-      "fastProject Solution",
-      "fastROI Concept"
-    ],
-    "tags": [
-      "FastProject Concept",
-      "fastDecision",
-      "fastProject",
-      "fastROI"
-    ],
-    "excerpt": "",
-    "imageCount": 0
-  },
-  {
     "slug": "fastproject-490-released",
     "title": "fastProject 4.9.0 Released",
     "date": "January 30, 2020",
