@@ -105,7 +105,9 @@ export default function PostPage({ params }: Props) {
                   <p className="text-[10px] font-semibold uppercase tracking-[0.15em] text-ink-muted mb-3">Tags</p>
                   <div className="flex flex-wrap gap-2">
                     {post.tags.map((tag) => (
-                      <span key={tag} className="tag">{tag}</span>
+                      <Link key={tag} href={`/ideas?category=${encodeURIComponent(tag)}`} className="tag hover:border-navy hover:text-navy transition-colors">
+                        {tag}
+                      </Link>
                     ))}
                   </div>
                 </div>
