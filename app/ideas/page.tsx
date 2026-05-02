@@ -113,9 +113,11 @@ export default function IdeasPage({ searchParams }: Props) {
                   className="flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-10 py-8 group">
                   <div className="shrink-0 sm:w-44">
                     <p className="text-[11px] font-light text-ink-muted mb-2">{post.date}</p>
-                    {post.categories?.slice(0, 2).map((cat) => (
-                      <span key={cat} className="tag block w-fit mb-1">{cat}</span>
-                    ))}
+                    <div className="flex flex-col gap-1.5 items-start">
+                      {post.categories?.map((c) => (
+                        <span key={c} className="tag w-fit">{c}</span>
+                      ))}
+                    </div>
                   </div>
                   <div className="flex-grow min-w-0">
                     <h2 className="font-semibold text-navy text-xl leading-snug mb-2 group-hover:text-navy/70 transition-colors"
