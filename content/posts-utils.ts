@@ -45,16 +45,30 @@ export function getAllCategories(): string[] {
   return Array.from(cats).sort();
 }
 
+// Unique tags
+export function getAllTags(): string[] {
+  const posts = getAllPostMeta();
+  const tags = new Set<string>();
+  posts.forEach((p) => p.tags?.forEach((t) => tags.add(t)));
+  return Array.from(tags).sort();
+}
+
 export const POSTS_PER_PAGE = 20;
 
 export function getPostsByPage(
   page: number,
-  category?: string
+  category?: string,
+  tag?: string
 ): { posts: PostMeta[]; totalPages: number; total: number } {
   let posts = getAllPostMeta();
   if (category) {
     posts = posts.filter((p) =>
       p.categories?.some((c) => c.toLowerCase() === category.toLowerCase())
+    );
+  }
+  if (tag) {
+    posts = posts.filter((p) =>
+      p.tags?.some((t) => t.toLowerCase() === tag.toLowerCase())
     );
   }
   const total = posts.length;

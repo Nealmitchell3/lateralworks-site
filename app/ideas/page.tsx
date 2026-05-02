@@ -8,16 +8,30 @@ export const metadata: Metadata = {
 };
 
 interface Props {
-  searchParams: { category?: string; page?: string };
+  searchParams: { category?: string; tag?: string; page?: string };
 }
 
 export default function IdeasPage({ searchParams }: Props) {
   const category = searchParams.category || "";
+  const tag = searchParams.tag || "";
   const page = Math.max(1, parseInt(searchParams.page || "1", 10));
 
-  const { posts, totalPages, total } = getPostsByPage(page, category);
+  const { posts, totalPages, total } = getPostsByPage(page, category, tag);
   const categories = getAllCategories();
   const hasPosts = posts.length > 0;
+
+  const filterQS = [
+    category ? `category=${encodeURIComponent(category)}` : null,
+    tag ? `tag=${encodeURIComponent(tag)}` : null,
+  ].filter(Boolean).join("&");
+  const pageHref = (n: number) => `/ideas?${filterQS ? filterQS + "&" : ""}page=${n}`;
+
+  const heroHeadline =
+    total > 0 && tag && !category
+      ? `${total} articles tagged "${tag}".`
+      : total > 0
+        ? `${total} articles. 36 years of thinking.`
+        : "Ideas. 36 years of thinking.";
 
   return (
     <>
@@ -27,7 +41,7 @@ export default function IdeasPage({ searchParams }: Props) {
           <p className="section-label mb-6">Ideas</p>
           <h1 className="font-semibold text-white text-5xl lg:text-6xl xl:text-7xl mb-6 max-w-3xl"
             style={{ letterSpacing: "-0.025em", lineHeight: 1.08 }}>
-            {total > 0 ? `${total} articles.` : "Ideas."} 36 years of thinking.
+            {heroHeadline}
           </h1>
           <p className="text-base font-light text-white/60 max-w-2xl leading-relaxed">
             Research findings, methodology insights, and practical guidance accumulated
@@ -66,6 +80,18 @@ export default function IdeasPage({ searchParams }: Props) {
               <div>
                 <p className="section-label mb-1">Category</p>
                 <h2 className="font-semibold text-navy text-2xl">{category}</h2>
+              </div>
+              <Link href="/ideas" className="text-[11px] font-semibold tracking-[0.12em] uppercase text-ink-muted hover:text-navy transition-colors">
+                ← All Ideas
+              </Link>
+            </div>
+          )}
+
+          {tag && (
+            <div className="mb-8 pb-6 hairline flex items-center justify-between">
+              <div>
+                <p className="section-label mb-1">Tag</p>
+                <h2 className="font-semibold text-navy text-2xl">{tag}</h2>
               </div>
               <Link href="/ideas" className="text-[11px] font-semibold tracking-[0.12em] uppercase text-ink-muted hover:text-navy transition-colors">
                 ← All Ideas
@@ -117,7 +143,7 @@ export default function IdeasPage({ searchParams }: Props) {
             <div className="flex items-center justify-between pt-10 mt-8 hairline">
               <div>
                 {page > 1 && (
-                  <Link href={`/ideas?${category ? `category=${encodeURIComponent(category)}&` : ""}page=${page - 1}`}
+                  <Link href={pageHref(page - 1)}
                     className="text-[11px] font-semibold tracking-[0.12em] uppercase text-navy hover:text-gold transition-colors">
                     ← Previous
                   </Link>
@@ -126,7 +152,7 @@ export default function IdeasPage({ searchParams }: Props) {
               <p className="text-[12px] font-light text-ink-muted">Page {page} of {totalPages} · {total} articles</p>
               <div>
                 {page < totalPages && (
-                  <Link href={`/ideas?${category ? `category=${encodeURIComponent(category)}&` : ""}page=${page + 1}`}
+                  <Link href={pageHref(page + 1)}
                     className="text-[11px] font-semibold tracking-[0.12em] uppercase text-navy hover:text-gold transition-colors">
                     Next →
                   </Link>
@@ -138,7 +164,7 @@ export default function IdeasPage({ searchParams }: Props) {
           {hasPosts && totalPages <= 1 && (
             <div className="hairline pt-8 mt-8">
               <p className="text-sm font-light text-ink-muted">
-                {total} article{total !== 1 ? "s" : ""}{category ? ` in ${category}` : ""}.
+                {total} article{total !== 1 ? "s" : ""}{category ? ` in ${category}` : ""}{tag ? ` tagged "${tag}"` : ""}.
               </p>
             </div>
           )}

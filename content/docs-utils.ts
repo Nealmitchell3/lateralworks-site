@@ -40,16 +40,29 @@ export function getAllDocCategories(): string[] {
   return Array.from(cats).sort();
 }
 
+export function getAllDocTags(): string[] {
+  const docs = getAllDocMeta();
+  const tags = new Set<string>();
+  docs.forEach(d => d.tags?.forEach(t => tags.add(t)));
+  return Array.from(tags).sort();
+}
+
 export const DOCS_PER_PAGE = 20;
 
 export function getDocsByPage(
   page: number,
-  category?: string
+  category?: string,
+  tag?: string
 ): { docs: DocMeta[]; totalPages: number; total: number } {
   let docs = getAllDocMeta();
   if (category) {
     docs = docs.filter(d =>
       d.categories?.some(c => c.toLowerCase() === category.toLowerCase())
+    );
+  }
+  if (tag) {
+    docs = docs.filter(d =>
+      d.tags?.some(t => t.toLowerCase() === tag.toLowerCase())
     );
   }
   const total = docs.length;
