@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { results } from "@/content/site-data";
+import CaseStudiesTeaser from "@/components/CaseStudiesTeaser";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = { title: "Results", description: results.hero.body };
@@ -37,6 +38,8 @@ export default function ResultsPage() {
           </div>
         </section>
       ))}
+
+      <CaseStudiesTeaser />
 
       <section className="bg-navy py-16 lg:py-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
