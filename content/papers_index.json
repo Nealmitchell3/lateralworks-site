@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "fastprojectai-dashboard",
+    "title": "fastProjectAI Project Portfolio Dashboard",
+    "subtitle": "Aggregating live project schedules into a single leadership view",
+    "series": "FTTM Toolkit",
+    "type": "Synthesis paper",
+    "date": "2026-05-01",
+    "pages": 29,
+    "core_thesis": "Most leadership teams running multiple programs cannot see their portfolio in time to act. fastProjectAI fixes this by aggregating live wigglechart data the PMs already maintain \u2014 surfacing the small number of projects that need attention this week, not the long tail that does not.",
+    "abstract": "How leadership teams running multiple new-product programs can replace status-report theater with live, exception-based portfolio visibility \u2014 drawn from data their PMs already maintain as part of FTTM planning. Walks through the architecture, the filtering model, the free-data argument, a worked example from a site-deployment program, and an LLM-driven cross-portfolio pattern detection layer.",
+    "pdf": "/papers/fastprojectai-dashboard.pdf",
+    "thumb": "/papers/thumbs/fastprojectai-dashboard.png"
+  },
+  {
+    "slug": "fttm-process-maturity",
+    "title": "FTTM Process Maturity",
+    "subtitle": "A framework for measuring and improving team performance",
+    "series": "FTTM Methodology",
+    "type": "Methodology paper",
+    "date": "2026-04-29",
+    "pages": 23,
+    "core_thesis": "A team\u2019s schedule maturity is observable, measurable, and migratable. Teams move through four levels \u2014 from ML0 (no schedule) to ML3 (active acceleration) \u2014 by changing specific behaviors in the weekly refresh. Knowing where a team sits on this curve is the prerequisite to changing it.",
+    "abstract": "A measurement framework for the FTTM methodology, with definitions of the four maturity levels, a 30-criterion self-assessment scorecard, migration guidance, and the seven factors that determine how quickly teams advance. Near-relative of the Capability Maturity Model from Carnegie Mellon\u2019s Software Engineering Institute, focused specifically on the weekly schedule refresh and explicitly connecting maturity to acceleration.",
+    "pdf": "/papers/fttm-process-maturity.pdf",
+    "thumb": "/papers/thumbs/fttm-process-maturity.png"
+  },
+  {
+    "slug": "host-best-practices",
+    "title": "Host best practices",
+    "subtitle": "How executives create the conditions for fast product development",
+    "series": "FTTM Methodology",
+    "type": "Revised edition",
+    "date": "2026-04-27",
+    "pages": 48,
+    "core_thesis": "Teams deliver products; the host creates the conditions under which they deliver fast. Fix the host and speed becomes the default. Leave the host alone and team-level improvement fades within a year.",
+    "abstract": "The 13 host practices that lateralworks has found, across more than three decades of consulting with technology companies, separate fast organizations from slow ones. The practices fall into three groups: the mindset executives hold about speed, the environment they build around teams, and the portfolio of projects they manage. Each practice is presented as a contrast: what normal organizations do, and what fast ones do differently. Includes an anonymized storage-technology case study and an empowerment matrix.",
+    "pdf": "/papers/host-best-practices.pdf",
+    "thumb": "/papers/thumbs/host-best-practices.png"
+  },
+  {
+    "slug": "team-best-practices",
+    "title": "Team best practices",
+    "subtitle": "How fast teams get the right product to market at the right time",
+    "series": "FTTM Methodology",
+    "type": "Companion edition",
+    "date": "2026-04-27",
+    "pages": 31,
+    "core_thesis": "A fast team organizes itself around the customer (right-product), assembles the smallest competent group of role-owners (right-team), and uses its schedule as the primary tool for driving decisions and exposing gaps (right-time). Inside a provisioning host, these 15 practices cut time-to-market by 30 to 50 percent.",
+    "abstract": "The 15 team practices that operate inside a healthy host. Right-product covers six practices for getting the team to a product customers actually want and will pay for. Right-team covers two practices for turning a roster of names into a team that can deliver. Right-time covers seven practices for turning a schedule from a reporting artifact into a tool the team uses every day. Companion to Host best practices.",
+    "pdf": "/papers/team-best-practices.pdf",
+    "thumb": "/papers/thumbs/team-best-practices.png"
+  },
+  {
+    "slug": "innovation-paradox",
+    "title": "Managing up, managing down, and the innovation paradox",
+    "subtitle": "Why senior-manager failure modes kill the innovation their organizations depend on",
+    "series": "Innovation",
+    "type": "Synthesis paper",
+    "date": "2026-04-26",
+    "pages": 22,
+    "core_thesis": "Innovation needs encouragement before scrutiny, but most organizations evaluate too early and kill fragile ideas. Senior managers either over-invest in managing up (optimizing the upward narrative) or over-invest in managing down (deep in operational weeds). Both break the protection-from-above the innovation environment depends on.",
+    "abstract": "A synthesis of the innovation-environment framework and the senior-manager failure-mode framework, with a representative case study. Examines the two ways senior managers fail the innovation environment their companies depend on, the consequences that unfold on different timelines, and the structural patterns shared by companies that solve the paradox across decades \u2014 Google, 3M, Amazon, Pixar, Toyota, Analog Devices.",
+    "pdf": "/papers/innovation-paradox.pdf",
+    "thumb": "/papers/thumbs/innovation-paradox.png"
+  }
+]
