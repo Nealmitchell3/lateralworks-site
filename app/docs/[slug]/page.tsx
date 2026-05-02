@@ -103,6 +103,8 @@ export default function DocPage({ params }: Props) {
             <article className="lg:col-span-8">
               <div className="post-content" dangerouslySetInnerHTML={{ __html: doc.content }} />
 
+              {/* Tags section hidden — source data is non-discriminating (every doc has the same 4 tags). Re-enable when source tags carry signal. Infrastructure (?tag= filter, getAllDocTags) preserved. */}
+              {/*
               {doc.tags?.length > 0 && (
                 <div className="mt-12 pt-8 hairline">
                   <p className="text-[10px] font-semibold uppercase tracking-[0.15em] text-ink-muted mb-3">Tags</p>
@@ -115,6 +117,7 @@ export default function DocPage({ params }: Props) {
                   </div>
                 </div>
               )}
+              */}
 
               <div className="mt-12 pt-8 hairline">
                 <Link href="/docs"
