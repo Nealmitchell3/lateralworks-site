@@ -1,0 +1,127 @@
+{
+  "summary": {
+    "ideas": {
+      "filesScanned": 191,
+      "filesChanged": 16,
+      "hrefsRewritten": 25,
+      "perFile": [
+        {
+          "section": "ideas",
+          "slug": "braintrust",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "breakthroughs-by-challenging-assumptions",
+          "changes": 3
+        },
+        {
+          "section": "ideas",
+          "slug": "collaborative-new-product-development-supply-chain",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "deploying-a-project-portfolio-system",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "evaluating-a-project-against-fttm-best-practices",
+          "changes": 5
+        },
+        {
+          "section": "ideas",
+          "slug": "freedom-to-act",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "fttm-managers",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "integrated-core-team",
+          "changes": 3
+        },
+        {
+          "section": "ideas",
+          "slug": "mapping-strategy-to-execution",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "obvious-but-not-really",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "operationalizing-business-strategy-in-your-project-portfolio",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "optimizing-the-financial-performance-of-your-product-portfolio",
+          "changes": 2
+        },
+        {
+          "section": "ideas",
+          "slug": "prioritize-public-policy",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "root-causes-of-poor-fttm-performance",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "what-who-why-and-value",
+          "changes": 1
+        },
+        {
+          "section": "ideas",
+          "slug": "who-owns-the-strategy",
+          "changes": 1
+        }
+      ]
+    },
+    "docs": {
+      "filesScanned": 114,
+      "filesChanged": 5,
+      "hrefsRewritten": 6,
+      "perFile": [
+        {
+          "section": "docs",
+          "slug": "fastproject-process-flow",
+          "changes": 1
+        },
+        {
+          "section": "docs",
+          "slug": "prioritizing-alternatives-in-ahp",
+          "changes": 2
+        },
+        {
+          "section": "docs",
+          "slug": "refresh-planning-assessmentchecklist",
+          "changes": 1
+        },
+        {
+          "section": "docs",
+          "slug": "third-major-release-of-fastproject-analyzer",
+          "changes": 1
+        },
+        {
+          "section": "docs",
+          "slug": "updated-fastproject-reporting",
+          "changes": 1
+        }
+      ]
+    },
+    "residualSquarespaceHrefs": {
+      "ideas": 0,
+      "docs": 0
+    }
+  }
+}

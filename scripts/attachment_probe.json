@@ -1,0 +1,297 @@
+{
+  "summary": {
+    "alive": 31,
+    "dead": 0,
+    "deadByStatus": {},
+    "ctCounts": {
+      "application/pdf": 22,
+      "application/octet-stream": 3,
+      "text/html": 1,
+      "application/vnd.openxmlformats-officedocument.wordprocessingml.document": 1,
+      "image/png": 1,
+      "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": 2,
+      "application/vnd.ms-excel.sheet.macroenabled.12": 1
+    }
+  },
+  "results": [
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c412de021c67c078e20b600/1547775458274/brain+trust.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "370871",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c412de021c67c078e20b600/1547775458274/brain+trust.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/brain-trust.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3f52c8f950b76b4a3d0e12/1547653834010/challenge+map+example.pdf.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "312178",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3f52c8f950b76b4a3d0e12/1547653834010/challenge+map+example.pdf.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/challenge-map-examplepdf-gwyn.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3f530588251b627ba41d44/1547653894285/examples_thinking.png.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "91692",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3f530588251b627ba41d44/1547653894285/examples_thinking.png.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/examples_thinkingpng.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3f535640ec9a01b8dca17a/1547653976609/challenge_+example_sumatra.jpg.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "681975",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3f535640ec9a01b8dca17a/1547653976609/challenge_+example_sumatra.jpg.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/challenge_-example_sumatrajpg.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e87b37afa91000112e392/1561233354285/Collaborative+Development+Supply+Chain+Case+Study.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "1722787",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e87b37afa91000112e392/1561233354285/Collaborative+Development+Supply+Chain+Case+Study.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/Collaborative-Development-Supply-Chain-Case-Study.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0d5cd73bd0a20001602fba/1561156826059/portfolio+planning+engagement.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "397561",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0d5cd73bd0a20001602fba/1561156826059/portfolio+planning+engagement.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/portfolio-planning-engagement.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e7cc23bd0a200016c89db/1561230530989/project+x+assessment+map_template.mmap",
+      "status": 200,
+      "contentType": "application/octet-stream",
+      "contentLength": "123918",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e7cc23bd0a200016c89db/1561230530989/project+x+assessment+map_template.mmap",
+      "redirectedFrom": "https://lateralworks.com/s/project-x-assessment-map_template.mmap",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e7f170ff3ce00010cb1c9/1561231127824/project+assessment_general+questions.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "44295",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e7f170ff3ce00010cb1c9/1561231127824/project+assessment_general+questions.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/project-assessment_general-questions.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e7e2a0ff3ce00010ca3ee/1561230897522/project+x+assessment+map_example+project.mmap",
+      "status": 200,
+      "contentType": "application/octet-stream",
+      "contentLength": "211697",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e7e2a0ff3ce00010ca3ee/1561230897522/project+x+assessment+map_example+project.mmap",
+      "redirectedFrom": "https://lateralworks.com/s/project-x-assessment-map_example-project.mmap",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e7e78a663010001752667/1561231013553/project+x+assessment+map_example+project.html",
+      "status": 200,
+      "contentType": "text/html",
+      "contentLength": "2370405",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e7e78a663010001752667/1561231013553/project+x+assessment+map_example+project.html",
+      "redirectedFrom": "https://lateralworks.com/s/project-x-assessment-map_example-project.html",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e7eddeba1bc0001b53a37/1561231070771/project+x+assessment+map_completed.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "111431",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0e7eddeba1bc0001b53a37/1561231070771/project+x+assessment+map_completed.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/project-x-assessment-map_completed.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3f4ae2758d460d603644bc/1547651810856/freedom+scale_narrative.pdf.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "73395",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3f4ae2758d460d603644bc/1547651810856/freedom+scale_narrative.pdf.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/freedom-scale_narrativepdf.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c2ff7a2898583102b5cea29/1546647458970/characteristics-of-high-performers.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "87015",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c2ff7a2898583102b5cea29/1546647458970/characteristics-of-high-performers.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/characteristics-of-high-performers.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3e58f6562fa7fec7c28ea5/1547589879664/systems-integration-manager.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "48879",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3e58f6562fa7fec7c28ea5/1547589879664/systems-integration-manager.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/systems-integration-manager.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d48b367360220000131f617/1565045608075/core+team+1.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "128546",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d48b367360220000131f617/1565045608075/core+team+1.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/core-team-1-hlf4.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d48b39098a8210001d591a3/1565045648963/core+team+1.docx",
+      "status": 200,
+      "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "contentLength": "138652",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d48b39098a8210001d591a3/1565045648963/core+team+1.docx",
+      "redirectedFrom": "https://lateralworks.com/s/core-team-1.docx",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0d68d9eba1bc0001a96d76/1561159914027/mapping_strategy_examples_together.pdf.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "1786972",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0d68d9eba1bc0001a96d76/1561159914027/mapping_strategy_examples_together.pdf.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/mapping_strategy_examples_togetherpdf.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5da7b080183ae61d5f2653c6/1571270795221/key+concepts.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "1648531",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5da7b080183ae61d5f2653c6/1571270795221/key+concepts.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/key-concepts.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0cf72615d0ac0001ad9352/1561130797543/strategy+map+example.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "1274493",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0cf72615d0ac0001ad9352/1561130797543/strategy+map+example.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/strategy-map-example.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0d6b5a0ff3ce000100ea2d/1561160540244/Product+Success+Index.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "26887",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0d6b5a0ff3ce000100ea2d/1561160540244/Product+Success+Index.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/Product-Success-Index-dz9r.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0d6bc895d2ac00016a5a32/1561160649112/Product+Success+Analysis.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "34711",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0d6bc895d2ac00016a5a32/1561160649112/Product+Success+Analysis.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/Product-Success-Analysis.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c50f97c70a6ad90ec323738/1548810649052/KJ_day_one.pdf.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "7369348",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c50f97c70a6ad90ec323738/1548810649052/KJ_day_one.pdf.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/KJ_day_onepdf.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c42476e032be480d35a7b04/1547847541238/top+level+diagnostic_2019.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "1655629",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c42476e032be480d35a7b04/1547847541238/top+level+diagnostic_2019.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/top-level-diagnostic_2019.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d3f0da1a8008a0001b03f75/1564413346956/what+who+why+value+mindmap.mmap",
+      "status": 200,
+      "contentType": "application/octet-stream",
+      "contentLength": "82646",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d3f0da1a8008a0001b03f75/1564413346956/what+who+why+value+mindmap.mmap",
+      "redirectedFrom": "https://lateralworks.com/s/what-who-why-value-mindmap-5aph.mmap",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0cf21d2dcdad0001f010c3/1561129503406/strategy+maps.png",
+      "status": 200,
+      "contentType": "image/png",
+      "contentLength": "412997",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5d0cf21d2dcdad0001f010c3/1561129503406/strategy+maps.png",
+      "redirectedFrom": "https://lateralworks.com/s/strategy-maps.png",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3a918f758d4640ed73e817/1547342249875/fastProject+flow.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "2868569",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3a918f758d4640ed73e817/1547342249875/fastProject+flow.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/fastProject-flow.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3e6ed7cd8366be4a283d3a/1547595479568/ahp-ranking-calculations-example-1.xlsx",
+      "status": 200,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "contentLength": "18453",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3e6ed7cd8366be4a283d3a/1547595479568/ahp-ranking-calculations-example-1.xlsx",
+      "redirectedFrom": "https://lateralworks.com/s/ahp-ranking-calculations-example-1.xlsx",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3e6f17898583aa17b45279/1547595547945/da-ranking-calculation-example-1.xlsm",
+      "status": 200,
+      "contentType": "application/vnd.ms-excel.sheet.macroenabled.12",
+      "contentLength": "1629606",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3e6f17898583aa17b45279/1547595547945/da-ranking-calculation-example-1.xlsm",
+      "redirectedFrom": "https://lateralworks.com/s/da-ranking-calculation-example-1.xlsm",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3a8d50cd83667f7492d09c/1547341136390/refresh+planning+assessment+%28version+3%29.xlsx",
+      "status": 200,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "contentLength": "19027",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/5c3a8d50cd83667f7492d09c/1547341136390/refresh+planning+assessment+%28version+3%29.xlsx",
+      "redirectedFrom": "https://lateralworks.com/s/refresh-planning-assessment-version-3.xlsx",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/632bb3c7b08fbe3d298b09e8/1663808466967/Analyzer+Slides_ver+3.0.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "2508271",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/632bb3c7b08fbe3d298b09e8/1663808466967/Analyzer+Slides_ver+3.0.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/Analyzer-Slides_ver-30-fdm4.pdf",
+      "originalStatus": 302
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/60a7d509d5bb325fd2718eff/1621611851628/report+and+analysis+seminar+slides.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "contentLength": "16303648",
+      "finalUrl": "https://static1.squarespace.com/static/5c241a87cef3721586f5829a/t/60a7d509d5bb325fd2718eff/1621611851628/report+and+analysis+seminar+slides.pdf",
+      "redirectedFrom": "https://lateralworks.com/s/report-and-analysis-seminar-slides-gjzg.pdf",
+      "originalStatus": 302
+    }
+  ]
+}

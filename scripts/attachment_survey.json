@@ -1,0 +1,302 @@
+{
+  "summary": {
+    "total": 31,
+    "bySection": {
+      "ideas": 25,
+      "docs": 6
+    },
+    "byExt": {
+      "pdf": 22,
+      "mmap": 3,
+      "html": 1,
+      "docx": 1,
+      "png": 1,
+      "xlsx": 2,
+      "xlsm": 1
+    },
+    "byPattern": {
+      "squarespace-asset-relative": 31
+    }
+  },
+  "findings": [
+    {
+      "section": "ideas",
+      "slug": "braintrust",
+      "title": "Braintrust",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/brain-trust.pdf",
+      "linkText": "You can read more about how to do this in the fastcompany article \"Inside the Pixar brain trust\"",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "breakthroughs-by-challenging-assumptions",
+      "title": "Breakthroughs by Challenging Assumptions",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/challenge-map-examplepdf-gwyn.pdf",
+      "linkText": "And some other examples of current thinking after a brainstorming session with two teams.",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "breakthroughs-by-challenging-assumptions",
+      "title": "Breakthroughs by Challenging Assumptions",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/examples_thinkingpng.pdf",
+      "linkText": "We built a Decision Model",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "breakthroughs-by-challenging-assumptions",
+      "title": "Breakthroughs by Challenging Assumptions",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/challenge_-example_sumatrajpg.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "collaborative-new-product-development-supply-chain",
+      "title": "Collaborative new product development supply chain",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/Collaborative-Development-Supply-Chain-Case-Study.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "deploying-a-project-portfolio-system",
+      "title": "Deploying a project portfolio system",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/portfolio-planning-engagement.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "evaluating-a-project-against-fttm-best-practices",
+      "title": "Evaluating a project against FTTM Best Practices",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/project-x-assessment-map_template.mmap",
+      "linkText": "PDF Mindmap of template questions",
+      "ext": "mmap"
+    },
+    {
+      "section": "ideas",
+      "slug": "evaluating-a-project-against-fttm-best-practices",
+      "title": "Evaluating a project against FTTM Best Practices",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/project-assessment_general-questions.pdf",
+      "linkText": "Mindmanager file of the completed team assessment (above)",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "evaluating-a-project-against-fttm-best-practices",
+      "title": "Evaluating a project against FTTM Best Practices",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/project-x-assessment-map_example-project.mmap",
+      "linkText": "HTML interactive mindmap of the completed team assessment (above)",
+      "ext": "mmap"
+    },
+    {
+      "section": "ideas",
+      "slug": "evaluating-a-project-against-fttm-best-practices",
+      "title": "Evaluating a project against FTTM Best Practices",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/project-x-assessment-map_example-project.html",
+      "linkText": "PDF mindmap of the completed team assessment (above)",
+      "ext": "html"
+    },
+    {
+      "section": "ideas",
+      "slug": "evaluating-a-project-against-fttm-best-practices",
+      "title": "Evaluating a project against FTTM Best Practices",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/project-x-assessment-map_completed.pdf",
+      "linkText": "Mindmanager by MindJet",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "freedom-to-act",
+      "title": "Freedom to Act",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/freedom-scale_narrativepdf.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "fttm-managers",
+      "title": "FTTM Managers",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/characteristics-of-high-performers.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "integrated-core-team",
+      "title": "Integrated Core Team",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/systems-integration-manager.pdf",
+      "linkText": "Download Core Team (a template)",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "integrated-core-team",
+      "title": "Integrated Core Team",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/core-team-1-hlf4.pdf",
+      "linkText": "Download Core Team (a template in Word format)",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "integrated-core-team",
+      "title": "Integrated Core Team",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/core-team-1.docx",
+      "linkText": "",
+      "ext": "docx"
+    },
+    {
+      "section": "ideas",
+      "slug": "mapping-strategy-to-execution",
+      "title": "Mapping strategy to execution",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/mapping_strategy_examples_togetherpdf.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "obvious-but-not-really",
+      "title": "Obvious, but not really",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/key-concepts.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "operationalizing-business-strategy-in-your-project-portfolio",
+      "title": "Operationalizing business strategy in your project portfolio",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/strategy-map-example.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "optimizing-the-financial-performance-of-your-product-portfolio",
+      "title": "Optimizing the financial performance of your product portfolio",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/Product-Success-Index-dz9r.pdf",
+      "linkText": "Product Success Analysis (PDF)",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "optimizing-the-financial-performance-of-your-product-portfolio",
+      "title": "Optimizing the financial performance of your product portfolio",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/Product-Success-Analysis.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "prioritize-public-policy",
+      "title": "Prioritize Public Policy",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/KJ_day_onepdf.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "root-causes-of-poor-fttm-performance",
+      "title": "Root Causes of Poor FTTM Performance",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/top-level-diagnostic_2019.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "ideas",
+      "slug": "what-who-why-and-value",
+      "title": "What, Who, Why, and Value?",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/what-who-why-value-mindmap-5aph.mmap",
+      "linkText": "",
+      "ext": "mmap"
+    },
+    {
+      "section": "ideas",
+      "slug": "who-owns-the-strategy",
+      "title": "Who owns the strategy?",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/strategy-maps.png",
+      "linkText": "",
+      "ext": "png"
+    },
+    {
+      "section": "docs",
+      "slug": "fastproject-process-flow",
+      "title": "fastProject Process Flow",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/fastProject-flow.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "docs",
+      "slug": "prioritizing-alternatives-in-ahp",
+      "title": "Prioritizing Alternatives in AHP",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/ahp-ranking-calculations-example-1.xlsx",
+      "linkText": "download here)",
+      "ext": "xlsx"
+    },
+    {
+      "section": "docs",
+      "slug": "prioritizing-alternatives-in-ahp",
+      "title": "Prioritizing Alternatives in AHP",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/da-ranking-calculation-example-1.xlsm",
+      "linkText": "",
+      "ext": "xlsm"
+    },
+    {
+      "section": "docs",
+      "slug": "refresh-planning-assessmentchecklist",
+      "title": "Refresh Planning Assessment/Checklist",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/refresh-planning-assessment-version-3.xlsx",
+      "linkText": "",
+      "ext": "xlsx"
+    },
+    {
+      "section": "docs",
+      "slug": "third-major-release-of-fastproject-analyzer",
+      "title": "Third major release of fastProject Analyzer",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/Analyzer-Slides_ver-30-fdm4.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    },
+    {
+      "section": "docs",
+      "slug": "updated-fastproject-reporting",
+      "title": "Updated fastProject Reporting",
+      "pattern": "squarespace-asset-relative",
+      "url": "/s/report-and-analysis-seminar-slides-gjzg.pdf",
+      "linkText": "",
+      "ext": "pdf"
+    }
+  ]
+}
