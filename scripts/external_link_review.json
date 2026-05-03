@@ -248,9 +248,11 @@
       "linkText": "You can read more about how to do this in the fastcompany article \"Inside the Pixar brain trust\"",
       "status": 403,
       "verdict": "maybe-bot-block",
-      "action": "review",
+      "action": "strip",
       "error": null,
-      "headStatus": 403
+      "headStatus": 403,
+      "promotedFrom": "maybe-bot-block",
+      "promotedReason": "DataDome captcha makes link functionally useless"
     },
     {
       "section": "ideas",
