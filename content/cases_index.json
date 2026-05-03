@@ -62,5 +62,21 @@
     "abstract": "Charles Schwab's IT infrastructure rationalization program — migrating 1,100 Solaris/AIX servers and 145 applications to a standardized Linux/Intel platform — was stalling under a 400-project backlog with no prioritization, no integrated plan, and no savings tracking. lateralworks restructured the program around alignment workshops, a six-milestone macro plan, a portfolio prioritization model, and dynamic financial tracking. Within 18 months, the team realized $8.8M in annual run-rate savings, reduced the fleet 64%, and won Schwab's Program of the Year. Independently validated by The Research Board across 22 major enterprises.",
     "pdf": "/cases/charles-schwab-it-infrastructure-rationalization.pdf",
     "thumb": "/cases/thumbs/charles-schwab-it-infrastructure-rationalization.png"
+  },
+  {
+    "slug": "alta-devices-12-12-12-pilot-line",
+    "title": "The 12.12.12 pilot line",
+    "subtitle": "How Alta Devices recovered an eight-month projected schedule miss and brought the world's most efficient solar cell to manufacturing.",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-05-04",
+    "sector": "Semiconductor",
+    "engagement": "Q4 2011 – Q4 2012, eleven-month planning horizon",
+    "outcome": "Pilot line produced first qualified material on the December 12, 2012 funding-gate deadline, closing an eight-month projected schedule gap inside an eleven-month planning window.",
+    "pages": 15,
+    "core_thesis": "A pilot line on a hard deadline cannot be recovered by the departments running its work streams in parallel — recovery requires one integrated schedule, one weekly cadence, and the full management team in the room. On the Alta Devices program, that combination closed an eight-month projected gap inside an eleven-month planning window.",
+    "abstract": "In late 2011 Alta Devices held the world record for solar-cell efficiency but faced a year-end pilot-line deadline that would gate its next funding round, with the integrated schedule forecasting an eight-month miss. lateralworks rebuilt the program as a single 5,000-activity integrated schedule, restructured the team around lateral deliverables, and ran a weekly pull-in cadence with the full management team. The line produced first qualified material on December 12, 2012 — closing the gap inside an eleven-month planning window.",
+    "pdf": "/cases/alta-devices-12-12-12-pilot-line.pdf",
+    "thumb": "/cases/thumbs/alta-devices-12-12-12-pilot-line.png"
   }
 ]
