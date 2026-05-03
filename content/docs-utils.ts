@@ -5,11 +5,14 @@ import type { Doc, DocMeta } from './doc-types';
 const DOCS_DIR = path.join(process.cwd(), 'content', 'docs');
 const INDEX_FILE = path.join(process.cwd(), 'content', 'docs_index.json');
 
+// Returned newest-first by dateISO, so listing pages don't depend on file
+// insertion order.
 export function getAllDocMeta(): DocMeta[] {
   if (!fs.existsSync(INDEX_FILE)) return [];
   try {
     const raw = fs.readFileSync(INDEX_FILE, 'utf-8');
-    return JSON.parse(raw) as DocMeta[];
+    const docs = JSON.parse(raw) as DocMeta[];
+    return [...docs].sort((a, b) => (b.dateISO || '').localeCompare(a.dateISO || ''));
   } catch {
     return [];
   }

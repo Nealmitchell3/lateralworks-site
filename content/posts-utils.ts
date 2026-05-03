@@ -5,12 +5,14 @@ import type { Post, PostMeta } from './post-types';
 const POSTS_DIR = path.join(process.cwd(), 'content', 'posts');
 const INDEX_FILE = path.join(process.cwd(), 'content', 'posts_index.json');
 
-// Read the index — fast (no full content)
+// Read the index — fast (no full content). Returned newest-first by dateISO,
+// so listing pages don't depend on file insertion order.
 export function getAllPostMeta(): PostMeta[] {
   if (!fs.existsSync(INDEX_FILE)) return [];
   try {
     const raw = fs.readFileSync(INDEX_FILE, 'utf-8');
-    return JSON.parse(raw) as PostMeta[];
+    const posts = JSON.parse(raw) as PostMeta[];
+    return [...posts].sort((a, b) => (b.dateISO || '').localeCompare(a.dateISO || ''));
   } catch {
     return [];
   }
