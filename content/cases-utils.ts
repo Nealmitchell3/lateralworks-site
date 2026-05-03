@@ -8,7 +8,8 @@ export function getAllCases(): Case[] {
   if (!fs.existsSync(INDEX_FILE)) return [];
   try {
     const raw = fs.readFileSync(INDEX_FILE, 'utf-8');
-    return JSON.parse(raw) as Case[];
+    const cases = JSON.parse(raw) as Case[];
+    return [...cases].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   } catch {
     return [];
   }

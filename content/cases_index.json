@@ -4,7 +4,7 @@
     "title": "The schedule mirrors the team",
     "subtitle": "Why functional project managers build functional schedules \u2014 and what it takes to move them",
     "practice": "FTTM Coaching",
-    "type": "Coaching case study",
+    "type": "Case study",
     "date": "2026-04-30",
     "sector": "Semiconductor / AI data-center",
     "engagement": "Multi-engagement coaching arc",
@@ -14,5 +14,21 @@
     "abstract": "A coaching engagement at a global semiconductor company on a new-product program for AI data-center customers. The senior project manager left an FTTM workshop with a cross-functional schedule and a heavyweight team structure; three weeks later she had quietly rebuilt that schedule into the functional shape she had used for twenty years. Covers the seven philosophical splits that surfaced, why the pattern is structural rather than personal, and the five-step coaching arc for moving mature PMs from lightweight to heavyweight ownership. Names and sector-identifying details have been removed.",
     "pdf": "/cases/the-schedule-mirrors-the-team.pdf",
     "thumb": "/cases/thumbs/the-schedule-mirrors-the-team.png"
+  },
+  {
+    "slug": "fab-8-case-study",
+    "title": "Building a $7 billion fab in under two years",
+    "subtitle": "How an empowered core team and integrated master schedule overcame a two-year projected delay",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-05-03",
+    "sector": "Semiconductor",
+    "engagement": "2 years (2009–2011)",
+    "outcome": "Two weeks early on a 2-year mega-fab program, recovering over a year of schedule deficit and avoiding $70M in delay costs.",
+    "pages": 23,
+    "core_thesis": "A two-year deficit doesn't close incrementally. It closes when an empowered core team owns the outcome end-to-end, an integrated master schedule serves as the single source of truth, and refresh planning runs at a cadence frequent enough to expose gaps the same day they appear.",
+    "abstract": "In 2010, GlobalFoundries set out to build an advanced semiconductor fab in under two years. The site was a 225-acre greenfield in Luther Forest, upstate New York, the budget was $7 billion, and the industry average for a project of this scale was three to four years. lateralworks was engaged to structure the program, build the integrated plan, and drive schedule acceleration using the FTTM framework. The initial macro plan showed the project tracking about two years late. An empowered cross-functional core team, a macro-micro Integrated Master Schedule that grew to over 100,000 tasks, and twice-daily Refresh Planning across 24/7 shifts closed the gap. First qualified silicon came off the production line on December 27, 2011, two weeks ahead of the January 10, 2012 target. The early delivery avoided about $70 million in delay costs. GlobalFoundries adopted the FTTM planning system as the standard for subsequent fab expansions worldwide.",
+    "pdf": "/cases/fab-8-case-study.pdf",
+    "thumb": "/cases/thumbs/fab-8-case-study.png"
   }
 ]
