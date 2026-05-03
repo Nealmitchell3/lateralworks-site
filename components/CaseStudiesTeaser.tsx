@@ -55,7 +55,7 @@ export default function CaseStudiesTeaser() {
                 </a>
                 <div className="flex-grow min-w-0">
                   <p className="text-[10px] font-semibold uppercase tracking-[0.18em] text-ink-muted mb-2">
-                    {c.series} · {c.type}
+                    {c.practice} · {c.type}
                   </p>
                   <h3
                     className="font-semibold text-navy text-lg leading-snug mb-2"

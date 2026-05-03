@@ -14,18 +14,18 @@ export function getAllCases(): Case[] {
   }
 }
 
-export function getAllCaseSeries(): string[] {
+export function getAllCasePractices(): string[] {
   const cases = getAllCases();
   const set = new Set<string>();
-  cases.forEach(c => c.series && set.add(c.series));
+  cases.forEach(c => c.practice && set.add(c.practice));
   return Array.from(set).sort();
 }
 
-export function getCasesBySeries(series?: string): Case[] {
+export function getCasesByPractice(practice?: string): Case[] {
   const cases = getAllCases();
-  if (!series) return cases;
+  if (!practice) return cases;
   return cases.filter(c =>
-    c.series?.toLowerCase() === series.toLowerCase()
+    c.practice?.toLowerCase() === practice.toLowerCase()
   );
 }
 

@@ -1,8 +1,8 @@
 import Link from "next/link";
 import {
   getAllCases,
-  getAllCaseSeries,
-  getCasesBySeries,
+  getAllCasePractices,
+  getCasesByPractice,
   formatCaseDate,
 } from "@/content/cases-utils";
 import type { Metadata } from "next";
@@ -14,15 +14,15 @@ export const metadata: Metadata = {
 };
 
 interface Props {
-  searchParams: { series?: string };
+  searchParams: { practice?: string };
 }
 
 export default function CaseStudiesPage({ searchParams }: Props) {
-  const series = searchParams.series || "";
+  const practice = searchParams.practice || "";
   const allCases = getAllCases();
   const total = allCases.length;
-  const cases = getCasesBySeries(series);
-  const seriesList = getAllCaseSeries();
+  const cases = getCasesByPractice(practice);
+  const practicesList = getAllCasePractices();
   const hasCases = cases.length > 0;
 
   return (
@@ -57,35 +57,35 @@ export default function CaseStudiesPage({ searchParams }: Props) {
         </div>
       </section>
 
-      {/* Series filter */}
-      {seriesList.length > 0 && (
+      {/* Practice filter */}
+      {practicesList.length > 0 && (
         <section className="bg-cream-dark border-b border-border py-4 sticky top-16 z-40">
           <div className="max-w-8xl mx-auto px-6 lg:px-10">
             <div className="flex flex-wrap items-center gap-2">
               <span className="text-[10px] font-semibold uppercase tracking-[0.18em] text-ink-muted mr-2">
-                Series
+                Practice
               </span>
               <Link
                 href="/results/case-studies"
                 className={`tag transition-colors ${
-                  !series
+                  !practice
                     ? "border-navy text-navy bg-navy/5"
                     : "hover:border-navy hover:text-navy"
                 }`}
               >
                 All
               </Link>
-              {seriesList.map((s) => (
+              {practicesList.map((p) => (
                 <Link
-                  key={s}
-                  href={`/results/case-studies?series=${encodeURIComponent(s)}`}
+                  key={p}
+                  href={`/results/case-studies?practice=${encodeURIComponent(p)}`}
                   className={`tag transition-colors ${
-                    series.toLowerCase() === s.toLowerCase()
+                    practice.toLowerCase() === p.toLowerCase()
                       ? "border-navy text-navy bg-navy/5"
                       : "hover:border-navy hover:text-navy"
                   }`}
                 >
-                  {s}
+                  {p}
                 </Link>
               ))}
             </div>
@@ -96,11 +96,11 @@ export default function CaseStudiesPage({ searchParams }: Props) {
       {/* List */}
       <section className="bg-cream py-12 lg:py-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10">
-          {series && (
+          {practice && (
             <div className="mb-8 pb-6 hairline flex items-center justify-between">
               <div>
-                <p className="section-label mb-1">Series</p>
-                <h2 className="font-semibold text-navy text-2xl">{series}</h2>
+                <p className="section-label mb-1">Practice</p>
+                <h2 className="font-semibold text-navy text-2xl">{practice}</h2>
               </div>
               <Link
                 href="/results/case-studies"
@@ -117,7 +117,7 @@ export default function CaseStudiesPage({ searchParams }: Props) {
                 No case studies found
               </h2>
               <p className="text-sm font-light text-ink-muted">
-                Try a different series.
+                Try a different practice.
               </p>
             </div>
           )}
@@ -151,10 +151,10 @@ export default function CaseStudiesPage({ searchParams }: Props) {
                   <div className="flex-grow min-w-0">
                     <div className="flex flex-wrap items-center gap-2 mb-3">
                       <Link
-                        href={`/results/case-studies?series=${encodeURIComponent(c.series)}`}
+                        href={`/results/case-studies?practice=${encodeURIComponent(c.practice)}`}
                         className="tag hover:border-navy hover:text-navy transition-colors"
                       >
-                        {c.series}
+                        {c.practice}
                       </Link>
                       <span className="text-[11px] font-light text-ink-muted">·</span>
                       <span className="text-[11px] font-light text-ink-muted">
@@ -232,8 +232,8 @@ export default function CaseStudiesPage({ searchParams }: Props) {
             <div className="hairline pt-8 mt-8">
               <p className="text-sm font-light text-ink-muted">
                 {cases.length} case stud{cases.length !== 1 ? "ies" : "y"}
-                {series ? ` in ${series}` : ""}.
-                {!series &&
+                {practice ? ` in ${practice}` : ""}.
+                {!practice &&
                   " New cases added as engagements complete and customer details are anonymized."}
               </p>
             </div>
