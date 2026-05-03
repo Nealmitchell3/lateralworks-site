@@ -1,0 +1,212 @@
+{
+  "summary": {
+    "total": 16,
+    "okay": 0,
+    "orphans": 16,
+    "orphansBySection": {
+      "ideas": 10,
+      "docs": 6
+    },
+    "orphansByPromiseType": {
+      "screencast": 14,
+      "watch the (video|screencast)": 1,
+      "in this video": 1,
+      "this short video": 1
+    }
+  },
+  "findings": [
+    {
+      "section": "ideas",
+      "slug": "accelerate-pain",
+      "title": "Accelerate Pain",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "<div> <h2>Accelerate Threshold of Pain</h2><p class=\"\">In this screencast I’ll describe a practice we’ve observed, which is common to high-performers. Rather than delay “pain,” they accelerate the threshold and force issues out early, rather than avoid them, dela"
+    },
+    {
+      "section": "ideas",
+      "slug": "decision-modeling---the-basics-3",
+      "title": "Decision Modeling - The Basics (3)",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "<div> <p class=\"\">In this screencast I’ll introduce you to a way to make decisions faster and more effectively.</p><p class=\"\">I’ll use a simple example of selecting a new car. Here are my three choices, a Porsche, a Lamborghi"
+    },
+    {
+      "section": "ideas",
+      "slug": "focus-you-cant-do-it-all---part-a",
+      "title": "Focus... You Can't Do it All - Part A",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "ts in terms of skill groups to model constraints, but I don’t have time in this screencast to show this example. I’ll do this in a follow-on screencast.</p> </div> <figure><img src=\"/images/ideas/15485392_image-asset.png\" alt=\"\" /></figure> <div> <p class=\"\">Also See:</p><p c"
+    },
+    {
+      "section": "ideas",
+      "slug": "focus-you-cant-do-it-all---part-b",
+      "title": "Focus... You Can't Do it All - Part B",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "<div> <p class=\"\">In the previous screencast “Project Portfolio -- (Focus, you can't do it all -- Part A)” I described the process of project portfolio prioritization using constraints. Specifically, Cost and Risk factors to re-priori"
+    },
+    {
+      "section": "ideas",
+      "slug": "focus-you-cant-do-it-all---part-c",
+      "title": "Focus... You Can't Do it All - Part C",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "<div> <p class=\"\">In the previous two screencasts (see links below) about the “Project Portfolio” I described the process of project portfolio prioritization using constraints. In this screencast called “Part C” I’ll introduce the time di"
+    },
+    {
+      "section": "ideas",
+      "slug": "fttm-planning-methodology",
+      "title": "FTTM Planning Methodology",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "<div> <h2>Introduction</h2><p class=\"\">FTTM is fast-time-to-market. In this screencast, I’ll discuss a project planning and tracking process, which has evolved over a 20 year period and through our work on thousands of client projects. The foundation of this process is based"
+    },
+    {
+      "section": "ideas",
+      "slug": "head-in-the-sand-management",
+      "title": "Head-in-the-Sand Management",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "n hundreds of FTTM (fast-time-to-market) projects around the world. This simple screencast tells the story of two “dots;” and it’s not that exaggerated from real life situations we’ve observed.</p> </div>"
+    },
+    {
+      "section": "ideas",
+      "slug": "integrated-core-team",
+      "title": "Integrated Core Team",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "gration points rather than around the functions, but this is a topic in another screencast.</p><p class=\"\">The Milestone Teams tend to look more functional in makeup with each of the cross-functional stakeholders represented. These are the functions that have to deliver the integ"
+    },
+    {
+      "section": "ideas",
+      "slug": "manage-by-commitments",
+      "title": "Manage by Commitments",
+      "promises": [
+        "watch the (video|screencast)"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "process by clicking <a href=\"/ideas/fttm-system\" target=\"_blank\">here</a> (then watch the video). More on the blog <a href=\"/ideas?category=Program+Management\" target=\"_blank\">here</a>, and more on fastProject that supports the process <a href=\"/software/\" target=\"_blank\">here</a"
+    },
+    {
+      "section": "ideas",
+      "slug": "reality-distortion-is-misunderstood",
+      "title": "\"Reality Distortion\" is Misunderstood",
+      "promises": [
+        "in this video",
+        "this short video"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "i/NeXT_Computer\" target=\"_blank\">the first NeXT computer</a> they were debating in this video was actually released in 1988, a year later than Mr. Jobs “18-month stake in the ground.” They were both right; the team said it was 2 1/2 year project and Jobs was right that they neede"
+    },
+    {
+      "section": "docs",
+      "slug": "common-cpm-scheduling-mistakes",
+      "title": "Common CPM Scheduling Mistakes",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "four of these problems called ScheduleAnalyzer, which is the subject of another screencast. But these 4 are the most common problems we see causing CPM schedules to produce the “wrong answer.” When they do, you can’t use these bad schedules to accelerate a project, since the sche"
+    },
+    {
+      "section": "docs",
+      "slug": "decision-mapping",
+      "title": "Decision Mapping",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "<div> <p class=\"\">In this screencast I'll focus on using a mind map to structure a decision. We often use a mind map to structure complex problems and/or decisions with groups.</p> </div>"
+    },
+    {
+      "section": "docs",
+      "slug": "getting-the-objectives-right",
+      "title": "Getting the Objectives Right",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "<div> <p>In this screencast I’ll discuss the importance of getting the “Objectives” right in a decision model. The three core elements of a model are the Goal, the Objectives, and the Alternatives or choices. The Obje"
+    },
+    {
+      "section": "docs",
+      "slug": "introduction-to-decision-analysis-2",
+      "title": "Introduction to Decision Analysis (2)",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "<div> <p class=\"\">This screencast provides a basic overview of the decision-modeling framework used by decisionAccelerator.</p> </div>"
+    },
+    {
+      "section": "docs",
+      "slug": "macro-mind-mapping",
+      "title": "Macro Mind-Mapping",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "<div> <p class=\"\">In this screencast I’ll discuss Macro Mapping, which is a planning technique we use to organize a top-level macro plan.</p><p class=\"\">This mind-mapping approach causes a team to look holistically at a progra"
+    },
+    {
+      "section": "docs",
+      "slug": "the-right-objectives",
+      "title": "The Right Objectives",
+      "promises": [
+        "screencast"
+      ],
+      "hasEmbed": false,
+      "videoAnchors": 0,
+      "verdict": "orphan",
+      "snippet": "<div> <p class=\"\">In this screencast we’ll discuss the importance of getting the Objectives right in a decision model. The three core elements of a model are the Goal, the Objectives, and the Alternatives or choices.</p> </div"
+    }
+  ]
+}

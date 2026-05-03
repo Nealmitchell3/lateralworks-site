@@ -15,7 +15,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<div>\n  <p class=\"\">In this screencast I'll focus on using a mind map to structure a decision. We often use a mind map to structure complex problems and/or decisions with groups.</p>\n</div>",
+  "content": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/SLQKMMXU-iA\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>Welcome to this screencast of decisionAccelerator, a decision modeling tool developed by lateralworks and implemented as an add-in to Microsoft Excel. In this screencast I'll focus on using a mind map to structure a decision. We often use a mind map to structure complex problems and/or decisions with groups.</figcaption>\n</figure>\n\n<div>\n  <p class=\"\">In this screencast I'll focus on using a mind map to structure a decision. We often use a mind map to structure complex problems and/or decisions with groups.</p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0

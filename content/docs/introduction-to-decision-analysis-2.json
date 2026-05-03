@@ -15,7 +15,7 @@
     "fastROI"
   ],
   "excerpt": "",
-  "content": "<div>\n  <p class=\"\">This screencast provides a basic overview of the decision-modeling framework used by decisionAccelerator.</p>\n</div>",
+  "content": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/LfP4-Lo11rU\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>For more, visit our blog at https://lateralworks.com/ideas and Youtube Channel at http://www.youtube.com/fastworksvideo</figcaption>\n</figure>\n\n<div>\n  <p class=\"\">This screencast provides a basic overview of the decision-modeling framework used by decisionAccelerator.</p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0

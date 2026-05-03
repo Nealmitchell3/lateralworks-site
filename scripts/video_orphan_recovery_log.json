@@ -1,0 +1,188 @@
+{
+  "apply": true,
+  "summary": {
+    "recoverable": 12,
+    "videoDead": 0,
+    "fetchFailed": 0,
+    "noIframe": 1,
+    "skipped": 3
+  },
+  "results": [
+    {
+      "slug": "accelerate-pain",
+      "section": "ideas",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/ichC5DdeCoQ",
+      "caption": "In this screencast I'll describe a practice weve observed, which is common to high-performers. Rather than delay pain, they accelerate the threshold and force issues out early, rather than avoid them, delaying their confrontation. They knew that when confronted early, they were afforded more time to fix the problems. This early schedule or before-the-fact behavior is a core characteristic of these high performers.",
+      "verify": {
+        "alive": true,
+        "title": "Accelerate the Threshold of Pain",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/ichC5DdeCoQ\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>In this screencast I'll describe a practice weve observed, which is common to high-performers. Rather than delay pain, they accelerate the threshold and force issues out early, rather than avoid them, delaying their confrontation. They knew that when confronted early, they were afforded more time to fix the problems. This early schedule or before-the-fact behavior is a core characteristic of these high performers.</figcaption>\n</figure>"
+    },
+    {
+      "slug": "decision-modeling---the-basics-3",
+      "section": "ideas",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/LfP4-Lo11rU",
+      "caption": "For more, visit our blog at https://lateralworks.com/ideas and Youtube Channel at http://www.youtube.com/fastworksvideo",
+      "verify": {
+        "alive": true,
+        "title": "Introduction to Decision Modeling",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/LfP4-Lo11rU\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>For more, visit our blog at https://lateralworks.com/ideas and Youtube Channel at http://www.youtube.com/fastworksvideo</figcaption>\n</figure>"
+    },
+    {
+      "slug": "focus-you-cant-do-it-all---part-a",
+      "section": "ideas",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/SSRGLAyYB_4",
+      "caption": "Project Priorities Project Portfolio (Part A) is a discussion of how to prioritize projects, when resources are finite and you need to select the best portfolio of projects to maximize benefit, or in other words, Those projects that give you the biggest bang for the buck.",
+      "verify": {
+        "alive": true,
+        "title": "Project Portfolio Part A",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/SSRGLAyYB_4\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>Project Priorities Project Portfolio (Part A) is a discussion of how to prioritize projects, when resources are finite and you need to select the best portfolio of projects to maximize benefit, or in other words, Those projects that give you the biggest bang for the buck.</figcaption>\n</figure>"
+    },
+    {
+      "slug": "focus-you-cant-do-it-all---part-b",
+      "section": "ideas",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/6RVV3qpQHik",
+      "caption": "Resource Constraints In the previous screencast Project Portfolio (Part A) I described the process of project portfolio prioritization using constraints. Specifically, Cost and Risk factors to re-prioritize the portfolio. In this screencast called Part B I will show you the third constraint type using Resources.",
+      "verify": {
+        "alive": true,
+        "title": "Project Portfolio Part B",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/6RVV3qpQHik\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>Resource Constraints In the previous screencast Project Portfolio (Part A) I described the process of project portfolio prioritization using constraints. Specifically, Cost and Risk factors to re-prioritize the portfolio. In this screencast called Part B I will show you the third constraint type using Resources.</figcaption>\n</figure>"
+    },
+    {
+      "slug": "focus-you-cant-do-it-all---part-c",
+      "section": "ideas",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/W0iDK1qWwDw",
+      "caption": "Time Dimension In the previous two screencasts about the Project Portfolio I described the process of project portfolio prioritization using constraints. In this screencast called Part C (Time Dimension) I will introduce the time dimension to the modeling process.",
+      "verify": {
+        "alive": true,
+        "title": "Project Portfolio Part C",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/W0iDK1qWwDw\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>Time Dimension In the previous two screencasts about the Project Portfolio I described the process of project portfolio prioritization using constraints. In this screencast called Part C (Time Dimension) I will introduce the time dimension to the modeling process.</figcaption>\n</figure>"
+    },
+    {
+      "slug": "fttm-planning-methodology",
+      "section": "ideas",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/fberVdBD-jo",
+      "caption": "FTTM is fast-time-to-market. In this screencast, I'll discuss a project planning and tracking process, which has evolved over a 20 year period and through our work on thousands of client projects. The foundation of this process is based on the best practices of fast teams, who we've been studying since the early 1990's.",
+      "verify": {
+        "alive": true,
+        "title": "FTTM Planning Methodology",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/fberVdBD-jo\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>FTTM is fast-time-to-market. In this screencast, I'll discuss a project planning and tracking process, which has evolved over a 20 year period and through our work on thousands of client projects. The foundation of this process is based on the best practices of fast teams, who we've been studying since the early 1990's.</figcaption>\n</figure>"
+    },
+    {
+      "slug": "head-in-the-sand-management",
+      "section": "ideas",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/Vx8zSd5yvxY",
+      "caption": "We've observed two types of project environments; one where people seem to have their head's in the sand; they try to avoid looking into the future for fear they may find potential problems, and another type on fast projects where they design-in an \"early warning system,\" so they can quickly identify future failures while they have time to prevent or fix them.",
+      "verify": {
+        "alive": true,
+        "title": "Head in Sand Management",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/Vx8zSd5yvxY\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>We've observed two types of project environments; one where people seem to have their head's in the sand; they try to avoid looking into the future for fear they may find potential problems, and another type on fast projects where they design-in an \"early warning system,\" so they can quickly identify future failures while they have time to prevent or fix them.</figcaption>\n</figure>"
+    },
+    {
+      "slug": "integrated-core-team",
+      "section": "ideas",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/0dNG5ExIlMc",
+      "caption": "This screencast is about new product development projects and how fast teams are organized for speed. We call it The Integrated Core Team. This is based on 20 years of ongoing fast-time-to-market research in Silicon Valley by lateralworks (a consulting firm based in the Bay Area).",
+      "verify": {
+        "alive": true,
+        "title": "Integrated Core Team",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/0dNG5ExIlMc\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>This screencast is about new product development projects and how fast teams are organized for speed. We call it The Integrated Core Team. This is based on 20 years of ongoing fast-time-to-market research in Silicon Valley by lateralworks (a consulting firm based in the Bay Area).</figcaption>\n</figure>"
+    },
+    {
+      "slug": "manage-by-commitments",
+      "section": "ideas",
+      "status": "no-iframe"
+    },
+    {
+      "slug": "reality-distortion-is-misunderstood",
+      "section": "ideas",
+      "status": "skipped-by-policy"
+    },
+    {
+      "slug": "common-cpm-scheduling-mistakes",
+      "section": "docs",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/tD8AsdAv30I",
+      "caption": "There are four (4) serious technical scheduling mistakes we see repeatedly in our consulting practice, working with teams to accelerate new product development projects. These mistakes cause the critical path to be distorted, to the point where the schedule is not usable. (CPM... Critical Path Method).",
+      "verify": {
+        "alive": true,
+        "title": "Common Mistakes",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/tD8AsdAv30I\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>There are four (4) serious technical scheduling mistakes we see repeatedly in our consulting practice, working with teams to accelerate new product development projects. These mistakes cause the critical path to be distorted, to the point where the schedule is not usable. (CPM... Critical Path Method).</figcaption>\n</figure>"
+    },
+    {
+      "slug": "decision-mapping",
+      "section": "docs",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/SLQKMMXU-iA",
+      "caption": "Welcome to this screencast of decisionAccelerator, a decision modeling tool developed by lateralworks and implemented as an add-in to Microsoft Excel. In this screencast I'll focus on using a mind map to structure a decision. We often use a mind map to structure complex problems and/or decisions with groups.",
+      "verify": {
+        "alive": true,
+        "title": "Mapping a Decision using decisionAccelerator",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/SLQKMMXU-iA\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>Welcome to this screencast of decisionAccelerator, a decision modeling tool developed by lateralworks and implemented as an add-in to Microsoft Excel. In this screencast I'll focus on using a mind map to structure a decision. We often use a mind map to structure complex problems and/or decisions with groups.</figcaption>\n</figure>"
+    },
+    {
+      "slug": "getting-the-objectives-right",
+      "section": "docs",
+      "status": "skipped-by-policy"
+    },
+    {
+      "slug": "introduction-to-decision-analysis-2",
+      "section": "docs",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/LfP4-Lo11rU",
+      "caption": "For more, visit our blog at https://lateralworks.com/ideas and Youtube Channel at http://www.youtube.com/fastworksvideo",
+      "verify": {
+        "alive": true,
+        "title": "Introduction to Decision Modeling",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/LfP4-Lo11rU\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>For more, visit our blog at https://lateralworks.com/ideas and Youtube Channel at http://www.youtube.com/fastworksvideo</figcaption>\n</figure>"
+    },
+    {
+      "slug": "macro-mind-mapping",
+      "section": "docs",
+      "status": "recoverable",
+      "embedUrl": "https://www.youtube.com/embed/rPStar_5V3o",
+      "caption": "In this screencast I'll discuss Macro Mapping, which is a planning technique we (lateralworks) use to organize a top-level macro plan. This mind-mapping approach causes a team to look holistically at a program from beginning to end... from a macro perspective.",
+      "verify": {
+        "alive": true,
+        "title": "Macro Mapping Process",
+        "channel": "neal mitchell"
+      },
+      "figureHtml": "<figure class=\"video-embed\">\n  <iframe src=\"https://www.youtube.com/embed/rPStar_5V3o\" width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen></iframe>\n  <figcaption>In this screencast I'll discuss Macro Mapping, which is a planning technique we (lateralworks) use to organize a top-level macro plan. This mind-mapping approach causes a team to look holistically at a program from beginning to end... from a macro perspective.</figcaption>\n</figure>"
+    },
+    {
+      "slug": "the-right-objectives",
+      "section": "docs",
+      "status": "skipped-by-policy"
+    }
+  ]
+}
