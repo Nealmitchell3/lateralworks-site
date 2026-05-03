@@ -46,5 +46,21 @@
     "abstract": "In 1996, Philips secured a limited exclusivity window to launch Microsoft's Windows CE. lateralworks recommended a ring-fenced Product Delivery Team led by Tony Fadell, with end-to-end ownership reporting above the host hierarchy. A 20-person core team orchestrated 200+ development partners to deliver the Philips Velo in 13 months — an 18-month acceleration over a typical Philips program. The PDT model later became the standard playbook for complex consumer electronics delivery.",
     "pdf": "/cases/launching-windows-ce-at-startup-speed.pdf",
     "thumb": "/cases/thumbs/launching-windows-ce-at-startup-speed.png"
+  },
+  {
+    "slug": "charles-schwab-it-infrastructure-rationalization",
+    "title": "Charles Schwab IT infrastructure rationalization",
+    "subtitle": "How program structure and portfolio prioritization halved the path to $15M in annual savings",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-04-15",
+    "sector": "IT",
+    "engagement": "Program restructuring & execution, 18 months",
+    "outcome": "Realized $8.8M in annual run-rate savings within 18 months while consolidating the server fleet from 1,100 to 400 — roughly halving the path to projected $15–25M in annual savings.",
+    "pages": 20,
+    "core_thesis": "Time-to-savings programs fail when they lack portfolio prioritization, integrated planning, and financial visibility. lateralworks turned a 400-project backlog into a sequenced, measurable execution engine by applying the same program structuring discipline used in time-to-market product delivery, reframed around cost-savings velocity rather than ship dates.",
+    "abstract": "Charles Schwab's IT infrastructure rationalization program — migrating 1,100 Solaris/AIX servers and 145 applications to a standardized Linux/Intel platform — was stalling under a 400-project backlog with no prioritization, no integrated plan, and no savings tracking. lateralworks restructured the program around alignment workshops, a six-milestone macro plan, a portfolio prioritization model, and dynamic financial tracking. Within 18 months, the team realized $8.8M in annual run-rate savings, reduced the fleet 64%, and won Schwab's Program of the Year. Independently validated by The Research Board across 22 major enterprises.",
+    "pdf": "/cases/charles-schwab-it-infrastructure-rationalization.pdf",
+    "thumb": "/cases/thumbs/charles-schwab-it-infrastructure-rationalization.png"
   }
 ]
