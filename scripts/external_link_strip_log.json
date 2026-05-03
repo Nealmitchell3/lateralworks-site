@@ -1,0 +1,127 @@
+{
+  "summary": {
+    "promoted": 3,
+    "filesModified": 13,
+    "stripsApplied": 13,
+    "stripsMissed": 0
+  },
+  "log": [
+    {
+      "section": "ideas",
+      "slug": "action-this-day",
+      "url": "http://thinkexist.com/quotation/vision_without_action_is_a_daydream-action/13772.html",
+      "status": "stripped",
+      "linkText": "Japanese Proverb",
+      "replacedWith": "Japanese Proverb",
+      "verdict": "error-network"
+    },
+    {
+      "section": "ideas",
+      "slug": "braintrust",
+      "url": "https://itun.es/us/LbgUR.l",
+      "status": "stripped",
+      "linkText": "Creativity, Inc.",
+      "replacedWith": "Creativity, Inc.",
+      "verdict": "dead-dns"
+    },
+    {
+      "section": "ideas",
+      "slug": "build-an-un-bridge",
+      "url": "http://www.probe.org/site/c.fdKEIMNsEoG/b.4221087/",
+      "status": "stripped",
+      "linkText": "President Kennedy’s Bay of Pigs failure",
+      "replacedWith": "President Kennedy’s Bay of Pigs failure",
+      "verdict": "dead"
+    },
+    {
+      "section": "ideas",
+      "slug": "chief-portfolio-officer-cpo",
+      "url": "http://www.wired.com/gadgets/miscellaneous/magazine/17-09/ff_goodenough",
+      "status": "stripped",
+      "linkText": "WIRED magazine, the \"Good-enough revolution\"",
+      "replacedWith": "WIRED magazine, the \"Good-enough revolution\"",
+      "verdict": "dead"
+    },
+    {
+      "section": "ideas",
+      "slug": "developing-a-non-profits-strategy",
+      "url": "https://www.mindmapping.com/mind-map.php",
+      "status": "stripped",
+      "linkText": "Mind-Mapping",
+      "replacedWith": "Mind-Mapping",
+      "verdict": "dead"
+    },
+    {
+      "section": "ideas",
+      "slug": "differentiating-customer-needs-from-product-features",
+      "url": "http://www.qfdi.org/what_is_qfd/what_is_qfd.htm",
+      "status": "stripped",
+      "linkText": "The thinking behind this comes from Quality Function Deployment (QFD) practices.",
+      "replacedWith": "The thinking behind this comes from Quality Function Deployment (QFD) practices.",
+      "verdict": "dead"
+    },
+    {
+      "section": "ideas",
+      "slug": "fast-autonomous-teams",
+      "url": "http://drfd.hbs.edu/fit/public/facultyInfo.do?facInfo=bio&amp;facEmId=swheelwright",
+      "status": "stripped",
+      "linkText": "Steven Wheelwright (HBS)",
+      "replacedWith": "Steven Wheelwright (HBS)",
+      "verdict": "dead-dns"
+    },
+    {
+      "section": "ideas",
+      "slug": "freedom-to-act",
+      "url": "http://www.onckencorp.com",
+      "status": "stripped",
+      "linkText": "Freedom Levels adapted from Bill Oncken's early work",
+      "replacedWith": "Freedom Levels adapted from Bill Oncken's early work",
+      "verdict": "error-network"
+    },
+    {
+      "section": "ideas",
+      "slug": "it-is-better-to-be-roughly-right-than-exactly-wrong",
+      "url": "https://www.cdc.gov/vhf/ebola/about.html",
+      "status": "stripped",
+      "linkText": "Ebola",
+      "replacedWith": "Ebola",
+      "verdict": "dead"
+    },
+    {
+      "section": "ideas",
+      "slug": "manage-by-commitments",
+      "url": "http://www.donsull.com/videos/",
+      "status": "stripped",
+      "linkText": "video",
+      "replacedWith": "video",
+      "verdict": "other"
+    },
+    {
+      "section": "ideas",
+      "slug": "manage-the-fuzzy-front-end",
+      "url": "http://www.newproductdynamics.com/",
+      "status": "stripped",
+      "linkText": "Preston Smith's site (New Product Dynamics)",
+      "replacedWith": "Preston Smith's site (New Product Dynamics)",
+      "verdict": "dead-dns"
+    },
+    {
+      "section": "ideas",
+      "slug": "why-is-it-so-hard-to-focus",
+      "url": "https://www.launchtomorrow.com/2019/07/the-one-thing-steve-jobs-did-that-turned-around-apple/",
+      "status": "stripped",
+      "linkText": "https://www.launchtomorrow.com/2019/07/the-one-thing-steve-jobs-did-that-turned-around-apple/",
+      "replacedWith": "(empty — link text was the URL itself)",
+      "verdict": "dead"
+    },
+    {
+      "section": "docs",
+      "slug": "cost-of-delay-1",
+      "url": "http://www.newproductdynamics.com/book.htm",
+      "status": "stripped",
+      "linkText": "Developing Products in Half the Time, by Smith and Reinertsen -- specifically Chapter 2: Putting a Price Tag on Time",
+      "replacedWith": "Developing Products in Half the Time, by Smith and Reinertsen -- specifically Chapter 2: Putting a Price Tag on Time",
+      "verdict": "dead-dns"
+    }
+  ]
+}
