@@ -234,7 +234,7 @@ export default function CaseStudiesPage({ searchParams }: Props) {
                 {cases.length} case stud{cases.length !== 1 ? "ies" : "y"}
                 {practice ? ` in ${practice}` : ""}.
                 {!practice &&
-                  " New cases added as engagements complete and customer details are anonymized."}
+                  " New cases are added when they are created. Most case studies we can publish are >10 year old projects. Our current work involves advanced technology at the bleeding edge. We are not able to share these details for obvious reasons."}
               </p>
             </div>
           )}
