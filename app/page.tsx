@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { home, team, siteConfig } from "@/content/site-data";
 import { getAllPostMeta } from "@/content/posts-utils";
 import type { Metadata } from "next";
@@ -81,9 +82,19 @@ export default function HomePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-border">
             {team.members.map((member) => (
               <div key={member.name} className="bg-cream p-6 card-hover">
-                <div className="w-10 h-10 bg-navy/10 flex items-center justify-center mb-4">
-                  <span className="text-base font-semibold text-navy">{member.name.charAt(0)}</span>
-                </div>
+                {member.photo ? (
+                  <Image
+                    src={member.photo}
+                    alt={member.name}
+                    width={48}
+                    height={48}
+                    className="mb-4 object-cover"
+                  />
+                ) : (
+                  <div className="w-10 h-10 bg-navy/10 flex items-center justify-center mb-4">
+                    <span className="text-base font-semibold text-navy">{member.name.charAt(0)}</span>
+                  </div>
+                )}
                 <h3 className="font-semibold text-sm text-navy mb-1">{member.name}</h3>
                 <p className="section-label mb-2">{member.role}</p>
                 <p className="text-[12px] font-light text-ink-secondary leading-relaxed">{member.bio}</p>
