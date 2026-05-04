@@ -43,7 +43,7 @@ export default function TeamSection() {
               key={member.name}
               type="button"
               onClick={() => setSelectedMember(member)}
-              className="bg-cream-dark p-8 text-left w-full border-0 cursor-pointer transition-all duration-200 hover:bg-cream hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2 focus-visible:ring-offset-cream-dark"
+              className="flex flex-col bg-cream-dark p-8 text-left w-full border-0 cursor-pointer transition-all duration-200 hover:bg-cream hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2 focus-visible:ring-offset-cream-dark"
             >
               {member.photo ? (
                 <Image
