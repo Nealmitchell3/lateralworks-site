@@ -150,37 +150,79 @@ export const team = {
     {
       name: "Neal Mitchell",
       role: "Founder",
+      photo: "/images/team/neal-mitchell.jpg",
       bio: "200+ FTTM projects · Co-founded tech startup with exit · Original FTTM Research Team Member",
+      detailBio: [
+        "Neal founded lateralworks in 1988 and has led 200+ FTTM engagements across semiconductors, consumer electronics, automotive, defense, and enterprise IT. He is an original member of the FTTM research team that initiated the practice's foundational benchmarking study in 1990, and has spent the 36 years since translating those findings into running programs.",
+        "His track record spans some of the most technically ambitious programs of the past three decades. At GM's SATURN — a $6B program — he stood up the Program Management System that re-engineered GM's five-year product lifecycle into 36 months, pulling 18 months out of the original plan. At Digital Equipment Corporation he led the MicroVAX engagement that delivered $60M in savings and shipped DEC's first product ever to ship ahead of schedule, then expanded into a five-year program reaching 17 product lines. At IBM Austin he restructured the $500M RS-6000 program — 175 separate projects — and pulled 12 months of schedule variance out of the plan; the team won IBM's engineering excellence awards.",
+        "Before lateralworks, Neal co-founded Mitchell Management Systems, a software and management consulting firm that grew to $20M in revenue at 50% annual growth before being sold to a NYSE company in 1987. He has lectured on FTTM and program management to government and private-sector audiences across Asia, the Middle East, and Europe. Other engagements include Philips, Sun Microsystems, Tektronix, LSI Logic, Silterra Malaysia, Charles Schwab, the U.S. Navy Seabees, BMW, and the Australian Department of Defense.",
+      ],
     },
     {
       name: "Mark Edmonds, Ph.D.",
       role: "Founder",
+      photo: "/images/team/mark-edmonds.jpg",
       bio: "Physics Ph.D. · Directed 100+ person programs at Philips, National Semiconductor/Texas Instruments",
+      detailBio: [
+        "Mark joined lateralworks as a Founder following two careers at Philips: six years in Philips Research Laboratories managing the next-generation product programs, and eight years in the Product Concept and Application Lab running systems development where time-to-market was the critical constraint. He earned his BSc in Physics and PhD in real-time signal processing at the University of London.",
+        "At Philips Research, Mark led the team that developed Europe's third-generation UMTS prototype as part of the Race II program — 14 companies across 9 countries, hundreds of people — and demonstrated it on time. The same work led to W-CDMA, Japan's 3G standard, and Mark went on to represent Philips at the ETSI SMG5 international standards committee. He later managed Philips Semiconductor's 3G development program — a 120-person effort spanning Germany, the Netherlands, two teams in France, and two teams in the USA.",
+        "National Semiconductor recruited Mark to rescue an ailing Bluetooth program with a five-site team across California, Washington, Scotland, Germany, and Denmark. First samples landed in eight months and the team became first to market with a car-audio-compatible Bluetooth system, winning customers including Hewlett-Packard. Subsequent FTTM engagements include Zarlink's 12-channel 2.5 Gbps module that won Cisco as a customer after coming in ahead of schedule, RFMD's WiFi PCI Express recovery, and chipset programs ranging from VDSL to single-chip WiFi to LCD-TV.",
+      ],
     },
     {
       name: "Bob Biddinger",
       role: "Founder Emeritus",
-      bio: "Early HP employee · Seagate co-founder · Original FTTM Research Team Member",
+      photo: "/images/team/bob-biddinger.jpg",
+      bio: "Early HP employee · Seagate founding team · Original FTTM Research Team Member · Prolific speaker and Silicon Valley company builder",
+      detailBio: [
+        "Bob is a Founder Emeritus of lateralworks and the original architect of the FTTM benchmarking study that initiated the practice. In 1992 he launched the landmark best-practices study across thirteen major high-technology organizations to identify the applied business practices of the world's fastest companies and teams — the 33 discrete practices that emerged became the foundation of FTTM and continue to anchor the methodology today.",
+        "Before founding the practice, Bob was an early Hewlett-Packard employee and a member of the founding team at Seagate Technology, where he served as Vice President of Administration and Human Resources. He held executive operating positions at Memorex Corporation and Lockheed Missiles & Space Company, has served on the faculty of California universities, and has spoken publicly on Fast-Time-to-Market practices throughout his career.",
+        "His consulting and management engagements span IBM, Cypress Semiconductor, 3Com, General Electric, and the SATURN Corporation. At LSI Logic he established cross-functional teams and a new product development structure that delivered next-generation silicon — a $100M+ technology program — in 18 months from concept to first customer design, more than a 50% cycle time reduction. The 500K technology that resulted gave Sony a time-to-market advantage that effectively eliminated a competitor in the multimedia market. At Conner Peripherals, during the company's run as the fastest-growing in U.S. history, he supervised the development of the \"Launch Team\" concept that cut development cycle time to under six months from concept to volume.",
+      ],
     },
     {
       name: "Alan E. Rush, Ph.D.",
       role: "Associate",
+      photo: null,
       bio: "Ph.D. · Stanford Business School · Fast Operating Strategy Developer · Original FTTM Research Team Member",
+      detailBio: [
+        "Alan is one of the original members of the FTTM research team and a developer of the Fast Operating Strategy framework that sits alongside FTTM as part of the lateralworks methodology. With a Ph.D. and a Stanford Business School background, he brings 30+ years of experience advising senior executives who oversee portfolios of new product introductions — typically through short, high-leverage engagements built around 60–90 minute one-on-one sessions with the executive.",
+        "His track record across program acceleration is substantial. The majority of project schedule reductions on his consulting engagements have come in around one-third; one achieved a two-thirds reduction. The major accelerations have been in computer peripherals, disk storage, mainframe computers, operating system software, and directional drilling tools for the oil and gas industry.",
+        "Alan's clients have included Alcoa, Allied Signal, Boeing, Emerson Electric, FMC, General Electric, General Signal, Hewlett-Packard, Hitachi, Lockheed, Tandem, Tektronix, and Smith International, as well as a range of startups and small businesses. Beyond FTTM, his consulting addresses Total Quality Management Systems, Activity-Based Cost Management, Process Improvement, CEO 90-day Action Planning, Strategic Alliances, and IT Strategy.",
+      ],
     },
     {
       name: "James R. Schmook, Ph.D.",
       role: "Associate",
+      photo: "/images/team/james-schmook.jpg",
       bio: "Commander, U.S. Navy (Ret.) · Ph.D. · Strategy & coaching · Original FTTM Research Team Member",
+      detailBio: [
+        "Jim is an original member of the FTTM research team — a research partner in the Lateral Work Systems best-practice study of the early 1990s — and brings strategy and coaching experience built across a 26-year U.S. Navy career and three decades of corporate consulting. He retired as a Commander, U.S. Navy. His Ph.D. in Organizational Behavior is from U.S. International University in San Diego, with a Master's in Learning Theory from San Jose State and additional doctoral work at UC Santa Barbara and George Washington University.",
+        "Before consulting, Jim served as Vice President of Quality and Vice President of Business Development at a Fortune 500 manufacturing company in the oil services industry, and as Adjunct Professor of Management at Pepperdine University's M.A. program. His consulting practice covers FTTM, e-commerce implementation, Activity-Based Cost Management, Fast Operating Model deployment, process improvement, and strategic alliances.",
+        "His engagements range across commercial and government clients. In the commercial sector: Ford, Samsung, Johnson & Johnson, IBM, Tektronix, Smith International, National Semiconductor, Bausch & Lomb, and SEMATECH. In the government and defense sector: a multi-year ABC and process improvement engagement across the Army's Installation Management Agency in Europe and the Pacific, work with the U.S. Marine Corps on stateside base operations effectiveness, and a long tenure as a project planning trainer for USAID conducting workshops in Asia, Africa, Latin America, and the Middle East.",
+      ],
     },
     {
       name: "Barbara Grant, Ph.D.",
       role: "Associate",
-      bio: "VC-backed startup CEO · VC Fund Manager · IBM executive · Ph.D. · Original FTTM Research participant (at IBM)",
+      photo: "/images/team/barbara-grant.jpg",
+      bio: "VC-backed startup CEO · VC Fund Manager · IBM executive · Original FTTM Research participant (at IBM)",
+      detailBio: [
+        "Barbara joined lateralworks bringing three decades of executive leadership across major corporations and Silicon Valley startups. She participated in the original FTTM research while at IBM, where she spent 21 years rising to Vice President and General Manager of the Data Storage Division. Over the course of her IBM career, she led teams that developed and introduced more than 50 new IBM products — including new lithographic materials for semiconductor manufacturing, TFT LCD technology used in the ThinkPad product line, high-density magnetoresistive heads for hard disk drives, and the technologies behind the world's highest-capacity tape drives and storage subsystems. She is the inventor of eight patents and numerous technical publications across multiple technology sectors. In 1996, Women in Technology International elected her to its inaugural Hall of Fame class for her leadership and technology development at IBM.",
+        "After IBM, Barbara was CEO of Siros Technologies, a Silicon Valley startup developing optical components and subsystems for the communications and storage markets. Under her leadership, Siros raised more than $60M from top-tier venture capital and corporate investors. She is currently a Partner at American River Ventures, a venture capital fund managing more than $100M in early-stage technology investments.",
+        "Her board experience spans technology and academic institutions: she serves on the boards of Agoura Technologies, Integrated Materials, Triformix, and Xponent Photonics, and on the Sacramento Area Region Technology Alliance. She is also a member of the University of California, Davis Board of Visitors and its Research Advisory Board. Barbara holds a BS in chemistry from Arizona State University and a PhD in organic chemistry from Stanford University.",
+      ],
     },
     {
       name: "Cheryl Beninga",
       role: "Associate",
+      photo: "/images/team/cheryl-beninga.jpg",
       bio: "Former Intel executive · VC investor/fund manager · 40+ portfolio companies",
+      detailBio: [
+        "Cheryl brings 20+ years of venture capital investment experience working with leading technology investors, including Intel Capital and GE Ventures. Across her investing career she has been responsible for billions of dollars in venture investments, including over $50M in early-stage technology investments that yielded more than $2B in returned value, working at every stage from Seed round through IPO and across M&A transactions.",
+        "She began her career at Chevron and Hewlett-Packard before joining Intel in the early 1990s. At Intel she moved from product marketing into Intel Capital, where she served as Director and Senior Investment Manager from 1998 to 2006, with portfolio responsibility across stages and sectors. She subsequently joined American River Ventures as Managing Director, where her investments included SynapSense — a Folsom-based data center power management company that successfully exited to Panduit. She is currently Managing Director of Beninga Advisors, the strategy and financing advisory firm, and Wai-Mohala Ventures.",
+        "In 2017, Cheryl co-founded FourthWave, a non-profit accelerator program for women-led, high-potential technology companies. FourthWave alumnae have collectively raised more than $150M in venture capital. She also serves on the Board of Advisors for the Carlsen Center for Innovation & Entrepreneurship at California State University Sacramento. She holds an MBA in General Management from Harvard Business School and a BS in Finance from Indiana University's Kelley School of Business. In 2025 she was named an honoree of the Sacramento Inno Awards.",
+      ],
     },
   ],
 };
