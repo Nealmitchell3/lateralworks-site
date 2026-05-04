@@ -150,37 +150,37 @@ export const team = {
     {
       name: "Neal Mitchell",
       role: "Founder",
-      bio: "200+ FTTM projects · Co-founded tech startup with exit",
+      bio: "200+ FTTM projects · Co-founded tech startup with exit · Original FTTM Research Team Member",
     },
     {
       name: "Mark Edmonds, Ph.D.",
       role: "Founder",
-      bio: "Physics Ph.D. · Directed 100+ person programs at Philips, TI",
+      bio: "Physics Ph.D. · Directed 100+ person programs at Philips, National Semiconductor/Texas Instruments",
     },
     {
       name: "Bob Biddinger",
-      role: "Founder · Associate",
-      bio: "Seagate co-founder · Early HP · Lead FTTM researcher",
-    },
-    {
-      name: "Cheryl Beninga",
-      role: "Associate",
-      bio: "Former Intel exec · VC investor · 40+ portfolio companies",
-    },
-    {
-      name: "Barbara D. Grant, Ph.D.",
-      role: "Associate",
-      bio: "Ph.D. · VC-backed startup CEO · IBM executive",
-    },
-    {
-      name: "James R. Schmook, Ph.D.",
-      role: "Associate",
-      bio: "Commander, U.S. Navy (Ret.) · Ph.D. · Strategy & coaching",
+      role: "Founder Emeritus",
+      bio: "Early HP employee · Seagate co-founder · Original FTTM Research Team Member",
     },
     {
       name: "Alan E. Rush, Ph.D.",
       role: "Associate",
-      bio: "Ph.D. · Stanford Business School · Fast Operating Strategy",
+      bio: "Ph.D. · Stanford Business School · Fast Operating Strategy Developer · Original FTTM Research Team Member",
+    },
+    {
+      name: "James R. Schmook, Ph.D.",
+      role: "Associate",
+      bio: "Commander, U.S. Navy (Ret.) · Ph.D. · Strategy & coaching · Original FTTM Research Team Member",
+    },
+    {
+      name: "Barbara Grant, Ph.D.",
+      role: "Associate",
+      bio: "VC-backed startup CEO · VC Fund Manager · IBM executive · Ph.D. · Original FTTM Research participant (at IBM)",
+    },
+    {
+      name: "Cheryl Beninga",
+      role: "Associate",
+      bio: "Former Intel executive · VC investor/fund manager · 40+ portfolio companies",
     },
   ],
 };
