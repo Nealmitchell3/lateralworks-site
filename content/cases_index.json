@@ -78,5 +78,21 @@
     "abstract": "In late 2011 Alta Devices held the world record for solar-cell efficiency but faced a year-end pilot-line deadline that would gate its next funding round, with the integrated schedule forecasting an eight-month miss. lateralworks rebuilt the program as a single 5,000-activity integrated schedule, restructured the team around lateral deliverables, and ran a weekly pull-in cadence with the full management team. The line produced first qualified material on December 12, 2012 — closing the gap inside an eleven-month planning window.",
     "pdf": "/cases/alta-devices-12-12-12-pilot-line.pdf",
     "thumb": "/cases/thumbs/alta-devices-12-12-12-pilot-line.png"
+  },
+  {
+    "slug": "ai-assisted-macro-planning",
+    "title": "Planning in three days, not three weeks",
+    "subtitle": "How a chip-development team compressed multi-year program planning from weeks to days, with AI doing 80% of the synthesis and the team scrubbing the rest.",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-05-06",
+    "sector": "Semiconductor",
+    "engagement": "Multi-year stacked-memory program · three-day planning sprint",
+    "outcome": "Initial macro plan; program charter, milestone timeline, and macro schedule with gap analysis and core team buy-in in three days against a conventional cycle of three to four weeks.",
+    "pages": 44,
+    "core_thesis": "AI-assisted macro planning compresses about 80% of the synthesis work into hours and routes the remaining 20% — judgment, calibration, local context — through the team. On a multi-year stacked-memory program, that split delivered a publishable charter, milestone matrix, and macro schedule in three days against a conventional cycle of three to four weeks.",
+    "abstract": "Multi-year program planning conventionally takes weeks of meetings, drafts, and reviews. A semiconductor team replaced that cycle with an AI-assisted three-step flow: milestone timeline, milestone matrix, macro schedule. The AI generated each draft in hours; the team scrubbed and re-prompted. AI did about 80% of the synthesis. The team added the last 20% — judgment, calibration, local context. The first complete plan was on the table in three days. The case documents the flow, the iteration discipline, and nine operating principles.",
+    "pdf": "/cases/ai-assisted-macro-planning.pdf",
+    "thumb": "/cases/thumbs/ai-assisted-macro-planning.png"
   }
 ]
