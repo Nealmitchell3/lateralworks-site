@@ -1,5 +1,18 @@
 [
   {
+    "slug": "the-weekly-schedule-refresh",
+    "title": "The weekly schedule refresh",
+    "date": "May 8, 2026",
+    "dateISO": "2026-05-08",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [],
+    "excerpt": "A weekly pull-in meeting only works if it leaves behind an artifact the team can act on. The schedule refresh is that artifact — a record of where the program stands, what moved this week, who is doing what next, and what could derail it.",
+    "imageCount": 1
+  },
+  {
     "slug": "the-critical-path-youre-not-watching",
     "title": "The critical path you're not watching",
     "date": "May 7, 2026",
