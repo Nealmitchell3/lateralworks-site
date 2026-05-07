@@ -7,7 +7,7 @@ export const siteConfig = {
   name: "lateralworks",
   tagline: "accelerated development",
   founded: "Silicon Valley · Founded 1988",
-  email: "info@lateralworks.com",
+  email: "contact@lateralworks.com",
   phone: "",
   address: "Silicon Valley, CA",
   trademark: "fastworks® is a registered trademark of lateralworks",
@@ -521,7 +521,7 @@ export const contact = {
     headline: "Start a conversation.",
     body: "Whether you're facing a specific program challenge, evaluating the fastWorks software, or want to understand how FTTM applies to your organization — we're straightforward to talk to.",
   },
-  email: "info@lateralworks.com",
+  email: "contact@lateralworks.com",
   location: "Silicon Valley, CA",
   prompt: "Describe your program challenge or question, and we'll respond directly.",
 };

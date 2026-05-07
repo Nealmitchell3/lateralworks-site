@@ -1,4 +1,5 @@
 import { contact } from "@/content/site-data";
+import ContactForm from "./ContactForm";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = { title: "Contact", description: contact.hero.body };
@@ -44,27 +45,7 @@ export default function ContactPage() {
             <div className="lg:col-span-2">
               <div className="bg-cream-dark p-8 lg:p-10">
                 <p className="text-[13px] font-light text-ink-secondary mb-8 leading-relaxed">{contact.prompt}</p>
-                <form action={`mailto:${contact.email}`} method="get" encType="text/plain" className="space-y-6">
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-                    <div>
-                      <label className="block text-[11px] font-semibold uppercase tracking-widest text-ink-muted mb-2">Name</label>
-                      <input type="text" name="name" required placeholder="Your name" className="w-full bg-cream border border-border px-4 py-3 text-sm text-ink focus:outline-none focus:border-navy transition-colors" />
-                    </div>
-                    <div>
-                      <label className="block text-[11px] font-semibold uppercase tracking-widest text-ink-muted mb-2">Email</label>
-                      <input type="email" name="email" required placeholder="your@email.com" className="w-full bg-cream border border-border px-4 py-3 text-sm text-ink focus:outline-none focus:border-navy transition-colors" />
-                    </div>
-                  </div>
-                  <div>
-                    <label className="block text-[11px] font-semibold uppercase tracking-widest text-ink-muted mb-2">Company</label>
-                    <input type="text" name="company" placeholder="Your company" className="w-full bg-cream border border-border px-4 py-3 text-sm text-ink focus:outline-none transition-colors" />
-                  </div>
-                  <div>
-                    <label className="block text-[11px] font-semibold uppercase tracking-widest text-ink-muted mb-2">What are you working on?</label>
-                    <textarea name="body" rows={6} required placeholder="Tell us about your program, challenge, or question." className="w-full bg-cream border border-border px-4 py-3 text-sm text-ink focus:outline-none focus:border-navy transition-colors resize-none" />
-                  </div>
-                  <button type="submit" className="w-full sm:w-auto text-[12px] font-semibold tracking-wider uppercase px-8 py-4 bg-navy text-white hover:bg-navy-light transition-colors">Send Message</button>
-                </form>
+                <ContactForm />
               </div>
             </div>
           </div>
