@@ -1,18 +1,18 @@
 {
   "slug": "fastproject-491-released",
   "url": "https://lateralworks.com/tools/2020/3/24/fastproject-491-released",
-  "title": "fastProject 4.9.1 Released",
+  "title": "fastProjectAI 4.9.1 Released",
   "date": "March 23, 2020",
   "dateISO": "2020-03-24",
   "author": "Mark Edmonds",
   "categories": [
-    "fastProject Release Note"
+    "fastProjectAI Release Note"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <h2>General</h2><ul><li><p class=\"\">Filter Task/Filter 2 Tasks fixed</p></li><li><p class=\"\">New filter added to filter on all incomplete tasks within a date range and no summaries</p></li><li><p class=\"\">Modified unique code generation when requisition a license to avoid hidden characters</p></li></ul><h2>Update</h2><ul><li><p class=\"\">New (simpler and faster) PreFresh report along with a new improved (faster) PreFresh import (both default default and advanced)</p></li><li><p class=\"\">Improved LAR formatting when uploaded to Google Docs</p></li><li><p class=\"\">Added new function/filter in sub-menu: “Show tasks updated on”</p></li><li><p class=\"\">Fixed bug where the Start date of tasks with their Touchpoint flag set would get moved to their Finish date</p></li></ul><h2>Macro-Micro Roll-up</h2><ul><li><p class=\"\">Fixed bug where the roll-up dates of a Summary task in the micro schedule were being reported as not matching with the macro due to a Target in the Summary task (specifically, when the Target was later than the finish date of the Summary)</p></li><li><p class=\"\">Fixed similar bug when the Target date was earlier than the start date of any subtask, and thus reported an incorrect start date of the roll-up summary task</p></li><li><p class=\"\">Fixed bug where the update date wasn’t recorded in the macro under some circumstances</p></li><li><p class=\"\">Fixed bug where the update date wasn’t updated in the micro</p></li></ul><h2>Wigglechart</h2><ul><li><p class=\"\">Spurious Black dots on the Wigglechart fixed</p></li></ul><h2>Analyzer</h2><ul><li><p class=\"\">Trend Analysis now extended to all tasks and can be based on a partial part of the task name</p></li><li><p class=\"\">Fixed problem where tasks exceeded from analysis were reported as errors for the tests <em>Summary No Milestone</em> and <em>Skips End Milestone</em>.</p></li><li><p class=\"\">Fixed bug where Roll-down touchpoints on tasks had their date changed by the schedule clean-up function, which ended up moving the start date of the task out to the Touchpoint date</p></li></ul><h2>Inspector</h2><ul><li><p class=\"\">Brand new Critical Path Analysis chart</p></li><li><p class=\"\">Added ability to do a late report for All Targets in the schedule</p></li><li><p class=\"\">Late Report:</p><ul><li><p class=\"\">Now includes both Late Start and Late Finish - the Split Bar now snaps so all columns are displayed</p></li><li><p class=\"\">Fixed bug where all tasks were not displayed if the near-term critical paths mode was set</p></li></ul></li><li><p class=\"\">Fixed problem in the Critical Path Analysis chart where an incorrect Target could be displayed if the Wiggle milestone had Subprojects as a predecessor task.</p></li><li><p class=\"\">Fixed problem with the “Select Target” pop up box opening up when the number of targets is more that the max number of targets (currently set at 40)</p></li></ul>\n</div>",

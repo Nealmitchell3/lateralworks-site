@@ -1,18 +1,18 @@
 {
   "slug": "baselines-in-fastproject",
   "url": "https://lateralworks.com/tools/2019/1/12/baselines-in-fastproject",
-  "title": "Baselines in fastProject",
+  "title": "Baselines in fastProjectAI",
   "date": "January 11, 2019",
   "dateISO": "2019-01-12",
   "author": "Neal Mitchell",
   "categories": [
-    "fastProject Concept"
+    "fastProjectAI Concept"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <p><strong>Question</strong>:</p><p>When I am in the interview panel and I click \"snap first baseline for today,\" does that impact Baseline 0?</p>\n</div>\n\n<div>\n  <p><strong>Answer</strong>:</p><p>There are 11 baselines in MS Project.</p><p>Main Baseline:<br>Baseline 0</p><p>Interim Baselines:<br>Baseline 1-9<br>Baseline 10</p><p>We reserve Baseline 10 for internal use, so what you have available is Baseline 0-9.</p><p>When you invoke the Update, then click Next, that is the time the baseline is snapped. If this is the first time you are running an update and no baselines have been snapped, we snap both Baseline 0 and Baseline 1. Thereafter, Baselines 1-9 are used and Baseline 0 is not snapped again unless you intentionally want to re-baseline it.</p>\n</div>\n\n<figure><img src=\"/images/docs/15473418_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>This is done quite simply by invoking the wigglet, moving the scroll bar over the the first date (greyed out - this is Baseline 0) then click “Snap.”</p><p>If you run multiple updates on a day, the baseline for that date is not re-snapped (the check mark is unchecked). If you check it, then you are given the option to either overwrite the existing baseline or create a new one.</p>\n</div>\n\n<figure><img src=\"/images/docs/15473418_image.png\" alt=\"image.png\" /></figure>",

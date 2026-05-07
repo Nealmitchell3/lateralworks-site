@@ -6,13 +6,13 @@
   "dateISO": "2019-06-23",
   "author": "Neal Mitchell",
   "categories": [
-    "fastProject Concept"
+    "fastProjectAI Concept"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <p class=\"\">Our advice was to refresh (i.e. update, breakdown, pull-in) your schedule once a week.</p><p class=\"\">This is a best practice, since most teams only update their schedule before major program reviews! We find that faster teams actually refresh their schedule more frequently, every morning in the best cases.</p><p class=\"\">Here is some advice we recently gave to a client...</p><ol><li><p class=\"\">Start on Monday (and thereafter every day), 8:30-9:00 so it doesn't eat into the work day</p></li><li><p class=\"\">Keep the meeting strictly to within 30 minutes -- if extra time is needed then agree there and then who is needed, let the others go and continue or reschedule</p></li><li><p class=\"\">Keep the update part to ONLY update, hold engineering discussions to after unless relevant for updating -- after doing this for a couple of weeks it will be very, very smooth</p></li><li><p class=\"\">People will get the chance to change the schedule after the update</p></li><li><p class=\"\">You will need to shut people down if what they're talking about is not relevant and note it for later -- they'll learn after a while to hold off until after the update is completed</p></li><li><p class=\"\">Set the look ahead to 2-3 days in fastUpdate (you will have 15-20 activities to update at 15 seconds/activity = 5 min.).</p></li><li><p class=\"\">Engineering discussions happen after the update -- make changes to the schedule then pull-in -- you should allow 20-25 min. to do this to stay within the 30 mins.</p></li></ol>\n</div>\n\n<div>\n  <p class=\"\">Advantages to daily refreshes:</p><ol><li><p class=\"\">Contrary to popular belief, daily refreshes are faster because changes to the schedule are typically small -- easier on the team</p></li><li><p class=\"\">Tighter control of the schedule - you will see slips within a day and not waiting a week to see them which means you can correct faster</p></li><li><p class=\"\">Pull-in the schedule daily</p></li><li><p class=\"\">The team sees the schedule every day rather than once a week</p></li><li><p class=\"\">Daily refreshes mean many small changes entered over the course of a week versus letting them build up and doing them all at once (time consuming and a waste of the team's time).</p></li></ol><p class=\"\">fastUpdateis a module included in fastworksProject, an open source add-on to MS Project.</p>\n</div>",

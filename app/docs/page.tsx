@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Docs",
-  description: "Release notes, how-to guides, and troubleshooting documentation for fastProject, fastDecision, and fastROI.",
+  description: "Release notes, how-to guides, and troubleshooting documentation for fastProjectAI, fastDecisionAI, and Cost-of-delayAI.",
 };
 
 interface Props {
@@ -44,7 +44,7 @@ export default function DocsPage({ searchParams }: Props) {
             {heroHeadline}
           </h1>
           <p className="text-base font-light text-white/60 max-w-2xl leading-relaxed">
-            Reference material for fastProject, fastDecision, and fastROI users — release notes,
+            Reference material for fastProjectAI, fastDecisionAI, and Cost-of-delayAI users — release notes,
             common solutions, and concept explanations from the practitioner team.
           </p>
         </div>

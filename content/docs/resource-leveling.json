@@ -6,13 +6,13 @@
   "dateISO": "2019-01-12",
   "author": "Neal Mitchell",
   "categories": [
-    "fastProject Function"
+    "fastProjectAI Function"
   ],
   "tags": [
     "FastProject Concept",
-    "fastDecision",
-    "fastProject",
-    "fastROI"
+    "fastDecisionAI",
+    "fastProjectAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <p class=\"\">Once a resource pool has been built and resources assigned to tasks, the next step is to analyze the schedule for overallocation. Where overallocation exists, it is necessary to level the resources in order to reduce the overallocation.</p><p class=\"\">There are 6  ways to level a project:</p><ol><li><p class=\"\">Can we eliminate the work (task)?</p><ul><li><p class=\"\">Do we really need to do this?</p></li></ul></li><li><p class=\"\">Can we add more resources?</p><ul><li><p class=\"\">Using contractors, hire, reassign people form different groups within the organization or company</p></li></ul></li><li><p class=\"\">Can we reallocate resources?</p><ul><li><p class=\"\">Identifying people with the right skills that are on tasks with lots of float, reassign them to more critical (critical path or near-critical path) tasks</p></li></ul></li><li><p class=\"\">Can we serialize the activities</p><ul><li><p class=\"\">Where tasks have a lot of float, make a Finish-to-Start dependency between tasks</p></li></ul></li><li><p class=\"\">Increase duration and reduce the % allocation</p><ul><li><p class=\"\">Again, using tasks that have a lot of float, extend the duration of a task while reducing the % allocation - this may mean multiple tasks run in parallel, but take longer</p></li></ul></li><li><p class=\"\">Change scope</p><ul><li><p class=\"\">On a higher, project-level, can the scope of the project be changed - this may lead to elimination of work or tasks being redefined so be \"simpler\" and less resource intensive</p></li></ul></li></ol><p class=\"\">Consider the proverbial example of putting 10lbs of flour into a 5lb bag, where the flour is work (which implies resources), and the bag is time. As we know, it's impossible to but 10lbs of flour into a 5lb bag, and if we try, the bag will split. This is typical of many organizations, where there is too much work for the resources assigned to be done within a certain timeframe (it begs the question why organizations do this since it is clearly impossible, but this is another story). What typically happens when applied a portfolio of projects, is all projects end up slipping.</p><p class=\"\">If we were to apply our leveling technique to our flour and bag problem:</p><ul><li><p class=\"\">Do we have to put the flour into the bag?</p></li><li><p class=\"\">Can we get buy another 5lb bag?</p></li><li><p class=\"\">Can we get another 5lb bag from somebody else?</p></li><li><p class=\"\">Can we put 5lb of flout into the bag, use it, then put the remaining flour in?</p></li><li><p class=\"\">Can we take longer to put the flour into the bag, expecting people to use it as we go?</p></li><li><p class=\"\">Why do we need to put the flour into the bag?</p></li><li><p class=\"\">Clearly if the answer is No to each of these questions, then the bag will split!</p></li></ul>\n</div>",

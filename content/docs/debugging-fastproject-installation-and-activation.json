@@ -1,21 +1,21 @@
 {
   "slug": "debugging-fastproject-installation-and-activation",
   "url": "https://lateralworks.com/tools/2025/4/22/debugging-fastproject-installation",
-  "title": "Debugging fastProject Installation and Activation",
+  "title": "Debugging fastProjectAI Installation and Activation",
   "date": "April 21, 2025",
   "dateISO": "2025-04-22",
   "author": "Mark Edmonds",
   "categories": [
-    "fastProject Solution"
+    "fastProjectAI Solution"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
-  "content": "<div>\n  <p class=\"\">If you are having problems activating fastProject after installation because the fastProject items are not under File, please check the following. 95% of problems are solved with one of these steps:</p><ol><li><p class=\"\">Make sure you installed 64-bit fastProject if you have 64-bit Office (the most popular), or 32-bit fastProject if you have 32-bit Office.</p></li><li><p class=\"\">You will not see the fastProject items when clicking on File unless you have started a blank project (or opened an existing project).</p></li><li><p class=\"\">Make sure the Global.mpt got installed. To check, go to <strong>c:\\Users\\&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US</strong>. If the file size is about 1.2MB rather than 12MB, then the Global did not get installed. In this case, do the following:</p><ul><li><p class=\"\">Exit MS Project</p></li><li><p class=\"\">Open a new File Explorer window and navigate to <strong>c:\\Program Files\\fastProject\\System</strong></p></li><li><p class=\"\">Run the file “Copy Global.bat” (if present) and check the Global is about 12MB. If not:</p><ul><li><p class=\"\">Select the Global.mpt file, in the fastProject system folder &gt; Right-mouse click &gt; Copy</p></li><li><p class=\"\">Select the window open with the location c:\\Users\\&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US</p></li><li><p class=\"\">Paste the Global.mpt file (ok to overwrite the existing version)</p></li><li><p class=\"\">Start fastProject - the fastProject items should now be visible</p></li></ul></li></ul></li><li><p class=\"\">Make sure you only have one version of MS Project installed (in the above path name, you should not have a …MS Project\\14\\en-us location.</p></li><li><p class=\"\">Make sure you are not logged int to Project Server. If you are, change the setting that allows you to select an account (File &gt; Info &gt; Manage Accounts &gt; Choose an account), restart MS Project, when prompted, choose Computer. The fastProject items should now be visible. If not, check one of the above. After you have activated fastProject, you can switch back to auto-login to Project Server.</p></li></ol>\n</div>",
+  "content": "<div>\n  <p class=\"\">If you are having problems activating fastProjectAI after installation because the fastProjectAI items are not under File, please check the following. 95% of problems are solved with one of these steps:</p><ol><li><p class=\"\">Make sure you installed 64-bit fastProjectAI if you have 64-bit Office (the most popular), or 32-bit fastProjectAI if you have 32-bit Office.</p></li><li><p class=\"\">You will not see the fastProjectAI items when clicking on File unless you have started a blank project (or opened an existing project).</p></li><li><p class=\"\">Make sure the Global.mpt got installed. To check, go to <strong>c:\\Users\\&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US</strong>. If the file size is about 1.2MB rather than 12MB, then the Global did not get installed. In this case, do the following:</p><ul><li><p class=\"\">Exit MS Project</p></li><li><p class=\"\">Open a new File Explorer window and navigate to <strong>c:\\Program Files\\fastProjectAI\\System</strong></p></li><li><p class=\"\">Run the file “Copy Global.bat” (if present) and check the Global is about 12MB. If not:</p><ul><li><p class=\"\">Select the Global.mpt file, in the fastProjectAI system folder &gt; Right-mouse click &gt; Copy</p></li><li><p class=\"\">Select the window open with the location c:\\Users\\&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US</p></li><li><p class=\"\">Paste the Global.mpt file (ok to overwrite the existing version)</p></li><li><p class=\"\">Start fastProjectAI - the fastProjectAI items should now be visible</p></li></ul></li></ul></li><li><p class=\"\">Make sure you only have one version of MS Project installed (in the above path name, you should not have a …MS Project\\14\\en-us location.</p></li><li><p class=\"\">Make sure you are not logged int to Project Server. If you are, change the setting that allows you to select an account (File &gt; Info &gt; Manage Accounts &gt; Choose an account), restart MS Project, when prompted, choose Computer. The fastProjectAI items should now be visible. If not, check one of the above. After you have activated fastProjectAI, you can switch back to auto-login to Project Server.</p></li></ol>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0

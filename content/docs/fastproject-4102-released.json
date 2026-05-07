@@ -1,18 +1,18 @@
 {
   "slug": "fastproject-4102-released",
   "url": "https://lateralworks.com/tools/2020/9/9/fastproject-4102-released",
-  "title": "fastProject 4.10.2 Released",
+  "title": "fastProjectAI 4.10.2 Released",
   "date": "September 8, 2020",
   "dateISO": "2020-09-09",
   "author": "Mark Edmonds",
   "categories": [
-    "fastProject Release Note"
+    "fastProjectAI Release Note"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <h2>General</h2><ul><li><p class=\"\">Moved the Open all (+) and Close all (-) buttons on the toolbar over to the far left, next to the Incomplete tasks button.</p></li><li><p class=\"\">Minor change to the Context menu when selecting the entire task</p></li><li><p class=\"\">Fixed bug where legitimate date constraints would be identified as incorrect date constraints and removed</p></li><li><p class=\"\">Typos fixed</p></li></ul><h2>Tools</h2><ul><li><p class=\"\">Adding a Touchpoint/Checkpoint/Deliverable milestone before the selected task automatically applies the date constraint to the new milestone and deletes the old date constraint</p></li><li><p class=\"\">When exporting Marked tasks, Notes or Actions, defaults now to show them in the Gantt chart and export them</p></li><li><p class=\"\">Fixed export report when exporting Marked tasks, Notes or Actions</p></li><li><p class=\"\">Fixed bug in Breakdown when a predecessor to the task being broken down was an external task</p></li></ul><h2>Analyzer</h2><ul><li><p class=\"\">Fixed bug where tasks that were resource leveled would have their date constraints removed if one had been set</p></li><li><p class=\"\">Fixed bug where the Analyzer wold crash if the only sub-tasks within a group were external tasks</p></li></ul><h2>Refresh</h2><ul><li><p class=\"\">Roll-down milestones are now excluded from the PreFresh report. This means some legitimate milestones may be omitted when importing he report - these should just get updated after the import.</p></li><li><p class=\"\">Back by popular demand, the Highlight button has been added back to the Update window (next to the activity name)</p></li></ul><h2>Inspector</h2><ul><li><p class=\"\">Refinements to the formatting of the Critical Path Analysis chart</p></li><li><p class=\"\">Added the ability, under the Late Simulator, to set (and clear) the Deadlines on all Wiggle milestones to be the Target date. Any late tasks relative to their Target milestone will create negative float.</p></li><li><p class=\"\">Bug fixed when setting Deadlines = Target dates for sub-projects</p></li></ul><h2>Macro-Micro Roll-up</h2><ul><li><p class=\"\">Now works with sub-projects</p></li><li><p class=\"\">A task is re-updated of both macro and micro tasks are complete but their Start or Finish dates don’t align</p></li><li><p class=\"\">A date constraint is now added to a task to take into account different calendars and leveling delays on the micro task</p></li><li><p class=\"\">Only non-completed macro predecessors are required in the micro schedule - this allows roll-down Touchpoints to be removed from the micro schedule when done</p></li><li><p class=\"\">Fixed a problem where completing a Touchpoint in the future could cause a split task from the start of the project to the actual Finish date</p></li><li><p class=\"\">Fixed problem where a completed roll-up task in the micro schedule did not alight with the completed task in the macro schedule. If the roll-up task in the micro schedule was a summary task where the end milestone had a Target, and the Target date was later than the milestone, then the Target date was reported as the Finish date vs. the end milestone date.</p></li><li><p class=\"\">Fixed problem where two dependent roll-up tasks could generate negative float in the macro schedule</p></li><li><p class=\"\">Fixed problem where the finish date of a completed macro task rolled up from a completed micro task did not align, generating a “Roll-up Start/Finish dates did not match” error</p></li><li><p class=\"\">Fixed Dropbox link when going to a roll-up task in a micr-schedule that exists on Dropbox</p></li></ul><h2>Documentation</h2><ul><li><p class=\"\">Added “PreFresh Report on Google Docs.pdf” to the Refresh documentation</p></li></ul><p class=\"\"></p>\n</div>",

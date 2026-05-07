@@ -46,7 +46,6 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-8xl mx-auto px-6 lg:px-10 py-5 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
           <p className="text-[11px] font-light text-white/30">{siteConfig.copyright} {siteConfig.address}.</p>
-          <p className="text-[11px] font-light text-white/30">{siteConfig.trademark}</p>
         </div>
       </div>
     </footer>

@@ -1,18 +1,18 @@
 {
   "slug": "fastdecision-421-released",
   "url": "https://lateralworks.com/tools/2020/6/23/fastdecision-43-released",
-  "title": "fastDecision 4.2.1 Released",
+  "title": "fastDecisionAI 4.2.1 Released",
   "date": "June 22, 2020",
   "dateISO": "2020-06-23",
   "author": "Mark Edmonds",
   "categories": [
-    "fastDecision Release Note"
+    "fastDecisionAI Release Note"
   ],
   "tags": [
-    "fastDecision",
+    "fastDecisionAI",
     "FastProject Concept",
-    "fastProject",
-    "fastROI"
+    "fastProjectAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <h2>Objectives</h2><ul><li><p class=\"\">Fixed a critical bug where the judgements could switch position when deleting an objective</p></li><li><p class=\"\">Fixed problem where the best fit was displayed at the top of the pair-wise when consistency was 100%</p></li></ul>\n</div>",

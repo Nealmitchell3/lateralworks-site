@@ -6,13 +6,13 @@
   "dateISO": "2019-06-22",
   "author": "Neal Mitchell",
   "categories": [
-    "fastDecision Concept"
+    "fastDecisionAI Concept"
   ],
   "tags": [
-    "fastDecision",
+    "fastDecisionAI",
     "FastProject Concept",
-    "fastProject",
-    "fastROI"
+    "fastProjectAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <p class=\"\">Structuring Decision Models</p>\n</div>\n\n<figure><img src=\"/images/docs/15612275_6a00e54efe8aa5883400e553985bf38833-800wi.jpg\" alt=\"objectives in a decision-model\" /><figcaption>objectives in a decision-model</figcaption></figure>\n\n<figure><img src=\"/images/docs/15612275_6a00e54efe8aa5883400e553985c2d8833-800wi.jpg\" alt=\"alternatives in a decision-model\" /><figcaption>alternatives in a decision-model</figcaption></figure>\n\n<div>\n  <p class=\"\">Decision models have three major components; goal, objectives, and alternatives. Some people use \"criteria\" instead of \"objective.\" There is no \"right\" or \"wrong\" term, just different interpretations. When you look at the literature on AHP you find both, for example this good wiki descriptionuses \"criterion\" and it is hard to find the word objective anywhere. Others only use Objective. The more models we build the more we understand why using \"objective\" results in better models.</p><p class=\"\">New product portfolio example</p><p class=\"\">\"OBJECTIVE: something that one's efforts or actions are intended to attain or accomplish\"is exactly what our question was for the product line management team (example above).</p><p class=\"\">What are you trying to accomplish and then what are the alternative ways for you to accomplish these objectives (i.e. the project list)?</p><p class=\"\">Criterion or criteria tends to be passive, while \"objective\" is active.</p><p class=\"\">Take buying a new car. Size might be a criterion; however, you have no idea whether large is better or small is better. Switch this around and have as an objective \"high safety.\" Well, large is better, small is worse. Now try an objective of \"high fuel efficiency,\" small is better, large is worse. In this case, large isn't even a factor - you can think that it's a HOW to create a WANT. In the VOC world, WANTs get mixed up with HOWs. Objectives &amp; Criteria could be analogous.</p><p class=\"\">Criteria can be things that \"just are\" with no indication of whether a high or low value is good or bad. When you turn them into objectives, it then becomes clear how to measure them.</p><p class=\"\">So the question might be:</p><ul><li><p class=\"\">What OBJECTIVES are you trying to achieve with \"these\" ALTERNATIVES in order to attain your GOAL?</p></li></ul><p class=\"\">Now apply this to the Product Portfolio (example above).</p><ul><li><p class=\"\">What business OBJECTIVES are we trying to achieve with these potential development projects in order to attain our product line strategic GOAL?</p></li></ul>\n</div>",

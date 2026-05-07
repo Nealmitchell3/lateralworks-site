@@ -6,13 +6,13 @@
   "dateISO": "2019-01-13",
   "author": "Neal Mitchell",
   "categories": [
-    "fastDecision Function"
+    "fastDecisionAI Function"
   ],
   "tags": [
     "FastProject Concept",
-    "fastDecision",
-    "fastProject",
-    "fastROI"
+    "fastDecisionAI",
+    "fastProjectAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <p>Include/exclude objectives. Highlight one or more objectives, right mouse click, select exclude objective.</p>\n</div>\n\n<figure><img src=\"/images/docs/15474006_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>Below is an example. The grayed out objectives have been excluded. The remaining percent values are distributed proportionally between the remaining objectives. The prioritized alternatives then reflect the weighting of just two of the objectives, in this example \"grow revenue\" and improve product quality metrics.\" If only these objectives were used the \"federal market\" would be the winner.</p>\n</div>\n\n<figure><img src=\"/images/docs/15474006_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p><br><br><br></p>\n</div>",

@@ -6,16 +6,16 @@
   "dateISO": "2019-01-12",
   "author": "Neal Mitchell",
   "categories": [
-    "fastProject Function"
+    "fastProjectAI Function"
   ],
   "tags": [
     "FastProject Concept",
-    "fastDecision",
-    "fastProject",
-    "fastROI"
+    "fastDecisionAI",
+    "fastProjectAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
-  "content": "<figure><img src=\"/images/docs/15473403_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>A new feature introduced in fastProject 4.7.3 and above is a simplified window function at the end of the Update to review the changes to each of the targets as a result of the Update. Selecting \"Pull-in\" will bring up the last baseline and show the critical path to the selected target.</p>\n</div>\n\n<figure><img src=\"/images/docs/15473403_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>The same \"Review Targets\" function can be selected at any time using the Inspector dropdown menu (above). This is a fast way to scroll through targets, get their status and then set-up for a Pull-in analysis. Notice in the top left corner that \"5 day slip\" on the selected target is visible. This is live and will change as the schedule pulls-in and pushes-out.</p>\n</div>",
+  "content": "<figure><img src=\"/images/docs/15473403_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>A new feature introduced in fastProjectAI 4.7.3 and above is a simplified window function at the end of the Update to review the changes to each of the targets as a result of the Update. Selecting \"Pull-in\" will bring up the last baseline and show the critical path to the selected target.</p>\n</div>\n\n<figure><img src=\"/images/docs/15473403_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>The same \"Review Targets\" function can be selected at any time using the Inspector dropdown menu (above). This is a fast way to scroll through targets, get their status and then set-up for a Pull-in analysis. Notice in the top left corner that \"5 day slip\" on the selected target is visible. This is live and will change as the schedule pulls-in and pushes-out.</p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 2

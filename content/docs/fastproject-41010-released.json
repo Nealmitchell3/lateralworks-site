@@ -1,18 +1,18 @@
 {
   "slug": "fastproject-41010-released",
   "url": "https://lateralworks.com/tools/2021/5/24/fastproject-4106-released-xwtt6-ehzlh-nzx95-xjhw8",
-  "title": "fastProject 4.10.10 Released",
+  "title": "fastProjectAI 4.10.10 Released",
   "date": "May 23, 2021",
   "dateISO": "2021-05-24",
   "author": "Mark Edmonds",
   "categories": [
-    "fastProject Release Note"
+    "fastProjectAI Release Note"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <h2>General</h2><ul><li><p class=\"\">Added ability to add any of the custom Text fields to the Gantt bars (currently restricted to the Left of the bar)</p></li><li><p class=\"\">Fixed bug where after an update, a task name would be changed to a “2”</p></li><li><p class=\"\">Fixed S-Phone Good.mpt baseline in Documentation &gt; Training</p></li></ul><h2>Update</h2><ul><li><p class=\"\">PreFresh Report renamed to Update Report</p></li><li><p class=\"\">Added “Clear All Baselines” to option under the Update Progress dropdown</p></li></ul><h2>Roll-up</h2><ul><li><p class=\"\">TBD</p></li></ul><h2>Analyzer</h2><ul><li><p class=\"\">TBD</p></li></ul>\n</div>",

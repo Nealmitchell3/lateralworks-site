@@ -10,7 +10,6 @@ export const siteConfig = {
   email: "contact@lateralworks.com",
   phone: "",
   address: "Silicon Valley, CA",
-  trademark: "fastworks® is a registered trademark of lateralworks",
   copyright: "© lateralworks. all rights reserved.",
 };
 
@@ -32,7 +31,7 @@ export const nav = {
 export const home = {
   hero: {
     headline: "We accelerated the team that built the iPod.",
-    body: "lateralworks has been delivering fast-time-to-market results on advanced technology programs since 1988. Our FTTM methodology, fastWorks software suite, and structured training have been proven on 200+ projects — from Sony's first PlayStation to $7 billion semiconductor fabs.",
+    body: "lateralworks has been delivering fast-time-to-market results on advanced technology programs since 1988. Our FTTM methodology, fastProjectAI software suite, and structured training have been proven on 200+ projects — from Sony's first PlayStation to $7 billion semiconductor fabs.",
     cta1: { label: "See Our Results", href: "/results" },
     cta2: { label: "Explore FTTM", href: "/methodology" },
   },
@@ -70,8 +69,8 @@ export const home = {
       {
         number: "02",
         category: "Software",
-        title: "fastWorks Suite",
-        body: "fastProject, fastDecision, and fastROI — Microsoft Office add-ins that operationalize FTTM methodology. The Wigglechart alone has changed how teams see schedule acceleration. Version 4.12, actively maintained.",
+        title: "fastProjectAI Suite",
+        body: "fastProjectAI, fastDecisionAI, and Cost-of-delayAI — Microsoft Office add-ins that operationalize FTTM methodology. The Wigglechart alone has changed how teams see schedule acceleration. Version 4.12, actively maintained.",
         link: { label: "See the Software →", href: "/software" },
       },
       {
@@ -128,15 +127,15 @@ export const home = {
     body: "80+ sequential modules covering everything from Critical Path basics to advanced Macro-Micro Roll-up. Concept → Function → Practice. The same knowledge that powers 200+ global engagements, now self-paced.",
     cta: { label: "Explore the Academy", href: "/academy" },
     modules: [
-      { product: "fastProject", count: "40+ modules", topic: "Critical Path & Scheduling" },
-      { product: "fastDecision", count: "20+ modules", topic: "Decision Modeling" },
-      { product: "fastROI", count: "10+ modules", topic: "Business Case Modeling" },
+      { product: "fastProjectAI", count: "40+ modules", topic: "Critical Path & Scheduling" },
+      { product: "fastDecisionAI", count: "20+ modules", topic: "Decision Modeling" },
+      { product: "Cost-of-delayAI", count: "10+ modules", topic: "Business Case Modeling" },
       { product: "FTTM Concepts", count: "191 articles", topic: "Methodology & Strategy" },
     ],
   },
   finalCta: {
     headline: "Your product deserves to ship on time.",
-    body: "Whether you need a consulting engagement, the fastWorks software suite, structured training, or just want to understand the FTTM framework — let's start a conversation.",
+    body: "Whether you need a consulting engagement, the fastProjectAI software suite, structured training, or just want to understand the FTTM framework — let's start a conversation.",
     cta1: { label: "Start a Conversation", href: "/contact" },
     cta2: { label: "See Results First", href: "/results" },
   },
@@ -254,7 +253,7 @@ export const methodology = {
         },
         {
           title: "Speed comes from decision quality, not decision speed",
-          body: "The fastest teams make better decisions, not faster decisions. fastDecision methodology addresses this directly.",
+          body: "The fastest teams make better decisions, not faster decisions. fastDecisionAI methodology addresses this directly.",
         },
         {
           title: "Portfolio drag is the silent schedule killer",
@@ -270,14 +269,14 @@ export const software = {
     label: "Software",
     headline: "fastProjectAI Suite",
     subhead: "FTTM methodology, operationalized in Microsoft Office.",
-    body: "fastProject, fastDecision, and fastROI are Office add-ins that bring FTTM methodology directly into the tools your team already uses. Version 4.12, actively maintained.",
+    body: "fastProjectAI, fastDecisionAI, and Cost-of-delayAI are Office add-ins that bring FTTM methodology directly into the tools your team already uses. Version 4.12, actively maintained.",
   },
   products: [
     {
       id: "fastproject",
-      name: "fastProject",
+      name: "fastProjectAI",
       tagline: "Critical Path & Schedule Acceleration",
-      body: "fastProject implements the FTTM approach to project scheduling — including the Wigglechart, which visualizes schedule acceleration in a way that standard Gantt charts simply cannot. 40+ training modules.",
+      body: "fastProjectAI implements the FTTM approach to project scheduling — including the Wigglechart, which visualizes schedule acceleration in a way that standard Gantt charts simply cannot. 40+ training modules.",
       modules: "40+ modules",
       features: [
         "Wigglechart visualization",
@@ -289,9 +288,9 @@ export const software = {
     },
     {
       id: "fastdecision",
-      name: "fastDecision",
+      name: "fastDecisionAI",
       tagline: "Decision Quality & Modeling",
-      body: "fastDecision brings structured decision analysis to the program level. Teams that make better decisions accelerate faster. 20+ training modules.",
+      body: "fastDecisionAI brings structured decision analysis to the program level. Teams that make better decisions accelerate faster. 20+ training modules.",
       modules: "20+ modules",
       features: [
         "Decision quality framework",
@@ -303,9 +302,9 @@ export const software = {
     },
     {
       id: "fastroi",
-      name: "fastROI",
+      name: "Cost-of-delayAI",
       tagline: "Business Case & ROI Modeling",
-      body: "fastROI builds rigorous business cases for technology programs — quantifying the value of schedule acceleration in terms leadership understands. 10+ training modules.",
+      body: "Cost-of-delayAI builds rigorous business cases for technology programs — quantifying the value of schedule acceleration in terms leadership understands. 10+ training modules.",
       modules: "10+ modules",
       features: [
         "ROI acceleration modeling",
@@ -327,19 +326,19 @@ export const academy = {
   },
   tracks: [
     {
-      product: "fastProject",
+      product: "fastProjectAI",
       count: "40+ modules",
       topic: "Critical Path & Scheduling",
       description: "From CPM fundamentals through advanced Wigglechart mastery. The complete scheduling methodology.",
     },
     {
-      product: "fastDecision",
+      product: "fastDecisionAI",
       count: "20+ modules",
       topic: "Decision Modeling",
       description: "Structured decision quality. How the best teams frame, analyze, and commit to decisions.",
     },
     {
-      product: "fastROI",
+      product: "Cost-of-delayAI",
       count: "10+ modules",
       topic: "Business Case Modeling",
       description: "Quantifying the financial impact of schedule acceleration. Built for program leaders.",
@@ -410,7 +409,7 @@ export const consulting = {
       {
         number: "02",
         title: "Methodology Application",
-        body: "We apply FTTM tools and practices to your actual program. Not a training exercise — live application on your real schedule, your real decisions, your real portfolio.",
+        body: "We apply fastProjectAI suite and practices to your actual program. Not a training exercise — live application on your real schedule, your real decisions, your real portfolio.",
       },
       {
         number: "03",
@@ -435,7 +434,7 @@ export const consulting = {
     },
     {
       title: "Education & Training",
-      body: "Structured FTTM training for your team — from executive overview sessions to deep technical workshops on Critical Path Method, Decision Quality, and fastWorks tools.",
+      body: "Structured FTTM training for your team — from executive overview sessions to deep technical workshops on Critical Path Method, Decision Quality, and fastProjectAI tools.",
     },
   ],
 };
@@ -519,7 +518,7 @@ export const contact = {
   hero: {
     label: "Contact",
     headline: "Start a conversation.",
-    body: "Whether you're facing a specific program challenge, evaluating the fastWorks software, or want to understand how FTTM applies to your organization — we're straightforward to talk to.",
+    body: "Whether you're facing a specific program challenge, evaluating the fastProjectAI software, or want to understand how FTTM applies to your organization — we're straightforward to talk to.",
   },
   email: "contact@lateralworks.com",
   location: "Silicon Valley, CA",
@@ -540,9 +539,9 @@ export const footer = {
     {
       label: "Software",
       links: [
-        { label: "fastProject", href: "/software#fastproject" },
-        { label: "fastDecision", href: "/software#fastdecision" },
-        { label: "fastROI", href: "/software#fastroi" },
+        { label: "fastProjectAI", href: "/software#fastproject" },
+        { label: "fastDecisionAI", href: "/software#fastdecision" },
+        { label: "Cost-of-delayAI", href: "/software#fastroi" },
         { label: "Academy", href: "/academy" },
       ],
     },

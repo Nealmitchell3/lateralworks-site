@@ -1,21 +1,21 @@
 {
   "slug": "fastproject-crashes-after-installing",
   "url": "https://lateralworks.com/tools/2019/1/14/microsoft-project-crashes",
-  "title": "fastProject Crashes After Installing",
+  "title": "fastProjectAI Crashes After Installing",
   "date": "January 13, 2019",
   "dateISO": "2019-01-14",
   "author": "Mark Edmonds",
   "categories": [
-    "fastProject Solution"
+    "fastProjectAI Solution"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
-  "content": "<div>\n  <p>What do I do if fastProject crashes after installing or crashes randomly?</p><p>If you have the correct version of fastProject for your version Microsoft Project (32-bit/64-bit), and you have all the latest updates of Microsoft Project, then it's quite possible fastProject has got corrupted. This primarily happens with Microsoft Project 2013.</p><p>To fix this problem:</p><ol><li><p>Navigate to c:\\Program Files\\fastProject (or for 64-bit Windows c:\\Program Files (x86)\\fastProject)</p></li><li><p>Double click on the file Global.mpt</p></li><li><p>A number of messages will appear. Ignore them by simply clicking OK, etc.</p></li><li><p>When the messages stop, exit Microsoft Project</p></li><li><p>Start fastProject again</p></li></ol><p>fastProject should now open and register correctly.</p>\n</div>",
+  "content": "<div>\n  <p>What do I do if fastProjectAI crashes after installing or crashes randomly?</p><p>If you have the correct version of fastProjectAI for your version Microsoft Project (32-bit/64-bit), and you have all the latest updates of Microsoft Project, then it's quite possible fastProjectAI has got corrupted. This primarily happens with Microsoft Project 2013.</p><p>To fix this problem:</p><ol><li><p>Navigate to c:\\Program Files\\fastProjectAI (or for 64-bit Windows c:\\Program Files (x86)\\fastProjectAI)</p></li><li><p>Double click on the file Global.mpt</p></li><li><p>A number of messages will appear. Ignore them by simply clicking OK, etc.</p></li><li><p>When the messages stop, exit Microsoft Project</p></li><li><p>Start fastProjectAI again</p></li></ol><p>fastProjectAI should now open and register correctly.</p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0

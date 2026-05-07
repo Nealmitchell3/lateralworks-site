@@ -6,13 +6,13 @@
   "dateISO": "2019-01-12",
   "author": "Neal Mitchell",
   "categories": [
-    "fastProject Function"
+    "fastProjectAI Function"
   ],
   "tags": [
     "FastProject Concept",
-    "fastDecision",
-    "fastProject",
-    "fastROI"
+    "fastDecisionAI",
+    "fastProjectAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <p>When updating a schedule; the task owner must respond with answers to the update questions, even if you (Program Manager) know the answer. </p><p>This means… Ask the question (in the case of a started task): </p><p>Has it finished?</p><p>Do not:</p><ul><li><p>Ask if it is it on schedule.</p></li><li><p>Assume it is on schedule and skip asking the question.</p></li></ul><p>If the answer is “No,” select NO, then ask: “How many days remaining?”</p><ul><li><p>If the duration is:</p><ul><li><p>Weeks/months out, then point out the date (since this will make more sense than the number of days remaining).</p></li><li><p>Within the next 1-3 weeks so the end is insight, force them to answer in number of days, rather than with a date.Make sure you listen to the answer and respond accordingly. It’s important to just input what they say and to not challenge them.</p></li></ul></li></ul><p>If you sense some uncertaintly in the tone of their voice when they give the days remaining estimate, then ask them,\"Are you worried about that?\" Thgis question can get the task owner to think carefully about their estimate and perhaps open a discussion later about their concerns, which could lead to a change in the going forward schedule to include risk mitigation steps. This will help surface more early warning indicators of future problems. </p><p>It’s a psychological thing, but people think of dates as targets and dates will never change. We want the number of days, since, in the near-term, the number of days does change. A classic example of this is when one manager said that they were planning on finishing the task on April 3rd, but when he saw there was only 3 days he said, “Well, that’s not going to happen.”</p><p>For the near-term tasks (those with say &lt;30 days remaining), get the owners to provide the number of days and not a finish date. Of course, over time you can refine this approach.</p>\n</div>",

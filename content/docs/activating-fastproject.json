@@ -1,21 +1,21 @@
 {
   "slug": "activating-fastproject",
   "url": "https://lateralworks.com/tools/2020/3/23/activating-fastproject",
-  "title": "Activating fastProject",
+  "title": "Activating fastProjectAI",
   "date": "March 22, 2020",
   "dateISO": "2020-03-23",
   "author": "Mark Edmonds",
   "categories": [
-    "fastProject Release Note"
+    "fastProjectAI Release Note"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
-  "content": "<div>\n  <h2>Request a License Key</h2><p class=\"\">As part of activating fastProject, you need to request a license key. When received, please save this license key, as it can be used again if you change computers.</p><ol><li><p class=\"\">Start fastProject/MS Project</p></li><li><p class=\"\">If fastProject starts on the “Start screen”, double-click Blank project to start a new project</p></li><li><p class=\"\">Click <strong>File &gt; fastProject Info</strong> (see screen below). If you do not see fastProject Info, follow this link to debug any installation problems: https://lateralworks.com/tools/2025/4/22/debugging-fastproject-installation</p></li><li><p class=\"\"> Click <strong>License Request</strong> to generate a unique code</p></li><li><p class=\"\">Use the <strong>Copy Button</strong> to copy and then send the code to <a href=\"mailto:contact@lateralworks.com?subject=fastProject%20License%20Request&amp;body=Paste%20the%20unique%20code%20here%3A%20%0A%0A\">contact@lateralworks.com</a></p></li></ol>\n</div>\n\n<figure><img src=\"/images/docs/15849868_fP+Code.JPG\" alt=\"fP Code.JPG\" /></figure>\n\n<div>\n  <h2>Activate fastProject</h2><ol><li><p class=\"\">On receipt of your license key, open fastProject</p></li><li><p class=\"\">Click <strong>File &gt; fastProject Info</strong> (see screen below)</p></li><li><p class=\"\">Click <strong>Activate</strong></p></li><li><p class=\"\">Enter (or paste) the license key</p></li></ol>\n</div>\n\n<figure><img src=\"/images/docs/15849872_fP+Activate.JPG\" alt=\"fP Activate.JPG\" /></figure>",
+  "content": "<div>\n  <h2>Request a License Key</h2><p class=\"\">As part of activating fastProjectAI, you need to request a license key. When received, please save this license key, as it can be used again if you change computers.</p><ol><li><p class=\"\">Start fastProjectAI/MS Project</p></li><li><p class=\"\">If fastProjectAI starts on the “Start screen”, double-click Blank project to start a new project</p></li><li><p class=\"\">Click <strong>File &gt; fastProjectAI Info</strong> (see screen below). If you do not see fastProjectAI Info, follow this link to debug any installation problems: https://lateralworks.com/tools/2025/4/22/debugging-fastproject-installation</p></li><li><p class=\"\"> Click <strong>License Request</strong> to generate a unique code</p></li><li><p class=\"\">Use the <strong>Copy Button</strong> to copy and then send the code to <a href=\"mailto:contact@lateralworks.com?subject=fastProjectAI%20License%20Request&amp;body=Paste%20the%20unique%20code%20here%3A%20%0A%0A\">contact@lateralworks.com</a></p></li></ol>\n</div>\n\n<figure><img src=\"/images/docs/15849868_fP+Code.JPG\" alt=\"fP Code.JPG\" /></figure>\n\n<div>\n  <h2>Activate fastProjectAI</h2><ol><li><p class=\"\">On receipt of your license key, open fastProjectAI</p></li><li><p class=\"\">Click <strong>File &gt; fastProjectAI Info</strong> (see screen below)</p></li><li><p class=\"\">Click <strong>Activate</strong></p></li><li><p class=\"\">Enter (or paste) the license key</p></li></ol>\n</div>\n\n<figure><img src=\"/images/docs/15849872_fP+Activate.JPG\" alt=\"fP Activate.JPG\" /></figure>",
   "images": [],
   "externalLinks": [],
   "imageCount": 2

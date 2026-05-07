@@ -6,13 +6,13 @@
   "dateISO": "2019-01-12",
   "author": "Neal Mitchell",
   "categories": [
-    "fastProject Function"
+    "fastProjectAI Function"
   ],
   "tags": [
     "FastProject Concept",
-    "fastDecision",
-    "fastProject",
-    "fastROI"
+    "fastDecisionAI",
+    "fastProjectAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<figure><img src=\"/images/docs/15473424_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>The first example above illustrates the y-axis in the vertical position (Absolute). The second shows the diagional or \"relative\" variation. The y-axis can be changed using the drop down menu on \"Target Type.\" Once toggled and saved, it will change the chart when the Wigglechart is re-run. Use the one that makes the most sence to you.</p>\n</div>\n\n<figure><img src=\"/images/docs/15473424_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>The diagonal variation gives a graphic early warning of a one-for-one weekly slip.</p><p>Mathematically, the diagonal line is the x=y line, gradient = 1, i.e., 1 week on the x-axis = 1 week on the y-axis. Thus, if the line is paralleling the diagonal line, it means the project is slipping week for a week, i.e., 1 week later in the refresh, the project slips by a week. If the gradient is &gt;1 then the project is slipping more than a week for each week, and &lt;1 it means slipping &lt;1 week for each week. A negative gradient means the schedule is pulling-in.</p><p>The key is being able to see the trend relative to a week-by-week reference (the diagonal line).</p><p>It can sometimes look a bit odd because the x-axis has a different scale to the y-axis, so the diagonal line may not be at a 45 degree angle, which is sort of the point - regardless of the scale on the x and y axis, the x=y line is always constant so you can see the trend relative to it.</p><p>The reason we like the diagonal (relative) is because you can spot the problem this example illustrates much faster by observing the slope of the trending line vs the diagonal y-axis. Both examples use the same data, only difference is the changed y-axis. In the \"relative\" example you can see that the trend is parallel to the y-axis. This means that the milestone will NEVER intersect the x/y point, unless something changes on the project.</p><p>Note, your version of the wigglechart may have different formatting than the examples above as we are continually improving the visual interface.</p>\n</div>",

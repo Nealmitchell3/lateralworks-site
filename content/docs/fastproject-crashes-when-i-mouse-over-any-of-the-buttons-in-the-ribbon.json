@@ -1,21 +1,21 @@
 {
   "slug": "fastproject-crashes-when-i-mouse-over-any-of-the-buttons-in-the-ribbon",
   "url": "https://lateralworks.com/tools/2019/1/28/fastproject-crashes-when-i-mouse-over-any-of-the-buttons-in-the-ribbon",
-  "title": "fastProject Crashes When I Mouse-over Any of the Buttons in the Ribbon",
+  "title": "fastProjectAI Crashes When I Mouse-over Any of the Buttons in the Ribbon",
   "date": "January 27, 2019",
   "dateISO": "2019-01-28",
   "author": "Mark Edmonds",
   "categories": [
-    "fastProject Solution"
+    "fastProjectAI Solution"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
-  "content": "<div>\n  <p>Occasionally, we’ve seen a situation where, after installing fastProject, it appears to work until the user mouses-over any of the fastProject buttons in the ribbon then Microsoft Project unexpectedly crashes without warning (the Toolbar - or QAT - is fine). The problem is caused by having an out-of-date version of Microsoft Project, i.e. one that does not have the latest Service Packs.</p><p>If you experience this problem, we suggest you perform an Office and Windows update. This will ensure  all Office applications and the supporting Windows OS is brought up to date.</p><p></p>\n</div>",
+  "content": "<div>\n  <p>Occasionally, we’ve seen a situation where, after installing fastProjectAI, it appears to work until the user mouses-over any of the fastProjectAI buttons in the ribbon then Microsoft Project unexpectedly crashes without warning (the Toolbar - or QAT - is fine). The problem is caused by having an out-of-date version of Microsoft Project, i.e. one that does not have the latest Service Packs.</p><p>If you experience this problem, we suggest you perform an Office and Windows update. This will ensure  all Office applications and the supporting Windows OS is brought up to date.</p><p></p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0

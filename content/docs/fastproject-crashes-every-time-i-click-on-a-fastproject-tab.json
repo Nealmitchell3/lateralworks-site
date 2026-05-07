@@ -1,21 +1,21 @@
 {
   "slug": "fastproject-crashes-every-time-i-click-on-a-fastproject-tab",
   "url": "https://lateralworks.com/tools/2020/9/28/fastproject-crashes-every-time-i-click-on-a-fastproject-tab",
-  "title": "fastProject crashes every time I click on a fastProject tab",
+  "title": "fastProjectAI crashes every time I click on a fastProjectAI tab",
   "date": "September 27, 2020",
   "dateISO": "2020-09-28",
   "author": "Mark Edmonds",
   "categories": [
-    "fastProject Solution"
+    "fastProjectAI Solution"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
-  "content": "<div>\n  <h2>Overview of the Problem</h2><p class=\"\">In a few of instances, we’ve found after installing fastProject, fastProject crashes every time you click on any of the fastProject tabs in the ribbon. The problem is due to an update in Microsoft Project that was released in the June 2020.</p>\n</div>\n\n<figure><img src=\"/images/docs/16013305_image001.jpg\" alt=\"image001.jpg\" /></figure>\n\n<div>\n  <h2>Solution</h2><p class=\"\">The solution is to update your Microsoft Project. At a minimum, it should be later than the above update.<br></p>\n</div>",
+  "content": "<div>\n  <h2>Overview of the Problem</h2><p class=\"\">In a few of instances, we’ve found after installing fastProjectAI, fastProjectAI crashes every time you click on any of the fastProjectAI tabs in the ribbon. The problem is due to an update in Microsoft Project that was released in the June 2020.</p>\n</div>\n\n<figure><img src=\"/images/docs/16013305_image001.jpg\" alt=\"image001.jpg\" /></figure>\n\n<div>\n  <h2>Solution</h2><p class=\"\">The solution is to update your Microsoft Project. At a minimum, it should be later than the above update.<br></p>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 1

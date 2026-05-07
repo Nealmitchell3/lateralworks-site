@@ -6,13 +6,13 @@
   "dateISO": "2019-10-28",
   "author": "Mark Edmonds",
   "categories": [
-    "fastDecision Release Note"
+    "fastDecisionAI Release Note"
   ],
   "tags": [
-    "fastDecision",
+    "fastDecisionAI",
     "FastProject Concept",
-    "fastProject",
-    "fastROI"
+    "fastProjectAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <h2>General</h2><ul><li><p class=\"\">Right-mouse click menu added for faster access to dA functionality:</p><ul><li><p class=\"\">Context menu items are sensitive based on whether the cell is an Objective, Alternative or Constraint</p></li><li><p class=\"\">Clicking anywhere else on a model reveals a reduced set of Excel functions</p></li><li><p class=\"\">Reset Priorities is always visible when on a model, no matter where the user clicks</p></li><li><p class=\"\">Clicking on a non-model reveals the standard Excel menu</p></li></ul></li></ul><h2>Alternatives</h2><ul><li><p class=\"\">Bug fixed where it was possible to delete the first alternative in the list when there was only two alternatives (the user should have been prompted a model must have a minimum of two alternatives).</p></li></ul>\n</div>",

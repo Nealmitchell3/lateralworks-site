@@ -6,13 +6,13 @@
   "dateISO": "2019-01-13",
   "author": "Neal Mitchell",
   "categories": [
-    "fastDecision Function"
+    "fastDecisionAI Function"
   ],
   "tags": [
     "FastProject Concept",
-    "fastDecision",
-    "fastProject",
-    "fastROI"
+    "fastDecisionAI",
+    "fastProjectAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <p><strong>Question:</strong></p><p>I want to create a top-level model, then copy those objectives to other models (sheets) within the same file. The other models may have additional objectives as well as the \"main\" objectives.</p>\n</div>\n\n<div>\n  <p><strong>Answer:</strong></p><p>This can be accomplished as follows:</p><ol><li><p>Create your top-level document</p></li><li><p>From the decisionAccelerator menu, \"New...\" then copy sheet (don't reset the model) - this will essentially copy the existing model</p></li><li><p>Delete All Alternatives (if necessary)</p></li><li><p>Add and rank new objectives</p></li></ol><p>The advantage this has is that all your ratings for the objectives + comments, etc. will all be copied over.</p><p>This is of course assuming you're starting from scratch. If, however, you have already created the sheets, then you will need to copy-paste. You will need to copy-paste the objectives, pair-wise and the ratings. Copy-paste works fine then click the \"Calculate Priorities\" button. <br><br>Bear in mind that if you copy-paste the ratings, you not only need to copy-paste the type of rating (e.g. Custom) but also the line below (that defines the actual rating). It will look like an empty cell but there is information in there.</p>\n</div>",

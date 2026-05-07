@@ -1,21 +1,21 @@
 {
   "slug": "fastproject-4100-released",
   "url": "https://lateralworks.com/tools/2020/6/23/fastproject-493-released",
-  "title": "fastProject 4.10.0 Released",
+  "title": "fastProjectAI 4.10.0 Released",
   "date": "June 22, 2020",
   "dateISO": "2020-06-23",
   "author": "Mark Edmonds",
   "categories": [
-    "fastProject Release Note"
+    "fastProjectAI Release Note"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
-  "content": "<div>\n  <h2>General</h2><ul><li><p class=\"\">Fixes problem starting fastProject after recent Microsoft Security Update released on July 14, 2020 (https://support.microsoft.com/en-us/help/4484441/security-update-for-project-2016-july-14-2020)</p></li></ul><h2>Inspector</h2><ul><li><p class=\"\">Fixed problem where a roll-up critical path was incorrectly identified as a near-term critical path</p></li></ul><h2>Update</h2><ul><li><p class=\"\">Fixed problem where ignored Touchpoints/Checkpoints/Deliverables were still listed in the PreFresh report, bu as tasks</p></li><li><p class=\"\">Fixed bug where importing a PreFresh report with an invalid UID would cause a crash</p></li><li><p class=\"\">Fixed bug where an invalid UID would not be reported in the report</p></li></ul><h2>Roll-up</h2><ul><li><p class=\"\">When using a file list:</p><ul><li><p class=\"\">When there’s only one file in the list, the file is now opened directly, but they are still copied to the Downloads folder&nbsp;prior to the roll-up as a backup.  They will only be deleted if the “Delete schedules after update” is checked on the start-up window.</p></li><li><p class=\"\">Delete schedules after update option removed</p></li><li><p class=\"\">Timing analysis option removed</p></li><li><p class=\"\">If the files are located on Dropbox, local Dropbox path is automatically substituted for the Dropbox path the schedule were rolled-up with whenever rolling up and or using the “Goto task in micro schedule” function.</p></li></ul></li><li><p class=\"\">Fixed crash when a micro schedule was not found (could happen due to drive mapping)</p></li></ul><h2>Effort Updater</h2><ul><li><p class=\"\">Fixed problem where importing the Effort Lookahead Report when there was only one task would cause a crash</p></li><li><p class=\"\">Fixed problem reporting the Baseline in the Effort Report</p></li><li><p class=\"\">Fixed bug where going back to a previous task would go back to the beginning of the project</p></li></ul>\n</div>",
+  "content": "<div>\n  <h2>General</h2><ul><li><p class=\"\">Fixes problem starting fastProjectAI after recent Microsoft Security Update released on July 14, 2020 (https://support.microsoft.com/en-us/help/4484441/security-update-for-project-2016-july-14-2020)</p></li></ul><h2>Inspector</h2><ul><li><p class=\"\">Fixed problem where a roll-up critical path was incorrectly identified as a near-term critical path</p></li></ul><h2>Update</h2><ul><li><p class=\"\">Fixed problem where ignored Touchpoints/Checkpoints/Deliverables were still listed in the PreFresh report, bu as tasks</p></li><li><p class=\"\">Fixed bug where importing a PreFresh report with an invalid UID would cause a crash</p></li><li><p class=\"\">Fixed bug where an invalid UID would not be reported in the report</p></li></ul><h2>Roll-up</h2><ul><li><p class=\"\">When using a file list:</p><ul><li><p class=\"\">When there’s only one file in the list, the file is now opened directly, but they are still copied to the Downloads folder&nbsp;prior to the roll-up as a backup.  They will only be deleted if the “Delete schedules after update” is checked on the start-up window.</p></li><li><p class=\"\">Delete schedules after update option removed</p></li><li><p class=\"\">Timing analysis option removed</p></li><li><p class=\"\">If the files are located on Dropbox, local Dropbox path is automatically substituted for the Dropbox path the schedule were rolled-up with whenever rolling up and or using the “Goto task in micro schedule” function.</p></li></ul></li><li><p class=\"\">Fixed crash when a micro schedule was not found (could happen due to drive mapping)</p></li></ul><h2>Effort Updater</h2><ul><li><p class=\"\">Fixed problem where importing the Effort Lookahead Report when there was only one task would cause a crash</p></li><li><p class=\"\">Fixed problem reporting the Baseline in the Effort Report</p></li><li><p class=\"\">Fixed bug where going back to a previous task would go back to the beginning of the project</p></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 0

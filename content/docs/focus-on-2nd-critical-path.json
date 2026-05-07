@@ -6,13 +6,13 @@
   "dateISO": "2019-01-17",
   "author": "Neal Mitchell",
   "categories": [
-    "fastProject Concept"
+    "fastProjectAI Concept"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
   "content": "<div>\n  <h2>Focus on 2nd critical path - what is important, but not yet urgent.</h2>\n</div>\n\n<figure><img src=\"/images/docs/15477509_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>The critical path is red (example) and the second critical path is blue (i.e. float less than ten days).Sometimes when you focus exclusively on the critical path you can miss the path of activities right behind the critical path. The critical path is the longest contiguous path that drives the end date for the project (i.e. the long pole in the tent). </p><p>We call the second critical path the path of activities that have less than 10 days of float. This second critical path, if it slipped 10 days would become the real critical path and slip the project.</p><p>We learned this the hard way on a project where we became fixated on the critical path, drove it to finish on time, yet we experienced a major slip on the project. What went wrong?</p><p>After some analysis, we realized it was the path behind the critical path that pushed out the schedule at the end of the day. The second critical path is important, but not yet urgent, while the first critical path is important and urgent. As schedules are accelerated, a higher percentage of activities become critical as float is eaten up. The second path is the next group of activities that, once the schedule is pulled-in, will drive the new critical path.</p>\n</div>",

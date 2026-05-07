@@ -6,16 +6,16 @@
   "dateISO": "2019-01-15",
   "author": "Mark Edmonds",
   "categories": [
-    "fastProject Solution"
+    "fastProjectAI Solution"
   ],
   "tags": [
-    "fastProject",
+    "fastProjectAI",
     "FastProject Concept",
-    "fastDecision",
-    "fastROI"
+    "fastDecisionAI",
+    "Cost-of-delayAI"
   ],
   "excerpt": "",
-  "content": "<div>\n  <p class=\"\">In order to determine your version of Microsoft Project, including Service Packs, do the following:</p><h2>Microsoft Project 2013/2016</h2><ol><li><p class=\"\">Open fastProject (or Microsoft Project)</p></li><li><p class=\"\">From the Ribbon, File &gt; Account</p></li><li><p class=\"\">Over on the right, click \"About Project\"</p></li><li><p class=\"\">At the top you will see the relevant information (example below). Take a screenshot and send it to us.</p></li></ol>\n</div>\n\n<figure><img src=\"/images/docs/15475921_image.png\" alt=\"image.png\" /></figure>",
+  "content": "<div>\n  <p class=\"\">In order to determine your version of Microsoft Project, including Service Packs, do the following:</p><h2>Microsoft Project 2013/2016</h2><ol><li><p class=\"\">Open fastProjectAI (or Microsoft Project)</p></li><li><p class=\"\">From the Ribbon, File &gt; Account</p></li><li><p class=\"\">Over on the right, click \"About Project\"</p></li><li><p class=\"\">At the top you will see the relevant information (example below). Take a screenshot and send it to us.</p></li></ol>\n</div>\n\n<figure><img src=\"/images/docs/15475921_image.png\" alt=\"image.png\" /></figure>",
   "images": [],
   "externalLinks": [],
   "imageCount": 1

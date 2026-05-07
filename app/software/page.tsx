@@ -55,7 +55,7 @@ export default function SoftwarePage() {
               <h2 className="font-semibold tracking-tight text-navy text-3xl lg:text-4xl">{`${docCount} docs. Built by the team that builds the software.`}</h2>
             </div>
             <p className="text-base font-light text-ink-secondary leading-relaxed mb-8">
-              Software support documentation for fastProject, fastDecision, and fastROI users — release notes, common troubleshooting, configuration guides, and concept explanations. Searchable, filterable by product and document type.
+              Software support documentation for fastProjectAI, fastDecisionAI, and Cost-of-delayAI users — release notes, common troubleshooting, configuration guides, and concept explanations. Searchable, filterable by product and document type.
             </p>
             <Link href="/docs" className="inline-block text-[12px] font-semibold tracking-wider uppercase px-7 py-4 bg-gold text-white hover:bg-gold-light transition-colors">
               Browse Documentation →
@@ -67,7 +67,7 @@ export default function SoftwarePage() {
       <section className="bg-navy py-16 lg:py-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
           <div>
-            <h3 className="font-semibold tracking-tight text-white text-2xl lg:text-3xl mb-2">Questions about the fastWorks suite?</h3>
+            <h3 className="font-semibold tracking-tight text-white text-2xl lg:text-3xl mb-2">Questions about the fastProjectAI suite?</h3>
             <p className="text-sm font-light text-white/50">We&apos;re happy to walk you through the software.</p>
           </div>
           <Link href="/contact" className="shrink-0 text-[12px] font-semibold tracking-wider uppercase px-7 py-4 bg-gold text-white hover:bg-gold-light transition-colors">Get in Touch</Link>
