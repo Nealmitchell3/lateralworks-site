@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllCategories, getPostsByPage } from "@/content/posts-utils";
+import ListenWatchBlock from "@/components/ListenWatchBlock";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -49,6 +50,8 @@ export default function IdeasPage({ searchParams }: Props) {
           </p>
         </div>
       </section>
+
+      <ListenWatchBlock />
 
       {/* Category filter */}
       {categories.length > 0 && (

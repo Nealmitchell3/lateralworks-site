@@ -525,6 +525,23 @@ export const contact = {
   prompt: "Describe your program challenge or question, and we'll respond directly.",
 };
 
+export const externalContent = {
+  podcast: {
+    title: "Fast Time to Market",
+    description: "The lateralworks podcast on accelerating technology programs.",
+    platforms: {
+      apple:      "https://podcasts.apple.com/us/podcast/fast-time-to-market/id1869163825",
+      spotify:    "https://open.spotify.com/show/3UlhwcloFzzxekaxNXzJKL",
+      buzzsprout: "https://fasttimetomarket.buzzsprout.com/",
+    },
+  },
+  youtube: {
+    title: "lateralworks on YouTube",
+    description: "Product walkthroughs, FTTM concept animations, and narrated slide series.",
+    url: "https://www.youtube.com/@fastworksvideo",
+  },
+};
+
 export const footer = {
   tagline: "Silicon Valley. Founded 1988. 200+ FTTM projects. The methodology behind teams that changed the world.",
   columns: [
