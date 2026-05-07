@@ -23,7 +23,23 @@ export default function AboutPage() {
             <div className="hairline pb-6 pt-0">
               <p className="section-label mb-3">Our Story</p>
               <h2 className="font-semibold tracking-tight text-navy text-3xl lg:text-4xl mb-6">{about.story.headline}</h2>
-              <p className="text-base font-light text-ink-secondary leading-relaxed">{about.story.body}</p>
+              <p className="text-base font-light text-ink-secondary leading-relaxed">
+                {(() => {
+                  const parts = about.story.body.split("The research project");
+                  return (
+                    <>
+                      {parts[0]}
+                      <Link href="/research" className="text-navy hover:text-gold underline underline-offset-2 transition-colors">
+                        The research project
+                      </Link>
+                      {parts.slice(1).join("The research project")}
+                    </>
+                  );
+                })()}
+              </p>
+              <Link href="/research" className="inline-block mt-6 text-[11px] font-semibold tracking-[0.12em] uppercase text-gold hover:text-gold-light transition-colors">
+                More about our original research →
+              </Link>
             </div>
             <div className="grid grid-cols-2 gap-px bg-border self-start">
               {[{number:"1988",label:"Founded"},{number:"200+",label:"FTTM Projects"},{number:"36yr",label:"Research"},{number:"$7B+",label:"Accelerated"}].map(item => (
