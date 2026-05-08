@@ -1,10 +1,8 @@
+import { Suspense } from "react";
 import Link from "next/link";
-import {
-  getAllCases,
-  getAllCasePractices,
-  getCasesByPractice,
-  formatCaseDate,
-} from "@/content/cases-utils";
+import CaseStudiesListing from "./CaseStudiesListing";
+import StaticCaseStudiesListing from "./StaticCaseStudiesListing";
+import { getAllCases, getAllCasePractices } from "@/content/cases-utils";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -13,17 +11,10 @@ export const metadata: Metadata = {
     "Field-tested case studies from lateralworks engagements across semiconductor, hardware, and complex-systems programs. Names and sector-identifying details have been removed.",
 };
 
-interface Props {
-  searchParams: { practice?: string };
-}
-
-export default function CaseStudiesPage({ searchParams }: Props) {
-  const practice = searchParams.practice || "";
+export default function CaseStudiesPage() {
   const allCases = getAllCases();
-  const total = allCases.length;
-  const cases = getCasesByPractice(practice);
   const practicesList = getAllCasePractices();
-  const hasCases = cases.length > 0;
+  const total = allCases.length;
 
   return (
     <>
@@ -57,189 +48,9 @@ export default function CaseStudiesPage({ searchParams }: Props) {
         </div>
       </section>
 
-      {/* Practice filter */}
-      {practicesList.length > 0 && (
-        <section className="bg-cream-dark border-b border-border py-4 sticky top-16 z-40">
-          <div className="max-w-8xl mx-auto px-6 lg:px-10">
-            <div className="flex flex-wrap items-center gap-2">
-              <span className="text-[10px] font-semibold uppercase tracking-[0.18em] text-ink-muted mr-2">
-                Practice
-              </span>
-              <Link
-                href="/results/case-studies"
-                className={`tag transition-colors ${
-                  !practice
-                    ? "border-navy text-navy bg-navy/5"
-                    : "hover:border-navy hover:text-navy"
-                }`}
-              >
-                All
-              </Link>
-              {practicesList.map((p) => (
-                <Link
-                  key={p}
-                  href={`/results/case-studies?practice=${encodeURIComponent(p)}`}
-                  className={`tag transition-colors ${
-                    practice.toLowerCase() === p.toLowerCase()
-                      ? "border-navy text-navy bg-navy/5"
-                      : "hover:border-navy hover:text-navy"
-                  }`}
-                >
-                  {p}
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-
-      {/* List */}
-      <section className="bg-cream py-12 lg:py-20">
-        <div className="max-w-8xl mx-auto px-6 lg:px-10">
-          {practice && (
-            <div className="mb-8 pb-6 hairline flex items-center justify-between">
-              <div>
-                <p className="section-label mb-1">Practice</p>
-                <h2 className="font-semibold text-navy text-2xl">{practice}</h2>
-              </div>
-              <Link
-                href="/results/case-studies"
-                className="text-[11px] font-semibold tracking-[0.12em] uppercase text-ink-muted hover:text-navy transition-colors"
-              >
-                ← All case studies
-              </Link>
-            </div>
-          )}
-
-          {!hasCases && (
-            <div className="py-24 text-center">
-              <h2 className="font-semibold text-navy text-2xl mb-3">
-                No case studies found
-              </h2>
-              <p className="text-sm font-light text-ink-muted">
-                Try a different practice.
-              </p>
-            </div>
-          )}
-
-          {hasCases && (
-            <div className="divide-y divide-border">
-              {cases.map((c) => (
-                <article
-                  key={c.slug}
-                  className="flex flex-col sm:flex-row gap-6 sm:gap-8 py-10 group"
-                >
-                  {/* Thumbnail */}
-                  <div className="shrink-0 sm:w-44">
-                    <a
-                      href={c.pdf}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block border border-border hover:border-navy transition-colors bg-white"
-                    >
-                      <img
-                        src={c.thumb}
-                        alt={`Cover of ${c.title}`}
-                        width={160}
-                        height={207}
-                        className="w-full h-auto block"
-                      />
-                    </a>
-                  </div>
-
-                  {/* Body */}
-                  <div className="flex-grow min-w-0">
-                    <div className="flex flex-wrap items-center gap-2 mb-3">
-                      <Link
-                        href={`/results/case-studies?practice=${encodeURIComponent(c.practice)}`}
-                        className="tag hover:border-navy hover:text-navy transition-colors"
-                      >
-                        {c.practice}
-                      </Link>
-                      <span className="text-[11px] font-light text-ink-muted">·</span>
-                      <span className="text-[11px] font-light text-ink-muted">
-                        {c.type}
-                      </span>
-                      {c.sector && (
-                        <>
-                          <span className="text-[11px] font-light text-ink-muted">·</span>
-                          <span className="text-[11px] font-light text-ink-muted">
-                            {c.sector}
-                          </span>
-                        </>
-                      )}
-                    </div>
-
-                    <h2
-                      className="font-semibold text-navy text-2xl leading-snug mb-1"
-                      style={{ letterSpacing: "-0.01em" }}
-                    >
-                      <a
-                        href={c.pdf}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="hover:text-navy/70 transition-colors"
-                      >
-                        {c.title}
-                      </a>
-                    </h2>
-
-                    {c.subtitle && (
-                      <p className="text-sm font-light text-ink-secondary mb-4">
-                        {c.subtitle}
-                      </p>
-                    )}
-
-                    {c.core_thesis && (
-                      <p className="text-[13.5px] font-light text-ink leading-relaxed mb-4 max-w-3xl">
-                        <span className="font-semibold text-navy">
-                          Core thesis.{" "}
-                        </span>
-                        {c.core_thesis}
-                      </p>
-                    )}
-
-                    <div className="flex flex-wrap items-center gap-4 text-[11px] font-light text-ink-muted mb-5">
-                      <span>{formatCaseDate(c.date)}</span>
-                      <span>·</span>
-                      <span>{c.pages} pages</span>
-                    </div>
-
-                    <div className="flex flex-wrap gap-3">
-                      <a
-                        href={c.pdf}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-block text-[11px] font-semibold tracking-[0.12em] uppercase px-5 py-3 bg-navy text-white hover:bg-navy-light transition-colors"
-                      >
-                        View PDF →
-                      </a>
-                      <a
-                        href={c.pdf}
-                        download
-                        className="inline-block text-[11px] font-semibold tracking-[0.12em] uppercase px-5 py-3 border border-navy text-navy hover:bg-navy hover:text-white transition-colors"
-                      >
-                        Download
-                      </a>
-                    </div>
-                  </div>
-                </article>
-              ))}
-            </div>
-          )}
-
-          {hasCases && (
-            <div className="hairline pt-8 mt-8">
-              <p className="text-sm font-light text-ink-muted">
-                {cases.length} case stud{cases.length !== 1 ? "ies" : "y"}
-                {practice ? ` in ${practice}` : ""}.
-                {!practice &&
-                  " New cases are added when they are created. Most case studies we can publish are >10 year old projects. Our current work involves advanced technology at the bleeding edge. We are not able to share these details for obvious reasons."}
-              </p>
-            </div>
-          )}
-        </div>
-      </section>
+      <Suspense fallback={<StaticCaseStudiesListing cases={allCases} practicesList={practicesList} />}>
+        <CaseStudiesListing cases={allCases} practicesList={practicesList} />
+      </Suspense>
     </>
   );
 }
