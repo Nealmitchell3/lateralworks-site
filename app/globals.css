@@ -30,6 +30,14 @@ body {
   font-family: var(--font);
 }
 
+/* Pagefind highlights inside search results */
+mark {
+  background-color: rgb(202 138 4 / 0.25); /* gold/25 */
+  color: var(--ink);
+  padding: 0 0.1em;
+  border-radius: 2px;
+}
+
 /* ── Typography — all sans-serif, no exceptions ── */
 
 /* Main headings — heavier weight DM Sans */
