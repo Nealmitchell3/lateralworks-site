@@ -63,5 +63,18 @@
     "abstract": "A synthesis of the innovation-environment framework and the senior-manager failure-mode framework, with a representative case study. Examines the two ways senior managers fail the innovation environment their companies depend on, the consequences that unfold on different timelines, and the structural patterns shared by companies that solve the paradox across decades \u2014 Google, 3M, Amazon, Pixar, Toyota, Analog Devices.",
     "pdf": "/papers/innovation-paradox.pdf",
     "thumb": "/papers/thumbs/innovation-paradox.png"
+  },
+  {
+    "slug": "fttm-best-practices-2018",
+    "title": "FTTM Product Development Best Practices",
+    "subtitle": "Three decades of fast-team research, 2018 revision",
+    "series": "FTTM Methodology",
+    "type": "Methodology paper",
+    "date": "2018-07-18",
+    "pages": 101,
+    "core_thesis": "FTTM outcomes are a function of two inputs — the behavior of the team and the environment within which the team operates. Best practices observed across hundreds of programs are codified into a Mindset / Host / Team framework that delivers the right product at the right time.",
+    "abstract": "lateralworks Fast-Time-to-Market (FTTM) Practices, first researched in Silicon Valley in the early 1990s, are based on an ongoing worldwide study into the drivers of new product development success. This 2018 revision codifies practices observed across hundreds of teams into a three-axis framework — Mindset, Host, Team — applied across Portfolio, Environment, and Execution. It contrasts 'normal' team behavior with the practices that separate fast from slow.",
+    "pdf": "/papers/fttm-best-practices-2018.pdf",
+    "thumb": "/papers/thumbs/fttm-best-practices-2018.png"
   }
 ]
