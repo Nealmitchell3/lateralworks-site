@@ -127,7 +127,7 @@ export default function DocPage({ params }: Props) {
               </div>
             </article>
 
-            <aside className="lg:col-span-4">
+            <aside data-pagefind-ignore="all" className="lg:col-span-4">
               <div className="sticky top-24 space-y-8">
                 {related.length > 0 && (
                   <div>

@@ -33,7 +33,7 @@ export default function StaticDocsListing({ docs, categories }: Props) {
       {/* List — full unfiltered */}
       <section className="bg-cream py-12 lg:py-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10">
-          <div className="divide-y divide-border">
+          <div data-pagefind-ignore="all" className="divide-y divide-border">
             {docs.map((doc) => (
               <DocCard key={doc.slug} doc={doc} />
             ))}

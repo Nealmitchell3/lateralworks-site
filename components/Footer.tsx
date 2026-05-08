@@ -3,7 +3,7 @@ import { siteConfig, footer } from "@/content/site-data";
 
 export default function Footer() {
   return (
-    <footer className="bg-navy text-white">
+    <footer data-pagefind-ignore="all" className="bg-navy text-white">
       <div className="max-w-8xl mx-auto px-6 lg:px-10 py-16 lg:py-20">
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-12 lg:gap-16">
 

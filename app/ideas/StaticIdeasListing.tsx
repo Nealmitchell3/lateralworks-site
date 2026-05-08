@@ -33,7 +33,7 @@ export default function StaticIdeasListing({ posts, categories }: Props) {
       {/* Articles — full unfiltered list */}
       <section className="bg-cream py-12 lg:py-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10">
-          <div className="divide-y divide-border">
+          <div data-pagefind-ignore="all" className="divide-y divide-border">
             {posts.map((post) => (
               <PostCard key={post.slug} post={post} />
             ))}
