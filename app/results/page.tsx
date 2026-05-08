@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { results } from "@/content/site-data";
 import CaseStudiesTeaser from "@/components/CaseStudiesTeaser";
+import ExperienceModal from "@/components/ExperienceModal";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = { title: "Results", description: results.hero.body };
@@ -40,6 +41,10 @@ export default function ResultsPage() {
       ))}
 
       <CaseStudiesTeaser />
+
+      <div className="mx-auto max-w-7xl px-6 py-16 md:py-24 text-center">
+        <ExperienceModal />
+      </div>
 
       <section className="bg-navy py-16 lg:py-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
