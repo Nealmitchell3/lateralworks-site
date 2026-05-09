@@ -1,6 +1,7 @@
 import Link from "next/link";
 import PaperCard from "./PaperCard";
 import type { Paper } from "@/content/paper-types";
+import { getPdfText } from "@/content/papers-utils";
 
 interface Props {
   papers: Paper[];
@@ -35,9 +36,9 @@ export default function StaticPapersListing({ papers, seriesList }: Props) {
       {/* List — full unfiltered */}
       <section className="bg-cream py-12 lg:py-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10">
-          <div data-pagefind-ignore="all" className="divide-y divide-border">
+          <div className="divide-y divide-border">
             {papers.map((paper) => (
-              <PaperCard key={paper.slug} paper={paper} />
+              <PaperCard key={paper.slug} paper={paper} pdfText={getPdfText(paper.slug)} />
             ))}
           </div>
           <div className="hairline pt-8 mt-8">

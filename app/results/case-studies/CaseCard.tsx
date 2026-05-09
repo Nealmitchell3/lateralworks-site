@@ -10,9 +10,17 @@ function formatCaseDate(iso: string): string {
   } catch { return iso; }
 }
 
-export default function CaseCard({ c }: { c: Case }) {
+export default function CaseCard({ c, pdfText }: { c: Case; pdfText?: string }) {
   return (
-    <article className="flex flex-col sm:flex-row gap-6 sm:gap-8 py-10 group">
+    <article
+      data-pagefind-meta={`pdf:${c.pdf}`}
+      className="flex flex-col sm:flex-row gap-6 sm:gap-8 py-10 group"
+    >
+      {pdfText && (
+        <span className="sr-only" aria-hidden="true">
+          {pdfText}
+        </span>
+      )}
       {/* Thumbnail */}
       <div className="shrink-0 sm:w-44">
         <a

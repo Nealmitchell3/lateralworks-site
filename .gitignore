@@ -7,3 +7,6 @@ tsconfig.tsbuildinfo
 
 # Static export output
 /out/
+
+# Claude Code local state
+.claude/

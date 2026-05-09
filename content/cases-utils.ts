@@ -3,6 +3,24 @@ import path from 'path';
 import type { Case } from './case-types';
 
 const INDEX_FILE = path.join(process.cwd(), 'content', 'cases_index.json');
+const PDF_EXTRACTS_FILE = path.join(process.cwd(), 'content', 'pdf-extracts.json');
+
+let _pdfExtractsCache: Record<string, string> | null = null;
+function loadPdfExtracts(): Record<string, string> {
+  if (_pdfExtractsCache) return _pdfExtractsCache;
+  try {
+    const raw = fs.readFileSync(PDF_EXTRACTS_FILE, 'utf-8');
+    const parsed = JSON.parse(raw) as { cases?: Record<string, string> };
+    _pdfExtractsCache = parsed.cases ?? {};
+  } catch {
+    _pdfExtractsCache = {};
+  }
+  return _pdfExtractsCache;
+}
+
+export function getPdfText(slug: string): string {
+  return loadPdfExtracts()[slug] ?? '';
+}
 
 export function getAllCases(): Case[] {
   if (!fs.existsSync(INDEX_FILE)) return [];

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import CaseCard from "./CaseCard";
 import type { Case } from "@/content/case-types";
+import { getPdfText } from "@/content/cases-utils";
 
 interface Props {
   cases: Case[];
@@ -41,9 +42,9 @@ export default function StaticCaseStudiesListing({ cases, practicesList }: Props
       {/* List — full unfiltered */}
       <section className="bg-cream py-12 lg:py-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10">
-          <div data-pagefind-ignore="all" className="divide-y divide-border">
+          <div className="divide-y divide-border">
             {cases.map((c) => (
-              <CaseCard key={c.slug} c={c} />
+              <CaseCard key={c.slug} c={c} pdfText={getPdfText(c.slug)} />
             ))}
           </div>
           <div className="hairline pt-8 mt-8">
