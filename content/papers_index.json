@@ -1,5 +1,18 @@
 [
   {
+    "slug": "portfolio-prioritization-and-starts-control",
+    "title": "Portfolio prioritization & starts control",
+    "subtitle": "How to govern what enters the active pipeline so the work that starts actually finishes",
+    "series": "Portfolio",
+    "type": "Synthesis paper",
+    "date": "2026-05-10",
+    "pages": 43,
+    "core_thesis": "Most product organizations start more projects than they can finish. The cure is not better execution. It is a portfolio discipline that ranks every candidate against weighted strategic and economic criteria, then gates entry to the active pipeline against real resource capacity. Rank without constraints first. Apply constraints second. One person owns the call. Starting fewer projects is how more projects finish on time.",
+    "abstract": "Most product organizations start more projects than they can finish. This paper describes the lateralworks FTTM portfolio discipline: AHP-based ranking that orders candidates by strategic and economic value without constraints, then a six-step zero-based budgeting loop that applies real resource capacity to determine what actually starts. The discipline draws on independent research from Saaty, Cooper, Reinertsen, Goldratt, Wheelwright and Clark, and Rogers and Blenko — converging on the same conclusion: rank rigorously, gate against capacity, name a single Decider.",
+    "pdf": "/papers/portfolio-prioritization-and-starts-control.pdf",
+    "thumb": "/papers/thumbs/portfolio-prioritization-and-starts-control.png"
+  },
+  {
     "slug": "the-optimal-project-load",
     "title": "The optimal project load",
     "subtitle": "How dedicated resources accelerate new product development",
