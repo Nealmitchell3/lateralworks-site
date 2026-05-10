@@ -1,5 +1,18 @@
 [
   {
+    "slug": "managing-the-fuzzy-front-end",
+    "title": "Managing the fuzzy front end",
+    "subtitle": "Where the biggest schedule opportunity hides — and how to capture it through dedicated teams, a refreshed schedule, and a hard cycle-time target",
+    "series": "Portfolio",
+    "type": "Synthesis paper",
+    "date": "2026-05-09",
+    "pages": 32,
+    "core_thesis": "The fuzzy front end is the largest, cheapest, and least-managed source of schedule slip in technology product development. Treat it as a real project — with a dedicated cross-functional team, a weekly-refreshed schedule, and a hard cycle-time target — and months come out of the development calendar without compressing the engineering work that follows.",
+    "abstract": "Most product development organizations spend 50 to 100 percent of their cycle time in a phase they do not manage. The fuzzy front end — between portfolio commit and full-team formation — is owned by no one in particular and runs without a schedule. This paper diagnoses the structural causes of FFE drift, generalizes Sun Microsystems' six-week cycle-time discipline into a seven-practice methodology, maps the two handoffs that bookend it, and walks the implementation sequence. A current semiconductor engagement illustrates the failure mode and the recovery.",
+    "pdf": "/papers/managing-the-fuzzy-front-end.pdf",
+    "thumb": "/papers/thumbs/managing-the-fuzzy-front-end.png"
+  },
+  {
     "slug": "fastprojectai-dashboard",
     "title": "fastProjectAI Project Portfolio Dashboard",
     "subtitle": "Aggregating live project schedules into a single leadership view",
