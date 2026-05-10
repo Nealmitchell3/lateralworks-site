@@ -1,5 +1,18 @@
 [
   {
+    "slug": "the-optimal-project-load",
+    "title": "The optimal project load",
+    "subtitle": "How dedicated resources accelerate new product development",
+    "series": "Portfolio",
+    "type": "Synthesis paper",
+    "date": "2026-05-09",
+    "pages": 27,
+    "core_thesis": "One to two projects per engineer is the maximum sustainable load for complex new product development; past two, context switching consumes 40 to 75 percent of working time, queue delays compound at every milestone gate, and calendars slip by months — the structural fix is dedicated cross-functional product teams governed by an explicit portfolio and clear decision rights.",
+    "abstract": "Most semiconductor organizations spread their best engineers across three to five projects on the theory that high utilization equals high productivity. Four decades of research from Weinberg, Reinertsen, Brooks, Clark and Wheelwright, and McKinsey says the opposite. Past two concurrent projects, context switching consumes 40 to 75 percent of working time and queue delays compound nonlinearly. The structural answer is dedicated cross-functional product teams limited to one or two projects per engineer, governed by an explicit portfolio and clear decision rights.",
+    "pdf": "/papers/the-optimal-project-load.pdf",
+    "thumb": "/papers/thumbs/the-optimal-project-load.png"
+  },
+  {
     "slug": "managing-the-fuzzy-front-end",
     "title": "Managing the fuzzy front end",
     "subtitle": "Where the biggest schedule opportunity hides — and how to capture it through dedicated teams, a refreshed schedule, and a hard cycle-time target",
