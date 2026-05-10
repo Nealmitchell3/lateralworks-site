@@ -47,8 +47,11 @@ export default function PaperCard({ paper, pdfText }: { paper: Paper; pdfText?: 
           <span className="text-[11px] font-light text-ink-muted">{paper.type}</span>
         </div>
 
-        <h2 className="font-semibold text-navy text-2xl leading-snug mb-1"
-          style={{ letterSpacing: "-0.01em" }}>
+        <h2
+          id={paper.slug}
+          className="font-semibold text-navy text-2xl leading-snug mb-1 scroll-mt-24"
+          style={{ letterSpacing: "-0.01em" }}
+        >
           <a href={paper.pdf} target="_blank" rel="noopener noreferrer"
              className="hover:text-navy/70 transition-colors">
             {paper.title}

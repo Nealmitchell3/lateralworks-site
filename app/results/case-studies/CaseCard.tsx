@@ -63,7 +63,8 @@ export default function CaseCard({ c, pdfText }: { c: Case; pdfText?: string }) 
         </div>
 
         <h2
-          className="font-semibold text-navy text-2xl leading-snug mb-1"
+          id={c.slug}
+          className="font-semibold text-navy text-2xl leading-snug mb-1 scroll-mt-24"
           style={{ letterSpacing: "-0.01em" }}
         >
           <a

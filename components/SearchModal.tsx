@@ -94,8 +94,13 @@ export default function SearchModal({ isOpen, onClose }: Props) {
             onKeyDown={(e) => {
               if (e.key === "Enter") {
                 if (selectedIndex >= 0 && results[selectedIndex]) {
+                  const r = results[selectedIndex];
                   onClose();
-                  router.push(results[selectedIndex].url);
+                  if (r.pdfUrl) {
+                    window.open(r.pdfUrl, "_blank", "noopener,noreferrer");
+                  } else {
+                    router.push(r.url);
+                  }
                 } else if (query.trim()) {
                   goToSearchPage();
                 }

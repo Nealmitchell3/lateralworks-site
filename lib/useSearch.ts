@@ -9,12 +9,20 @@ export interface SearchResult {
   title: string;
   excerpt: string;
   category: SearchCategory;
+  pdfUrl?: string;
+}
+
+interface PagefindSubResult {
+  title?: string;
+  url: string;
+  excerpt: string;
 }
 
 interface PagefindResultData {
   url: string;
   meta: { title?: string };
   excerpt: string;
+  sub_results?: PagefindSubResult[];
 }
 
 interface PagefindResultHandle {
@@ -32,19 +40,49 @@ declare global {
   }
 }
 
+function splitUrl(url: string): { path: string; hash: string } {
+  const i = url.indexOf("#");
+  if (i < 0) return { path: url, hash: "" };
+  return { path: url.slice(0, i), hash: url.slice(i + 1) };
+}
+
+function normalizePath(rawPath: string): string {
+  let p = rawPath.replace(/\.html$/, "");
+  if (p.endsWith("/index")) p = p.slice(0, -"index".length);
+  if (p.length > 1 && p.endsWith("/")) p = p.slice(0, -1);
+  if (!p) p = "/";
+  return p;
+}
+
 function normalizeUrl(raw: string): string {
-  let url = raw.replace(/\.html$/, "");
-  if (url.endsWith("/index")) url = url.slice(0, -"index".length);
-  if (url.length > 1 && url.endsWith("/")) url = url.slice(0, -1);
-  if (!url) url = "/";
-  return url;
+  const { path, hash } = splitUrl(raw);
+  const p = normalizePath(path);
+  return hash ? `${p}#${hash}` : p;
 }
 
 function categorize(url: string): SearchCategory {
-  if (/^\/ideas\/[^/]+$/.test(url)) return "ideas";
-  if (/^\/papers\/[^/]+$/.test(url)) return "papers";
-  if (/^\/results\/case-studies\/[^/]+$/.test(url)) return "cases";
+  const { path, hash } = splitUrl(url);
+  const p = normalizePath(path);
+
+  if (hash) {
+    if (p === "/papers") return "papers";
+    if (p === "/results/case-studies") return "cases";
+  }
+
+  if (/^\/ideas\/[^/]+$/.test(p)) return "ideas";
+  if (/^\/papers\/[^/]+$/.test(p)) return "papers";
+  if (/^\/results\/case-studies\/[^/]+$/.test(p)) return "cases";
+
   return "pages";
+}
+
+function derivePdfUrl(url: string): string | undefined {
+  const { path, hash } = splitUrl(url);
+  if (!hash) return undefined;
+  const p = normalizePath(path);
+  if (p === "/papers") return `/papers/${hash}.pdf`;
+  if (p === "/results/case-studies") return `/cases/${hash}.pdf`;
+  return undefined;
 }
 
 async function loadPagefind(): Promise<PagefindAPI> {
@@ -84,15 +122,31 @@ export function useSearch() {
       const r = await pf.search(trimmed);
       const top = r.results.slice(0, 30);
       const data = await Promise.all(top.map((h) => h.data()));
-      return data.map((d) => {
-        const url = normalizeUrl(d.url);
-        return {
-          url,
-          title: d.meta.title || url,
-          excerpt: d.excerpt,
-          category: categorize(url),
-        };
-      });
+
+      const flat: SearchResult[] = [];
+      for (const d of data) {
+        if (d.sub_results && d.sub_results.length > 0) {
+          for (const sub of d.sub_results) {
+            const url = normalizeUrl(sub.url);
+            flat.push({
+              url,
+              title: sub.title || d.meta.title || url,
+              excerpt: sub.excerpt,
+              category: categorize(url),
+              pdfUrl: derivePdfUrl(url),
+            });
+          }
+        } else {
+          const url = normalizeUrl(d.url);
+          flat.push({
+            url,
+            title: d.meta.title || url,
+            excerpt: d.excerpt,
+            category: categorize(url),
+          });
+        }
+      }
+      return flat;
     } catch (err) {
       console.error("search failed:", err);
       return [];

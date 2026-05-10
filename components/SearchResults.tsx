@@ -57,26 +57,45 @@ export default function SearchResults({ results, query, selectedUrl, onSelect }:
             <ul className="divide-y divide-border">
               {items.map((r) => {
                 const isSelected = r.url === selectedUrl;
+                const className = `block py-3 px-3 -mx-3 rounded transition-colors ${
+                  isSelected ? "bg-cream-dark" : "hover:bg-cream-dark/60"
+                }`;
+                const inner = (
+                  <>
+                    <h3 className="text-base font-medium text-navy leading-snug">
+                      {r.title}
+                      {r.pdfUrl && (
+                        <span className="ml-2 inline-block rounded bg-gold/15 text-gold px-1.5 py-0.5 text-[10px] font-semibold tracking-wider align-middle">
+                          PDF
+                        </span>
+                      )}
+                    </h3>
+                    <p
+                      className="text-sm font-light text-ink leading-relaxed mt-1 line-clamp-2"
+                      dangerouslySetInnerHTML={{ __html: r.excerpt }}
+                    />
+                    <p className="text-[11px] font-light text-ink-muted mt-1 truncate">
+                      {r.pdfUrl ?? r.url}
+                    </p>
+                  </>
+                );
                 return (
                   <li key={r.url}>
-                    <Link
-                      href={r.url}
-                      onClick={onSelect}
-                      className={`block py-3 px-3 -mx-3 rounded transition-colors ${
-                        isSelected ? "bg-cream-dark" : "hover:bg-cream-dark/60"
-                      }`}
-                    >
-                      <h3 className="text-base font-medium text-navy leading-snug">
-                        {r.title}
-                      </h3>
-                      <p
-                        className="text-sm font-light text-ink leading-relaxed mt-1 line-clamp-2"
-                        dangerouslySetInnerHTML={{ __html: r.excerpt }}
-                      />
-                      <p className="text-[11px] font-light text-ink-muted mt-1 truncate">
-                        {r.url}
-                      </p>
-                    </Link>
+                    {r.pdfUrl ? (
+                      <a
+                        href={r.pdfUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        onClick={onSelect}
+                        className={className}
+                      >
+                        {inner}
+                      </a>
+                    ) : (
+                      <Link href={r.url} onClick={onSelect} className={className}>
+                        {inner}
+                      </Link>
+                    )}
                   </li>
                 );
               })}
