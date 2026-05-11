@@ -242,3 +242,79 @@ a { transition: color 0.15s ease, opacity 0.15s ease; }
   text-align: center;
   line-height: 1.5;
 }
+
+/* ── Legal pages (privacy, terms) ─────────────────────────── */
+/* Termly-generated HTML rendered inside .legal-content gets brand typography */
+.legal-content {
+  margin-top: 4rem; /* clear the fixed h-16 nav (article wrapper's py-16 is below this) */
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  color: var(--ink);
+}
+.legal-content h1 {
+  font-family: var(--font);
+  font-weight: 600;
+  font-size: 1.875rem;     /* text-3xl */
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  margin: 0 0 2rem;
+}
+.legal-content h2 {
+  font-family: var(--font);
+  font-weight: 600;
+  font-size: 1.5rem;       /* text-2xl */
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin: 3rem 0 1rem;
+}
+.legal-content h3 {
+  font-family: var(--font);
+  font-weight: 500;
+  font-size: 1.25rem;      /* text-xl */
+  color: var(--ink);
+  margin: 1.5rem 0 0.75rem;
+}
+.legal-content p {
+  font-family: var(--font);
+  font-weight: 400;
+  margin: 0 0 1rem;
+  color: var(--ink);
+}
+.legal-content ul,
+.legal-content ol {
+  margin: 0 0 1rem 1.25rem;
+  padding: 0;
+}
+.legal-content ul { list-style-type: disc; }
+.legal-content ol { list-style-type: decimal; }
+.legal-content li {
+  margin-bottom: 0.5rem;
+  color: var(--ink);
+}
+.legal-content a {
+  color: var(--gold);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.legal-content a:hover {
+  color: var(--gold-light);
+}
+.legal-content strong { font-weight: 600; color: var(--ink); }
+.legal-content em { font-style: italic; }
+.legal-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.875rem;
+}
+.legal-content th,
+.legal-content td {
+  border: 1px solid var(--border);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+.legal-content th {
+  background-color: var(--cream-dark);
+  font-weight: 600;
+}

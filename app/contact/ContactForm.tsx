@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useState } from "react";
 
 type Status = "idle" | "submitting" | "success" | "error";
@@ -107,6 +108,17 @@ export default function ContactForm() {
       >
         {status === "submitting" ? "Sending…" : "Send message"}
       </button>
+      <p className="text-xs font-light text-ink-muted leading-relaxed">
+        By submitting this form, you agree to our{" "}
+        <Link href="/privacy" className="underline hover:text-navy transition-colors">
+          Privacy Policy
+        </Link>{" "}
+        and{" "}
+        <Link href="/terms" className="underline hover:text-navy transition-colors">
+          Terms of Use
+        </Link>
+        .
+      </p>
     </form>
   );
 }
