@@ -26,7 +26,8 @@ export function getAllPapers(): Paper[] {
   if (!fs.existsSync(INDEX_FILE)) return [];
   try {
     const raw = fs.readFileSync(INDEX_FILE, 'utf-8');
-    return JSON.parse(raw) as Paper[];
+    const papers = JSON.parse(raw) as Paper[];
+    return [...papers].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   } catch {
     return [];
   }
