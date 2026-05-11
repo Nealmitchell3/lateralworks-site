@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    { "source": "/projects", "destination": "/results", "permanent": true },
+    { "source": "/projects/:slug*", "destination": "/results", "permanent": true },
+    { "source": "/education", "destination": "/academy", "permanent": true },
+    { "source": "/education/:slug*", "destination": "/academy", "permanent": true },
+    { "source": "/store", "destination": "/software", "permanent": true },
+    { "source": "/store/:slug*", "destination": "/software", "permanent": true }
+  ]
+}
