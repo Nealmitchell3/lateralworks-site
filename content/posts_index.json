@@ -1,5 +1,18 @@
 [
   {
+    "slug": "portfolio-starts-control-briefing",
+    "title": "Portfolio prioritization and starts control",
+    "date": "May 11, 2026",
+    "dateISO": "2026-05-11",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Portfolio"
+    ],
+    "tags": [],
+    "excerpt": "Most product organizations start more projects than they can finish. The cure is a two-step discipline at the entry to the active pipeline: rank every candidate against weighted criteria, then gate entry against real resource capacity.",
+    "imageCount": 1
+  },
+  {
     "slug": "the-weekly-schedule-refresh",
     "title": "The weekly schedule refresh",
     "date": "May 8, 2026",
