@@ -13,13 +13,18 @@ const dmSans = DM_Sans({
   display: "swap",
 });
 
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+const defaultTitle = `${siteConfig.name} — ${siteConfig.tagline}`;
+const description =
+  "lateralworks delivers fast-time-to-market consulting, software, and training. 200+ FTTM projects since 1988. Silicon Valley.";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: {
-    default: `${siteConfig.name} — ${siteConfig.tagline}`,
+    default: defaultTitle,
     template: `%s | ${siteConfig.name}`,
   },
-  description:
-    "lateralworks delivers fast-time-to-market consulting, software, and training. 200+ FTTM projects since 1988. Silicon Valley.",
+  description,
   keywords: [
     "fast time to market",
     "FTTM",
@@ -28,6 +33,18 @@ export const metadata: Metadata = {
     "schedule acceleration",
     "Silicon Valley consulting",
   ],
+  openGraph: {
+    type: "website",
+    locale: "en_US",
+    siteName: siteConfig.name,
+    title: defaultTitle,
+    description,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: defaultTitle,
+    description,
+  },
 };
 
 export default function RootLayout({
