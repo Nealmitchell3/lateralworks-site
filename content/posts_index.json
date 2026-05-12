@@ -1,5 +1,21 @@
 [
   {
+    "slug": "atrophy-or-acceleration",
+    "title": "Atrophy or acceleration",
+    "date": "May 12, 2026",
+    "dateISO": "2026-05-12",
+    "author": "Neal Mitchell",
+    "categories": [
+      "AI"
+    ],
+    "tags": [
+      "AI",
+      "Workflow"
+    ],
+    "excerpt": "The workflow around AI, not the model itself, decides which side you end up on.",
+    "imageCount": 1
+  },
+  {
     "slug": "portfolio-starts-control-briefing",
     "title": "Portfolio prioritization and starts control",
     "date": "May 11, 2026",
