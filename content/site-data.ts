@@ -373,7 +373,7 @@ export const results = {
       id: "philips",
       industry: "Consumer Electronics",
       client: "Philips → iPod",
-      metric: "The methodology behind the iPod",
+      metric: "iPod blueprint",
       submetric: "Tony Fadell · Philips Velo → Apple",
       headline: "The methodology that built the iPod.",
       body: "The engineering executive who led the Philips Velo PDA project — built using FTTM methodology — later applied these same practices at Apple to create the iPod, iPhone, and iPad. His name is Tony Fadell.",
