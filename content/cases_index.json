@@ -2,7 +2,7 @@
   {
     "slug": "the-schedule-mirrors-the-team",
     "title": "The schedule mirrors the team",
-    "subtitle": "Why functional project managers build functional schedules \u2014 and what it takes to move them",
+    "subtitle": "Why functional project managers build functional schedules — and what it takes to move them",
     "practice": "FTTM Coaching",
     "type": "Case study",
     "date": "2026-04-30",
@@ -94,5 +94,21 @@
     "abstract": "Multi-year program planning conventionally takes weeks of meetings, drafts, and reviews. A semiconductor team replaced that cycle with an AI-assisted three-step flow: milestone timeline, milestone matrix, macro schedule. The AI generated each draft in hours; the team scrubbed and re-prompted. AI did about 80% of the synthesis. The team added the last 20% — judgment, calibration, local context. The first complete plan was on the table in three days. The case documents the flow, the iteration discipline, and nine operating principles.",
     "pdf": "/cases/ai-assisted-macro-planning.pdf",
     "thumb": "/cases/thumbs/ai-assisted-macro-planning.png"
+  },
+  {
+    "slug": "sony-playstation-500k-asic",
+    "title": "Sony PlayStation",
+    "subtitle": "The 500K ASIC",
+    "practice": "Client Projects",
+    "type": "Case Study",
+    "date": "2026-05-13",
+    "sector": "Semiconductor",
+    "engagement": "1993–1995",
+    "outcome": "24-month delivery on a 5× gate-count leap; the engagement roughly doubled LSI Logic in a single year and powered the launch of Sony's first PlayStation.",
+    "pages": 21,
+    "core_thesis": "When a program demands more than the organization can deliver, the response must be structural. Pick one driving customer, integrate hardware and software workstreams under one empowered core team, and run the planning cadence at a frequency that surfaces gaps before they ossify.",
+    "abstract": "In 1993, Sony entered a console market dominated by Nintendo and Sega with a plan that depended on an unprecedented 500,000-gate single-die ASIC. LSI Logic took the design. lateralworks reframed the program around a single driving customer, stood up the first cross-functional core team in LSI's history, and ran high-frequency refresh planning across hardware and software for two years. Engineering samples shipped 12 months ahead of Sony's schedule. The Sony engagement roughly doubled LSI Logic in a single year.",
+    "pdf": "/cases/sony-playstation-500k-asic.pdf",
+    "thumb": "/cases/thumbs/sony-playstation-500k-asic.png"
   }
 ]
