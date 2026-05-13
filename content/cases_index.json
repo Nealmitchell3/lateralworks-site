@@ -105,7 +105,7 @@
     "sector": "Semiconductor",
     "engagement": "1993–1995",
     "outcome": "24-month delivery on a 5× gate-count leap; the engagement roughly doubled LSI Logic in a single year and powered the launch of Sony's first PlayStation.",
-    "pages": 21,
+    "pages": 23,
     "core_thesis": "When a program demands more than the organization can deliver, the response must be structural. Pick one driving customer, integrate hardware and software workstreams under one empowered core team, and run the planning cadence at a frequency that surfaces gaps before they ossify.",
     "abstract": "In 1993, Sony entered a console market dominated by Nintendo and Sega with a plan that depended on an unprecedented 500,000-gate single-die ASIC. LSI Logic took the design. lateralworks reframed the program around a single driving customer, stood up the first cross-functional core team in LSI's history, and ran high-frequency refresh planning across hardware and software for two years. Engineering samples shipped 12 months ahead of Sony's schedule. The Sony engagement roughly doubled LSI Logic in a single year.",
     "pdf": "/cases/sony-playstation-500k-asic.pdf",
