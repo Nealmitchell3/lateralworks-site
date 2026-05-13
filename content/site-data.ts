@@ -13,6 +13,12 @@ export const siteConfig = {
   copyright: "© lateralworks. all rights reserved.",
 };
 
+export const siteOpenGraphDefaults = {
+  type: "website" as const,
+  locale: "en_US",
+  siteName: "lateralworks",
+};
+
 export const nav = {
   links: [
     { label: "Methodology", href: "/methodology" },

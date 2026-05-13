@@ -2,11 +2,14 @@ import { Suspense } from "react";
 import DocsListing from "./DocsListing";
 import StaticDocsListing from "./StaticDocsListing";
 import { getAllDocMeta, getAllDocCategories } from "@/content/docs-utils";
+import { siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Docs",
   description: "Release notes, how-to guides, and troubleshooting documentation for fastProjectAI, fastDecisionAI, and Cost-of-delayAI.",
+  alternates: { canonical: "/docs" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/docs" },
 };
 
 export default function DocsPage() {

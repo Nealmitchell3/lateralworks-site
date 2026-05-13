@@ -1,8 +1,13 @@
 import Link from "next/link";
-import { methodology } from "@/content/site-data";
+import { methodology, siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Methodology", description: methodology.hero.body };
+export const metadata: Metadata = {
+  title: "Methodology",
+  description: methodology.hero.body,
+  alternates: { canonical: "/methodology" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/methodology" },
+};
 
 export default function MethodologyPage() {
   return (

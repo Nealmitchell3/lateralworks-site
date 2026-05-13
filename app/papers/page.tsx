@@ -2,11 +2,14 @@ import { Suspense } from "react";
 import PapersListing from "./PapersListing";
 import StaticPapersListing from "./StaticPapersListing";
 import { getAllPapers, getAllSeries } from "@/content/papers-utils";
+import { siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Papers",
   description: "Research findings, methodology papers, and field-tested frameworks from the lateralworks team.",
+  alternates: { canonical: "/papers" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/papers" },
 };
 
 export default function PapersPage() {

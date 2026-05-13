@@ -1,10 +1,13 @@
 import fs from "fs";
 import path from "path";
+import { siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Terms of Use",
   description: "Terms and conditions for using lateralworks Services.",
+  alternates: { canonical: "/terms" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/terms" },
 };
 
 const html = fs.readFileSync(

@@ -1,10 +1,13 @@
 import fs from "fs";
 import path from "path";
+import { siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description: "How lateralworks collects, uses, and protects your information.",
+  alternates: { canonical: "/privacy" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/privacy" },
 };
 
 const html = fs.readFileSync(

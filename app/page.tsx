@@ -1,12 +1,14 @@
 import Link from "next/link";
 import Image from "next/image";
-import { home, team, siteConfig } from "@/content/site-data";
+import { home, team, siteConfig, siteOpenGraphDefaults } from "@/content/site-data";
 import { getAllPostMeta } from "@/content/posts-utils";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: `${siteConfig.name} — ${siteConfig.tagline}`,
   description: home.hero.body,
+  alternates: { canonical: "/" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/" },
 };
 
 export default function HomePage() {

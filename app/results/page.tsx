@@ -1,10 +1,15 @@
 import Link from "next/link";
-import { results } from "@/content/site-data";
+import { results, siteOpenGraphDefaults } from "@/content/site-data";
 import CaseStudiesTeaser from "@/components/CaseStudiesTeaser";
 import ExperienceModal from "@/components/ExperienceModal";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Results", description: results.hero.body };
+export const metadata: Metadata = {
+  title: "Results",
+  description: results.hero.body,
+  alternates: { canonical: "/results" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/results" },
+};
 
 export default function ResultsPage() {
   return (

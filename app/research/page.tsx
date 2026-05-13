@@ -1,10 +1,13 @@
 import Link from "next/link";
+import { siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Research — lateralworks",
   description:
     "lateralworks Research Project — three decades of competency-based research into the practices of fast-to-market technology teams.",
+  alternates: { canonical: "/research" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/research" },
 };
 
 export default function ResearchPage() {

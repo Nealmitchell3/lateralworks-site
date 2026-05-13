@@ -3,12 +3,15 @@ import Link from "next/link";
 import CaseStudiesListing from "./CaseStudiesListing";
 import StaticCaseStudiesListing from "./StaticCaseStudiesListing";
 import { getAllCases, getAllCasePractices } from "@/content/cases-utils";
+import { siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Case studies",
   description:
     "Field-tested case studies from lateralworks engagements across semiconductor, hardware, and complex-systems programs. Names and sector-identifying details have been removed.",
+  alternates: { canonical: "/results/case-studies" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/results/case-studies" },
 };
 
 export default function CaseStudiesPage() {

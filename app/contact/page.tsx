@@ -1,8 +1,13 @@
-import { contact } from "@/content/site-data";
+import { contact, siteOpenGraphDefaults } from "@/content/site-data";
 import ContactForm from "./ContactForm";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Contact", description: contact.hero.body };
+export const metadata: Metadata = {
+  title: "Contact",
+  description: contact.hero.body,
+  alternates: { canonical: "/contact" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/contact" },
+};
 
 export default function ContactPage() {
   return (

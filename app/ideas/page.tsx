@@ -3,11 +3,14 @@ import IdeasListing from "./IdeasListing";
 import StaticIdeasListing from "./StaticIdeasListing";
 import ListenWatchBlock from "@/components/ListenWatchBlock";
 import { getAllPostMeta, getAllCategories } from "@/content/posts-utils";
+import { siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Ideas",
   description: "Articles on fast-time-to-market, critical path, decision quality, and product acceleration.",
+  alternates: { canonical: "/ideas" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/ideas" },
 };
 
 export default function IdeasPage() {

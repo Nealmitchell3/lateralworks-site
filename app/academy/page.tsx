@@ -1,8 +1,13 @@
 import Link from "next/link";
-import { academy } from "@/content/site-data";
+import { academy, siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Academy", description: academy.hero.body };
+export const metadata: Metadata = {
+  title: "Academy",
+  description: academy.hero.body,
+  alternates: { canonical: "/academy" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/academy" },
+};
 
 export default function AcademyPage() {
   return (

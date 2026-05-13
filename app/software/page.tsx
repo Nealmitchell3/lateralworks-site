@@ -1,9 +1,14 @@
 import Link from "next/link";
-import { software } from "@/content/site-data";
+import { software, siteOpenGraphDefaults } from "@/content/site-data";
 import { getAllDocMeta } from "@/content/docs-utils";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Software", description: software.hero.body };
+export const metadata: Metadata = {
+  title: "Software",
+  description: software.hero.body,
+  alternates: { canonical: "/software" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/software" },
+};
 
 export default function SoftwarePage() {
   const docCount = getAllDocMeta().length;

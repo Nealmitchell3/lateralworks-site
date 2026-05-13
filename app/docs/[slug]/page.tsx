@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getDoc, getAllDocSlugs, getRelatedDocs } from "@/content/docs-utils";
+import { siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
 interface Props {
@@ -18,11 +19,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: doc.title,
     description: doc.excerpt || doc.title,
+    alternates: { canonical: `/docs/${params.slug}` },
     openGraph: {
+      ...siteOpenGraphDefaults,
+      type: "article",
       title: doc.title,
       description: doc.excerpt,
-      type: "article",
       publishedTime: doc.dateISO,
+      url: `/docs/${params.slug}`,
     },
   };
 }

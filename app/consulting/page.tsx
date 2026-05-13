@@ -1,8 +1,13 @@
 import Link from "next/link";
-import { consulting } from "@/content/site-data";
+import { consulting, siteOpenGraphDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Consulting", description: consulting.hero.body };
+export const metadata: Metadata = {
+  title: "Consulting",
+  description: consulting.hero.body,
+  alternates: { canonical: "/consulting" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/consulting" },
+};
 
 export default function ConsultingPage() {
   return (

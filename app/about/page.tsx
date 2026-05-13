@@ -1,9 +1,14 @@
 import Link from "next/link";
-import { about } from "@/content/site-data";
+import { about, siteOpenGraphDefaults } from "@/content/site-data";
 import TeamSection from "@/components/TeamSection";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "About", description: about.hero.body };
+export const metadata: Metadata = {
+  title: "About",
+  description: about.hero.body,
+  alternates: { canonical: "/about" },
+  openGraph: { ...siteOpenGraphDefaults, url: "/about" },
+};
 
 export default function AboutPage() {
   return (
