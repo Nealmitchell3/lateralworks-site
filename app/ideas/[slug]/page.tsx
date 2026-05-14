@@ -64,6 +64,7 @@ export default function PostPage({ params }: Props) {
     author: {
       "@type": "Person",
       name: post.author,
+      url: "https://lateralworks.com/about",
     },
     publisher: siteOrganizationPublisher,
     mainEntityOfPage: {

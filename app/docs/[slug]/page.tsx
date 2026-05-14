@@ -64,6 +64,7 @@ export default function DocPage({ params }: Props) {
     author: {
       "@type": "Person",
       name: doc.author,
+      url: "https://lateralworks.com/about",
     },
     publisher: siteOrganizationPublisher,
     mainEntityOfPage: {
