@@ -8,6 +8,15 @@ interface Props {
   params: { slug: string };
 }
 
+const toIsoDateTime = (d?: string): string | undefined => {
+  if (!d) return undefined;
+  try {
+    return new Date(d).toISOString();
+  } catch {
+    return undefined;
+  }
+};
+
 export async function generateStaticParams() {
   const slugs = getAllDocSlugs();
   return slugs.map((slug) => ({ slug }));
@@ -50,8 +59,8 @@ export default function DocPage({ params }: Props) {
     image: doc.images?.[0]?.src
       ? `https://lateralworks.com${doc.images[0].src}`
       : "https://lateralworks.com/logo.svg",
-    datePublished: doc.dateISO,
-    dateModified: doc.dateISO,
+    datePublished: toIsoDateTime(doc.dateISO),
+    dateModified: toIsoDateTime(doc.dateISO),
     author: {
       "@type": "Person",
       name: doc.author,
