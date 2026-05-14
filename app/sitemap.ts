@@ -25,9 +25,10 @@ const STATIC_ROUTES: ReadonlyArray<{ path: string; priority: number }> = [
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
 
+  // Static routes intentionally omit lastModified — no real "last modified" signal,
+  // and jittering new Date() values get de-prioritized by Google.
   const staticRoutes = STATIC_ROUTES.map((r) => ({
     url: `${BASE_URL}${r.path}`,
-    lastModified: now,
     changeFrequency: "monthly" as const,
     priority: r.priority,
   }));

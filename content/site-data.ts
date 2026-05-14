@@ -47,6 +47,7 @@ export const siteOrganization = {
     "Silicon Valley management consulting firm specializing in Fast-Time-to-Market (FTTM) methodology for advanced technology programs.",
   address: {
     "@type": "PostalAddress",
+    addressLocality: "San Jose",
     addressRegion: "California",
     addressCountry: "US",
   },
