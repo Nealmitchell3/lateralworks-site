@@ -1,13 +1,25 @@
 import Link from "next/link";
-import { siteOpenGraphDefaults } from "@/content/site-data";
+import { siteOpenGraphDefaults, siteTwitterDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
+const description =
+  "lateralworks Research Project — three decades of competency-based research into the practices of fast-to-market technology teams.";
+
 export const metadata: Metadata = {
-  title: "Research — lateralworks",
-  description:
-    "lateralworks Research Project — three decades of competency-based research into the practices of fast-to-market technology teams.",
+  title: "Research",
+  description,
   alternates: { canonical: "/research" },
-  openGraph: { ...siteOpenGraphDefaults, url: "/research" },
+  openGraph: {
+    ...siteOpenGraphDefaults,
+    title: "Research | lateralworks",
+    description,
+    url: "/research",
+  },
+  twitter: {
+    ...siteTwitterDefaults,
+    title: "Research | lateralworks",
+    description,
+  },
 };
 
 export default function ResearchPage() {

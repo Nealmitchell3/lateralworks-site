@@ -19,6 +19,10 @@ export const siteOpenGraphDefaults = {
   siteName: "lateralworks",
 };
 
+export const siteTwitterDefaults = {
+  card: "summary_large_image" as const,
+};
+
 export const nav = {
   links: [
     { label: "Methodology", href: "/methodology" },

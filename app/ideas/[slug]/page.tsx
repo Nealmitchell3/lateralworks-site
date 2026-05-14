@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getPost, getAllSlugs, getRelatedPosts } from "@/content/posts-utils";
-import { siteOpenGraphDefaults } from "@/content/site-data";
+import { siteOpenGraphDefaults, siteTwitterDefaults } from "@/content/site-data";
 import type { Metadata } from "next";
 
 interface Props {
@@ -23,10 +23,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       ...siteOpenGraphDefaults,
       type: "article",
-      title: post.title,
+      title: `${post.title} | lateralworks`,
       description: post.excerpt,
       publishedTime: post.dateISO,
       url: `/ideas/${params.slug}`,
+    },
+    twitter: {
+      ...siteTwitterDefaults,
+      title: `${post.title} | lateralworks`,
+      description: post.excerpt,
     },
   };
 }

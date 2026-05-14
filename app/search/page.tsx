@@ -1,14 +1,26 @@
 import { Suspense } from "react";
 import type { Metadata } from "next";
-import { siteOpenGraphDefaults } from "@/content/site-data";
+import { siteOpenGraphDefaults, siteTwitterDefaults } from "@/content/site-data";
 import SearchPage from "./SearchPage";
 
+const description =
+  "Search across all lateralworks ideas, papers, case studies, and pages.";
+
 export const metadata: Metadata = {
-  title: "Search | lateralworks",
-  description:
-    "Search across all lateralworks ideas, papers, case studies, and pages.",
+  title: "Search",
+  description,
   alternates: { canonical: "/search" },
-  openGraph: { ...siteOpenGraphDefaults, url: "/search" },
+  openGraph: {
+    ...siteOpenGraphDefaults,
+    title: "Search | lateralworks",
+    description,
+    url: "/search",
+  },
+  twitter: {
+    ...siteTwitterDefaults,
+    title: "Search | lateralworks",
+    description,
+  },
 };
 
 export default function Page() {
