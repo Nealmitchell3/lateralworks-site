@@ -4,7 +4,7 @@ import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
-import { siteConfig } from "@/content/site-data";
+import { siteConfig, siteOrganization } from "@/content/site-data";
 
 const dmSans = DM_Sans({
   subsets: ["latin"],
@@ -60,6 +60,10 @@ export default function RootLayout({
         <main>{children}</main>
         <Footer />
         <Analytics />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(siteOrganization) }}
+        />
       </body>
     </html>
   );

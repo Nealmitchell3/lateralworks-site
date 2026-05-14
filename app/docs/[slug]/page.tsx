@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getDoc, getAllDocSlugs, getRelatedDocs } from "@/content/docs-utils";
-import { siteOpenGraphDefaults, siteTwitterDefaults } from "@/content/site-data";
+import { siteOpenGraphDefaults, siteTwitterDefaults, siteOrganizationPublisher } from "@/content/site-data";
 import type { Metadata } from "next";
 
 interface Props {
@@ -42,8 +42,33 @@ export default function DocPage({ params }: Props) {
 
   const related = getRelatedDocs(params.slug, 3);
 
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    headline: doc.title,
+    description: doc.excerpt || doc.title,
+    image: doc.images?.[0]?.src
+      ? `https://lateralworks.com${doc.images[0].src}`
+      : "https://lateralworks.com/logo.svg",
+    datePublished: doc.dateISO,
+    dateModified: doc.dateISO,
+    author: {
+      "@type": "Person",
+      name: doc.author,
+    },
+    publisher: siteOrganizationPublisher,
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://lateralworks.com/docs/${params.slug}`,
+    },
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       {/* Header */}
       <section className="bg-navy pt-32 pb-16 lg:pt-40 lg:pb-20">
         <div className="max-w-8xl mx-auto px-6 lg:px-10">

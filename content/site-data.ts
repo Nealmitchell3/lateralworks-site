@@ -23,6 +23,46 @@ export const siteTwitterDefaults = {
   card: "summary_large_image" as const,
 };
 
+export const siteOrganization = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "lateralworks",
+  url: "https://lateralworks.com",
+  logo: "https://lateralworks.com/logo.svg",
+  founder: {
+    "@type": "Person",
+    name: "Neal Mitchell",
+  },
+  foundingDate: "1988",
+  description:
+    "Silicon Valley management consulting firm specializing in Fast-Time-to-Market (FTTM) methodology for advanced technology programs.",
+  address: {
+    "@type": "PostalAddress",
+    addressRegion: "California",
+    addressCountry: "US",
+  },
+  contactPoint: {
+    "@type": "ContactPoint",
+    email: "contact@lateralworks.com",
+    contactType: "general inquiries",
+  },
+  sameAs: [
+    "https://www.youtube.com/@fastworksvideo",
+    "https://podcasts.apple.com/us/podcast/fast-time-to-market/id1869163825",
+    "https://open.spotify.com/show/3UlhwcloFzzxekaxNXzJKL",
+    "https://fasttimetomarket.buzzsprout.com/",
+  ],
+};
+
+export const siteOrganizationPublisher = {
+  "@type": "Organization",
+  name: "lateralworks",
+  logo: {
+    "@type": "ImageObject",
+    url: "https://lateralworks.com/logo.svg",
+  },
+};
+
 export const nav = {
   links: [
     { label: "Methodology", href: "/methodology" },
