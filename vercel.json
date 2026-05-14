@@ -1,10 +1,314 @@
 {
   "redirects": [
-    { "source": "/projects", "destination": "/results", "permanent": true },
-    { "source": "/projects/:slug*", "destination": "/results", "permanent": true },
-    { "source": "/education", "destination": "/academy", "permanent": true },
-    { "source": "/education/:slug*", "destination": "/academy", "permanent": true },
-    { "source": "/store", "destination": "/software", "permanent": true },
-    { "source": "/store/:slug*", "destination": "/software", "permanent": true }
+    {
+      "source": "/projects",
+      "destination": "/results",
+      "permanent": true
+    },
+    {
+      "source": "/projects/:slug*",
+      "destination": "/results",
+      "permanent": true
+    },
+    {
+      "source": "/education",
+      "destination": "/academy",
+      "permanent": true
+    },
+    {
+      "source": "/education/:slug*",
+      "destination": "/academy",
+      "permanent": true
+    },
+    {
+      "source": "/store",
+      "destination": "/software",
+      "permanent": true
+    },
+    {
+      "source": "/store/:slug*",
+      "destination": "/software",
+      "permanent": true
+    },
+    {
+      "source": "/tools",
+      "destination": "/docs",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/15/lateral-thinking-for-finding-breakthrough-ideas",
+      "destination": "/ideas/lateral-thinking-to-find-breakthrough-ideas",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/16/manage-the-complete-innovation-cycle",
+      "destination": "/ideas/manage-complete-innovation-life-cycle",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/17/coaching-vs-training-which-is-a-better",
+      "destination": "/ideas/coaching-vs-training-whats-the-difference",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/17/duration-game",
+      "destination": "/ideas/the-duration-game",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/18/unknown-to-kind-of-known",
+      "destination": "/ideas/from-unknown-to-kind-of-known",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/26/focus-you-cant-do-it-all-part-a",
+      "destination": "/ideas/focus-you-cant-do-it-all---part-a",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/26/focus-you-cant-do-it-all-part-b",
+      "destination": "/ideas/focus-you-cant-do-it-all---part-b",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/26/focus-you-cant-do-it-all-part-c",
+      "destination": "/ideas/focus-you-cant-do-it-all---part-c",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/26/voc-what-want-how-and-how-much",
+      "destination": "/ideas/voc-what-want-how-how-much",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/27/decision-modeling-the-basics-1",
+      "destination": "/ideas/decision-modeling---the-basics-1",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/27/decision-modeling-the-basics-2",
+      "destination": "/ideas/decision-modeling---the-basics-2",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/27/decision-modeling-the-basics-3",
+      "destination": "/ideas/decision-modeling---the-basics-3",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/28/creating-a-non-profits-strategy",
+      "destination": "/ideas/developing-a-non-profits-strategy",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/6/17/ig1990v8lmtt0cvyrsddlej8fufysv",
+      "destination": "/ideas/lateralworks",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/6/21/zbb-zero-based-budgeting",
+      "destination": "/ideas/zbb---zero-based-budgeting",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/6/22/4n7r7mf7oujjyplmrq3ky8vt07t9zb",
+      "destination": "/ideas/three-different-problems-solved-by-ahp",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/6/23/2ulujd1kce9o26qgmxzv2zwk00uw89",
+      "destination": "/ideas/fttm-planning-concepts",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2020/3/18/befast",
+      "destination": "/ideas/it-is-better-to-be-roughly-right-than-exactly-wrong",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/11/macro-settings-are-disabled-so-decisionaccelerator-wont-run",
+      "destination": "/docs/decisionaccelerator-wont-run---macro-settings",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/11/released-decisionaccelerator-version-413",
+      "destination": "/docs/decisionaccelerator-version-4130-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/13/generating-a-cost-benefit-curve-using-a-subset-of-the-portfolio-alternatives",
+      "destination": "/docs/generating-a-cost-benefit-curve",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/14/customize-a-lookahead-report",
+      "destination": "/docs/customize-the-lookahead-report",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/14/importing-a-prefresh-lookahead-report",
+      "destination": "/docs/import-a-lookahead-report",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/14/microsoft-project-crashes",
+      "destination": "/docs/fastproject-crashes-after-installing",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/15/how-to-determine-your-version-of-excel",
+      "destination": "/docs/determine-your-version-of-excel",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/15/how-to-determine-your-version-of-microsoft-project",
+      "destination": "/docs/determine-your-version-of-microsoft-project",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/15/killing-excel-processes-after-a-fastproject-error",
+      "destination": "/docs/killing-excel-after-a-fastproject-error",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/16/using-a-mission-statement-to-provide-a-checks-and-balance",
+      "destination": "/docs/use-a-mission-statement-and-doneness-criteria-to-provide-a-check-and-balance",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/17/getting-teams-fast-quickly",
+      "destination": "/docs/getting-teams-fast---quickly",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/10/28/decisionaccelerator-4812-released",
+      "destination": "/docs/decisionaccelerator-420-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/2/14/decisionaccelerator-414-released-1",
+      "destination": "/docs/decisionaccelerator-414-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/5/23/fastproject-resourcs",
+      "destination": "/docs/fastproject-resources",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/6/22/how-decision-model-goals-amp-objectives-translate-to-a-schedule",
+      "destination": "/docs/how-decision-model-goals-objectives-translate-to-a-schedule",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/7/29/we-were-on-schedule-until-the-very-end",
+      "destination": "/docs/crystal-ball-or-early-warning-system",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2020/1/31/fastproject-4815-released",
+      "destination": "/docs/fastproject-490-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2020/6/23/fastdecision-43-released",
+      "destination": "/docs/fastdecision-421-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2020/6/23/fastdecision-43-released-j3hm7",
+      "destination": "/docs/fastdecision-43-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2020/6/23/fastproject-493-released",
+      "destination": "/docs/fastproject-4100-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2020/7/21/fastproject-global-location",
+      "destination": "/docs/fastproject-fix-due-to-recent-microsoft-project-update",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2021/5/24/fastproject-4106-released-xwtt6",
+      "destination": "/docs/fastproject-4107-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2021/5/24/fastproject-4106-released-xwtt6-ehzlh",
+      "destination": "/docs/fastproject-4108-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2021/5/24/fastproject-4106-released-xwtt6-ehzlh-nzx95",
+      "destination": "/docs/fastproject-4109-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2021/5/24/fastproject-4106-released-xwtt6-ehzlh-nzx95-xjhw8",
+      "destination": "/docs/fastproject-41010-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2021/5/24/fastproject-4106-released-xwtt6-ehzlh-nzx95-xjhw8-cy7jk",
+      "destination": "/docs/fastproject-4110-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2021/5/24/fastproject-4106-released-xwtt6-ehzlh-nzx95-xjhw8-cy7jk-wn4bt",
+      "destination": "/docs/fastproject-4111-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2023/5/24/fastproject-4106-released-xwtt6-ehzlh-nzx95-xjhw8-cy7jk-wn4bt-3hx8r",
+      "destination": "/docs/fastproject-4112-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2023/5/24/fastproject-4106-released-xwtt6-ehzlh-nzx95-xjhw8-cy7jk-wn4bt-3hx8r-z7j9c",
+      "destination": "/docs/fastproject-4113-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2023/5/24/fastproject-4106-released-xwtt6-ehzlh-nzx95-xjhw8-cy7jk-wn4bt-3hx8r-z7j9c-er4zy",
+      "destination": "/docs/fastproject-4114-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2023/5/24/fastproject-4106-released-xwtt6-ehzlh-nzx95-xjhw8-cy7jk-wn4bt-3hx8r-z7j9c-er4zy-2dl65",
+      "destination": "/docs/fastproject-4115-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2024/24/fastproject-4116-released-xwtt6-ehzlh-nzx95-xjhw8-cy7jk-wn4bt-3hx8r-z7j9c-er4zy-2dl65-zrbwb",
+      "destination": "/docs/fastproject-4116-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2024/24/fastproject-4117-released-xwtt6-ehzlh-nzx95-xjhw8-cy7jk-wn4bt-3hx8r-z7j9c-er4zy-2dl65-zrbwb-64xfs",
+      "destination": "/docs/fastproject-4117-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2024/24/fastproject-4117-released-xwtt6-ehzlh-nzx95-xjhw8-cy7jk-wn4bt-3hx8r-z7j9c-er4zy-2dl65-zrbwb-64xfs-zgm35",
+      "destination": "/docs/fastproject-4120-released",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2025/4/22/debugging-fastproject-installation",
+      "destination": "/docs/debugging-fastproject-installation-and-activation",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/:year/:month/:day/:slug",
+      "destination": "/ideas/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/tools/:year/:month/:day/:slug",
+      "destination": "/docs/:slug",
+      "permanent": true
+    }
   ]
 }
