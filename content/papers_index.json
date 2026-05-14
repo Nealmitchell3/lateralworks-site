@@ -46,8 +46,8 @@
     "type": "Synthesis paper",
     "date": "2026-05-01",
     "pages": 29,
-    "core_thesis": "Most leadership teams running multiple programs cannot see their portfolio in time to act. fastProjectAI fixes this by aggregating live wigglechart data the PMs already maintain \u2014 surfacing the small number of projects that need attention this week, not the long tail that does not.",
-    "abstract": "How leadership teams running multiple new-product programs can replace status-report theater with live, exception-based portfolio visibility \u2014 drawn from data their PMs already maintain as part of FTTM planning. Walks through the architecture, the filtering model, the free-data argument, a worked example from a site-deployment program, and an LLM-driven cross-portfolio pattern detection layer.",
+    "core_thesis": "Most leadership teams running multiple programs cannot see their portfolio in time to act. fastProjectAI fixes this by aggregating live wigglechart data the PMs already maintain — surfacing the small number of projects that need attention this week, not the long tail that does not.",
+    "abstract": "How leadership teams running multiple new-product programs can replace status-report theater with live, exception-based portfolio visibility — drawn from data their PMs already maintain as part of FTTM planning. Walks through the architecture, the filtering model, the free-data argument, a worked example from a site-deployment program, and an LLM-driven cross-portfolio pattern detection layer.",
     "pdf": "/papers/fastprojectai-dashboard.pdf",
     "thumb": "/papers/thumbs/fastprojectai-dashboard.png"
   },
@@ -59,8 +59,8 @@
     "type": "Methodology paper",
     "date": "2026-04-29",
     "pages": 23,
-    "core_thesis": "A team\u2019s schedule maturity is observable, measurable, and migratable. Teams move through four levels \u2014 from ML0 (no schedule) to ML3 (active acceleration) \u2014 by changing specific behaviors in the weekly refresh. Knowing where a team sits on this curve is the prerequisite to changing it.",
-    "abstract": "A measurement framework for the FTTM methodology, with definitions of the four maturity levels, a 30-criterion self-assessment scorecard, migration guidance, and the seven factors that determine how quickly teams advance. Near-relative of the Capability Maturity Model from Carnegie Mellon\u2019s Software Engineering Institute, focused specifically on the weekly schedule refresh and explicitly connecting maturity to acceleration.",
+    "core_thesis": "A team’s schedule maturity is observable, measurable, and migratable. Teams move through four levels — from ML0 (no schedule) to ML3 (active acceleration) — by changing specific behaviors in the weekly refresh. Knowing where a team sits on this curve is the prerequisite to changing it.",
+    "abstract": "A measurement framework for the FTTM methodology, with definitions of the four maturity levels, a 30-criterion self-assessment scorecard, migration guidance, and the seven factors that determine how quickly teams advance. Near-relative of the Capability Maturity Model from Carnegie Mellon’s Software Engineering Institute, focused specifically on the weekly schedule refresh and explicitly connecting maturity to acceleration.",
     "pdf": "/papers/fttm-process-maturity.pdf",
     "thumb": "/papers/thumbs/fttm-process-maturity.png"
   },
@@ -99,7 +99,7 @@
     "date": "2026-04-26",
     "pages": 22,
     "core_thesis": "Innovation needs encouragement before scrutiny, but most organizations evaluate too early and kill fragile ideas. Senior managers either over-invest in managing up (optimizing the upward narrative) or over-invest in managing down (deep in operational weeds). Both break the protection-from-above the innovation environment depends on.",
-    "abstract": "A synthesis of the innovation-environment framework and the senior-manager failure-mode framework, with a representative case study. Examines the two ways senior managers fail the innovation environment their companies depend on, the consequences that unfold on different timelines, and the structural patterns shared by companies that solve the paradox across decades \u2014 Google, 3M, Amazon, Pixar, Toyota, Analog Devices.",
+    "abstract": "A synthesis of the innovation-environment framework and the senior-manager failure-mode framework, with a representative case study. Examines the two ways senior managers fail the innovation environment their companies depend on, the consequences that unfold on different timelines, and the structural patterns shared by companies that solve the paradox across decades — Google, 3M, Amazon, Pixar, Toyota, Analog Devices.",
     "pdf": "/papers/innovation-paradox.pdf",
     "thumb": "/papers/thumbs/innovation-paradox.png"
   },
@@ -115,5 +115,18 @@
     "abstract": "lateralworks Fast-Time-to-Market (FTTM) Practices, first researched in Silicon Valley in the early 1990s, are based on an ongoing worldwide study into the drivers of new product development success. This 2018 revision codifies practices observed across hundreds of teams into a three-axis framework — Mindset, Host, Team — applied across Portfolio, Environment, and Execution. It contrasts 'normal' team behavior with the practices that separate fast from slow.",
     "pdf": "/papers/fttm-best-practices-2018.pdf",
     "thumb": "/papers/thumbs/fttm-best-practices-2018.png"
+  },
+  {
+    "slug": "voice-of-the-customer",
+    "title": "Voice of the customer",
+    "subtitle": "How fast teams figure out what to build and when it has to ship, and why the answer keeps moving while they build it.",
+    "series": "FTTM Methodology",
+    "type": "Methodology paper",
+    "date": "2026-05-13",
+    "pages": 29,
+    "core_thesis": "Right-product is determined first, not last. Voice of the customer is how fast teams figure out what 'right' means today, then again next month, and again until the program ships. Programs that freeze the requirements early ship the wrong product into the right window, or the right product into the wrong one.",
+    "abstract": "Most product programs that miss their market window do not miss because the engineering is slow — they miss because the team built the wrong thing, or built the right thing for a customer who has moved on. This paper sets out lateralworks' four-step Wants/Translation/Solution/Refresh loop, the AHP machinery for ranking customer wants and product hows defensibly, and the refresh cadence that keeps both current. Two anonymized case studies show the methodology applied end to end.",
+    "pdf": "/papers/voice-of-the-customer.pdf",
+    "thumb": "/papers/thumbs/voice-of-the-customer.png"
   }
 ]
