@@ -14,7 +14,7 @@
     "fastDecisionAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "There are times when fastProjectAI may encounter a fatal error. In some cases (e.g.",
   "content": "<div>\n  <p>There are times when fastProjectAI may encounter a fatal error. In some cases (e.g. when generating an Excel report), this can lead to a hidden Excel process being left. Though usually not critical, it is advisable to kill these processes in order to avoid potential problems in the future.</p><p>In order to kill an Excel process, the user can either reboot (typically not very convenient) or use the Task Manager as follows:</p><ol><li><p>Close all Excel files  (so the only remaining Excel processes or those left by fastProjectAI)</p><ul><li><p>WARNING: failure to close all Excel files may result in you killing an open Excel file and losing data</p></li></ul></li><li><p>Start the Task Manager by either typing \"Task Manager\" in the Windows search or putting the mouse  over the Windows Taskbar &gt; Right-mouse click &gt; Task Manager</p></li><li><p>Under \"Background processes\", look for \"Microsoft Excel\" (there ay be more than one process) - see image below as an example</p></li><li><p>Select the Microsoft Excel process then click End Task</p></li><li><p>Repeat 3 and 4 for each \"Microsoft Excel\" process</p></li></ol>\n</div>\n\n<figure><img src=\"/images/docs/15475902_image.png\" alt=\"image.png\" /></figure>",
   "images": [],
   "externalLinks": [],

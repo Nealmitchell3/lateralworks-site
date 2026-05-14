@@ -14,7 +14,7 @@
     "fastProjectAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "decisionAccelerator is now called fastDecisionAI. The new version number is 4.0.",
   "content": "<div>\n  <h2>New Name</h2><ul><li><p class=\"\">decisionAccelerator is now called fastDecisionAI. The new version number is 4.0.</p></li></ul><h2>Licensing</h2><ul><li><p class=\"\">New licensing scheme introduced based on a License Key. The License Key is valid even if the user replaces their machine, and should therefore be kept in a safe place.</p><ul><li><p class=\"\">More here:<a href=\"/docs/activating-fastdecision\"> https://lateralworks.com/tools/2020/3/23/activating-fastdecision</a></p></li></ul></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],

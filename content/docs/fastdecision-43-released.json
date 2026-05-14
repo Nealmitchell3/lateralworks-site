@@ -14,7 +14,7 @@
     "fastProjectAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "Fixed problem where the best-fit indicator on the pair-wise was positioned incorrectly when only using two objectives (=100% consistency)",
   "content": "<div>\n  <h2>General</h2><ul><li><p class=\"\">General improvements</p></li></ul><h2>Objectives</h2><ul><li><p class=\"\">Fixed problem where the best-fit indicator on the pair-wise was positioned incorrectly when only using two objectives (=100% consistency)</p></li></ul><h2>Constraints</h2><ul><li><p class=\"\">The number format of the Budget/Benefit info now follows the number format of the first alternative’s “cost” format (the number format of the first alternative’s cost is used).</p></li><li><p class=\"\">The cost-benefit chart number formats and wording now follows that of the alternatives “cost” header</p></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],

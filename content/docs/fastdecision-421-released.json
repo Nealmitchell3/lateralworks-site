@@ -14,7 +14,7 @@
     "fastProjectAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "Fixed a critical bug where the judgements could switch position when deleting an objective",
   "content": "<div>\n  <h2>Objectives</h2><ul><li><p class=\"\">Fixed a critical bug where the judgements could switch position when deleting an objective</p></li><li><p class=\"\">Fixed problem where the best fit was displayed at the top of the pair-wise when consistency was 100%</p></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],

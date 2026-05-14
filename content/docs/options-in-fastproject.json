@@ -14,7 +14,7 @@
     "fastDecisionAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "fastProjectAI has a number of options that can be set to customize fastProjectAI. The five different areas are:",
   "content": "<div>\n  <p>fastProjectAI has a number of options that can be set to customize fastProjectAI. The five different areas are:</p><ul><li><p>General</p></li><li><p>Critical Path</p></li><li><p>Inspector</p></li><li><p>Update</p></li><li><p>Wigglechart</p></li></ul><p>The Options button can be found by selecting File &gt; fastProjectAI Options.</p>\n</div>",
   "images": [],
   "externalLinks": [],

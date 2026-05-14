@@ -14,7 +14,7 @@
     "fastProjectAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "A new feature introduced in fastProjectAI 4.7.3 are baselines are now easily accessible within the Inspector.",
   "content": "<figure><img src=\"/images/docs/15473398_image.png\" alt=\"image.png\" /></figure>\n\n<div>\n  <p>A new feature introduced in fastProjectAI 4.7.3 are baselines are now easily accessible within the Inspector. Just click on the baseline you want to see and it will pop-up on the Gantt Chart. Each baseline includes the total pull-in/slip days. You can select the baseline just before the last update, just after the last Wigglechart was run (after an update and pull-in session) or after a previous Wigglechart was run.</p>\n</div>",
   "images": [],
   "externalLinks": [],

@@ -14,7 +14,7 @@
     "fastDecisionAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "Occasionally, we’ve seen a situation where, after installing fastProjectAI, it appears to work until the user mouses-over any of the fastProjectAI buttons",
   "content": "<div>\n  <p>Occasionally, we’ve seen a situation where, after installing fastProjectAI, it appears to work until the user mouses-over any of the fastProjectAI buttons in the ribbon then Microsoft Project unexpectedly crashes without warning (the Toolbar - or QAT - is fine). The problem is caused by having an out-of-date version of Microsoft Project, i.e. one that does not have the latest Service Packs.</p><p>If you experience this problem, we suggest you perform an Office and Windows update. This will ensure  all Office applications and the supporting Windows OS is brought up to date.</p><p></p>\n</div>",
   "images": [],
   "externalLinks": [],

@@ -14,7 +14,7 @@
     "fastDecisionAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "Fixed problem where a milestone couldn’t be set as a Checkpoint or Deliverable if it has it’s Roll-up/Down flag set",
   "content": "<div>\n  <h2>Tools</h2><ul><li><p class=\"\">Fixed problem where a milestone couldn’t be set as a Checkpoint or Deliverable if it has it’s Roll-up/Down flag set</p></li></ul><h2>Refresh</h2><ul><li><p class=\"\">Added Effort to be optionally added to the PreFresh report</p></li><li><p class=\"\">Fixed problem when importing Effort and Task status using the PreFresh report, where the task status was taken from the task and not the PreFresh report.</p></li><li><p class=\"\">Fixed a problem in PreFresh options where the option to include Effort was mis-read.</p></li></ul><h2>Wigglechart</h2><ul><li><p class=\"\">Improved the Dashboard formatting, added Cause of Change and eliminated the stats table and charts</p></li></ul><h2>Inspector</h2><ul><li><p class=\"\">Added a new feature that allows you to generate a separate Critical Path Analysis chart for all Targets with one click (CP Analysis dropdown &gt; CP Analysis (All Targets))</p></li><li><p class=\"\">Problem fixed where the baseline just before the update was displayed rather than the baseline from the previous update (week).</p></li><li><p class=\"\">Bug fixed where the correct Critical Path wasn’t displayed if it started with a Deliverable-type milestone</p></li></ul><h2>Misc</h2><ul><li><p class=\"\">Fixed link to the fastProjectAI release notes</p></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],

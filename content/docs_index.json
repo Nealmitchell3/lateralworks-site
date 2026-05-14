@@ -14,7 +14,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Microsoft’s recent update to Excel disables all ActiveX controls with notification.",
     "imageCount": 1
   },
   {
@@ -32,7 +32,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "When you open your schedule via Sharepoint and run Wigglechart to create your first Wigglechart, fastProjectAI will crash with an error something like",
     "imageCount": 0
   },
   {
@@ -50,7 +50,43 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "If you are having problems activating fastProjectAI after installation because the fastProjectAI items are not under File, please check the following.",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4120-released",
+    "title": "fastProjectAI 4.12.0 Released",
+    "date": "April 8, 2025",
+    "dateISO": "2025-04-08",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProjectAI Release Note"
+    ],
+    "tags": [
+      "fastProjectAI",
+      "FastProject Concept",
+      "fastDecisionAI",
+      "Cost-of-delayAI"
+    ],
+    "excerpt": "Added ability to add a note, action or cause of delay to multiple tasks at the same time.",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4117-released",
+    "title": "fastProjectAI 4.11.7 Released",
+    "date": "December 10, 2024",
+    "dateISO": "2024-12-11",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProjectAI Release Note"
+    ],
+    "tags": [
+      "fastProjectAI",
+      "FastProject Concept",
+      "fastDecisionAI",
+      "Cost-of-delayAI"
+    ],
+    "excerpt": "Can now select one of 5 different highlights colors (Yellow, Blue, Gray, Orange & Green) and the ability to name them.",
     "imageCount": 0
   },
   {
@@ -68,7 +104,25 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Occasionally, the fastProjectAI functionality (tabs in the ribbon) will disappear. This is usually due to the Global file getting corrupted.",
+    "imageCount": 0
+  },
+  {
+    "slug": "fastproject-4116-released",
+    "title": "fastProjectAI 4.11.6 Released",
+    "date": "September 3, 2024",
+    "dateISO": "2024-09-03",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProjectAI Release Note"
+    ],
+    "tags": [
+      "fastProjectAI",
+      "FastProject Concept",
+      "fastDecisionAI",
+      "Cost-of-delayAI"
+    ],
+    "excerpt": "Cleaned up button names on the Toolbar (thanks Marianne!)",
     "imageCount": 0
   },
   {
@@ -86,7 +140,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Target Scroller - minor refinements around the positioning of the text in the dropdown (now always left justified) and the notes (don’t move when you",
     "imageCount": 0
   },
   {
@@ -104,7 +158,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "General UI improvements on the ribbon",
     "imageCount": 0
   },
   {
@@ -122,7 +176,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "New feature where the gap to a Target is now displayed next to the name of the Wiggle milestone. Only displayed when the Critical Path IDs are displayed.",
     "imageCount": 0
   },
   {
@@ -140,7 +194,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Date format for Start/Finis dates now set to only dd/mm/yy (depends on country)",
     "imageCount": 0
   },
   {
@@ -158,7 +212,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "“Doneness” is a word we created, i.e. When is something done?",
     "imageCount": 4
   },
   {
@@ -176,7 +230,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "The percentage rating is gone, because it didn't really mean much. For the core tests, it now binary, you either pass them (all) or fail if you fail one",
     "imageCount": 1
   },
   {
@@ -194,7 +248,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Added ability to add any of the custom Text fields to the Gantt bars (currently restricted to the Left of the bar)",
     "imageCount": 0
   },
   {
@@ -212,7 +266,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Speed improvements with “Link to last task” and “Link from first task”",
     "imageCount": 0
   },
   {
@@ -230,7 +284,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Fixed problem where a milestone couldn’t be set as a Checkpoint or Deliverable if it has it’s Roll-up/Down flag set",
     "imageCount": 0
   },
   {
@@ -248,7 +302,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Max number of tasks in the PreFresh report now 3000",
     "imageCount": 0
   },
   {
@@ -266,7 +320,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "New “countdown” timer added to the time, which displays the number of days remaining to Target",
     "imageCount": 0
   },
   {
@@ -284,7 +338,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "A milestone with negative float now displays the arrow head (same as the task)",
     "imageCount": 0
   },
   {
@@ -302,7 +356,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "NEW FEATURE: You can now Breakdown a task using the tasks that were stored in the notes from an “Undo breakdown”.",
     "imageCount": 0
   },
   {
@@ -320,7 +374,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "We have increased reporting capability with the release of fastProjectAI 4.10.x .",
     "imageCount": 0
   },
   {
@@ -338,7 +392,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Fixed screen “flashing” when breaking dow a task",
     "imageCount": 0
   },
   {
@@ -356,7 +410,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Fixed problem where a date stamp for the Notes was not being recorded when an existing file was opened.",
     "imageCount": 0
   },
   {
@@ -374,7 +428,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Date problem fixed where in some instances, when selecting a date, the date did not appear in the correct format for the region",
     "imageCount": 0
   },
   {
@@ -392,7 +446,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "In a few of instances, we’ve found after installing fastProjectAI, fastProjectAI crashes every time you click on any of the fastProjectAI tabs in the",
     "imageCount": 1
   },
   {
@@ -410,7 +464,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Moved the Open all (+) and Close all (-) buttons on the toolbar over to the far left, next to the Incomplete tasks button.",
     "imageCount": 0
   },
   {
@@ -428,7 +482,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "On July 14th, 2020, Microsoft released an update for Microsoft Project for 2010, 2013 and 2016.",
     "imageCount": 0
   },
   {
@@ -446,7 +500,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Fixed setting a Target Date problem when dates are in UK date format (dd/mm/yyyy), where a Target date would default to today if was an invalid US date (e.",
     "imageCount": 0
   },
   {
@@ -464,7 +518,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Fixed a critical bug where the judgements could switch position when deleting an objective",
     "imageCount": 0
   },
   {
@@ -482,7 +536,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Fixed problem where the best-fit indicator on the pair-wise was positioned incorrectly when only using two objectives (=100% consistency)",
     "imageCount": 0
   },
   {
@@ -500,7 +554,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Fixes problem starting fastProjectAI after recent Microsoft Security Update released on July 14, 2020",
     "imageCount": 0
   },
   {
@@ -518,7 +572,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Improved performance in calculation of the objectives and inconsistencies",
     "imageCount": 0
   },
   {
@@ -536,7 +590,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Exporting Touchpoints, Checkpoints and Deliverables now only exports non-completed milestones",
     "imageCount": 0
   },
   {
@@ -554,7 +608,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "decisionAccelerator is now called fastDecisionAI. The new version number is 4.0.",
     "imageCount": 0
   },
   {
@@ -572,7 +626,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Link to latest release notes fixed",
     "imageCount": 0
   },
   {
@@ -590,7 +644,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Filter Task/Filter 2 Tasks fixed",
     "imageCount": 0
   },
   {
@@ -608,7 +662,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "As part of activating fastDecisionAI, you need to request a license key",
     "imageCount": 2
   },
   {
@@ -626,7 +680,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "As part of activating fastProjectAI, you need to request a license key. When received, please save this license key, as it can be used again if you change",
     "imageCount": 2
   },
   {
@@ -644,7 +698,7 @@
       "FastProject Concept",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "As part of activating fastProjectAI (fastProjectAI & fastDecisionAI), you need to request a license key",
     "imageCount": 3
   },
   {
@@ -662,7 +716,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "New licensing scheme introduced based on a License Key. The License Key is valid even if the user replaces their machine, and should therefore be kept in",
     "imageCount": 0
   },
   {
@@ -680,7 +734,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Right-mouse click menu added for faster access to dA functionality:",
     "imageCount": 0
   },
   {
@@ -698,7 +752,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Have you ever had this happen to your project, where you were on track to finish a major deliverable, then close to the end, the schedule started to slip.",
     "imageCount": 1
   },
   {
@@ -716,7 +770,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Calculate manually added back to the Objectives tab. This is a global “do not calculate flag” so changing the objective’s pair-wise or the alternative’s",
     "imageCount": 0
   },
   {
@@ -734,7 +788,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Our advice was to refresh (i.e. update, breakdown, pull-in) your schedule once a week.",
     "imageCount": 0
   },
   {
@@ -752,7 +806,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Often confused, a Target Date for an important milestone is a deadline at which time one expects to achieve a result, however a Target Date may not be",
     "imageCount": 1
   },
   {
@@ -770,7 +824,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Decision models have three major components; goal, objectives, and alternatives.",
     "imageCount": 2
   },
   {
@@ -788,7 +842,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "In this example the team needed to determine which market segment to target for a new product.",
     "imageCount": 3
   },
   {
@@ -806,7 +860,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "“It occurs to me that we end up going through the refresh, issues come up, and we need to make sure they are being dealt with.",
     "imageCount": 0
   },
   {
@@ -824,7 +878,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Refresh Planning is made up of the following elements:",
     "imageCount": 0
   },
   {
@@ -842,7 +896,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Traditional \"project scoring\" systems we see look like this... a list of projects in a spreadsheet scored against some sort of measurement criteria.",
     "imageCount": 5
   },
   {
@@ -860,7 +914,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Recently we have been discussing the use of hierarchy in decision-model \"objectives.\" For example, this is an Objective with a series of sub-objectives (e.",
     "imageCount": 4
   },
   {
@@ -878,7 +932,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Traditional \"project scoring\" systems we see look like this... a list of projects in a spreadsheet scored against some sort of measurement criteria.",
     "imageCount": 3
   },
   {
@@ -896,7 +950,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Traditional \"project scoring\" systems we see look like this... a list of projects in a spreadsheet scored against some sort of measurement criteria.",
     "imageCount": 1
   },
   {
@@ -932,7 +986,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "If you are new to the concept of decision modeling and/or decisionAccelerator, or just need a refresher, we suggest you watch the following tutorials in",
     "imageCount": 0
   },
   {
@@ -950,7 +1004,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "New streamlined ribbon interface",
     "imageCount": 0
   },
   {
@@ -968,7 +1022,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Problem fixed where the bars were shown incorrectly when \"Low was set to good”",
     "imageCount": 1
   },
   {
@@ -986,7 +1040,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Improved interface for defining a Values, Values ($) and a Linear scale",
     "imageCount": 0
   },
   {
@@ -1004,7 +1058,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Framework sheet updated (and moved to after CostBenefit chart)",
     "imageCount": 0
   },
   {
@@ -1022,7 +1076,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Redesigned Custom form to make compatible with 64-bit Office",
     "imageCount": 0
   },
   {
@@ -1040,7 +1094,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "This can be caused by a rouge title in the custom flag Flag16. The fix is straightforward:",
     "imageCount": 1
   },
   {
@@ -1058,7 +1112,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Seems like a no-brainier, but this obvious statement \"Goals and Objectives are key to effective decision models\" is not always followed or understood when",
     "imageCount": 2
   },
   {
@@ -1076,7 +1130,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Occasionally, we’ve seen a situation where, after installing fastProjectAI, it appears to work until the user mouses-over any of the fastProjectAI buttons",
     "imageCount": 0
   },
   {
@@ -1094,7 +1148,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "I liked this WiggleChart and the annotation “resources reallocated.”",
     "imageCount": 2
   },
   {
@@ -1112,7 +1166,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Getting the ‘Objectives’ right is critical in a decision model. The three core elements of a model are the Goal, the Objectives, and the Alternatives or",
     "imageCount": 0
   },
   {
@@ -1130,7 +1184,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "In this screencast I’ll discuss Macro Mapping, which is a planning technique we use to organize a top-level macro plan.",
     "imageCount": 0
   },
   {
@@ -1148,7 +1202,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Micro Macro Roll-up is a planning philosophy based on the best practices of fast teams",
     "imageCount": 1
   },
   {
@@ -1166,7 +1220,7 @@
       "fastDecisionAI",
       "fastProjectAI"
     ],
-    "excerpt": "",
+    "excerpt": "This is an example of a cost-of-delay calculation for a development project. They have a 6.3x ROI, if they delay by 3 months they take a 10% sales hit or",
     "imageCount": 2
   },
   {
@@ -1184,7 +1238,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "The critical path is red (example) and the second critical path is blue (i.e. float less than ten days).Sometimes when you focus exclusively on the",
     "imageCount": 1
   },
   {
@@ -1202,7 +1256,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "We're often challenged to make teams fast, quickly. A client once asked us to get his team up and running and competent in the planning system within two",
     "imageCount": 0
   },
   {
@@ -1220,7 +1274,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "How often have you ever wanted to know how fast you are getting through work on a program or project?",
     "imageCount": 3
   },
   {
@@ -1238,7 +1292,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "One of the concepts around Agile is frequent builds and releases to a customer. This way you obtain early feedback, and that feedback can be integrated",
     "imageCount": 2
   },
   {
@@ -1256,7 +1310,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "The following is an overview of Critical Path Method (CPM). The critical path is the longest contiguous path to the end of the project.",
     "imageCount": 1
   },
   {
@@ -1274,7 +1328,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "So you're responsible for 10,000 acres of forest and you've been told to reduce it by 20%. How do you decide what to keep and what to remove?",
     "imageCount": 0
   },
   {
@@ -1292,7 +1346,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Refresh Planning is a core practice of fast teams. Refresh Planning involves three steps; update, break-down, and pull-in. It’s a weekly team activity.",
     "imageCount": 1
   },
   {
@@ -1310,7 +1364,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "The long pole in the tent holds the tent up. It determines the height of the tent. The long pole in a project is the critical path.",
     "imageCount": 2
   },
   {
@@ -1328,7 +1382,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "The first step in the planning process with a team is to define a Work Breakdown Structure (WBS) for the project.",
     "imageCount": 1
   },
   {
@@ -1346,7 +1400,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Zero-Based Budgeting (ZBB) allows top-level strategic goals to be implemented into the budgeting process by tying them to specific functional areas of the",
     "imageCount": 0
   },
   {
@@ -1364,7 +1418,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Critical Path Method (CPM) Scheduling mistakes we observe in many schedules, those built prior to lateralworks FTTM Scheduling training.",
     "imageCount": 1
   },
   {
@@ -1382,7 +1436,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "To determine your version of Excel, and whether it's 32-bit or 64-bit:",
     "imageCount": 1
   },
   {
@@ -1400,7 +1454,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "In order to determine your version of Microsoft Project, including Service Packs, do the following:",
     "imageCount": 1
   },
   {
@@ -1418,7 +1472,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "decisionAccelerator is an add-in to Excel and requires Solver (a Microsoft Excel Add-in).",
     "imageCount": 2
   },
   {
@@ -1436,7 +1490,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "There are times when fastProjectAI may encounter a fatal error. In some cases (e.g.",
     "imageCount": 1
   },
   {
@@ -1454,7 +1508,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Analytical Hierarchical Process or AHP as it is more commonly known (learn more) is a structured method for organizing and analyzing complex decisions.",
     "imageCount": 4
   },
   {
@@ -1472,7 +1526,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "The Lookahead Reports (PreFresh and PostFresh) are a critical part of the FTTM refresh process. They serve two primary purposes:",
     "imageCount": 6
   },
   {
@@ -1490,7 +1544,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "When the PreFresh or PostFresh Lookahead Report (LAR) is generated, a pre-defined set of columns are shown/hidden.",
     "imageCount": 2
   },
   {
@@ -1508,7 +1562,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "What do I do if fastProjectAI crashes after installing or crashes randomly?",
     "imageCount": 0
   },
   {
@@ -1526,7 +1580,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "In the latest release of fastProjectAI, it is now possible to import a PreFresh (Lookahead) report.",
     "imageCount": 2
   },
   {
@@ -1544,7 +1598,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "fastProjectAI has a number of options that can be set to customize fastProjectAI. The five different areas are:",
     "imageCount": 0
   },
   {
@@ -1562,7 +1616,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Summary tasks in Microsoft Project can sometimes be confusing and even misleading if one only looks at the duration of the summary task.",
     "imageCount": 2
   },
   {
@@ -1580,7 +1634,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "I want to create a top-level model, then copy those objectives to other models (sheets) within the same file.",
     "imageCount": 0
   },
   {
@@ -1598,7 +1652,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Include/exclude objectives. Highlight one or more objectives, right mouse click, select exclude objective.",
     "imageCount": 2
   },
   {
@@ -1616,7 +1670,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "The constraint change doesn't work when data is filtered. It works though when unfiltered, then select several rows of data, but it is a bit inconvenient",
     "imageCount": 0
   },
   {
@@ -1634,7 +1688,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "When I am in the interview panel and I click \"snap first baseline for today,\" does that impact Baseline 0?",
     "imageCount": 2
   },
   {
@@ -1652,7 +1706,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "In this screencast I'll focus on using a mind map to structure a decision. We often use a mind map to structure complex problems and/or decisions with",
     "imageCount": 0
   },
   {
@@ -1670,7 +1724,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "A primary application of the decisionAccelerator methodology is on strategy projects where we define and operationalize business strategy.",
     "imageCount": 0
   },
   {
@@ -1688,7 +1742,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "The first example above illustrates the y-axis in the vertical position (Absolute). The second shows the diagional or \"relative\" variation.",
     "imageCount": 2
   },
   {
@@ -1706,7 +1760,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "A new feature introduced in fastProjectAI 4.7.3 is a dynamic status indicator in the Inspector.",
     "imageCount": 3
   },
   {
@@ -1724,7 +1778,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "New feature in fastProjectAI 4.7.3 is the ability to quickly add Action Items into the notes on specific tasks.",
     "imageCount": 4
   },
   {
@@ -1742,7 +1796,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "A new feature introduced in fastProjectAI 4.7.3 are baselines are now easily accessible within the Inspector.",
     "imageCount": 1
   },
   {
@@ -1778,7 +1832,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Introduction to decision analysis; is a basic discussion of the decision modeling framework we use to engage decision stakeholders and accelerate many",
     "imageCount": 0
   },
   {
@@ -1796,7 +1850,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "This screencast provides a basic overview of the decision-modeling framework used by decisionAccelerator.",
     "imageCount": 0
   },
   {
@@ -1832,7 +1886,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "When updating a schedule; the task owner must respond with answers to the update questions, even if you (Program Manager) know the answer.",
     "imageCount": 0
   },
   {
@@ -1850,7 +1904,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "We have been using this checklist to assess the effectiveness of team Refresh Planning.",
     "imageCount": 0
   },
   {
@@ -1868,7 +1922,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Once a resource pool has been built and resources assigned to tasks, the next step is to analyze the schedule for overallocation.",
     "imageCount": 0
   },
   {
@@ -1886,7 +1940,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "A new feature introduced in fastProjectAI 4.7.3 and above is a simplified window function at the end of the Update to review the changes to each of the",
     "imageCount": 2
   },
   {
@@ -1904,7 +1958,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "There are three types of targets; a standard target date, a challenge date, and a target window (a range of dates with an early and late bounding of the",
     "imageCount": 9
   },
   {
@@ -1922,7 +1976,7 @@
       "fastDecisionAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "We are often asked, what the difference between a Touchpoint, a Checkpoint and a Deliverable.",
     "imageCount": 0
   },
   {
@@ -1958,7 +2012,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Minor formatting changes on the pair-wise window",
     "imageCount": 0
   },
   {
@@ -1976,61 +2030,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "Very occasionally, we find a situation where the macro settings with Excel are all disabled and cannot be changed by the user, causing decisionAccelerator",
     "imageCount": 1
-  },
-  {
-    "slug": "fastproject-4120-released",
-    "title": "fastProjectAI 4.12.0 Released",
-    "date": "April 8, 2025",
-    "dateISO": "2025-04-08",
-    "author": "Mark Edmonds",
-    "categories": [
-      "fastProjectAI Release Note"
-    ],
-    "tags": [
-      "fastProjectAI",
-      "FastProject Concept",
-      "fastDecisionAI",
-      "Cost-of-delayAI"
-    ],
-    "excerpt": "",
-    "imageCount": 0
-  },
-  {
-    "slug": "fastproject-4117-released",
-    "title": "fastProjectAI 4.11.7 Released",
-    "date": "December 10, 2024",
-    "dateISO": "2024-12-11",
-    "author": "Mark Edmonds",
-    "categories": [
-      "fastProjectAI Release Note"
-    ],
-    "tags": [
-      "fastProjectAI",
-      "FastProject Concept",
-      "fastDecisionAI",
-      "Cost-of-delayAI"
-    ],
-    "excerpt": "",
-    "imageCount": 0
-  },
-  {
-    "slug": "fastproject-4116-released",
-    "title": "fastProjectAI 4.11.6 Released",
-    "date": "September 3, 2024",
-    "dateISO": "2024-09-03",
-    "author": "Mark Edmonds",
-    "categories": [
-      "fastProjectAI Release Note"
-    ],
-    "tags": [
-      "fastProjectAI",
-      "FastProject Concept",
-      "fastDecisionAI",
-      "Cost-of-delayAI"
-    ],
-    "excerpt": "",
-    "imageCount": 0
   }
 ]

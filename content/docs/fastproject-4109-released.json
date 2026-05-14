@@ -14,7 +14,7 @@
     "fastDecisionAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "New “countdown” timer added to the time, which displays the number of days remaining to Target",
   "content": "<div>\n  <h2>General</h2><ul><li><p class=\"\">New “countdown” timer added to the time, which displays the number of days remaining to Target</p></li><li><p class=\"\">Hiding the change since last baseline now also hides the baseline</p></li><li><p class=\"\">Peeling back to CP2 will automatically trung the CP IDs on. Turning them off will not turn them on again unless you go back to CP1 then CP2. Going forward to CP1 will automatically turn them off.</p></li><li><p class=\"\">Show/Hide Change Since Last Baseline button added to Toolbar (next to the Show/Hide Baseline button)</p></li></ul><h2>Update</h2><ul><li><p class=\"\">Problem fixed when the Update Task window would occasionally not appear.</p></li></ul><h2>Roll-up</h2><ul><li><p class=\"\">New fast Roll-up that provides:</p><ul><li><p class=\"\">Only basic checking before roll-ing up, specifically, no dependencies between roll-up tasks are checked</p></li><li><p class=\"\">Does not re-create the heirarchy, but aligns the macro roll-up task by adjusting the negative lags with all the non-completed predecessors</p></li></ul></li><li><p class=\"\">Fixed bug by adding an additional check during the verification that an error is reported if a macro task is inactive and the micro task is not, and vice-versa.</p></li></ul><h2>Analyzer</h2><ul><li><p class=\"\">File now saved when Analyzer runs in case the Analyzer hangs</p></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],

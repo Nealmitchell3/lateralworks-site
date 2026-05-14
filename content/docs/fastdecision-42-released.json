@@ -14,7 +14,7 @@
     "fastProjectAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "Improved performance in calculation of the objectives and inconsistencies",
   "content": "<div>\n  <h2>Objectives</h2><ul><li><p class=\"\">Improved performance in calculation of the objectives and inconsistencies</p></li><li><p class=\"\">Improved calculation of the inconsistencies - gap between current judgement and best fit now measured, and when below a threshold, the inconsistency highlight is removed</p></li><li><p class=\"\">Consistency threshold changed to 90%</p></li><li><p class=\"\">Fixed bug where light-grey numbers could appear below the pair-wise</p></li></ul><h2>Ratings</h2><ul><li><p class=\"\">Bug fixed where changing a rating could cause fD to crash if the alternatives had not yet been ranked</p></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],

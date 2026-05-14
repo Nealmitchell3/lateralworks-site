@@ -14,7 +14,7 @@
     "fastDecisionAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "Occasionally, the fastProjectAI functionality (tabs in the ribbon) will disappear. This is usually due to the Global file getting corrupted.",
   "content": "<div>\n  <h2>Background</h2><p class=\"\">Occasionally, the fastProjectAI functionality (tabs in the ribbon) will disappear. This is usually due to the Global file getting corrupted. If this happens, then the fastProjectAI Global file needs to be re-installed. This is done very easily, and does not involve IT.</p><h2>Instructions to Re-install the fastProjectAI Global</h2><ol><li><p class=\"\">Exit fastProjectAI/Microsoft Project</p></li><li><p class=\"\">Open two File Explorer windows</p></li><li><p class=\"\">In the first window (we will call this Window #1), go to the folder c:\\Program Files\\fastProjectAI\\System and you will see a file called Global.mpt</p></li><li><p class=\"\">In the second window (we will call this Window #2), go to the folder c:\\Users\\&lt;your username&gt;\\AppData\\Roaming\\Microsoft\\MS Project\\16\\en-US</p><ul><li><p class=\"\">If the AppData folder is not visible, go to the File Explorer tab &gt; View &gt; Show &gt; Hidden Items </p></li></ul></li><li><p class=\"\">Copy the Global.mpt file in the first window (Window #1) to the MS Project system location in the second window (Window #2).</p><ul><li><p class=\"\">Please ensure you do not copy from Window #2 to Window #1 as this will overwrite the fastProjectAI Global.</p></li></ul></li></ol>\n</div>",
   "images": [],
   "externalLinks": [],

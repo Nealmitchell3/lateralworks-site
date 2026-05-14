@@ -14,7 +14,7 @@
     "fastProjectAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "Framework sheet updated (and moved to after CostBenefit chart)",
   "content": "<div>\n  <h2>General</h2><ul><li><p>Framework sheet updated (and moved to after CostBenefit chart)</p></li><li><p>Risks, PPA and Business Cases moved to separate sheets and Grouping removed</p></li><li><p>Dependency constraints removed</p></li><li><p>Excel tabs now visible when on a regular Excel worksheet - also better handling of other Excel files that are open</p></li></ul><h2>Objectives</h2><ul><li><p>Red “best fit” arrow now just a line to avoid display problems with different screen resolutions</p></li></ul><h2>Alternatives</h2><ul><li><p>Bug fixed where the blue bars were not updated when an alternative was excluded</p></li><li><p>% Rating fixed</p></li><li><p>Slow performance fixed when saving a Custom rating</p></li><li><p>Custom form now dynamically changes size based on the length of the custom name</p></li><li><p>Custom name now highlighted on the form</p></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],

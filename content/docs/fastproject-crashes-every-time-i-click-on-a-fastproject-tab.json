@@ -14,7 +14,7 @@
     "fastDecisionAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "In a few of instances, we’ve found after installing fastProjectAI, fastProjectAI crashes every time you click on any of the fastProjectAI tabs in the",
   "content": "<div>\n  <h2>Overview of the Problem</h2><p class=\"\">In a few of instances, we’ve found after installing fastProjectAI, fastProjectAI crashes every time you click on any of the fastProjectAI tabs in the ribbon. The problem is due to an update in Microsoft Project that was released in the June 2020.</p>\n</div>\n\n<figure><img src=\"/images/docs/16013305_image001.jpg\" alt=\"image001.jpg\" /></figure>\n\n<div>\n  <h2>Solution</h2><p class=\"\">The solution is to update your Microsoft Project. At a minimum, it should be later than the above update.<br></p>\n</div>",
   "images": [],
   "externalLinks": [],

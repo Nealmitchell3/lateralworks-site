@@ -14,7 +14,7 @@
     "fastDecisionAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
+  "excerpt": "Added ability to add any of the custom Text fields to the Gantt bars (currently restricted to the Left of the bar)",
   "content": "<div>\n  <h2>General</h2><ul><li><p class=\"\">Added ability to add any of the custom Text fields to the Gantt bars (currently restricted to the Left of the bar)</p></li><li><p class=\"\">Fixed bug where after an update, a task name would be changed to a “2”</p></li><li><p class=\"\">Fixed S-Phone Good.mpt baseline in Documentation &gt; Training</p></li></ul><h2>Update</h2><ul><li><p class=\"\">PreFresh Report renamed to Update Report</p></li><li><p class=\"\">Added “Clear All Baselines” to option under the Update Progress dropdown</p></li></ul><h2>Roll-up</h2><ul><li><p class=\"\">TBD</p></li></ul><h2>Analyzer</h2><ul><li><p class=\"\">TBD</p></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],
