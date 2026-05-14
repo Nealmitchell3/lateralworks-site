@@ -38,17 +38,17 @@ export const representativeExperience: RepresentativeExperience = {
         "First Silicon produced from the initial >1,000-tool line two weeks ahead of schedule. $70M in savings due to early delivery. The program involved facility construction, tool procurement, installation and qualification, process transfer, and product qualification, including the initial 2,500-person fab staffing and operations start-up.",
     },
     {
-      project: "Playstation",
+      project: "PlayStation",
       client: "LSI & Sony",
       type: "New product development",
       problem:
-        "Create core ASIC technology for a gaming console using a new 5x gate design in order to bring Sony's Playstation to market ahead of its competition.",
+        "Create core ASIC technology for a gaming console using a new 5x gate design in order to bring Sony's PlayStation to market ahead of its competition.",
       solution:
         "Prioritized seven potential vertical market segments to focus on a single segment and specific customer to generate pull-through speed. Co-developed with the customer, established an empowered core team, engaged the customer in VOC, and implemented an aggressive schedule-acceleration system. The schedule laterally integrated every aspect of the complete hardware and software solution for Sony. VOC was essential for limited scope and accelerated schedule.",
       role:
         "Built models and facilitated market-segment prioritization. Drove the focus on a single segment and customer in order to focus and accelerate development. Established the first cross-functional team at LSI. Programmed and structured the macro plan and implemented aggressive 3x/week refresh planning that resulted in the compressed schedule. Coached executive leadership and advised on larger-scale deployment to all LSI development projects.",
       outcomes:
-        "Early delivery of prototypes to Sony accelerated Sony's system design, with final engineering samples integrated in under 15 months — 12 months ahead of schedule. Enabled Sony to beat Nintendo to market and establish a market leadership that remains today. Generated $700M in revenue in the first year for LSI, doubling the size of the company. The 500K Technology became the foundation of LSI's ASIC and design methodology for more than seven years. Each of the seven members of the Core Team later became CEOs of major Silicon Valley companies, due to this project's success.",
+        "Early delivery of prototypes to Sony accelerated Sony's system design, with final engineering samples integrated in under 15 months — 12 months ahead of schedule. Enabled Sony to beat Nintendo to market and establish a market leadership that remains today. Generated $700M in revenue in the first year for LSI, doubling the size of the company. The 500K ASIC became the foundation of LSI's ASIC and design methodology for more than seven years. Each of the seven members of the Core Team later became CEOs of major Silicon Valley companies, due to this project's success.",
     },
     {
       project: "Velo",
