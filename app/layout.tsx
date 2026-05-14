@@ -40,11 +40,20 @@ export const metadata: Metadata = {
     siteName: siteConfig.name,
     title: defaultTitle,
     description,
+    images: [
+      {
+        url: "https://lateralworks.com/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "lateralworks — Silicon Valley management consulting",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: defaultTitle,
     description,
+    images: ["https://lateralworks.com/og-image.png"],
   },
 };
 

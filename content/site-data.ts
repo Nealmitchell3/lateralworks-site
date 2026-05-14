@@ -17,10 +17,19 @@ export const siteOpenGraphDefaults = {
   type: "website" as const,
   locale: "en_US",
   siteName: "lateralworks",
+  images: [
+    {
+      url: "https://lateralworks.com/og-image.png",
+      width: 1200,
+      height: 630,
+      alt: "lateralworks — Silicon Valley management consulting",
+    },
+  ],
 };
 
 export const siteTwitterDefaults = {
   card: "summary_large_image" as const,
+  images: ["https://lateralworks.com/og-image.png"],
 };
 
 export const siteOrganization = {
