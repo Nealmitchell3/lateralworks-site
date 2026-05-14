@@ -89,6 +89,10 @@ export const nav = {
 };
 
 export const home = {
+  meta: {
+    description:
+      "Programs that ship on time. lateralworks has accelerated 200+ advanced technology programs since 1988 — from PlayStation to $7B semiconductor fabs.",
+  },
   hero: {
     headline: "We accelerated the team that built the iPod.",
     body: "lateralworks has been delivering fast-time-to-market results on advanced technology programs since 1988. Our FTTM methodology, fastProjectAI software suite, and structured training have been proven on 200+ projects — from Sony's first PlayStation to $7 billion semiconductor fabs.",

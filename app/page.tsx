@@ -1,14 +1,26 @@
 import Link from "next/link";
 import Image from "next/image";
-import { home, team, siteConfig, siteOpenGraphDefaults } from "@/content/site-data";
+import { home, team, siteConfig, siteOpenGraphDefaults, siteTwitterDefaults } from "@/content/site-data";
 import { getAllPostMeta } from "@/content/posts-utils";
 import type { Metadata } from "next";
 
+const homeTitle = "lateralworks — Fast-time-to-market consulting since 1988";
+
 export const metadata: Metadata = {
-  title: `${siteConfig.name} — ${siteConfig.tagline}`,
-  description: home.hero.body,
+  title: homeTitle,
+  description: home.meta.description,
   alternates: { canonical: "/" },
-  openGraph: { ...siteOpenGraphDefaults, url: "/" },
+  openGraph: {
+    ...siteOpenGraphDefaults,
+    title: homeTitle,
+    description: home.meta.description,
+    url: "/",
+  },
+  twitter: {
+    ...siteTwitterDefaults,
+    title: homeTitle,
+    description: home.meta.description,
+  },
 };
 
 export default function HomePage() {
