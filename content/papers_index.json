@@ -128,5 +128,18 @@
     "abstract": "Most product programs that miss their market window do not miss because the engineering is slow — they miss because the team built the wrong thing, or built the right thing for a customer who has moved on. This paper sets out lateralworks' four-step Wants/Translation/Solution/Refresh loop, the AHP machinery for ranking customer wants and product hows defensibly, and the refresh cadence that keeps both current. Two anonymized case studies show the methodology applied end to end.",
     "pdf": "/papers/voice-of-the-customer.pdf",
     "thumb": "/papers/thumbs/voice-of-the-customer.png"
+  },
+  {
+    "slug": "management-gap",
+    "title": "The management gap",
+    "subtitle": "Twenty years of compounding technology innovation outran the way technology programs are managed. The lateralworks case studies show what works instead.",
+    "series": "FTTM Methodology",
+    "type": "Position paper",
+    "date": "2026-05-14",
+    "pages": 17,
+    "core_thesis": "Technology capability has grown by orders of magnitude since 2005. The way technology programs are managed has not. Agile sped up feedback loops inside software teams but did not fix the structural problems that make complex programs late. The lateralworks FTTM methodology, refined since 1988 across 200+ programs, is the documented exception. The case studies are the evidence.",
+    "abstract": "Programs that miss their market window usually do not miss because the engineering is slow. They miss because the operating model that organizes the work was built for a slower era. Between 2005 and 2025 the underlying technology stack moved by orders of magnitude — compute per dollar, transistor density, network throughput, and now generative AI compute. Mainstream program management did not. The paper walks the gap, the Agile evidence, the FTTM research base, and two field-tested case studies.",
+    "pdf": "/papers/management-gap.pdf",
+    "thumb": "/papers/thumbs/management-gap.png"
   }
 ]
