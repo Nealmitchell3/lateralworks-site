@@ -141,5 +141,18 @@
     "abstract": "Programs that miss their market window usually do not miss because the engineering is slow. They miss because the operating model that organizes the work was built for a slower era. Between 2005 and 2025 the underlying technology stack moved by orders of magnitude — compute per dollar, transistor density, network throughput, and now generative AI compute. Mainstream program management did not. The paper walks the gap, the Agile evidence, the FTTM research base, and two field-tested case studies.",
     "pdf": "/papers/management-gap.pdf",
     "thumb": "/papers/thumbs/management-gap.png"
+  },
+  {
+    "slug": "learning-cycles",
+    "title": "Learning cycles",
+    "subtitle": "How to predict and accelerate advanced technology development",
+    "series": "Innovation",
+    "type": "Methodology paper",
+    "date": "2026-05-17",
+    "pages": 33,
+    "core_thesis": "Innovation is not random. The duration of a breakthrough can be approximated by counting learning cycles and multiplying by typical cycle time, sized against problem difficulty. Programs accelerate by working two levers in parallel: more cycles running concurrently and shorter cycle time per cycle.",
+    "abstract": "A practical method for predicting and accelerating breakthroughs in advanced technology development. Built on T.J. Rodgers's easy/hard/difficult sizing model and refined across 200+ lateralworks engagements since 1988. Classify each problem, estimate cycles and cycle time, then close the schedule gap with two levers: concurrency and cycle-time compression. Includes fast-team behaviors, weekly refresh planning, isolation of breakthrough work, and learning milestones. Programs that adopt the full method routinely deliver advanced technology in 60–70 percent of original schedule estimates.",
+    "pdf": "/papers/learning-cycles.pdf",
+    "thumb": "/papers/thumbs/learning-cycles.png"
   }
 ]
