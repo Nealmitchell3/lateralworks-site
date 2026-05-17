@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getDoc, getAllDocSlugs, getRelatedDocs } from "@/content/docs-utils";
 import { siteOpenGraphDefaults, siteTwitterDefaults, siteOrganizationPublisher } from "@/content/site-data";
+import ShareButton from "@/components/ShareButton";
 import type { Metadata } from "next";
 
 interface Props {
@@ -135,6 +136,12 @@ export default function DocPage({ params }: Props) {
                   </div>
                 </div>
               )}
+              <div className="ml-auto">
+                <ShareButton
+                  url={`https://lateralworks.com/docs/${params.slug}`}
+                  colorClasses="text-white/80 hover:text-gold-light"
+                />
+              </div>
             </div>
           </div>
         </div>

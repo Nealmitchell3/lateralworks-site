@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getPost, getAllSlugs, getRelatedPosts } from "@/content/posts-utils";
 import { siteOpenGraphDefaults, siteTwitterDefaults, siteOrganizationPublisher } from "@/content/site-data";
+import ShareButton from "@/components/ShareButton";
 import type { Metadata } from "next";
 
 interface Props {
@@ -131,6 +132,12 @@ export default function PostPage({ params }: Props) {
                   </div>
                 </div>
               )}
+              <div className="ml-auto">
+                <ShareButton
+                  url={`https://lateralworks.com/ideas/${params.slug}`}
+                  colorClasses="text-white/80 hover:text-gold-light"
+                />
+              </div>
             </div>
           </div>
         </div>

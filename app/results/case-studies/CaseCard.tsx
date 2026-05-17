@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ShareButton from "@/components/ShareButton";
 import type { Case } from "@/content/case-types";
 
 function formatCaseDate(iso: string): string {
@@ -98,7 +99,7 @@ export default function CaseCard({ c, pdfText }: { c: Case; pdfText?: string }) 
           <span>{c.pages} pages</span>
         </div>
 
-        <div className="flex flex-wrap gap-3">
+        <div className="flex flex-wrap items-center gap-3">
           <a
             href={c.pdf}
             target="_blank"
@@ -114,6 +115,7 @@ export default function CaseCard({ c, pdfText }: { c: Case; pdfText?: string }) 
           >
             Download
           </a>
+          <ShareButton url={`https://lateralworks.com/results/case-studies#${c.slug}`} />
         </div>
       </div>
     </article>

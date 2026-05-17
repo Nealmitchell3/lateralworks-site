@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ShareButton from "@/components/ShareButton";
 import type { Paper } from "@/content/paper-types";
 
 function formatPaperDate(iso: string): string {
@@ -75,7 +76,7 @@ export default function PaperCard({ paper, pdfText }: { paper: Paper; pdfText?: 
           <span>{paper.pages} pages</span>
         </div>
 
-        <div className="flex flex-wrap gap-3">
+        <div className="flex flex-wrap items-center gap-3">
           <a href={paper.pdf}
              target="_blank"
              rel="noopener noreferrer"
@@ -87,6 +88,7 @@ export default function PaperCard({ paper, pdfText }: { paper: Paper; pdfText?: 
              className="inline-block text-[11px] font-semibold tracking-[0.12em] uppercase px-5 py-3 border border-navy text-navy hover:bg-navy hover:text-white transition-colors">
             Download
           </a>
+          <ShareButton url={`https://lateralworks.com/papers#${paper.slug}`} />
         </div>
       </div>
     </article>
