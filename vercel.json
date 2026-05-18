@@ -314,6 +314,26 @@
       "source": "/ideas/category/:category",
       "destination": "/ideas",
       "permanent": true
+    },
+    {
+      "source": "/tools/category/:category",
+      "destination": "/docs",
+      "permanent": true
+    },
+    {
+      "source": "/tools/tag/:tag",
+      "destination": "/docs",
+      "permanent": true
+    },
+    {
+      "source": "/s/:file",
+      "destination": "/papers",
+      "permanent": true
+    },
+    {
+      "source": "/contact-1",
+      "destination": "/contact",
+      "permanent": true
     }
   ]
 }
