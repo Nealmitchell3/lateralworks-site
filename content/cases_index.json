@@ -110,5 +110,21 @@
     "abstract": "In 1993, Sony entered a console market dominated by Nintendo and Sega with a plan that depended on an unprecedented 500,000-gate single-die ASIC. LSI Logic took the design. lateralworks reframed the program around a single driving customer, stood up the first cross-functional core team in LSI's history, and ran high-frequency refresh planning across hardware and software for two years. Engineering samples shipped 12 months ahead of Sony's schedule. The Sony engagement roughly doubled LSI Logic in a single year.",
     "pdf": "/cases/sony-playstation-500k-asic.pdf",
     "thumb": "/cases/thumbs/sony-playstation-500k-asic.png"
+  },
+  {
+    "slug": "innovation-accelerated",
+    "title": "Innovation Accelerated",
+    "subtitle": "advanced display fab and technology development",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-05-17",
+    "sector": "Semiconductors",
+    "engagement": "3+ years",
+    "outcome": "Delivered breakthrough yield, performance, and cycle-time targets on the reset three-year plan, with research-grade process running in production at a fab that did not exist three years earlier.",
+    "pages": 28,
+    "core_thesis": "You cannot accelerate a program you do not see. The first job was making the program visible end-to-end — one integrated plan, one core team, one refresh cycle — and then closing the gap one critical-path week at a time.",
+    "abstract": "An advanced display device — one of thirty-eight inventions converging on a consumer-product launch — was three programs run as one: a brownfield fab retrofit, a research-to-development process transfer for three color emitters, and a worldwide engineering acceleration to a breakthrough yield target. lateralworks ran the TPM role end-to-end, colocated at the receiving fab for 3+ years. The first deliverable was telling the client the original eighteen-month plan was wrong. The team hit the revised three-year target through COVID.",
+    "pdf": "/cases/innovation-accelerated.pdf",
+    "thumb": "/cases/thumbs/innovation-accelerated.png"
   }
 ]
