@@ -309,6 +309,11 @@
       "source": "/tools/:year/:month/:day/:slug",
       "destination": "/docs/:slug",
       "permanent": true
+    },
+    {
+      "source": "/ideas/category/:category",
+      "destination": "/ideas",
+      "permanent": true
     }
   ]
 }
