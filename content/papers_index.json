@@ -154,5 +154,18 @@
     "abstract": "A practical method for predicting and accelerating breakthroughs in advanced technology development. Built on T.J. Rodgers's easy/hard/difficult sizing model and refined across 200+ lateralworks engagements since 1988. Classify each problem, estimate cycles and cycle time, then close the schedule gap with two levers: concurrency and cycle-time compression. Includes fast-team behaviors, weekly refresh planning, isolation of breakthrough work, and learning milestones. Programs that adopt the full method routinely deliver advanced technology in 60–70 percent of original schedule estimates.",
     "pdf": "/papers/learning-cycles.pdf",
     "thumb": "/papers/thumbs/learning-cycles.png"
+  },
+  {
+    "slug": "10-best-practices-of-fast-teams",
+    "title": "10 best practices of fast teams",
+    "subtitle": "Ten proven practices that consistently move products to market faster",
+    "series": "FTTM Methodology",
+    "type": "Synthesis paper",
+    "date": "2026-05-18",
+    "pages": 34,
+    "core_thesis": "Fast time to market is not the result of working harder. It comes from ten disciplined practices, installed together, that turn the schedule into a living instrument and the team into its owner. Speed is not an outcome — it is a habit, protected one Tuesday morning at a time.",
+    "abstract": "Speed is a cultural asset, not a tooling choice. Over thirty-six years of multi-company research and 200+ client engagements, lateralworks has identified a consistent set of practices that distinguish teams who deliver the right product at the right time from teams who do not. This paper presents ten practices — drawn from the thirty-one documented in FTTM New Product Development Best Practices, Revision 2018.002 — chosen because they compound. A team that installs all ten owns the minimum viable FTTM operating system.",
+    "pdf": "/papers/10-best-practices-of-fast-teams.pdf",
+    "thumb": "/papers/thumbs/10-best-practices-of-fast-teams.png"
   }
 ]
