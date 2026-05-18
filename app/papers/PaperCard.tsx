@@ -14,8 +14,9 @@ function formatPaperDate(iso: string): string {
 export default function PaperCard({ paper, pdfText }: { paper: Paper; pdfText?: string }) {
   return (
     <article
+      id={paper.slug}
       data-pagefind-meta={`pdf:${paper.pdf}`}
-      className="flex flex-col sm:flex-row gap-6 sm:gap-8 py-10 group"
+      className="flex flex-col sm:flex-row gap-6 sm:gap-8 py-10 group scroll-mt-24"
     >
       {pdfText && (
         <span className="sr-only" aria-hidden="true">
@@ -49,8 +50,7 @@ export default function PaperCard({ paper, pdfText }: { paper: Paper; pdfText?: 
         </div>
 
         <h2
-          id={paper.slug}
-          className="font-semibold text-navy text-2xl leading-snug mb-1 scroll-mt-24"
+          className="font-semibold text-navy text-2xl leading-snug mb-1"
           style={{ letterSpacing: "-0.01em" }}
         >
           <a href={paper.pdf} target="_blank" rel="noopener noreferrer"
