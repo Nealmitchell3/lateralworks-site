@@ -167,5 +167,18 @@
     "abstract": "Speed is a cultural asset, not a tooling choice. Over thirty-six years of multi-company research and 200+ client engagements, lateralworks has identified a consistent set of practices that distinguish teams who deliver the right product at the right time from teams who do not. This paper presents ten practices — drawn from the thirty-one documented in FTTM New Product Development Best Practices, Revision 2018.002 — chosen because they compound. A team that installs all ten owns the minimum viable FTTM operating system.",
     "pdf": "/papers/10-best-practices-of-fast-teams.pdf",
     "thumb": "/papers/thumbs/10-best-practices-of-fast-teams.png"
+  },
+  {
+    "slug": "bring-pain-forward",
+    "title": "Bring pain forward",
+    "subtitle": "Happy schedules, the gap, and the discipline of finding reality early",
+    "series": "FTTM Methodology",
+    "type": "Synthesis paper",
+    "date": "2026-05-18",
+    "pages": 17,
+    "core_thesis": "Three practices share a single discipline: bring reality forward in time so the team can act on it. Accelerate the pain so urgency arrives early. Build a schedule honest enough to expose the gap. Track the trend so you see slippage before it lands. Each practice fails on its own without a host environment that rewards early honesty.",
+    "abstract": "Most development projects do not fail because the team lacked skill. They fail because the team did not see the failure coming until it was too late to act. The gap between target and reality already existed. Nobody named it. By the time the milestone review surfaced the slip, the cheap options were gone. This paper describes three connected practices good product organizations use to keep that from happening — bring pain forward, drop the happy schedule, and know the gap — and the host conditions that let them stick. Used together, they form the discipline lateralworks calls before-the-fact behavior.",
+    "pdf": "/papers/bring-pain-forward.pdf",
+    "thumb": "/papers/thumbs/bring-pain-forward.png"
   }
 ]
