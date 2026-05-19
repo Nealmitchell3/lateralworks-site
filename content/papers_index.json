@@ -180,5 +180,18 @@
     "abstract": "Most development projects do not fail because the team lacked skill. They fail because the team did not see the failure coming until it was too late to act. The gap between target and reality already existed. Nobody named it. By the time the milestone review surfaced the slip, the cheap options were gone. This paper describes three connected practices good product organizations use to keep that from happening — bring pain forward, drop the happy schedule, and know the gap — and the host conditions that let them stick. Used together, they form the discipline lateralworks calls before-the-fact behavior.",
     "pdf": "/papers/bring-pain-forward.pdf",
     "thumb": "/papers/thumbs/bring-pain-forward.png"
+  },
+  {
+    "slug": "common-problems-advanced-technology-programs",
+    "title": "Common problems in advanced technology programs",
+    "subtitle": "Four failure patterns we keep seeing — and why traditional project management cannot solve them.",
+    "series": "FTTM Methodology",
+    "type": "Synthesis paper",
+    "date": "2026-05-18",
+    "pages": 17,
+    "core_thesis": "Advanced technology programs do not fail because the work is too hard. They fail because four organizational patterns — distributed sites, multiple companies, multiple corporate stakeholders, and simultaneous innovation with product development — overwhelm conventional project management. FTTM is the operating system built for these conditions.",
+    "abstract": "Most advanced technology programs miss their dates for the same handful of reasons. After 36 years and 200+ lateralworks engagements, four problem patterns recur: multi-site distribution, multi-company partnerships, multiple corporate stakeholders, and simultaneous innovation with product development. The paper names each pattern, gives a diagnostic table for recognizing it inside a program, and pairs it with the FTTM practices that resolve it. The second half makes a sharper claim — FTTM is not a flavor of project management. The two operate from opposite premises: project management controls variance against a plan; FTTM compresses the time between learning and decision.",
+    "pdf": "/papers/common-problems-advanced-technology-programs.pdf",
+    "thumb": "/papers/thumbs/common-problems-advanced-technology-programs.png"
   }
 ]
