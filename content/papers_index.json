@@ -193,5 +193,18 @@
     "abstract": "Most advanced technology programs miss their dates for the same handful of reasons. After 36 years and 200+ lateralworks engagements, four problem patterns recur: multi-site distribution, multi-company partnerships, multiple corporate stakeholders, and simultaneous innovation with product development. The paper names each pattern, gives a diagnostic table for recognizing it inside a program, and pairs it with the FTTM practices that resolve it. The second half makes a sharper claim — FTTM is not a flavor of project management. The two operate from opposite premises: project management controls variance against a plan; FTTM compresses the time between learning and decision.",
     "pdf": "/papers/common-problems-advanced-technology-programs.pdf",
     "thumb": "/papers/thumbs/common-problems-advanced-technology-programs.png"
+  },
+  {
+    "slug": "critical-thinking-and-the-challenge-process",
+    "title": "Critical thinking and the challenge process",
+    "subtitle": "How fast teams question assumptions to close schedule gaps and break through technical problems",
+    "series": "Innovation",
+    "type": "Methodology paper",
+    "date": "2026-05-20",
+    "pages": 27,
+    "core_thesis": "A late schedule is not only a tracking problem. It is a thinking problem. When a team treats its current plan as fixed, the only moves left are to admit defeat or to cut the product. Challenge opens a third move: question the assumptions behind the plan, then find a faster way to reach the same goal. Used deliberately, it turns a schedule gap into the pressure that produces a breakthrough.",
+    "abstract": "Most teams meet a slipping schedule by working harder inside the plan or cutting scope to fit the date. Both leave the underlying assumptions untouched. This paper sets out the challenge process: a structured way to surface the assumptions behind a plan, ask why each is held, and convert the weak ones into faster paths that still meet the goal. The same loop that closes a schedule gap breaks the technical problems hiding behind it.",
+    "pdf": "/papers/critical-thinking-and-the-challenge-process.pdf",
+    "thumb": "/papers/thumbs/critical-thinking-and-the-challenge-process.png"
   }
 ]
