@@ -206,5 +206,18 @@
     "abstract": "Most teams meet a slipping schedule by working harder inside the plan or cutting scope to fit the date. Both leave the underlying assumptions untouched. This paper sets out the challenge process: a structured way to surface the assumptions behind a plan, ask why each is held, and convert the weak ones into faster paths that still meet the goal. The same loop that closes a schedule gap breaks the technical problems hiding behind it.",
     "pdf": "/papers/critical-thinking-and-the-challenge-process.pdf",
     "thumb": "/papers/thumbs/critical-thinking-and-the-challenge-process.png"
+  },
+  {
+    "slug": "four-questions-product-leader",
+    "title": "Four questions every product leader should ask",
+    "subtitle": "Heavyweight teams, real empowerment, pulling pain forward, and the trouble with happy schedules",
+    "series": "FTTM Methodology",
+    "type": "Synthesis paper",
+    "date": "2026-05-23",
+    "pages": 20,
+    "core_thesis": "The four questions look like separate topics — team design, delegation, risk timing, and scheduling. They are one topic. Speed comes from a team that owns the outcome, an explicit envelope of authority that lets it act without asking, a culture that surfaces problems early, and a schedule the team believes and the organization can trust. Remove any one and the other three lose their force.",
+    "abstract": "Four questions separate fast product organizations from slow ones: what a heavyweight team actually is, what empowerment means once you make it precise, why high performers pull their pain forward instead of avoiding it, and whether you want a happy schedule or a realistic one. Each has an easy answer that sounds reasonable and is wrong. This paper takes the harder answer in every case, grounded in FTTM practice and the research behind it.",
+    "pdf": "/papers/four-questions-product-leader.pdf",
+    "thumb": "/papers/thumbs/four-questions-product-leader.png"
   }
 ]
