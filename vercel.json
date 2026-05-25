@@ -326,6 +326,21 @@
       "permanent": true
     },
     {
+      "source": "/ideas/tag/:tag",
+      "destination": "/ideas",
+      "permanent": true
+    },
+    {
+      "source": "/ideas/2019/1/29/prioritize-public-policy",
+      "destination": "/ideas/prioritize-public-policy",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2020/3/23/activating-fastproject",
+      "destination": "/docs/activating-fastproject",
+      "permanent": true
+    },
+    {
       "source": "/s/:file",
       "destination": "/papers",
       "permanent": true
