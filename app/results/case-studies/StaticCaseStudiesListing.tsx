@@ -49,8 +49,7 @@ export default function StaticCaseStudiesListing({ cases, practicesList }: Props
           </div>
           <div className="hairline pt-8 mt-8">
             <p className="text-sm font-light text-ink-muted">
-              {cases.length} case stud{cases.length !== 1 ? "ies" : "y"}.
-              {" New cases are added when they are created. Most case studies we can publish are >10 year old projects. Our current work involves advanced technology at the bleeding edge. We are not able to share these details for obvious reasons."}
+              Most case studies we can publish are &gt;10 year old projects. Our current work involves advanced technology at the bleeding edge. We are not able to share these details for obvious reasons.
             </p>
           </div>
         </div>
