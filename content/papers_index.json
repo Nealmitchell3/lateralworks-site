@@ -232,5 +232,18 @@
     "abstract": "Most organizations reward the wrong behavior. The leader who surfaces a problem six months early gets labeled negative; the leader who saves the launch at the last minute gets promoted. This paper names the pattern, shows why it is structurally stable, and describes the three layers — culture, process, and Freedom Level 1 delegation — by which CEOs reverse it. Closes with a structured interview framework for hiring C-suite leaders who already practice before-the-fact behavior.",
     "pdf": "/papers/before-the-fact-leadership.pdf",
     "thumb": "/papers/thumbs/before-the-fact-leadership.png"
+  },
+  {
+    "slug": "systems-thinkers",
+    "title": "Systems thinkers: where did they go?",
+    "subtitle": "How complexity outran integration — and why technology programs still slip, overrun, and break at the seams",
+    "series": "FTTM Methodology",
+    "type": "Methodology paper",
+    "date": "2026-05-29",
+    "pages": 25,
+    "core_thesis": "Modern program failure is not a shortage of engineering talent or project-management software. It is the absence of two roles — the systems architect and the systems planner — that once owned the integrated whole; complexity grew while the integrators disappeared, and the slips and integration failures we treat as unavoidable are the predictable result.",
+    "abstract": "Systems engineering was invented in the 1960s to manage machines too complex for any one person to hold in their head — and a pair of dedicated roles, the systems architect and the systems planner, owned the integrated whole. Those roles have quietly disappeared while complexity exploded. This paper traces the decline, quantifies what integration failure costs, and prescribes the cure: restore the two roles, give them authority, and pair them at program kickoff.",
+    "pdf": "/papers/systems-thinkers.pdf",
+    "thumb": "/papers/thumbs/systems-thinkers.png"
   }
 ]
