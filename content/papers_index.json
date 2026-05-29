@@ -245,5 +245,18 @@
     "abstract": "Systems engineering was invented in the 1960s to manage machines too complex for any one person to hold in their head — and a pair of dedicated roles, the systems architect and the systems planner, owned the integrated whole. Those roles have quietly disappeared while complexity exploded. This paper traces the decline, quantifies what integration failure costs, and prescribes the cure: restore the two roles, give them authority, and pair them at program kickoff.",
     "pdf": "/papers/systems-thinkers.pdf",
     "thumb": "/papers/thumbs/systems-thinkers.png"
+  },
+  {
+    "slug": "cut-smart-not-everywhere",
+    "title": "Cut smart, not everywhere",
+    "subtitle": "Priority-based budget optimization for resource-constrained programs — how AHP decision models protect mission-critical spending and eliminate waste.",
+    "series": "Portfolio",
+    "type": "Methodology paper",
+    "date": "2026-05-30",
+    "pages": 21,
+    "core_thesis": "Every dollar is an investment in the company's primary objective: spending that accelerates the mission is protected, and spending that does not is cut. A structured decision model makes the distinction explicit, defensible, and immune to the politics that turn most cost programs into across-the-board reductions.",
+    "abstract": "Equal cuts treat mission-critical investment and discretionary overhead as the same line, and most fail. This paper replaces across-the-board reductions with the Analytic Hierarchy Process: every spending category is rated against three weighted criteria — cost, mission value, and time-to-market impact — and ranked protect, invest, review, or cut. Intel's $10B indiscriminate cut and Apple's surgical optimization under Cook frame the contrast. The full exercise runs in a three-hour executive session and produces a ranking the CFO can defend to the board.",
+    "pdf": "/papers/cut-smart-not-everywhere.pdf",
+    "thumb": "/papers/thumbs/cut-smart-not-everywhere.png"
   }
 ]
