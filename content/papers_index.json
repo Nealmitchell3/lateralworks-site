@@ -219,5 +219,18 @@
     "abstract": "Four questions separate fast product organizations from slow ones: what a heavyweight team actually is, what empowerment means once you make it precise, why high performers pull their pain forward instead of avoiding it, and whether you want a happy schedule or a realistic one. Each has an easy answer that sounds reasonable and is wrong. This paper takes the harder answer in every case, grounded in FTTM practice and the research behind it.",
     "pdf": "/papers/four-questions-product-leader.pdf",
     "thumb": "/papers/thumbs/four-questions-product-leader.png"
+  },
+  {
+    "slug": "before-the-fact-leadership",
+    "title": "Before the fact leadership",
+    "subtitle": "Building organizations that anticipate problems — and hiring the C-suite that will",
+    "series": "FTTM Methodology",
+    "type": "Position paper",
+    "date": "2026-05-28",
+    "pages": 32,
+    "core_thesis": "The happy schedule is the blue pill; the reality-based schedule is the red pill. Anticipation is not a personality trait — it is a behavior the organization either rewards or punishes, and that C-suite leaders either model or suppress.",
+    "abstract": "Most organizations reward the wrong behavior. The leader who surfaces a problem six months early gets labeled negative; the leader who saves the launch at the last minute gets promoted. This paper names the pattern, shows why it is structurally stable, and describes the three layers — culture, process, and Freedom Level 1 delegation — by which CEOs reverse it. Closes with a structured interview framework for hiring C-suite leaders who already practice before-the-fact behavior.",
+    "pdf": "/papers/before-the-fact-leadership.pdf",
+    "thumb": "/papers/thumbs/before-the-fact-leadership.png"
   }
 ]
