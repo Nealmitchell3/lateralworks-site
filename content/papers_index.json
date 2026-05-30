@@ -258,5 +258,18 @@
     "abstract": "Equal cuts treat mission-critical investment and discretionary overhead as the same line, and most fail. This paper replaces across-the-board reductions with the Analytic Hierarchy Process: every spending category is rated against three weighted criteria — cost, mission value, and time-to-market impact — and ranked protect, invest, review, or cut. Intel's $10B indiscriminate cut and Apple's surgical optimization under Cook frame the contrast. The full exercise runs in a three-hour executive session and produces a ranking the CFO can defend to the board.",
     "pdf": "/papers/cut-smart-not-everywhere.pdf",
     "thumb": "/papers/thumbs/cut-smart-not-everywhere.png"
+  },
+  {
+    "slug": "the-scheduling-debate",
+    "title": "The scheduling debate",
+    "subtitle": "Truth-based planning versus top-down targets",
+    "series": "Planning",
+    "type": "Position paper",
+    "date": "2026-06-01",
+    "pages": 23,
+    "core_thesis": "The debate between aggressive and realistic scheduling is a false dichotomy; the real question is who owns the plan. When the people doing the work own the schedule they fight to deliver it, and when leadership imposes it the gap between target and reality goes underground — surfacing late, expensively, and without warning.",
+    "abstract": "Every development organization faces the same conflict: leadership wants aggressive timelines, and the experts doing the work know what delivery actually requires. The two camps are not arguing about the same artifact — one defends the target, the other the plan. Aggressive targets are healthy, but they must sit beside honest plans built by the people who execute them. Surfaced and managed, the gap between target and plan closes. Hidden, it surfaces on its own schedule, at a cost no one budgeted.",
+    "pdf": "/papers/the-scheduling-debate.pdf",
+    "thumb": "/papers/thumbs/the-scheduling-debate.png"
   }
 ]
