@@ -349,6 +349,16 @@
       "source": "/contact-1",
       "destination": "/contact",
       "permanent": true
+    },
+    {
+      "source": "/home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/documentation",
+      "destination": "/docs",
+      "permanent": true
     }
   ]
 }
