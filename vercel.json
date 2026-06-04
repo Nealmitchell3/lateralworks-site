@@ -359,6 +359,16 @@
       "source": "/documentation",
       "destination": "/docs",
       "permanent": true
+    },
+    {
+      "source": "/cases",
+      "destination": "/results/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/work",
+      "destination": "/results",
+      "permanent": true
     }
   ]
 }
