@@ -271,5 +271,18 @@
     "abstract": "Every development organization faces the same conflict: leadership wants aggressive timelines, and the experts doing the work know what delivery actually requires. The two camps are not arguing about the same artifact — one defends the target, the other the plan. Aggressive targets are healthy, but they must sit beside honest plans built by the people who execute them. Surfaced and managed, the gap between target and plan closes. Hidden, it surfaces on its own schedule, at a cost no one budgeted.",
     "pdf": "/papers/the-scheduling-debate.pdf",
     "thumb": "/papers/thumbs/the-scheduling-debate.png"
+  },
+  {
+    "slug": "the-innovation-paradox",
+    "title": "The innovation paradox",
+    "subtitle": "How to build a culture where new ideas are both encouraged and stress-tested without being killed",
+    "series": "Innovation",
+    "type": "Synthesis paper",
+    "date": "2026-06-08",
+    "pages": 22,
+    "core_thesis": "Strong ideas arrive rough and need room to develop before judgment. The same rigor that makes a company good at execution can kill ideas in their fragile state — so the leader's job is to sequence the work: support first, scrutiny second, refinement throughout.",
+    "abstract": "Six companies, one structural problem, and a model leaders can run on Monday. Grounded in Harvard Business School research on psychological safety and in lateralworks field practice across 200+ technology programs since 1988.",
+    "pdf": "/papers/the-innovation-paradox.pdf",
+    "thumb": "/papers/thumbs/the-innovation-paradox.png"
   }
 ]
