@@ -284,5 +284,18 @@
     "abstract": "Six companies, one structural problem, and a model leaders can run on Monday. Grounded in Harvard Business School research on psychological safety and in lateralworks field practice across 200+ technology programs since 1988.",
     "pdf": "/papers/the-innovation-paradox.pdf",
     "thumb": "/papers/thumbs/the-innovation-paradox.png"
+  },
+  {
+    "slug": "right-product-right-time",
+    "title": "Right product, right time",
+    "subtitle": "How an honest schedule reveals whether you are building the right thing, in time to do something about it",
+    "series": "FTTM Methodology",
+    "type": "Methodology paper",
+    "date": "2026-06-09",
+    "pages": 20,
+    "core_thesis": "Every program carries three truths — the market's target, the schedule the team can deliver, and the requirements that define the product — and most organizations collapse them into a single date. The schedule is the only one that produces a measurable signal every week, so an honest schedule is the first truth to break the silence and force the harder question: are we building the right thing at all?",
+    "abstract": "A lateralworks methodology paper on right-time product development. An anonymized AI-datacenter memory program shows how building an honest schedule surfaced a five-year reality hiding behind a two-year wish, and how that one truth forced the requirements and the roadmap back into alignment with the market. Connects the practice to the literature on cost of delay, the planning fallacy, strategic misrepresentation, and time-to-market economics.",
+    "pdf": "/papers/right-product-right-time.pdf",
+    "thumb": "/papers/thumbs/right-product-right-time.png"
   }
 ]
