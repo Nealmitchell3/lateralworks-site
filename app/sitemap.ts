@@ -48,7 +48,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const papers = (papersIndex as Array<{ slug: string; date?: string }>).map((p) => ({
-    url: `${BASE_URL}/papers/${p.slug}.pdf`,
+    url: `${BASE_URL}/papers/${p.slug}`,
     lastModified: new Date(p.date || now),
     changeFrequency: "yearly" as const,
     priority: 0.7,
