@@ -100,7 +100,7 @@
     "title": "Sony PlayStation",
     "subtitle": "The 500K ASIC",
     "practice": "Client Projects",
-    "type": "Case Study",
+    "type": "Case study",
     "date": "2026-05-13",
     "sector": "Semiconductor",
     "engagement": "1993–1995",
@@ -126,5 +126,21 @@
     "abstract": "An advanced display device — one of thirty-eight inventions converging on a consumer-product launch — was three programs run as one: a brownfield fab retrofit, a research-to-development process transfer for three color emitters, and a worldwide engineering acceleration to a breakthrough yield target. lateralworks ran the TPM role end-to-end, colocated at the receiving fab for 3+ years. The first deliverable was telling the client the original eighteen-month plan was wrong. The team hit the revised three-year target through COVID.",
     "pdf": "/cases/innovation-accelerated.pdf",
     "thumb": "/cases/thumbs/innovation-accelerated.png"
+  },
+  {
+    "slug": "cisco-acs-5-0-recovery",
+    "title": "Recovering a worldwide security program",
+    "subtitle": "How lateralworks recovered Cisco's year-late ACS 5.0 program and protected the hardware roadmap that depended on it",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-06-17",
+    "sector": "Networking & security",
+    "engagement": "Cisco ACS 5.0, 2008",
+    "outcome": "Brought a year-late, worldwide program back to a converging schedule and shipped ACS 5.0, protecting hundreds of millions in dependent hardware revenue.",
+    "pages": 26,
+    "core_thesis": "A late program rarely recovers because people start working harder. It recovers when the schedule becomes a living instrument the whole team can see and pull on. lateralworks made the gap visible, gave eleven teams ownership of their own end-to-end work, and refreshed and pulled in the plan two and three times a week until the predicted delivery date stopped drifting and started converging on the target.",
+    "abstract": "Cisco's next-generation access-control platform, ACS 5.0, was running about a year late, and several switching businesses had sequenced dependent hardware behind it. lateralworks installed the FTTM operating system on a live, distributed program — hundreds of engineers, eleven end-to-end teams, multiple continents, one program office. By building one integrated schedule, making the real gap visible, and refreshing and pulling in two to three times a week, the team moved the forecast from open-ended slip to converging delivery. The program shipped, and the roadmap it gated held.",
+    "pdf": "/cases/cisco-acs-5-0-recovery.pdf",
+    "thumb": "/cases/thumbs/cisco-acs-5-0-recovery.png"
   }
 ]
