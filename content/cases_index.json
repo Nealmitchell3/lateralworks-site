@@ -142,5 +142,21 @@
     "abstract": "Cisco's next-generation access-control platform, ACS 5.0, was running about a year late, and several switching businesses had sequenced dependent hardware behind it. lateralworks installed the FTTM operating system on a live, distributed program — hundreds of engineers, eleven end-to-end teams, multiple continents, one program office. By building one integrated schedule, making the real gap visible, and refreshing and pulling in two to three times a week, the team moved the forecast from open-ended slip to converging delivery. The program shipped, and the roadmap it gated held.",
     "pdf": "/cases/cisco-acs-5-0-recovery.pdf",
     "thumb": "/cases/thumbs/cisco-acs-5-0-recovery.png"
+  },
+  {
+    "slug": "one-program-many-companies",
+    "title": "One program, many companies",
+    "subtitle": "Running a multi-site advanced-node development program as a single, integrated team",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-06-18",
+    "sector": "Advanced-node semiconductors",
+    "engagement": "Technical program manager — three-year multi-company program",
+    "outcome": "Called the schedule to the year — five years as assessed, against a two-year client scope and an estimated eight without the integrated program structure.",
+    "pages": 24,
+    "core_thesis": "When a program depends on many companies, the work is not coordination but integration — building one team, one schedule, and one set of decisions out of organizations that arrive as strangers. The integrator's highest-value output is an early, honest read of the two things that bind the schedule: the maturity of what you inherit and the capability of the partners you depend on.",
+    "abstract": "A Silicon Valley company needed an advanced-node device that worked only in a European research lab to run on a development line it controlled — fast enough to feed a flagship product. lateralworks ran the program as technical program manager, pulling a research institute, a foundry partner, equipment suppliers, and the sponsor into one integrated team. Over three years we retrofitted a fab through lockdown, qualified the line, and transferred the process — and told the sponsor the hard truth in time to act.",
+    "pdf": "/cases/one-program-many-companies.pdf",
+    "thumb": "/cases/thumbs/one-program-many-companies.png"
   }
 ]
