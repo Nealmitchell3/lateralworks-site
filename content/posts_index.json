@@ -1,5 +1,21 @@
 [
   {
+    "slug": "test-before-you-limit",
+    "title": "Test before you limit",
+    "date": "June 26, 2026",
+    "dateISO": "2026-06-26",
+    "author": "Neal Mitchell",
+    "categories": [
+      "AI"
+    ],
+    "tags": [
+      "AI",
+      "Workflow"
+    ],
+    "excerpt": "Run a bounded, measured experiment before writing AI policy — the safer choice and the faster one.",
+    "imageCount": 2
+  },
+  {
     "slug": "how-lateralworks-uses-ai",
     "title": "How lateralworks uses AI",
     "date": "June 25, 2026",
