@@ -1,5 +1,21 @@
 [
   {
+    "slug": "how-lateralworks-uses-ai",
+    "title": "How lateralworks uses AI",
+    "date": "June 25, 2026",
+    "dateISO": "2026-06-25",
+    "author": "Neal Mitchell",
+    "categories": [
+      "AI"
+    ],
+    "tags": [
+      "AI",
+      "Workflow"
+    ],
+    "excerpt": "lateralworks uses AI for one job — synthesis — and keeps every decision with the human core team.",
+    "imageCount": 1
+  },
+  {
     "slug": "atrophy-or-acceleration",
     "title": "Atrophy or acceleration",
     "date": "May 12, 2026",
