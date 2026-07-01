@@ -24,10 +24,8 @@ export default function CaseCard({ c, pdfText }: { c: Case; pdfText?: string }) 
       )}
       {/* Thumbnail */}
       <div className="shrink-0 sm:w-44">
-        <a
-          href={c.pdf}
-          target="_blank"
-          rel="noopener noreferrer"
+        <Link
+          href={`/results/case-studies/${c.slug}`}
           className="block border border-border hover:border-navy transition-colors bg-white"
         >
           <img
@@ -37,7 +35,7 @@ export default function CaseCard({ c, pdfText }: { c: Case; pdfText?: string }) 
             height={207}
             className="w-full h-auto block"
           />
-        </a>
+        </Link>
       </div>
 
       {/* Body */}
@@ -68,14 +66,12 @@ export default function CaseCard({ c, pdfText }: { c: Case; pdfText?: string }) 
           className="font-semibold text-navy text-2xl leading-snug mb-1 scroll-mt-24"
           style={{ letterSpacing: "-0.01em" }}
         >
-          <a
-            href={c.pdf}
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href={`/results/case-studies/${c.slug}`}
             className="hover:text-navy/70 transition-colors"
           >
             {c.title}
-          </a>
+          </Link>
         </h2>
 
         {c.subtitle && (
@@ -100,22 +96,20 @@ export default function CaseCard({ c, pdfText }: { c: Case; pdfText?: string }) 
         </div>
 
         <div className="flex flex-wrap items-center gap-3">
-          <a
-            href={c.pdf}
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href={`/results/case-studies/${c.slug}`}
             className="inline-block text-[11px] font-semibold tracking-[0.12em] uppercase px-5 py-3 bg-navy text-white hover:bg-navy-light transition-colors"
           >
-            View PDF →
-          </a>
+            Read case study →
+          </Link>
           <a
             href={c.pdf}
             download
             className="inline-block text-[11px] font-semibold tracking-[0.12em] uppercase px-5 py-3 border border-navy text-navy hover:bg-navy hover:text-white transition-colors"
           >
-            Download
+            Download PDF
           </a>
-          <ShareButton url={`https://lateralworks.com/results/case-studies#${c.slug}`} />
+          <ShareButton url={`https://lateralworks.com/results/case-studies/${c.slug}`} />
         </div>
       </div>
     </article>

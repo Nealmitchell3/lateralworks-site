@@ -55,7 +55,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const cases = (casesIndex as Array<{ slug: string; date?: string }>).map((c) => ({
-    url: `${BASE_URL}/cases/${c.slug}.pdf`,
+    url: `${BASE_URL}/results/case-studies/${c.slug}`,
     lastModified: new Date(c.date || now),
     changeFrequency: "yearly" as const,
     priority: 0.7,
