@@ -158,5 +158,21 @@
     "abstract": "A Silicon Valley company needed an advanced-node device that worked only in a European research lab to run on a development line it controlled — fast enough to feed a flagship product. lateralworks ran the program as technical program manager, pulling a research institute, a foundry partner, equipment suppliers, and the sponsor into one integrated team. Over three years we retrofitted a fab through lockdown, qualified the line, and transferred the process — and told the sponsor the hard truth in time to act.",
     "pdf": "/cases/one-program-many-companies.pdf",
     "thumb": "/cases/thumbs/one-program-many-companies.png"
+  },
+  {
+    "slug": "multi-supplier-lunar-program",
+    "title": "Integrating a multi-supplier lunar program",
+    "subtitle": "How lateralworks rebuilt one integrated master schedule and a weekly refresh cadence to put a commercial lunar lander program back on a converging path.",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-06-30",
+    "sector": "Aerospace / commercial space",
+    "engagement": "Lunar lander program, 2023",
+    "outcome": "Replaced disconnected supplier plans with one integrated master schedule refreshed weekly, quantified a 404-day critical-path gap and put it on a converging path, and transferred the scheduling capability to the client's own team.",
+    "pages": 18,
+    "core_thesis": "A hardware program split across many subcontractors distributes the work but holds the integration risk in one place, and status reporting can't force it to converge. Convergence comes from a single integrated master schedule that every supplier's work lives inside, refreshed weekly in one room, with the critical path and the cause of every slip tracked to each target.",
+    "abstract": "A commercial lunar lander program was running about a year behind its first customer target, its work spread across international subcontractors and its margin already negative. lateralworks replaced the program's disconnected schedules with one integrated master schedule, refreshed weekly in a single room, that re-identified the critical path to every target, recorded the cause of every slip, and drove pull-in actions until the trends turned. A core scheduling capability was seeded and transferred to the client's own managers.",
+    "pdf": "/cases/multi-supplier-lunar-program.pdf",
+    "thumb": "/cases/thumbs/multi-supplier-lunar-program.png"
   }
 ]
