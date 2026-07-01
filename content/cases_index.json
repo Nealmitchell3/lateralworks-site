@@ -174,5 +174,21 @@
     "abstract": "A commercial lunar lander program was running about a year behind its first customer target, its work spread across international subcontractors and its margin already negative. lateralworks replaced the program's disconnected schedules with one integrated master schedule, refreshed weekly in a single room, that re-identified the critical path to every target, recorded the cause of every slip, and drove pull-in actions until the trends turned. A core scheduling capability was seeded and transferred to the client's own managers.",
     "pdf": "/cases/multi-supplier-lunar-program.pdf",
     "thumb": "/cases/thumbs/multi-supplier-lunar-program.png"
+  },
+  {
+    "slug": "project-rubicon",
+    "title": "Project Rubicon",
+    "subtitle": "A five-engineer team, a microinverter built into the cable, and a working prototype in under six months",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-07-01",
+    "sector": "Solar power electronics",
+    "engagement": "Investor and program manager, 2015–2016",
+    "outcome": "Reached a field-validated proof of concept in under six months — at about a third of the planned budget and roughly half the typical schedule.",
+    "pages": 36,
+    "core_thesis": "The product a team ships is decided long before the engineering is done — by the conditions leadership sets, the customers the team listens to, and the schedule it runs against. Project Rubicon put five engineers in the right conditions, pointed them at a customer-defined target, and reached a working proof of concept in under six months. The parent company chose not to commercialize it. The method still did exactly what it is built to do.",
+    "abstract": "A large wire manufacturer asked lateralworks to invest in and run a corporate innovation program: build the solar inverter into the cable itself. lateralworks assembled a five-engineer team, set the host conditions, defined the product with real customers, and drove the work with one integrated schedule. The result was a field-validated proof of concept in under six months — at roughly a third of the planned budget and about half the typical schedule. The parent later chose not to commercialize it; the method still delivered exactly what it was built to do.",
+    "pdf": "/cases/project-rubicon.pdf",
+    "thumb": "/cases/thumbs/project-rubicon.png"
   }
 ]
