@@ -297,5 +297,18 @@
     "abstract": "A lateralworks methodology paper on right-time product development. An anonymized AI-datacenter memory program shows how building an honest schedule surfaced a five-year reality hiding behind a two-year wish, and how that one truth forced the requirements and the roadmap back into alignment with the market. Connects the practice to the literature on cost of delay, the planning fallacy, strategic misrepresentation, and time-to-market economics.",
     "pdf": "/papers/right-product-right-time.pdf",
     "thumb": "/papers/thumbs/right-product-right-time.png"
+  },
+  {
+    "slug": "fttm-core-team",
+    "title": "The FTTM core team",
+    "subtitle": "Roles, not functions: how heavyweight, lateralized teams become the single greatest contributor to development speed",
+    "series": "Team",
+    "type": "Methodology paper",
+    "date": "2026-07-02",
+    "pages": 38,
+    "core_thesis": "A cross-functional core team is not a group of functions assigned to a project. The FTTM core team carries three critical roles at its center — a chief engineer, a product leader who is the voice of the customer, and a system architect — held together by a heavyweight technical program manager who acts as the integrator. Those roles pull the whole program sideways, across the functional walls, from first definition to final delivery. That lateral pull is what produces speed. Of everything a company can change to get to market faster, the team is the largest single lever.",
+    "abstract": "Speed in product development is decided by how a program is organized, not how hard people work. This paper is a deep dive into one structure: the FTTM core team — a small, dedicated, role-based team led by a heavyweight integrator, empowered to own the outcome end to end. Placing it inside the Wheelwright–Clark team typology and Reinertsen's economics of flow, it shows why roles, not functions — the lateralization of programs — is the single greatest lever on time to market.",
+    "pdf": "/papers/fttm-core-team.pdf",
+    "thumb": "/papers/thumbs/fttm-core-team.png"
   }
 ]
