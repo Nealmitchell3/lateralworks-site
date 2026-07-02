@@ -190,5 +190,21 @@
     "abstract": "A large wire manufacturer asked lateralworks to invest in and run a corporate innovation program: build the solar inverter into the cable itself. lateralworks assembled a five-engineer team, set the host conditions, defined the product with real customers, and drove the work with one integrated schedule. The result was a field-validated proof of concept in under six months — at roughly a third of the planned budget and about half the typical schedule. The parent later chose not to commercialize it; the method still delivered exactly what it was built to do.",
     "pdf": "/cases/project-rubicon.pdf",
     "thumb": "/cases/thumbs/project-rubicon.png"
+  },
+  {
+    "slug": "project-everest",
+    "title": "Project Everest",
+    "subtitle": "Moving a utility-scale battery maker out of the hardware business, and shipping the first integrated system in twelve months",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-07-02",
+    "sector": "Grid-scale energy storage",
+    "engagement": "Program direction and acceleration, 2023–2025",
+    "outcome": "Shipped the company's first co-developed system inside the twelve-month target, holding a positive schedule trend against a modeled ~$115K/day cost of delay and recovering the flagship project with no liquidated damages.",
+    "pages": 29,
+    "core_thesis": "A hardware company cannot out-price a commoditized, China-dominated supply chain. It can out-integrate it. Everest moved the client off the factory floor and onto the software and data layer, and proved the move on a single product, on time, with a dedicated team that owned one schedule end to end.",
+    "abstract": "A Western utility-scale battery maker was losing an unwinnable price war against China-dominated hardware. lateralworks repositioned the company from hardware manufacturer to systems integrator and data business, then proved the model on Everest — its first co-developed, roughly 5 MWh system, with hardware from China and Korea, external firmware, and an internal software stack fused into one certified product. A dedicated heavyweight core team ran firmware and software on one critical path with a weekly cost-of-delay cadence, releasing inside the twelve-month target. Client-identifying details removed.",
+    "pdf": "/cases/project-everest.pdf",
+    "thumb": "/cases/thumbs/project-everest.png"
   }
 ]
