@@ -206,5 +206,21 @@
     "abstract": "A Western utility-scale battery maker was losing an unwinnable price war against China-dominated hardware. lateralworks repositioned the company from hardware manufacturer to systems integrator and data business, then proved the model on Everest — its first co-developed, roughly 5 MWh system, with hardware from China and Korea, external firmware, and an internal software stack fused into one certified product. A dedicated heavyweight core team ran firmware and software on one critical path with a weekly cost-of-delay cadence, releasing inside the twelve-month target. Client-identifying details removed.",
     "pdf": "/cases/project-everest.pdf",
     "thumb": "/cases/thumbs/project-everest.png"
+  },
+  {
+    "slug": "amat-lab-realignment",
+    "title": "Lab realignment",
+    "subtitle": "How Applied Materials collapsed four labs into two and hit a $20M-a-year savings target on schedule — without ever stopping the business.",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-07-03",
+    "sector": "Semiconductor equipment",
+    "engagement": "Program structure and acceleration, 2006–2007",
+    "outcome": "$20M-a-year savings target met on schedule — 60+ tools relocated and requalified in 18 months with zero interruption to the running business.",
+    "pages": 22,
+    "core_thesis": "The savings were never in doubt; the schedule was. Every quarter of delay cost Applied roughly $5M it would never recover, so lateralworks structured the program so the schedule itself protected the money — built around tools rather than buildings, driven by one repeatable move template, and refreshed weekly so slips surfaced as trends before they became misses.",
+    "abstract": "Applied Materials set out to consolidate its process and demonstration labs from four buildings into two — a permanent $20M-a-year cost reduction, blocked by the fact that the labs could not close. More than sixty truck-sized tools running customer demos, low-volume production, and active development had to move in eighteen months. lateralworks built the schedule around tools and tool farms rather than buildings, templated the move once, and drove the program with weekly refresh planning. The program finished on schedule, and the business never stopped.",
+    "pdf": "/cases/amat-lab-realignment.pdf",
+    "thumb": "/cases/thumbs/amat-lab-realignment.png"
   }
 ]
