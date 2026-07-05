@@ -192,7 +192,7 @@
     },
     {
       "source": "/tools/2019/5/23/fastproject-resourcs",
-      "destination": "/docs/fastproject-resources",
+      "destination": "/docs",
       "permanent": true
     },
     {
@@ -368,6 +368,21 @@
     {
       "source": "/work",
       "destination": "/results",
+      "permanent": true
+    },
+    {
+      "source": "/docs/fastproject-resources",
+      "destination": "/docs",
+      "permanent": true
+    },
+    {
+      "source": "/docs/modeling-using-decisionaccelerator",
+      "destination": "/docs",
+      "permanent": true
+    },
+    {
+      "source": "/docs/using-decisionaccelerator-constraints",
+      "destination": "/docs",
       "permanent": true
     }
   ]

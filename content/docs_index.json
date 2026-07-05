@@ -954,24 +954,6 @@
     "imageCount": 1
   },
   {
-    "slug": "fastproject-resources",
-    "title": "fastProjectAI Resources",
-    "date": "May 22, 2019",
-    "dateISO": "2019-05-23",
-    "author": "Neal Mitchell",
-    "categories": [
-      "fastProjectAI Concept"
-    ],
-    "tags": [
-      "fastProjectAI",
-      "FastProject Concept",
-      "fastDecisionAI",
-      "Cost-of-delayAI"
-    ],
-    "excerpt": "",
-    "imageCount": 0
-  },
-  {
     "slug": "getting-started-with-decisionaccelerator",
     "title": "Getting started with decisionAccelerator",
     "date": "May 22, 2019",
@@ -1854,24 +1836,6 @@
     "imageCount": 0
   },
   {
-    "slug": "modeling-using-decisionaccelerator",
-    "title": "Modeling using decisionAccelerator",
-    "date": "January 11, 2019",
-    "dateISO": "2019-01-12",
-    "author": "Neal Mitchell",
-    "categories": [
-      "fastDecisionAI Function"
-    ],
-    "tags": [
-      "FastProject Concept",
-      "fastDecisionAI",
-      "fastProjectAI",
-      "Cost-of-delayAI"
-    ],
-    "excerpt": "",
-    "imageCount": 0
-  },
-  {
     "slug": "proper-schedule-update-questions",
     "title": "Proper Schedule Update Questions",
     "date": "January 11, 2019",
@@ -1977,24 +1941,6 @@
       "Cost-of-delayAI"
     ],
     "excerpt": "We are often asked, what the difference between a Touchpoint, a Checkpoint and a Deliverable.",
-    "imageCount": 0
-  },
-  {
-    "slug": "using-decisionaccelerator-constraints",
-    "title": "Using decisionAccelerator Constraints",
-    "date": "January 11, 2019",
-    "dateISO": "2019-01-12",
-    "author": "Neal Mitchell",
-    "categories": [
-      "fastDecisionAI Function"
-    ],
-    "tags": [
-      "fastDecisionAI",
-      "FastProject Concept",
-      "fastProjectAI",
-      "Cost-of-delayAI"
-    ],
-    "excerpt": "",
     "imageCount": 0
   },
   {
