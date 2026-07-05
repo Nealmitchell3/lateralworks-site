@@ -310,5 +310,18 @@
     "abstract": "Speed in product development is decided by how a program is organized, not how hard people work. This paper is a deep dive into one structure: the FTTM core team — a small, dedicated, role-based team led by a heavyweight integrator, empowered to own the outcome end to end. Placing it inside the Wheelwright–Clark team typology and Reinertsen's economics of flow, it shows why roles, not functions — the lateralization of programs — is the single greatest lever on time to market.",
     "pdf": "/papers/fttm-core-team.pdf",
     "thumb": "/papers/thumbs/fttm-core-team.png"
+  },
+  {
+    "slug": "starts-control",
+    "title": "Starts control",
+    "subtitle": "Balancing the portfolio for speed",
+    "series": "Portfolio",
+    "type": "Synthesis paper",
+    "date": "2026-07-04",
+    "pages": 37,
+    "core_thesis": "The active project portfolio is a zero-sum game. Best-practice companies balance it deliberately: manage the fuzzy front end on a clock, rank every candidate against weighted business objectives, and gate each start against real resource capacity. When one project is added, another is killed or deprioritized. Organizations that skip this discipline overload the engineers already carrying the committed portfolio and deliver everything late.",
+    "abstract": "Speed is decided at the portfolio, before any project team is formed. This paper examines how uncontrolled project starts produce too many projects, the wrong projects, and not enough resources — and how best-practice companies put a clock on the fuzzy front end, rank every candidate against weighted business objectives, and gate each start against real resource capacity. Full-length follow-on to the lateralworks briefing Portfolio prioritization & starts control, drawn from FTTM field research and four decades of portfolio literature.",
+    "pdf": "/papers/starts-control.pdf",
+    "thumb": "/papers/thumbs/starts-control.png"
   }
 ]
