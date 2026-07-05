@@ -384,6 +384,36 @@
       "source": "/docs/using-decisionaccelerator-constraints",
       "destination": "/docs",
       "permanent": true
+    },
+    {
+      "source": "/technical/2019/1/14/importing-a-prefresh-lookahead-report",
+      "destination": "/docs/import-a-lookahead-report",
+      "permanent": true
+    },
+    {
+      "source": "/technical/2019/1/14/customize-a-lookahead-report",
+      "destination": "/docs/customize-the-lookahead-report",
+      "permanent": true
+    },
+    {
+      "source": "/technical/2019/1/15/the-lookahead-report",
+      "destination": "/docs/the-lookahead-report",
+      "permanent": true
+    },
+    {
+      "source": "/technical/2019/1/11/when-should-i-send-out-the-pre-fresh-lookahead-report",
+      "destination": "/docs/the-lookahead-report",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/12/updating-touchpoints-or-checkpoints",
+      "destination": "/docs/touchpoints-checkpoints-and-deliverables",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/12/simplifying-updating",
+      "destination": "/docs",
+      "permanent": true
     }
   ]
 }
