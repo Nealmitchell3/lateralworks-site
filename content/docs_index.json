@@ -1796,7 +1796,7 @@
       "fastProjectAI",
       "Cost-of-delayAI"
     ],
-    "excerpt": "",
+    "excerpt": "The fastProjectAI process flow: build the WBS, model the schedule, then run the refresh planning loop — refresh, breakdown, pull-in — on a regular cadence.",
     "imageCount": 1
   },
   {

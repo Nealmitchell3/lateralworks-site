@@ -14,8 +14,8 @@
     "fastProjectAI",
     "Cost-of-delayAI"
   ],
-  "excerpt": "",
-  "content": "<figure><img src=\"/images/docs/15473421_image.png\" alt=\"image.png\" /></figure>",
+  "excerpt": "The fastProjectAI process flow: build the WBS, model the schedule, then run the refresh planning loop — refresh, breakdown, pull-in — on a regular cadence.",
+  "content": "<p>fastProjectAI operates as a closed loop around the project schedule. The flow runs left to right: build the WBS, model the schedule, then enter refresh planning — refresh the schedule, break it down, and pull it in — repeating on a regular cadence. The Look Ahead Report drives each refresh, and Analyze Trends records the schedule trend over time. Each cycle pulls the schedule in rather than letting it drift, which is the mechanism behind FTTM's continuous acceleration discipline.</p><figure><img src=\"/images/docs/15473421_image.png\" alt=\"fastProjectAI process flow: Build WBS, Model Schedule, then the refresh planning loop — Refresh Schedule, Breakdown Schedule, Pull-in Schedule — with Look Ahead Report and Analyze Trends feeding each cycle\" /></figure><p>Use this flow as the orientation map for the rest of the fastProjectAI Function docs: each function page describes one stage of this loop in detail.</p>",
   "images": [],
   "externalLinks": [],
   "imageCount": 1
