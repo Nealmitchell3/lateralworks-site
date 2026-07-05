@@ -222,5 +222,21 @@
     "abstract": "Applied Materials set out to consolidate its process and demonstration labs from four buildings into two — a permanent $20M-a-year cost reduction, blocked by the fact that the labs could not close. More than sixty truck-sized tools running customer demos, low-volume production, and active development had to move in eighteen months. lateralworks built the schedule around tools and tool farms rather than buildings, templated the move once, and drove the program with weekly refresh planning. The program finished on schedule, and the business never stopped.",
     "pdf": "/cases/amat-lab-realignment.pdf",
     "thumb": "/cases/thumbs/amat-lab-realignment.png"
+  },
+  {
+    "slug": "prioritizing-through-the-crash",
+    "title": "Prioritizing through the crash",
+    "subtitle": "Portfolio modeling and project selection at Applied Materials, 2007–2009",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-07-05",
+    "sector": "Semiconductor equipment",
+    "engagement": "Client engagement 2007–2009",
+    "outcome": "Reprioritized a 73-program portfolio in three weeks after Lehman failed, giving AGS a ranked, defensible basis for the November 2008 cost reduction.",
+    "pages": 21,
+    "core_thesis": "A project portfolio is a standing decision about where scarce resources go. The organizations that navigate downturns best are the ones whose planning survives contact with bad times. A portfolio built on an explicit decision model can be re-run in weeks when the world changes. A portfolio built on accumulated commitments cannot.",
+    "abstract": "Between 2007 and 2009, lateralworks helped two of Applied Materials' largest organizations turn hundreds of programs into ranked, executable portfolios using AHP decision modeling — the fastDecision toolset now shipped as fastDecisionAI. In Global Operations, the model quantified the gap between effort and value: the top two initiatives carried 64 percent of the benefit while a fourth-ranked initiative absorbed outsized energy. When Lehman failed six days after the AGS three-year plan was set, the rebuilt model ranked all 73 programs against recession-weighted criteria in three weeks.",
+    "pdf": "/cases/prioritizing-through-the-crash.pdf",
+    "thumb": "/cases/thumbs/prioritizing-through-the-crash.png"
   }
 ]
