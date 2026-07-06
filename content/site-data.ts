@@ -57,7 +57,7 @@ export const siteOrganization = {
     contactType: "general inquiries",
   },
   sameAs: [
-    "https://www.youtube.com/@fastworksvideo",
+    "https://www.youtube.com/@lateralworks",
     "https://podcasts.apple.com/us/podcast/fast-time-to-market/id1869163825",
     "https://open.spotify.com/show/3UlhwcloFzzxekaxNXzJKL",
     "https://fasttimetomarket.buzzsprout.com/",
@@ -602,7 +602,7 @@ export const externalContent = {
   youtube: {
     title: "lateralworks on YouTube",
     description: "Product walkthroughs, FTTM concept animations, and narrated slide series.",
-    url: "https://www.youtube.com/@fastworksvideo",
+    url: "https://www.youtube.com/@lateralworks",
   },
 };
 
