@@ -15,7 +15,7 @@
     "Cost-of-delayAI"
   ],
   "excerpt": "This can be caused by a rouge title in the custom flag Flag16. The fix is straightforward:",
-  "content": "<div>\n  <p>This can be caused by a rouge title in the custom flag Flag16. The fix is straightforward:</p><ol><li><p>Right-mouse click on any column &gt; Custom Fields</p></li><li><p>Select Flag in the top-right</p></li><li><p>Select Flag16</p></li><li><p>Delete</p></li><li><p>OK</p></li></ol>\n</div>\n\n<figure><img src=\"/images/docs/15496474_Capture.JPG\" alt=\"fastProjectAI — The Ribbon Interface on fastProjectAI Has Disappeared: Then either Click the Reset Button (2nd button from the\" /></figure>\n\n<div>\n  <p>Then either</p><ul><li><p>Click the Reset Button (2nd button from the far right on the toolbar) or</p></li><li><p>Save and Exit the project then re-open it.</p></li></ul>\n</div>",
+  "content": "<div>\n  <p>This can be caused by a rouge title in the custom flag Flag16. The fix is straightforward:</p><ol><li><p>Right-mouse click on any column &gt; Custom Fields</p></li><li><p>Select Flag in the top-right</p></li><li><p>Select Flag16</p></li><li><p>Delete</p></li><li><p>OK</p></li></ol>\n</div>\n\n<figure><img src=\"/images/docs/15496474_Capture.JPG\" alt=\"Microsoft Project Custom Fields dialog highlighting a corrupted Flag16 entry selected for deletion\" /></figure>\n\n<div>\n  <p>Then either</p><ul><li><p>Click the Reset Button (2nd button from the far right on the toolbar) or</p></li><li><p>Save and Exit the project then re-open it.</p></li></ul>\n</div>",
   "images": [],
   "externalLinks": [],
   "imageCount": 1
