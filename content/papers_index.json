@@ -323,5 +323,18 @@
     "abstract": "Speed is decided at the portfolio, before any project team is formed. This paper examines how uncontrolled project starts produce too many projects, the wrong projects, and not enough resources — and how best-practice companies put a clock on the fuzzy front end, rank every candidate against weighted business objectives, and gate each start against real resource capacity. Full-length follow-on to the lateralworks briefing Portfolio prioritization & starts control, drawn from FTTM field research and four decades of portfolio literature.",
     "pdf": "/papers/starts-control.pdf",
     "thumb": "/papers/thumbs/starts-control.png"
+  },
+  {
+    "slug": "the-long-pole",
+    "title": "The long pole",
+    "subtitle": "Find the path that sets the end date, challenge the assumptions holding it up, and whittle it down every week",
+    "series": "FTTM Methodology",
+    "type": "Methodology paper",
+    "date": "2026-07-06",
+    "pages": 26,
+    "core_thesis": "The long pole sets the end date. Most organizations watch it grow; fast teams cut it down. Find the real long pole, challenge the assumptions that hold up its duration, cut in big chunks without letting the tent fall down, and whittle it every week through refresh planning. Do this and the end date becomes something the team sets, not something it discovers.",
+    "abstract": "Every project has one path that decides when it ends. This paper sets out the lateralworks long pole method: find the real long pole and the honest gap to target, determine what makes it that long, challenge the assumptions holding up its duration and cut in big chunks, then whittle weekly through refresh planning. Evidence runs through a semiconductor fab wigglechart — a predicted two-year slip pulled back to first silicon two weeks early — plus learning-cycle estimation for invention work.",
+    "pdf": "/papers/the-long-pole.pdf",
+    "thumb": "/papers/thumbs/the-long-pole.png"
   }
 ]
