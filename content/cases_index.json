@@ -238,5 +238,21 @@
     "abstract": "Between 2007 and 2009, lateralworks helped two of Applied Materials' largest organizations turn hundreds of programs into ranked, executable portfolios using AHP decision modeling — the fastDecision toolset now shipped as fastDecisionAI. In Global Operations, the model quantified the gap between effort and value: the top two initiatives carried 64 percent of the benefit while a fourth-ranked initiative absorbed outsized energy. When Lehman failed six days after the AGS three-year plan was set, the rebuilt model ranked all 73 programs against recession-weighted criteria in three weeks.",
     "pdf": "/cases/prioritizing-through-the-crash.pdf",
     "thumb": "/cases/thumbs/prioritizing-through-the-crash.png"
+  },
+  {
+    "slug": "six-competitors-one-schedule",
+    "title": "Six competitors, one schedule",
+    "subtitle": "How a six-company consortium developed the 20nm process node as a single program — and took three years out of the development schedule",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-07-06",
+    "sector": "Advanced-node semiconductors",
+    "engagement": "Program integrator, 2010–2013",
+    "outcome": "Initial 20nm process and design methods transferred to all six partners in 24 months — three years out of the five-year baseline the macro plan exposed.",
+    "pages": 22,
+    "core_thesis": "Invention does not have to arrive on its own clock. When the learning cycles that produce it are named, scheduled, resourced, and run concurrently — and when one person owns each decision — a research program behaves like a delivery program. That is managed innovation: scheduled invention. On 20nm it was worth three years.",
+    "abstract": "In 2010, six semiconductor companies — IBM, GlobalFoundries, Samsung, STMicroelectronics, Infineon, and Chartered — were jointly developing the 20nm node at East Fishkill with no single point of decision. GlobalFoundries engaged lateralworks as program integrator. We formed one core team with a single product boss, built the program's first honest macro plan — which showed five years of work against the two-year target — then attacked the learning rate. The process transferred to every partner in 24 months.",
+    "pdf": "/cases/six-competitors-one-schedule.pdf",
+    "thumb": "/cases/thumbs/six-competitors-one-schedule.png"
   }
 ]
