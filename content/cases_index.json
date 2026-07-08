@@ -254,5 +254,21 @@
     "abstract": "In 2010, six semiconductor companies — IBM, GlobalFoundries, Samsung, STMicroelectronics, Infineon, and Chartered — were jointly developing the 20nm node at East Fishkill with no single point of decision. GlobalFoundries engaged lateralworks as program integrator. We formed one core team with a single product boss, built the program's first honest macro plan — which showed five years of work against the two-year target — then attacked the learning rate. The process transferred to every partner in 24 months.",
     "pdf": "/cases/six-competitors-one-schedule.pdf",
     "thumb": "/cases/thumbs/six-competitors-one-schedule.png"
+  },
+  {
+    "slug": "the-product-they-thought-they-knew",
+    "title": "The product they thought they knew",
+    "subtitle": "How a utility-scale energy storage integrator used Voice of the Customer to redefine its next-generation platform — and found its customers valued something else entirely",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-07-08",
+    "sector": "Grid-scale energy storage",
+    "engagement": "VOC study and next-generation product definition, 2024",
+    "outcome": "Overturned two load-bearing product assumptions before development capital was committed, redirecting the next-generation program to an availability-first, software-core product definition.",
+    "pages": 28,
+    "core_thesis": "Everest’s internal product concept was coherent, technically sophisticated, and wrong in two of its central assumptions. A VOC council, structured discovery, and AHP pairwise prioritization let customers re-rank the company’s priorities before the capital was committed — and revealed that in a deflating hardware market, the differentiated product is availability itself, delivered and proven by software.",
+    "abstract": "A global integrator of utility-scale battery energy storage set out to define its next-generation product around higher density, duration flexibility, and lower price. A structured VOC program — council of developers, IPPs, a utility, owner-operators, and contractors, run through discovery interviews, surveys, and AHP pairwise workshops — showed customers weighted lifetime power and energy availability, delivered and proven by software. The program was redirected: hardware cost-down protecting TCO drivers, availability as the engineering agenda, software elevated to product core. Client anonymized.",
+    "pdf": "/cases/the-product-they-thought-they-knew.pdf",
+    "thumb": "/cases/thumbs/the-product-they-thought-they-knew.png"
   }
 ]
