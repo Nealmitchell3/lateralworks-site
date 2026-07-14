@@ -270,5 +270,21 @@
     "abstract": "A global integrator of utility-scale battery energy storage set out to define its next-generation product around higher density, duration flexibility, and lower price. A structured VOC program — council of developers, IPPs, a utility, owner-operators, and contractors, run through discovery interviews, surveys, and AHP pairwise workshops — showed customers weighted lifetime power and energy availability, delivered and proven by software. The program was redirected: hardware cost-down protecting TCO drivers, availability as the engineering agenda, software elevated to product core. Client anonymized.",
     "pdf": "/cases/the-product-they-thought-they-knew.pdf",
     "thumb": "/cases/thumbs/the-product-they-thought-they-knew.png"
+  },
+  {
+    "slug": "100000-activities-one-critical-path",
+    "title": "100,000 activities, one critical path",
+    "subtitle": "How the macro-micro roll-up in fastProjectAI let a $7 billion greenfield fab run eight independent module schedules — and still read a single end-to-end program critical path",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-07-14",
+    "sector": "Semiconductor",
+    "engagement": "Greenfield fab schedule architecture and program roll-up, 2009–2011",
+    "outcome": "First silicon two weeks ahead of schedule on a program costing delay at roughly $5M a day — on the order of $70M — with the Fab8 roll-up code later productized as the Macro-Micro Roll-up in fastProjectAI.",
+    "pages": 26,
+    "core_thesis": "A program of 100,000 activities cannot be read in one schedule, and it cannot be run in fifty disconnected ones. The macro-micro roll-up keeps every schedule small enough for one team to own, and connected enough that a single critical path runs from the first procurement task to first silicon.",
+    "abstract": "The $7 billion Fab8 greenfield fab in Malta, New York needed more than 100,000 activities to reach first silicon — too big for one schedule, too interconnected for many. lateralworks resolved the dilemma with the macro-micro architecture: one cross-functional macro-schedule, eight module-owned micro-schedules, synchronized twice a day by custom roll-up code that rebuilt the macro as a live critical-path model rather than a status report. Fab8 delivered first silicon two weeks early; the machinery became the Macro-Micro Roll-up in fastProjectAI.",
+    "pdf": "/cases/100000-activities-one-critical-path.pdf",
+    "thumb": "/cases/thumbs/100000-activities-one-critical-path.png"
   }
 ]
