@@ -349,5 +349,18 @@
     "abstract": "Admiral McRaven told graduates to start every day by making their bed — not for tidiness, but for agency. This paper draws a direct line from that lesson to the weekly schedule refresh: the one event a development team controls absolutely. It codifies the three-day operating rhythm from honest task-owner updates through critical-path analysis to a forty-minute pull-in meeting, grounds the cadence in behavioral research on small wins and habit formation, and reproduces a complete AI-generated weekly status report from a live program.",
     "pdf": "/papers/make-your-bed.pdf",
     "thumb": "/papers/thumbs/make-your-bed.png"
+  },
+  {
+    "slug": "change-control",
+    "title": "Change control",
+    "subtitle": "How empowered core teams govern the frozen specification and protect the launch date",
+    "series": "FTTM Methodology",
+    "type": "Methodology paper",
+    "date": "2026-07-15",
+    "pages": 25,
+    "core_thesis": "Time to market and change control are the same subject. Every change to a frozen specification carries a schedule cost and a financial cost, and an organization that cannot price those costs will accept every change and miss every date. The fastest organizations give one small board authority over the specification, arm it with a live schedule and a cost-of-delay model, and make that board the core team itself.",
+    "abstract": "Late products rarely die from one big decision — they bleed out through small, unpriced ones. This paper treats change control as a time-to-market discipline: a frozen specification under revision control, a change control board that is the only route by which the baseline moves, and a cost-of-delay model that converts schedule days into dollars. In the FTTM model the CCB is the core team itself, operating at freedom level 1 or 2 — it decides, then informs. Evidence from Boeing, Maersk Line, and Hewlett-Packard, closing with a practical two-page charter.",
+    "pdf": "/papers/change-control.pdf",
+    "thumb": "/papers/thumbs/change-control.png"
   }
 ]
