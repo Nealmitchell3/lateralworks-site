@@ -286,5 +286,21 @@
     "abstract": "The $7 billion Fab8 greenfield fab in Malta, New York needed more than 100,000 activities to reach first silicon — too big for one schedule, too interconnected for many. lateralworks resolved the dilemma with the macro-micro architecture: one cross-functional macro-schedule, eight module-owned micro-schedules, synchronized twice a day by custom roll-up code that rebuilt the macro as a live critical-path model rather than a status report. Fab8 delivered first silicon two weeks early; the machinery became the Macro-Micro Roll-up in fastProjectAI.",
     "pdf": "/cases/100000-activities-one-critical-path.pdf",
     "thumb": "/cases/thumbs/100000-activities-one-critical-path.png"
+  },
+  {
+    "slug": "tilting-the-organization-on-its-side",
+    "title": "Tilting the organization on its side",
+    "subtitle": "How a functional semiconductor company rebuilt four first-of-a-kind programs around heavyweight product delivery teams — and what it took to get its new leaders to lead",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-07-18",
+    "sector": "Power semiconductors / AI data centers",
+    "engagement": "Heavyweight PDT operating model and leadership development, 2026 (live engagement)",
+    "outcome": "Role charters with explicit freedom levels issued across all four programs; weekly schedule refresh standing across all four teams; research-grade problems isolated into dedicated tiger teams; monthly general-manager walk-through cadence launched.",
+    "pages": 22,
+    "core_thesis": "A functional organization becomes fast when it tilts on its side: when a dedicated team owns each product end to end and the functions provision that team instead of directing it. The org chart is the easy part. The hard part is that the new structure asks people to lead in ways their careers never taught them — and until leadership behavior catches up with structural authority, the tilt exists only on paper.",
+    "abstract": "A global semiconductor company set out to win four first-of-a-kind power products for AI data centers — each on a compressed schedule, each carrying research-grade technical risk. Working with lateralworks, it redesigned the programs around heavyweight product delivery teams: dedicated cross-functional core teams led by a product delivery leader paired with a program manager, with decision authority made explicit through freedom-scale tables. Then came the real problem: the newly named leaders, capable managers with careers formed inside functional silos, did not lead. This case examines why that gap is the predictable cost of the tilt, and what closed it — written role charters, the CEO/COO pairing, honest schedules that plan learning cycles, tiger teams for the hard 10%, and a general manager armed to demand reality instead of reassurance.",
+    "pdf": "/cases/tilting-the-organization-on-its-side.pdf",
+    "thumb": "/cases/thumbs/tilting-the-organization-on-its-side.png"
   }
 ]
