@@ -1,5 +1,23 @@
 [
   {
+    "slug": "challenge-the-assumptions",
+    "title": "Challenge the assumptions",
+    "date": "July 20, 2026",
+    "dateISO": "2026-07-20",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Innovation"
+    ],
+    "tags": [
+      "FTTM",
+      "assumptions",
+      "workshops",
+      "scheduling"
+    ],
+    "excerpt": "Schedules are often held in place by beliefs nobody has examined lately, not by physics. A structured process for surfacing a team’s assumptions and testing them, together, in a room — with a downloadable workshop workbook.",
+    "imageCount": 3
+  },
+  {
     "slug": "what-questions-should-you-be-asking",
     "title": "What questions should you be asking?",
     "date": "July 18, 2026",
