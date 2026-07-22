@@ -14,7 +14,7 @@ export default function CaseStudiesTeaser() {
   return (
     <section className="bg-cream-dark py-16 lg:py-24 border-t border-border">
       <div className="max-w-8xl mx-auto px-6 lg:px-10">
-        <div className="flex flex-wrap items-end justify-between gap-4 mb-10">
+        <div className="mb-10">
           <div>
             <p className="section-label mb-3">Case studies</p>
             <h2
@@ -24,12 +24,6 @@ export default function CaseStudiesTeaser() {
               Field-tested engagements.
             </h2>
           </div>
-          <Link
-            href="/results/case-studies"
-            className="text-[11px] font-semibold tracking-[0.12em] uppercase text-navy hover:text-navy-light transition-colors"
-          >
-            View all case studies →
-          </Link>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -82,6 +76,15 @@ export default function CaseStudiesTeaser() {
               </div>
             </article>
           ))}
+        </div>
+
+        <div className="mt-10 flex justify-end">
+          <Link
+            href="/results/case-studies"
+            className="text-[11px] font-semibold tracking-[0.12em] uppercase text-gold hover:text-gold-light transition-colors"
+          >
+            View all case studies →
+          </Link>
         </div>
       </div>
     </section>
