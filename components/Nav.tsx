@@ -40,13 +40,24 @@ export default function Nav() {
         <div className="flex items-center justify-between h-16">
 
           {/* Logo — lateralworks always lowercase, always sans-serif */}
-          <Link href="/" className="flex flex-col leading-none group">
+          <Link href="/" className="flex items-center gap-2 leading-none group">
             <span className="text-[18px] font-semibold text-white tracking-tight group-hover:opacity-80 transition-opacity lowercase">
               {siteConfig.name}
             </span>
-            <span className="text-[9px] font-normal tracking-[0.18em] uppercase text-white/40 mt-0.5">
-              {siteConfig.tagline}
-            </span>
+            <svg
+              width="12"
+              height="12"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="4.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              className="text-gold group-hover:opacity-80 transition-opacity mt-0.5"
+              aria-hidden="true"
+            >
+              <path d="M7 4 L17 12 L7 20" />
+            </svg>
           </Link>
 
           {/* Desktop nav */}
