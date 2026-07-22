@@ -9,13 +9,24 @@ export default function Footer() {
 
           {/* Brand — lateralworks always lowercase */}
           <div className="lg:col-span-1">
-            <Link href="/" className="flex flex-col leading-none mb-5">
+            <Link href="/" className="flex items-center gap-2 leading-none mb-5">
               <span className="text-xl font-semibold text-white tracking-tight lowercase">
                 {siteConfig.name}
               </span>
-              <span className="text-[9px] font-normal tracking-[0.18em] uppercase text-white/40 mt-0.5">
-                {siteConfig.tagline}
-              </span>
+              <svg
+                width="13"
+                height="13"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="4.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                className="text-gold mt-0.5"
+                aria-hidden="true"
+              >
+                <path d="M7 4 L17 12 L7 20" />
+              </svg>
             </Link>
             <p className="text-sm font-light text-white/50 leading-relaxed max-w-xs">
               {footer.tagline}
