@@ -9,7 +9,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Case studies",
   description:
-    "Field-tested case studies from lateralworks engagements across semiconductor, hardware, and complex-systems programs. Names and sector-identifying details have been removed.",
+    "Field-tested case studies from lateralworks engagements across semiconductor, hardware, software, and complex-systems programs. Names and sector-identifying details have been removed (projects less than 10 years old).",
   alternates: { canonical: "/results/case-studies" },
   openGraph: { ...siteOpenGraphDefaults, url: "/results/case-studies" },
 };
@@ -45,8 +45,9 @@ export default function CaseStudiesPage() {
           </h1>
           <p className="text-base font-light text-white/60 max-w-2xl leading-relaxed">
             Real engagements from the lateralworks team across semiconductor,
-            hardware, and complex-systems programs. Names and sector-identifying
-            details have been removed. New cases added regularly — check back.
+            hardware, software, and complex-systems programs. Names and
+            sector-identifying details have been removed (projects less than 10
+            years old). New cases added regularly.
           </p>
         </div>
       </section>
