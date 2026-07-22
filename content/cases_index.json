@@ -302,5 +302,21 @@
     "abstract": "A global semiconductor company set out to win four first-of-a-kind power products for AI data centers — each on a compressed schedule, each carrying research-grade technical risk. Working with lateralworks, it redesigned the programs around heavyweight product delivery teams: dedicated cross-functional core teams led by a product delivery leader paired with a program manager, with decision authority made explicit through freedom-scale tables. Then came the real problem: the newly named leaders, capable managers with careers formed inside functional silos, did not lead. This case examines why that gap is the predictable cost of the tilt, and what closed it — written role charters, the CEO/COO pairing, honest schedules that plan learning cycles, tiger teams for the hard 10%, and a general manager armed to demand reality instead of reassurance.",
     "pdf": "/cases/tilting-the-organization-on-its-side.pdf",
     "thumb": "/cases/thumbs/tilting-the-organization-on-its-side.png"
+  },
+  {
+    "slug": "three-teams-three-breakthroughs",
+    "title": "Three teams, three breakthroughs",
+    "subtitle": "How the challenge process found technical and schedule breakthroughs inside three storage development programs",
+    "practice": "Client Projects",
+    "type": "Case study",
+    "date": "2026-07-22",
+    "sector": "Data storage / disk drives",
+    "engagement": "Challenge process workshops across three development programs, 2014–2015",
+    "outcome": "A modeled fifteen-month roadmap acceleration on one program, three- and four-month deliverable pull-ins on a second, and a doubled learning rate on a third — with no added headcount and no relaxed requirements.",
+    "pages": 24,
+    "core_thesis": "A schedule gap is not evidence that requirements must be relaxed. Treated correctly, the gap is raw material: the pressure that forces a team to surface its assumptions, challenge them one by one, and discover ways of working it had quietly classified as impossible.",
+    "abstract": "In 2014 a major disk-drive storage company had three critical programs trending late at once — one roughly ten months behind, one three months late and drifting, one slipping progressively on a plan that assumed its experiments would work the first time. Each team was taken offsite for a one-day challenge workshop: surface the assumptions, ask why each is believed, generate alternatives with the constraints switched off, and act within seven days. The results: a roadmap rebuilt in a week around a modeled fifteen-month pull-in, a headline technology removed because it was desired but not required, and an experiment plan restructured to learn twice as fast — without de-featuring a single product.",
+    "pdf": "/cases/three-teams-three-breakthroughs.pdf",
+    "thumb": "/cases/thumbs/three-teams-three-breakthroughs.png"
   }
 ]
