@@ -370,7 +370,7 @@
     "series": "Team",
     "type": "Methodology paper",
     "date": "2026-07-27",
-    "pages": 22,
+    "pages": 23,
     "core_thesis": "The Product Boss exists to take a product from concept to market as fast as possible. They are the enforcement arm of the operational product strategy and the embodiment of FTTM at the product level. Without one person owning each product end to end, the program can define policies but cannot ensure compliance.",
     "abstract": "No one owns a product end to end. That is the finding behind this paper: functional swimlanes work as a planning framework and fail as an execution model, because no single person carries a product through NPI, qualification, and volume ramp. The Product Boss closes the gap as the CEO of their product, owning the business outcome, the customer relationship, the technical trade-offs, and the schedule. The paper defines the role, its authority, its boundaries with the Program Manager, and the hiring profile.",
     "pdf": "/papers/the-product-boss.pdf",
