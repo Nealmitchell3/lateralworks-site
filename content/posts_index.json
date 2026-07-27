@@ -1,5 +1,23 @@
 [
   {
+    "slug": "who-owns-the-product-who-owns-the-plan",
+    "title": "The Product Boss owns the product; the Program Manager owns the plan",
+    "date": "July 27, 2026",
+    "dateISO": "2026-07-27",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Team"
+    ],
+    "tags": [
+      "FTTM",
+      "NPD",
+      "core team",
+      "program management"
+    ],
+    "excerpt": "The Product Boss is the CEO of the product; the Program Manager is its COO. The boundary is the one most often blurred in practice, and both ways of blurring it cost time.",
+    "imageCount": 1
+  },
+  {
     "slug": "escape-the-normal-line-of-thought",
     "title": "Escape the normal line of thought",
     "date": "July 22, 2026",

@@ -362,5 +362,18 @@
     "abstract": "Late products rarely die from one big decision — they bleed out through small, unpriced ones. This paper treats change control as a time-to-market discipline: a frozen specification under revision control, a change control board that is the only route by which the baseline moves, and a cost-of-delay model that converts schedule days into dollars. In the FTTM model the CCB is the core team itself, operating at freedom level 1 or 2 — it decides, then informs. Evidence from Boeing, Maersk Line, and Hewlett-Packard, closing with a practical two-page charter.",
     "pdf": "/papers/change-control.pdf",
     "thumb": "/papers/thumbs/change-control.png"
+  },
+  {
+    "slug": "the-product-boss",
+    "title": "The Product Boss",
+    "subtitle": "Roles and responsibilities in the Product Delivery Team model",
+    "series": "Team",
+    "type": "Methodology paper",
+    "date": "2026-07-27",
+    "pages": 22,
+    "core_thesis": "The Product Boss exists to take a product from concept to market as fast as possible. They are the enforcement arm of the operational product strategy and the embodiment of FTTM at the product level. Without one person owning each product end to end, the program can define policies but cannot ensure compliance.",
+    "abstract": "No one owns a product end to end. That is the finding behind this paper: functional swimlanes work as a planning framework and fail as an execution model, because no single person carries a product through NPI, qualification, and volume ramp. The Product Boss closes the gap as the CEO of their product, owning the business outcome, the customer relationship, the technical trade-offs, and the schedule. The paper defines the role, its authority, its boundaries with the Program Manager, and the hiring profile.",
+    "pdf": "/papers/the-product-boss.pdf",
+    "thumb": "/papers/thumbs/the-product-boss.png"
   }
 ]
