@@ -6,12 +6,28 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ```bash
 npm run dev     # local dev server at http://localhost:3000
-npm run build   # production build (~318 static pages)
+npm run build   # production build — do NOT run while `npm run dev` is up (see below)
 npm run start   # serve the production build
 npm run lint    # next lint
 ```
 
-There are no tests. Verify changes by running `npm run build` and checking the route table.
+There are no tests. Verify changes with `npx tsc -p . --noEmit` and by checking the page on
+localhost. Do NOT run `npm run build` — the dev server is normally running, and a parallel
+build clobbers `.next/`, leaving dev serving missing-chunk errors and unstyled pages.
+Recovery if it happens: kill ports 3000-3003, `rm -rf .next`, restart `npm run dev`,
+then hard refresh. Pagefind search indexes only at the Vercel production build, so search
+is never testable on localhost.
+
+## Working with instruction blocks
+
+Instruction blocks pasted into this repo are commands to execute immediately, not
+specifications to confirm. Run step 1 as your first action. Do not acknowledge, restate,
+summarize, or plan the block before running it. Run all steps continuously; blocks carry a
+single stop gate at final verification.
+
+Never run `git add`, `git commit`, or `git push`. Neal commits from a separate terminal
+after reviewing on localhost. Read-only git (`git status`, `git diff`, `git show`) is
+expected during verification.
 
 ## Architecture
 
@@ -21,13 +37,17 @@ The site has **three parallel content systems**, each owning different pages:
 
 1. **Static page copy** — `content/site-data.ts` exports named objects (`siteConfig`, `nav`, `home`, `methodology`, `software`, `academy`, `results`, `consulting`, `about`, `contact`, `team`, `footer`). Each `app/<route>/page.tsx` for a static marketing page imports its corresponding export. To change copy on those pages, edit `site-data.ts`, not the page components. The `ideas` export at the bottom of the file is dead code (kept for now) — /ideas was made dynamic and no longer reads it.
 
-2. **Ideas posts** — 191 articles in `content/posts/*.json` with `content/posts_index.json` as a sorted summary. `content/posts-utils.ts` exposes `getAllPostMeta`, `getPost`, `getAllSlugs`, `getPostsByPage`, `getRelatedPosts`. `app/ideas/page.tsx` is a static server component (SSG) that renders the full post list inside a `<Suspense>` boundary; the `IdeasListing` client child uses `useSearchParams` to filter by `?category=` and `?page=` on the client. `app/ideas/[slug]/page.tsx` is SSG via `generateStaticParams` over all slugs. Types in `content/post-types.ts`.
+2. **Ideas posts** — 201 articles in `content/posts/*.json` with `content/posts_index.json` as a sorted summary. `content/posts-utils.ts` exposes `getAllPostMeta`, `getPost`, `getAllSlugs`, `getPostsByPage`, `getRelatedPosts`. `app/ideas/page.tsx` is a static server component (SSG) that renders the full post list inside a `<Suspense>` boundary; the `IdeasListing` client child uses `useSearchParams` to filter by `?category=` and `?page=` on the client. `app/ideas/[slug]/page.tsx` is SSG via `generateStaticParams` over all slugs. Types in `content/post-types.ts`.
 
 3. **Docs** — 115 release notes/how-tos in `content/docs/*.json` + `content/docs_index.json`. `content/docs-utils.ts` mirrors the posts API (`getAllDocMeta`, `getDoc`, `getDocsByPage`, `getRelatedDocs`). Same SSG + client-filtering pattern as /ideas (`app/docs/page.tsx` static, `DocsListing` client-side filter). Types in `content/doc-types.ts`. Not linked from `Nav.tsx` yet — accessible by direct URL only.
 
 Posts and docs HTML was generated from a markdown corpus, then re-scraped from the live Squarespace site to recover image positions — see "Content pipeline" below.
 
 **Layout chrome.** `app/layout.tsx` mounts `components/Nav.tsx` (fixed header, the only client component) and `components/Footer.tsx` around every page, loading the DM Sans Google font as the `--font-dm-sans` CSS variable. All other components are server components.
+
+**Static export.** `next.config.js` sets `output: 'export'`, so `redirects()` in that file
+silently no-ops. All redirects live in `vercel.json`. Grep it for related sources before
+adding new rules; exact paths must precede catch-all patterns (first match wins).
 
 **Path alias.** `@/*` resolves to the repo root.
 
@@ -52,6 +72,10 @@ Two parallel token systems that must stay in sync:
 
 - **CSS variables** in `app/globals.css` (`--navy`, `--cream`, `--gold`, `--ink`, etc.) — used by hand-written CSS classes like `.section-label`, `.stat-number`, `.tag`, `.card-hover`, `.nav-link`, `.hairline`, plus the `.post-content` typography family used by both `[slug]` pages.
 - **Tailwind theme** in `tailwind.config.ts` — same palette as `bg-navy`, `text-gold`, `text-ink-secondary`, etc., plus a custom `max-w-8xl` (88rem) used as the page container across all routes.
+
+The `--gold` CSS variable and the Tailwind `gold` token both hold **`#F08C00`, which is
+orange** (hover `#FFA733`). The token name is a deliberate legacy alias kept so the accent
+colour could change without editing every component. Do not "restore" it to a gold hex.
 
 When adding or changing a color, update **both** files. Page sections consistently use `max-w-8xl mx-auto px-6 lg:px-10` as the outer container.
 
