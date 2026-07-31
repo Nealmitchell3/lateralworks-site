@@ -1,5 +1,24 @@
 [
   {
+    "slug": "the-monthly-project-deep-dive",
+    "title": "The monthly project deep-dive",
+    "date": "July 31, 2026",
+    "dateISO": "2026-07-31",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [
+      "FTTM",
+      "program reviews",
+      "PDT",
+      "critical path",
+      "wiggle chart"
+    ],
+    "excerpt": "Most monthly program reviews reward polish and punish candor. The deep-dive replaces slide theater with a working session on live data — real milestone status, decisions communicated rather than requested, and help asked for while there is still time to act.",
+    "imageCount": 0
+  },
+  {
     "slug": "who-owns-the-product-who-owns-the-plan",
     "title": "The Product Boss owns the product; the Program Manager owns the plan",
     "date": "July 27, 2026",
