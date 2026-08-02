@@ -375,5 +375,18 @@
     "abstract": "No one owns a product end to end. That is the finding behind this paper: functional swimlanes work as a planning framework and fail as an execution model, because no single person carries a product through NPI, qualification, and volume ramp. The Product Boss closes the gap as the CEO of their product, owning the business outcome, the customer relationship, the technical trade-offs, and the schedule. The paper defines the role, its authority, its boundaries with the Program Manager, and the hiring profile.",
     "pdf": "/papers/the-product-boss.pdf",
     "thumb": "/papers/thumbs/the-product-boss.png"
+  },
+  {
+    "slug": "twelve-numbers",
+    "title": "Twelve numbers",
+    "subtitle": "Measure leadership on the cross-functional work of getting new products out — not on functional performance alone.",
+    "series": "Innovation",
+    "type": "Position paper",
+    "date": "2026-08-02",
+    "pages": 29,
+    "core_thesis": "The scorecard is a strategy document whether or not it is written as one: people behave as they are measured, and if the strategy says new products while the scorecard says functional efficiency, the scorecard wins. A company that wants new products out faster measures its leadership team together on twelve cross-functional numbers and holds everything else in a register behind them.",
+    "abstract": "Most company scorecards run vertically, one number per function, while the work of getting new products out runs horizontally across every one of them. Drawing on a live lateralworks measurement engagement at a mid-market hardware company, the paper assesses the five metrics the management team proposed, keeps four, replaces one, and sets out twelve metrics in three groups of four covering enterprise outcome, portfolio and program health, and quality and economics, published as a one-page dashboard the leadership team reviews as one body.",
+    "pdf": "/papers/twelve-numbers.pdf",
+    "thumb": "/papers/thumbs/twelve-numbers.png"
   }
 ]
