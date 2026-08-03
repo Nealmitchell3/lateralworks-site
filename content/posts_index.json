@@ -1,5 +1,24 @@
 [
   {
+    "slug": "what-goes-on-the-wall",
+    "title": "What goes on the wall",
+    "date": "August 3, 2026",
+    "dateISO": "2026-08-03",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Innovation",
+      "Systems"
+    ],
+    "tags": [
+      "metrics",
+      "dashboards",
+      "measurement",
+      "wallcharts"
+    ],
+    "excerpt": "Two clients in two different businesses asked the same question this year: of everything we could measure, what deserves a permanent place on the wall? Both answers came out to twelve metrics on one page. The two wallcharts are embedded and downloadable below, and the rules behind them matter more than the metrics themselves.",
+    "imageCount": 2
+  },
+  {
     "slug": "the-monthly-project-deep-dive",
     "title": "The monthly project deep-dive",
     "date": "July 31, 2026",
