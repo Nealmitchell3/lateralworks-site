@@ -1,5 +1,23 @@
 [
   {
+    "slug": "ten-numbers-on-two-clocks",
+    "title": "Ten numbers on two clocks",
+    "date": "August 6, 2026",
+    "dateISO": "2026-08-06",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Innovation"
+    ],
+    "tags": [
+      "FTTM",
+      "metrics",
+      "scorecard",
+      "cost of delay"
+    ],
+    "excerpt": "Six numbers reviewed weekly to change the date. Four numbers reviewed quarterly to judge the strategy. Why most innovation scorecards read like weather reports, and the two-clock system one client now runs instead — with the white paper and briefing as downloads.",
+    "imageCount": 3
+  },
+  {
     "slug": "what-goes-on-the-wall",
     "title": "What goes on the wall",
     "date": "August 3, 2026",
