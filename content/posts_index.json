@@ -1,5 +1,23 @@
 [
   {
+    "slug": "portfolio-schedule-trends-for-the-c-suite",
+    "title": "Portfolio schedule trends for the C-suite",
+    "date": "August 8, 2026",
+    "dateISO": "2026-08-08",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Portfolio"
+    ],
+    "tags": [
+      "FTTM",
+      "wigglechart",
+      "AI",
+      "scheduling"
+    ],
+    "excerpt": "A weekly portfolio schedule roll-up that costs the organization nothing it was not already doing: core teams refresh MS Project and fastProject plans, wigglecharts capture the trends, and a Claude skill regenerates the C-suite deck in minutes. How to read the trends, and why the slope matters more than the snapshot.",
+    "imageCount": 4
+  },
+  {
     "slug": "ten-numbers-on-two-clocks",
     "title": "Ten numbers on two clocks",
     "date": "August 6, 2026",
