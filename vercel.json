@@ -316,6 +316,21 @@
       "permanent": true
     },
     {
+      "source": "/tools/2019/1/12/using-the-lookahead-report-as-a-weekly-management-tool",
+      "destination": "/docs/the-lookahead-report",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/29/elements-of-a-good-decision-model",
+      "destination": "/docs/goals-and-objectives-drive-good-decision-models",
+      "permanent": true
+    },
+    {
+      "source": "/tools/2019/1/12/why-do-i-get-black-lines-under-my-red-critical-path-bars",
+      "destination": "/docs",
+      "permanent": true
+    },
+    {
       "source": "/tools/:year/:month/:day/:slug",
       "destination": "/docs/:slug",
       "permanent": true
