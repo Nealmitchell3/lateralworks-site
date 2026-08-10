@@ -1,5 +1,23 @@
 [
   {
+    "slug": "the-fttm-execution-system",
+    "title": "The FTTM execution system",
+    "date": "August 10, 2026",
+    "dateISO": "2026-08-10",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Innovation"
+    ],
+    "tags": [
+      "FTTM",
+      "execution",
+      "core teams",
+      "critical path"
+    ],
+    "excerpt": "Most companies have a product development process; very few have an execution system. The five elements of FTTM — ownership, decisions, planning, critical path, cadence — what each one replaces in the traditional system, and why they only work together. With a one-page comparison to download.",
+    "imageCount": 2
+  },
+  {
     "slug": "portfolio-schedule-trends-for-the-c-suite",
     "title": "Portfolio schedule trends for the C-suite",
     "date": "August 8, 2026",
