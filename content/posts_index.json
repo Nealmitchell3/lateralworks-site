@@ -1,5 +1,23 @@
 [
   {
+    "slug": "seven-systemic-interrupts",
+    "title": "Seven systemic interrupts",
+    "date": "August 19, 2026",
+    "dateISO": "2026-08-19",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Systems"
+    ],
+    "tags": [
+      "systemic interrupts",
+      "AI",
+      "portfolio",
+      "FTTM"
+    ],
+    "excerpt": "We connected Claude to Otter.ai and mined five months of core team meetings: four projects, four refreshes a week, 42 recordings, 21 hours of transcript. Seven patterns repeat across programs, which means seven single fixes accelerate the whole portfolio. Includes two PDF downloads: the full field analysis and the one-page reference.",
+    "imageCount": 3
+  },
+  {
     "slug": "reward-performance-dont-incentivize-it",
     "title": "Reward performance. Don’t incentivize it.",
     "date": "August 18, 2026",
