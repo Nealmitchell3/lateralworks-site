@@ -1,5 +1,23 @@
 [
   {
+    "slug": "buffer-erosion",
+    "title": "Buffer erosion",
+    "date": "August 21, 2026",
+    "dateISO": "2026-08-21",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [
+      "buffer erosion",
+      "critical path",
+      "fastProject",
+      "FTTM"
+    ],
+    "excerpt": "A near-critical path loses buffer at the sum of two rates: its own slips plus CP1’s pull-ins, so the better the critical path does, the faster the paths behind it go critical. From a live fastProject critical path analysis: closure rates, weeks-to-critical, and the weekly review that defends a 34-day recovery. The full seven-page report is the PDF download.",
+    "imageCount": 3
+  },
+  {
     "slug": "the-host-interrupt",
     "title": "The host interrupt",
     "date": "August 20, 2026",
