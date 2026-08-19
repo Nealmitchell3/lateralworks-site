@@ -1,5 +1,23 @@
 [
   {
+    "slug": "the-host-interrupt",
+    "title": "The host interrupt",
+    "date": "August 20, 2026",
+    "dateISO": "2026-08-20",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Host"
+    ],
+    "tags": [
+      "host",
+      "interrupts",
+      "escalation",
+      "FTTM"
+    ],
+    "excerpt": "The host is measured on control, staffed lean, and finds out about your request when it is already late. There are exactly two ways to get it to move faster: give it warning and show it the impact. A government approved in one day what it had held for weeks, once the delay was shown on the critical path. The systemic interrupts example table is the PDF download.",
+    "imageCount": 3
+  },
+  {
     "slug": "seven-systemic-interrupts",
     "title": "Seven systemic interrupts",
     "date": "August 19, 2026",
