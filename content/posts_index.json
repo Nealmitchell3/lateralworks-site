@@ -1,5 +1,23 @@
 [
   {
+    "slug": "the-level-1-hire",
+    "title": "The Level 1 hire",
+    "date": "September 2, 2026",
+    "dateISO": "2026-09-02",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Leadership"
+    ],
+    "tags": [
+      "freedom scale",
+      "hiring",
+      "core team",
+      "FTTM"
+    ],
+    "excerpt": "Freedom granted to people who cannot take it is just slack. A hiring guide for staffing cross-functional core teams on the freedom scale: where Level 1 people collect, the verbs that give them away, the eight interview questions, the tests that separate the lifelong Level 3 from the real thing, and why Level 1 is not a rebel. With a one-page interview guide as the download.",
+    "imageCount": 1
+  },
+  {
     "slug": "what-leadership-will-give",
     "title": "What leadership will give",
     "date": "August 26, 2026",
