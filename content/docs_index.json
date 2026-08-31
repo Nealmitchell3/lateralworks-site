@@ -1,5 +1,23 @@
 [
   {
+    "slug": "fastproject-510-released",
+    "title": "fastProjectAI 5.1.0 Released",
+    "date": "August 31, 2026",
+    "dateISO": "2026-08-31",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProjectAI Release Note"
+    ],
+    "tags": [
+      "fastProjectAI",
+      "FastProject Concept",
+      "fastDecisionAI",
+      "Cost-of-delayAI"
+    ],
+    "excerpt": "New Notebook replaces the Action Log, adding Risk, Interrupt and Decision Logs, plus improved Critical Path Analysis with trending for all critical paths.",
+    "imageCount": 0
+  },
+  {
     "slug": "compile-error-in-hidden-module-sheet3-when-running-the-wigglechart",
     "title": "Compile error in hidden module: Sheet3 when running the Wigglechart",
     "date": "June 9, 2025",
