@@ -62,9 +62,14 @@ export default function SoftwarePage() {
             <p className="text-base font-light text-ink-secondary leading-relaxed mb-8">
               Software support documentation for fastProjectAI, fastDecisionAI, and Cost-of-delayAI users — release notes, common troubleshooting, configuration guides, and concept explanations. Searchable, filterable by product and document type.
             </p>
-            <Link href="/docs" className="inline-block text-[12px] font-semibold tracking-wider uppercase px-7 py-4 bg-gold text-white hover:bg-gold-light transition-colors">
-              Browse Documentation →
-            </Link>
+            <div className="flex flex-col sm:flex-row gap-4">
+              <Link href="/docs" className="inline-block text-[12px] font-semibold tracking-wider uppercase px-7 py-4 bg-gold text-white hover:bg-gold-light transition-colors">
+                Browse Documentation →
+              </Link>
+              <Link href="/docs?category=fastProjectAI%20Release%20Note" className="inline-block text-[12px] font-semibold tracking-wider uppercase px-7 py-4 border border-gold text-gold hover:bg-gold hover:text-white transition-colors">
+                fastProjectAI Release Notes →
+              </Link>
+            </div>
           </div>
         </div>
       </section>
