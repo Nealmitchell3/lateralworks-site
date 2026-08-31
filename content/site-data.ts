@@ -134,7 +134,7 @@ export const home = {
         number: "02",
         category: "Software",
         title: "fastProjectAI Suite",
-        body: "fastProjectAI, fastDecisionAI, and Cost-of-delayAI — Microsoft Office add-ins that operationalize FTTM methodology. The Wigglechart alone has changed how teams see schedule acceleration. Version 4.12, actively maintained.",
+        body: "fastProjectAI, fastDecisionAI, and Cost-of-delayAI — Microsoft Office add-ins that operationalize FTTM methodology. The Wigglechart alone has changed how teams see schedule acceleration. Version 5.1, actively maintained.",
         link: { label: "See the Software →", href: "/software" },
       },
       {
@@ -333,7 +333,7 @@ export const software = {
     label: "Software",
     headline: "fastProjectAI Suite",
     subhead: "FTTM methodology, operationalized in Microsoft Office.",
-    body: "fastProjectAI, fastDecisionAI, and Cost-of-delayAI are Office add-ins that bring FTTM methodology directly into the tools your team already uses. Version 4.12, actively maintained.",
+    body: "fastProjectAI, fastDecisionAI, and Cost-of-delayAI are Office add-ins that bring FTTM methodology directly into the tools your team already uses. Version 5.1, actively maintained.",
   },
   products: [
     {
