@@ -1,5 +1,23 @@
 [
   {
+    "slug": "schedule-to-monday-morning",
+    "title": "From the schedule to Monday morning",
+    "date": "September 4, 2026",
+    "dateISO": "2026-09-04",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [
+      "weekly action plan",
+      "critical path",
+      "DRI",
+      "FTTM"
+    ],
+    "excerpt": "Schedules break down in the gap between the plan and the calendar: tasks nobody translated into a specific week for a specific person. The fix is a weekly action plan generated from the critical path schedule: one card per initiative, the DRI named, every task dated, milestones flagged. With a live cost reduction program’s two-week page, built by a Claude Skill, as the download.",
+    "imageCount": 2
+  },
+  {
     "slug": "the-level-1-hire",
     "title": "The Level 1 hire",
     "date": "September 2, 2026",
