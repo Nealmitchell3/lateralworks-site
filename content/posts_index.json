@@ -1,5 +1,23 @@
 [
   {
+    "slug": "four-weeks-to-a-baseline",
+    "title": "Four weeks to a baseline",
+    "date": "September 9, 2026",
+    "dateISO": "2026-09-09",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [
+      "baseline",
+      "macro plan",
+      "fuzzy front end",
+      "critical path"
+    ],
+    "excerpt": "Planning is the only phase of a program that cannot slip, because the instrument that measures lateness is the thing being built. One to two weeks to the macro plan, two scrubs, four weeks to a signed baseline, and a test for when roughly right is good enough. With a two-page planning brief as a download.",
+    "imageCount": 6
+  },
+  {
     "slug": "schedule-to-monday-morning",
     "title": "From the schedule to Monday morning",
     "date": "September 4, 2026",
