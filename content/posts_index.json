@@ -1,5 +1,23 @@
 [
   {
+    "slug": "outside-the-hierarchy",
+    "title": "Outside the hierarchy",
+    "date": "September 11, 2026",
+    "dateISO": "2026-09-11",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Team"
+    ],
+    "tags": [
+      "FTTM",
+      "autonomous teams",
+      "organization",
+      "Wheelwright"
+    ],
+    "excerpt": "A client committed to refreshing an entire product ecosystem in twelve months, inside a structure built to run the business it already had. The proposal: Wheelwright’s fourth form. An autonomous program outside the hierarchy, run on the Navy model, with the full executive briefing to download.",
+    "imageCount": 2
+  },
+  {
     "slug": "four-weeks-to-a-baseline",
     "title": "Four weeks to a baseline",
     "date": "September 9, 2026",
