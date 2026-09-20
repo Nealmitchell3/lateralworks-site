@@ -388,5 +388,18 @@
     "abstract": "Most company scorecards run vertically, one number per function, while the work of getting new products out runs horizontally across every one of them. Drawing on a live lateralworks measurement engagement at a mid-market hardware company, the paper assesses the five metrics the management team proposed, keeps four, replaces one, and sets out twelve metrics in three groups of four covering enterprise outcome, portfolio and program health, and quality and economics, published as a one-page dashboard the leadership team reviews as one body.",
     "pdf": "/papers/twelve-numbers.pdf",
     "thumb": "/papers/thumbs/twelve-numbers.png"
+  },
+  {
+    "slug": "bimodal-thinking",
+    "title": "Bimodal thinking",
+    "subtitle": "How leaders and teams hold two schedules at once, and use the tension to cut cycle time in half",
+    "series": "Planning",
+    "type": "Methodology paper",
+    "date": "2026-11-20",
+    "pages": 24,
+    "core_thesis": "Holding two contradictory ideas at once, control and flexibility, speed and quality, challenge and estimate, is the defining characteristic of FTTM performers. Applied to the schedule, a top-down challenge and a bottom-up estimate are both legitimate readings of the same project, and the fastest organizations refuse to collapse one into the other. They hold both, challenge both, and work the gap between them until the aggressive date stops being the leader’s demand and becomes the team’s own schedule.",
+    "abstract": "A CEO challenges the team to halve the schedule. The team answers with an honest estimate built from history, risk, and unknowns. Most organizations resolve the contradiction and lose either way: an imposed date the team disowns, or a pace the market punishes. This paper sets out bimodal thinking, the practiced ability to hold both readings at once, and the challenge process that converts the gap between them into banked schedule time. Grounded in paradox theory, stretch-goal research, forecasting science, and hoshin catchball, with a 2026 hardware field case in which more than a year came out of a product schedule the team now owns. Companion to the lateralworks ideas article of the same name.",
+    "pdf": "/papers/bimodal-thinking.pdf",
+    "thumb": "/papers/thumbs/bimodal-thinking.png"
   }
 ]
