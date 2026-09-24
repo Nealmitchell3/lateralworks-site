@@ -1,5 +1,23 @@
 [
   {
+    "slug": "targets-top-down-schedules-bottom-up",
+    "title": "Targets are top-down; schedules are bottom-up",
+    "date": "November 22, 2026",
+    "dateISO": "2026-11-22",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Leadership"
+    ],
+    "tags": [
+      "FTTM",
+      "targets",
+      "strategy",
+      "reconciliation"
+    ],
+    "excerpt": "Targets come from your strategy, never from your teams. Schedules come from your teams, never from your ambitions. The management system is the reconciliation between them, and skipping it is the most common cause of major slips and project failures we see. Written for the CEO: the three motions, the gap, the four decisions, and when to kill a project before it wastes another quarter.",
+    "imageCount": 2
+  },
+  {
     "slug": "customer-quick-response-councils",
     "title": "Customer quick response councils",
     "date": "November 21, 2026",
