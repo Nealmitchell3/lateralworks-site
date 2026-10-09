@@ -1,5 +1,23 @@
 [
   {
+    "slug": "the-cycle-time-metric",
+    "title": "The cycle time metric",
+    "date": "November 23, 2026",
+    "dateISO": "2026-11-23",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [
+      "FTTM",
+      "cycle time",
+      "benchmarking",
+      "schedules"
+    ],
+    "excerpt": "How long should the work take? Targets tell you when the business needs it; a cycle time metric tells you how fast the work can go, phase by phase, against world-class timing. From the Fab 8 dashboard to a Claude skill that compares eleven product schedules against a 12-month model in an afternoon. With the article and the full study to download.",
+    "imageCount": 3
+  },
+  {
     "slug": "targets-top-down-schedules-bottom-up",
     "title": "Targets are top-down; schedules are bottom-up",
     "date": "November 22, 2026",
