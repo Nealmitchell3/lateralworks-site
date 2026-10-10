@@ -1,5 +1,23 @@
 [
   {
+    "slug": "what-the-critical-paths-have-in-common",
+    "title": "What the critical paths have in common",
+    "date": "November 24, 2026",
+    "dateISO": "2026-11-24",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [
+      "FTTM",
+      "critical path",
+      "templates",
+      "cycle time"
+    ],
+    "excerpt": "Put ten product schedules’ critical chains side by side and the optimization problem changes: the portfolio does not have ten critical paths. It has one, copied, with a different front end. One step carries 28 percent of the critical calendar, three levers close the gap, and because six plans share one template, every fix is wholesale. Companion to The cycle time metric, with the full analysis to download.",
+    "imageCount": 3
+  },
+  {
     "slug": "the-cycle-time-metric",
     "title": "The cycle time metric",
     "date": "November 23, 2026",
@@ -15,7 +33,7 @@
       "schedules"
     ],
     "excerpt": "How long should the work take? Targets tell you when the business needs it; a cycle time metric tells you how fast the work can go, phase by phase, against world-class timing. From the Fab 8 dashboard to a Claude skill that compares eleven product schedules against a 12-month model in an afternoon. With the article and the full study to download.",
-    "imageCount": 3
+    "imageCount": 4
   },
   {
     "slug": "targets-top-down-schedules-bottom-up",
