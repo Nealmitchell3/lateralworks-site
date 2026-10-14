@@ -1,5 +1,23 @@
 [
   {
+    "slug": "a-fishbone-built-from-the-record",
+    "title": "A fishbone built from the record",
+    "date": "November 25, 2026",
+    "dateISO": "2026-11-25",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Systems"
+    ],
+    "tags": [
+      "root cause",
+      "AI",
+      "FTTM",
+      "first silicon"
+    ],
+    "excerpt": "Sort-flow validation slipped five weeks in nine days on a bleeding-edge semiconductor program. We built the cause-and-effect analysis with Claude reading twelve months of the record: email, Slack and WhatsApp, the weekly refresh transcripts and the extracted schedule with its eleven baselines. The same data then ranked ten corrective actions by their effect on the validation date and priced eight lessons for the next program. The tool is old. The evidence is new. Both artifacts attached.",
+    "imageCount": 3
+  },
+  {
     "slug": "what-the-critical-paths-have-in-common",
     "title": "What the critical paths have in common",
     "date": "November 24, 2026",
