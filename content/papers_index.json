@@ -401,5 +401,18 @@
     "abstract": "A CEO challenges the team to halve the schedule. The team answers with an honest estimate built from history, risk, and unknowns. Most organizations resolve the contradiction and lose either way: an imposed date the team disowns, or a pace the market punishes. This paper sets out bimodal thinking, the practiced ability to hold both readings at once, and the challenge process that converts the gap between them into banked schedule time. Grounded in paradox theory, stretch-goal research, forecasting science, and hoshin catchball, with a 2026 hardware field case in which more than a year came out of a product schedule the team now owns. Companion to the lateralworks ideas article of the same name.",
     "pdf": "/papers/bimodal-thinking.pdf",
     "thumb": "/papers/thumbs/bimodal-thinking.png"
+  },
+  {
+    "slug": "report-by-exception",
+    "title": "Report by exception",
+    "subtitle": "How one page built from the weekly schedule files puts the five slipping initiatives in front of leadership, and leaves the other nine alone",
+    "series": "FTTM Toolkit",
+    "type": "Methodology paper",
+    "date": "2026-10-14",
+    "pages": 16,
+    "core_thesis": "A program status report earns its place in a leadership meeting by what it leaves out. A snapshot that colors nine of fourteen initiatives red tells leadership nothing about where to spend the next hour. A page that applies one written rule to thirteen weeks of forecast history, surfaces the five initiatives whose dates keep moving, and quotes the team’s own stated cause for each, tells them exactly that. The rule and the verbatim cause are the report. Everything else is context.",
+    "abstract": "Most program dashboards answer the wrong question. They report where every project stands today, while leadership needs to know which projects are getting worse and why, because those are the only ones where an executive decision still changes the outcome. The worked example is a fourteen-initiative margin improvement program in which nine targets forecast late and a conventional red-amber-green page would hand a one-hour review nine problems. An exception rule read against thirteen weeks of forecast history, rather than against today’s status, selects five. The paper sets out the rule, the generated pipeline that rebuilds the page each week from the Microsoft Project file and the wigglechart workbook, and the meeting the page exists to run. The program shown is illustrative and built from synthetic data.",
+    "pdf": "/papers/report-by-exception.pdf",
+    "thumb": "/papers/thumbs/report-by-exception.png"
   }
 ]
