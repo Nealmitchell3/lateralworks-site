@@ -1,5 +1,23 @@
 [
   {
+    "slug": "the-portfolio-trends-dashboard",
+    "title": "The portfolio trends dashboard",
+    "date": "November 27, 2026",
+    "dateISO": "2026-11-27",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Portfolio"
+    ],
+    "tags": [
+      "FTTM",
+      "portfolio",
+      "wigglechart",
+      "AI"
+    ],
+    "excerpt": "Four new product projects, twelve standardized milestones, and a weekly portfolio dashboard nobody assembles: a Claude skill reads the wigglechart workbook that fastProjectAI schedules feed every Friday and generates the deck. Underneath it, analysis studies read six months of forecast history and raise the questions no single week can: forecasts 49 days optimistic until the end, a shared supplier spanning three projects, and one dependency retest that bought back more schedule than everything else combined. All four documents attached.",
+    "imageCount": 3
+  },
+  {
     "slug": "the-exception-report",
     "title": "The exception report",
     "date": "November 26, 2026",
