@@ -1,5 +1,23 @@
 [
   {
+    "slug": "the-exception-report",
+    "title": "The exception report",
+    "date": "November 26, 2026",
+    "dateISO": "2026-11-26",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [
+      "FTTM",
+      "reporting",
+      "wigglechart",
+      "exception"
+    ],
+    "excerpt": "Nine of fourteen initiatives are late. Five need the room. The page knows the difference: one written rule applied to the forecast history, causes of change quoted verbatim, a numbered badge tying every card to its Gantt row, and a gate that recomputes every number from source. The short version of the Report by exception white paper, with the one-page example to download.",
+    "imageCount": 2
+  },
+  {
     "slug": "a-fishbone-built-from-the-record",
     "title": "A fishbone built from the record",
     "date": "November 25, 2026",
