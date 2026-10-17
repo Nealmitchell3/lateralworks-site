@@ -1,5 +1,23 @@
 [
   {
+    "slug": "make-your-bed",
+    "title": "Make your bed",
+    "date": "November 29, 2026",
+    "dateISO": "2026-11-29",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [
+      "FTTM",
+      "cadence",
+      "accountability",
+      "refresh"
+    ],
+    "excerpt": "McRaven's bed-making lesson, applied to development programs: the weekly schedule refresh is the rhythm of accountability. Each core team member reports progress back to their peers every week, behavior changes because everyone knows the question is coming, and individual accountability compounds into collective ownership of the outcome. It is the first predictable thing on the project, the one event the team completely controls, and the start of more. The full paper is linked.",
+    "imageCount": 2
+  },
+  {
     "slug": "one-odm-two-schedules",
     "title": "One ODM, two schedules",
     "date": "November 28, 2026",
