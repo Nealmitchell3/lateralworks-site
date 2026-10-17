@@ -345,8 +345,8 @@
     "type": "Methodology paper",
     "date": "2026-07-07",
     "pages": 34,
-    "core_thesis": "The weekly schedule refresh is your project's made bed — the one event whose existence depends only on the team's own discipline. Run on a fixed three-day rhythm, it produces a specific pull-in decision every week and turns the schedule from a record of the past into an instrument for changing the outcome.",
-    "abstract": "Admiral McRaven told graduates to start every day by making their bed — not for tidiness, but for agency. This paper draws a direct line from that lesson to the weekly schedule refresh: the one event a development team controls absolutely. It codifies the three-day operating rhythm from honest task-owner updates through critical-path analysis to a forty-minute pull-in meeting, grounds the cadence in behavioral research on small wins and habit formation, and reproduces a complete AI-generated weekly status report from a live program.",
+    "core_thesis": "The weekly schedule refresh is your project's made bed — the one event whose existence depends only on the team's own discipline. Run on a fixed two-day rhythm, it produces a specific pull-in decision every week and turns the schedule from a record of the past into an instrument for changing the outcome.",
+    "abstract": "Admiral McRaven told graduates to start every day by making their bed — not for tidiness, but for agency. This paper draws a direct line from that lesson to the weekly schedule refresh: the one event a development team controls absolutely. It codifies the two-day operating rhythm from honest task-owner updates through critical-path analysis to a forty-minute pull-in meeting, grounds the cadence in behavioral research on small wins and habit formation, and reproduces a complete AI-generated weekly status report from a live program.",
     "pdf": "/papers/make-your-bed.pdf",
     "thumb": "/papers/thumbs/make-your-bed.png"
   },
