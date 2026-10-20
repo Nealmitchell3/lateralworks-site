@@ -1,5 +1,23 @@
 [
   {
+    "slug": "when-targets-move",
+    "title": "When targets move",
+    "date": "November 30, 2026",
+    "dateISO": "2026-11-30",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [
+      "FTTM",
+      "targets",
+      "wigglechart",
+      "governance"
+    ],
+    "excerpt": "A client executive asked the question every program eventually asks: when do you change a target? Two reasons only: the external driver moved, or the date has become a fiction nobody is jumping for. Everything else is a gap worked in days against a line that never moves, with four moves for leadership when it will not close, and a rule for where the bounding box belongs. The one-page position paper is attached.",
+    "imageCount": 2
+  },
+  {
     "slug": "make-your-bed",
     "title": "Make your bed",
     "date": "November 29, 2026",
