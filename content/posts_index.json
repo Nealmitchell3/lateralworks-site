@@ -1,5 +1,24 @@
 [
   {
+    "slug": "analysis-starts-with-questions",
+    "title": "Analysis starts with questions",
+    "date": "December 2, 2026",
+    "dateISO": "2026-12-02",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Planning"
+    ],
+    "tags": [
+      "FTTM",
+      "critical path",
+      "CP analysis",
+      "fastProjectAI",
+      "planning"
+    ],
+    "excerpt": "Five weeks after a scheduling workshop, a program had slipped 13 calendar days in 35, and its leader asked two good questions: is the schedule too aggressive, and is the team urgent enough on the critical path? The answers came from an analysis that starts with written questions. The six-week trend, the cause of every change, the buffer behind CP1 found by peeling the onion from CP2 to CP5, and the near-term critical path broken into 1-to-5-day pieces so a slip surfaces in week one instead of day 24. Six generic views from the analysis, and the weekly ritual that keeps a schedule from ever surprising you.",
+    "imageCount": 6
+  },
+  {
     "slug": "synthesized-not-generated",
     "title": "Synthesized, not generated",
     "date": "December 1, 2026",
