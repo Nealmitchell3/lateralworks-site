@@ -1,5 +1,25 @@
 [
   {
+    "slug": "break-it-down-together",
+    "title": "Break it down together",
+    "date": "December 4, 2026",
+    "dateISO": "2026-12-04",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Team"
+    ],
+    "tags": [
+      "FTTM",
+      "breakdown",
+      "ODM",
+      "facilitation",
+      "trust",
+      "planning"
+    ],
+    "excerpt": "A client running an accelerated connected-systems program, hardware, firmware, software and cloud services together, through an ODM in China had the usual arrangement: committed dates and polite updates, with no real insight until a slip arrived after the fact. Their first fix failed the way it always fails. A breakdown requested by email came back as three tidy serial tasks that did not match the work, so it stretched, confused everyone, and got reverted. The fix that worked is the one we have run for thirty years: sit down with the engineers, ask them to describe their work, translate it live into a network of 1-to-5-day tasks, and let them correct it until it is theirs. Not micromanagement: early warning, and help that arrives early. The outcome was one team and one schedule, shared outcomes included, with the ocean and the language barrier exactly where they were before.",
+    "imageCount": 6
+  },
+  {
     "slug": "what-causes-delay",
     "title": "What causes delay?",
     "date": "December 3, 2026",
