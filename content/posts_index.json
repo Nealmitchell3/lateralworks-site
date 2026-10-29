@@ -1,5 +1,24 @@
 [
   {
+    "slug": "what-causes-delay",
+    "title": "What causes delay?",
+    "date": "December 3, 2026",
+    "dateISO": "2026-12-03",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Systems"
+    ],
+    "tags": [
+      "FTTM",
+      "systemic interrupts",
+      "cost of delay",
+      "AI",
+      "portfolio"
+    ],
+    "excerpt": "In August we mined five months of meeting transcripts and named seven systemic interrupts across a four-program semiconductor portfolio aimed at the AI data center segment. Ten weeks and 25 transcripts later, the update: all seven interrupts are still alive, they consolidate into five causes, one cause is new, and every recovery in the record came from removing a dependency. The analysis is now a Claude skill that reruns monthly against the Otter.ai meeting record, under five minutes per run, so the portfolio's delay patterns become a trend instead of a snapshot. With the two-page field analysis as a download.",
+    "imageCount": 4
+  },
+  {
     "slug": "analysis-starts-with-questions",
     "title": "Analysis starts with questions",
     "date": "December 2, 2026",
