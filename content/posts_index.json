@@ -1,5 +1,24 @@
 [
   {
+    "slug": "what-they-say-versus-what-they-mean",
+    "title": "What they say versus what they mean",
+    "date": "December 6, 2026",
+    "dateISO": "2026-12-06",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Team"
+    ],
+    "tags": [
+      "FTTM",
+      "communication",
+      "multinational teams",
+      "development partners",
+      "AI"
+    ],
+    "excerpt": "Advanced development programs now run across companies, countries and languages: several European languages, Japanese, Taiwanese and English in a single planning thread. We find major communication problems on most of these teams, and the pattern is structural. Nobody wants to insult the other party by admitting they did not understand, so misunderstandings compound politely until they surface as slips. We took one real email thread and had Claude read every message three ways: what they wrote, what they meant, and what the other side heard. Five messages, one day, zero bad faith, a divergence in nearly every one. The fix is structural too: read-backs as a system, and a network schedule that reads the same in any language.",
+    "imageCount": 4
+  },
+  {
     "slug": "focus-by-exception",
     "title": "Focus by exception",
     "date": "December 5, 2026",
