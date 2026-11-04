@@ -1,5 +1,24 @@
 [
   {
+    "slug": "focus-by-exception",
+    "title": "Focus by exception",
+    "date": "December 5, 2026",
+    "dateISO": "2026-12-05",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Leadership"
+    ],
+    "tags": [
+      "FTTM",
+      "exception reporting",
+      "portfolio",
+      "leadership",
+      "dashboards"
+    ],
+    "excerpt": "A leader's scarcest resource is attention, so the question that decides whether interventions matter is the 80/20 question: which few milestones hold most of this week's insight? Exception reporting answers it with a rule instead of a judgment call. Twelve milestones report weekly from the fastProjectAI schedules; the focus rule, a sustained slip of three weeks or more, names the four worth an hour with the core team on the live schedule, while the fix is still cheap. Not micromanagement: the deep dive ends with leadership removing what the team cannot. Transparency to provide help, not to judge, with the genericized one-page exception report as a download.",
+    "imageCount": 4
+  },
+  {
     "slug": "break-it-down-together",
     "title": "Break it down together",
     "date": "December 4, 2026",
