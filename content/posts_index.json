@@ -1,5 +1,24 @@
 [
   {
+    "slug": "the-same-window-different-weather",
+    "title": "The same window, different weather",
+    "date": "December 7, 2026",
+    "dateISO": "2026-12-07",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Systems"
+    ],
+    "tags": [
+      "FTTM",
+      "reporting",
+      "context",
+      "dashboards",
+      "AI"
+    ],
+    "excerpt": "Status reporting tells you where you are in time against where you should be. Context reporting gives you the framework to understand what that means, top down, so the detail connects back to the whole. Most programs deliver plenty of the first and none of the second, and then wonder why leadership is lost in the forest. The fix is a rule we call the same window, different weather: build one standard view, fix the frame, and let only the data move. We implement it as an interactive HTML interface built with Claude Code, generated automatically from the one Microsoft Project file (.mpp) the core team refreshes each week in fastProject, with predefined macro context views, an executive view carrying last week's baseline, swim lanes, dashboards, and drill-down detail.",
+    "imageCount": 4
+  },
+  {
     "slug": "what-they-say-versus-what-they-mean",
     "title": "What they say versus what they mean",
     "date": "December 6, 2026",
