@@ -331,6 +331,16 @@
       "permanent": true
     },
     {
+      "source": "/tools/2019/1/29/objectives-vs-criterion",
+      "destination": "/docs/criteria-versus-objective",
+      "permanent": true
+    },
+    {
+      "source": "/screencasts",
+      "destination": "/docs",
+      "permanent": true
+    },
+    {
       "source": "/tools/:year/:month/:day/:slug",
       "destination": "/docs/:slug",
       "permanent": true
