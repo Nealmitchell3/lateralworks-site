@@ -1,5 +1,23 @@
 [
   {
+    "slug": "fastproject-520-released",
+    "title": "fastProjectAI 5.2.0 Released",
+    "date": "November 12, 2026",
+    "dateISO": "2026-11-12",
+    "author": "Mark Edmonds",
+    "categories": [
+      "fastProjectAI Release Note"
+    ],
+    "tags": [
+      "fastProjectAI",
+      "FastProject Concept",
+      "fastDecisionAI",
+      "Cost-of-delayAI"
+    ],
+    "excerpt": "New quick CP Analysis shows which critical paths are at risk of slipping and which are safe, plus a Notebook clean-up function and a round of Critical Path bug fixes.",
+    "imageCount": 0
+  },
+  {
     "slug": "fastproject-510-released",
     "title": "fastProjectAI 5.1.0 Released",
     "date": "August 31, 2026",

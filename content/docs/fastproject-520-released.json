@@ -1,0 +1,22 @@
+{
+  "slug": "fastproject-520-released",
+  "url": "",
+  "title": "fastProjectAI 5.2.0 Released",
+  "date": "November 12, 2026",
+  "dateISO": "2026-11-12",
+  "author": "Mark Edmonds",
+  "categories": [
+    "fastProjectAI Release Note"
+  ],
+  "tags": [
+    "fastProjectAI",
+    "FastProject Concept",
+    "fastDecisionAI",
+    "Cost-of-delayAI"
+  ],
+  "excerpt": "New quick CP Analysis shows which critical paths are at risk of slipping and which are safe, plus a Notebook clean-up function and a round of Critical Path bug fixes.",
+  "content": "<div>\n  <h2>General</h2><ul><li><p class=\"\">Activating fastProject also activates fastDecision and Cost of Delay</p></li><li><p class=\"\">Project Summary text is now made blue and bold when the project is opened or views are restored</p></li><li><p class=\"\">Indicator (above the Target) in the Inspector now provides an indication of the health of the CP Analysis, and clicking it provides a text form of the status of each peel grouped by Green, Yellow &amp; Red indicators</p></li><li><p class=\"\">All background Excel processes are killed when the Macro-micro Roll-up is run, when Tidy Up is run, and when the schedule is closed</p></li></ul><h2>Update</h2><ul><li><p class=\"\">Setting the Update Report options to export notes now correctly puts the title “Notes” in the report</p></li></ul><h2>Notebook</h2><ul><li><p class=\"\">Progress window now appears when converting or syncing a Notebook</p></li><li><p class=\"\">Added a clean-up function to remove duplicate actions (mainly introduced from upgrading from the Action Log)</p></li></ul><h2>Critical Path</h2><ul><li><p class=\"\">New quick CP Analysis feature that allows you to quickly see which CPs are at risk of slipping the schedule, and which ones are safe (accessed to the right of the Peel buttons)</p></li><li><p class=\"\">When in only unique critical path mode, added the ability to include non-unique critical paths (defined within N days from the current date)</p></li><li><p class=\"\">Bug fixed where a milestone or activity that was at the end of a critical path and had an “&amp;” in the name would cause the Ribbon to disappear</p></li><li><p class=\"\">Bug fixed where the gap on the milestone (in days) was not rounded to an integer when the gap had a fraction of a day (requires Text15 to be updated or All Fields restored)</p></li><li><p class=\"\">Bug fixed where the gap was incorrect when Date6 was not set correctly (fixed when Tidy Up or the Analyzer is run)</p></li><li><p class=\"\">Bug fixed where switching projects could cause a VB error, and the CP Analysis info from the previous project could persist. Now when changing projects, the CP Analysis info is hidden until a critical path is calculated.</p></li></ul><h2>Wigglechart</h2><ul><li><p class=\"\">Better error reporting when creating Wigglecharts with duplicate milestone/sheet names due to the 31 character limitation in Excel</p></li></ul><h2>Analyzer</h2><ul><li><p class=\"\">Added check for groups with more than 10 subtasks back in</p></li></ul>\n</div>",
+  "images": [],
+  "externalLinks": [],
+  "imageCount": 0
+}
