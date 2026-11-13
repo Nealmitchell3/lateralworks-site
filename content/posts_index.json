@@ -1,5 +1,24 @@
 [
   {
+    "slug": "the-no-tradeoff-paradigm",
+    "title": "The no-tradeoff paradigm",
+    "date": "December 8, 2026",
+    "dateISO": "2026-12-08",
+    "author": "Neal Mitchell",
+    "categories": [
+      "Leadership"
+    ],
+    "tags": [
+      "FTTM",
+      "mindset",
+      "speed",
+      "critical path",
+      "quality"
+    ],
+    "excerpt": "\"If you want it faster, something has to be compromised.\" Every development leader has heard it, and fast teams do not believe it. Our best-practice research found what we call the no-tradeoff paradigm: going fast does not mean releasing a bad product. Fast teams look for acceleration opportunities or change the work itself, while the customer requirements stay whole: the right product at the right time. The mindset is trainable, and we watched a CEO train it this quarter, project by project, inside the weekly refresh meetings, using the critical path review to teach teams to pull in schedules instead of reporting progress against them. Slow is not the safe quadrant; the faster you go, the more you pay attention.",
+    "imageCount": 4
+  },
+  {
     "slug": "the-same-window-different-weather",
     "title": "The same window, different weather",
     "date": "December 7, 2026",
